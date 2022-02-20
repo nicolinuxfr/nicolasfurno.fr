@@ -1,0 +1,204 @@
+
+/* Global */
+
+img {
+    max-width: 100%;
+}
+
+/* Polices */
+
+@font-face {
+    font-family: 'Latin Modern';
+    src: url('../fonts/../fonts/lmroman10-regular-webfont.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Latin Modern';
+    src: url('../fonts/lmroman10-italic-webfont.woff2') format('woff2');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Latin Modern';
+    src: url('../fonts/lmroman10-bold-webfont.woff2') format('woff2');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+    letter-spacing: -0.5em;
+}
+
+@font-face {
+    font-family: 'Latin Modern';
+    src: url('../fonts/lmroman10-bolditalic-webfont.woff2') format('woff2');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+    letter-spacing: -0.5em;
+}
+
+@font-face {
+    font-family: 'Playfair Display';
+    src: url('../fonts/playfair-display-v10-latin-regular.woff2') format('woff2');
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Playfair Display';
+    src: url('../fonts/playfair-display-v10-latin-700italic.woff2') format('woff2');
+    font-style: italic;
+    font-display: swap;
+}
+
+/* Variables */
+
+:root {
+    --police-texte: "Latin Modern", serif;
+    --police-titre: "Playfair Display", serif;
+    --police-meta: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+    --couleur-texte: rgba(0, 0, 0, 0.7);
+}
+
+
+/* Page d'accueil */
+
+.homepage-header h1 {
+    margin: 1em;
+    font-family: var(--police-titre);
+    text-align: center;
+    font-weight: bold;
+    font-size: 2.5em;
+}
+
+
+@media (min-width: 600px) {
+
+    .articles {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        grid-gap: 0.5em;
+    }
+
+    .articles .item {
+        display: inline;
+        margin:0;
+    }
+
+    .articles .item img {
+        width: 100%;
+    }
+}
+
+@media (min-width: 1200px) {
+    .articles {
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
+
+@media (min-width: 1800px) {
+    .articles {
+        grid-template-columns: repeat(4, 1fr);
+    }
+}
+
+/* Articles */
+
+#single .content {
+    margin: 0 auto;
+    max-width: 850px;
+    padding: 0 1em;
+    font-size: 1.4em;
+	line-height: 1.4em;
+}
+
+#single .title {
+    text-align: center;
+    font-family: var(--police-titre);
+    margin: 1em auto;
+    font-weight: normal;
+    font-size: 2em;
+    line-height: 1.3em;
+}
+
+#single .title em {
+    font-weight: bold;
+}
+
+#single .date {
+    text-align: right;
+    font-family: var(--police-meta);
+    font-weight: 100;
+    font-size: 0.7em;
+}
+
+#single .article {
+    font-family: var(--police-texte);
+    color: var(--couleur-texte)
+}
+
+@media (min-width: 750px) {
+
+    #single {
+        display: flex;
+        justify-content: center;
+        flex-direction: row-reverse;
+        align-content: center;
+        align-items: flex-start;
+    }
+    
+    #single .image {
+        height: calc(100vh - 20px);
+        position: sticky;
+        top: 0;
+        max-width: 50%;
+        margin:0 auto;
+    }
+
+    #single .image img {
+        max-height: 100%;
+    }
+
+    #single .content {
+        width: 45%;
+        margin: 0 auto;
+        
+    }
+
+    
+}
+
+/* Métadonnées */
+.meta {
+    display: inline;
+    list-style: none;
+    font-family: var(--police-meta);
+    font-size: 0.9em;
+    line-height: 1.3em;
+}
+
+.meta p,
+.meta ul{
+    padding: 0;
+    margin:0;
+}
+
+.meta li {
+    display: inline;
+}
+
+.meta li:not(:last-child):not(:first-child):after {
+    content: ", ";
+}
+
+/* Footer */
+.footer {
+    font-family: var(--police-meta);
+    font-size: 0.8em;
+    font-weight: 300;
+    text-align: center;
+}
