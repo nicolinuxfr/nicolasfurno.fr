@@ -5,9 +5,17 @@
     --police-titre: "Playfair Display", serif;
     --police-meta: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
     --couleur-texte: rgba(0, 0, 0, 0.7);
+    --fond-sombre: #24292e;
+    --texte-sombre: rgba(255, 255, 255, 0.78)
 }
 
 /* Global */
+
+@media (prefers-color-scheme: dark){
+    html {
+        background-color: var(--fond-sombre);
+    }
+}
 
 img {
     max-width: 100%;
@@ -155,6 +163,26 @@ a {
     color: rgba(0, 0, 0, 0.9);
 }
 
+.littlefoot {
+    --popover-font-family: var(--police-texte);
+    --popover-line-height: 1em;
+    --popover-text-color: var(--couleur-texte);
+}
+
+@media (prefers-color-scheme: dark) {
+    #single .article, #single a {
+        color: var(--texte-sombre);
+    }
+
+    #single a:hover {
+        color: #57626d;
+    }
+
+    .littlefoot {
+        --popover-background-color: var(--fond-sombre);
+    }
+}
+
 @media (min-width: 750px) {
 
     #single {
@@ -221,3 +249,13 @@ a {
     font-weight: 300;
     text-align: center;
 }
+
+@media (prefers-color-scheme: dark){
+	body, a, article .post-content, article .post-content h3, article .post-content a, .single .post-title, .home article header .post-title{
+		color: rgba(255, 255, 255, 0.78);
+	}
+
+	.bigfoot-footnote__content{
+		background:  #24292e !important;
+	}
+ }
