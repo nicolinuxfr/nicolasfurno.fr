@@ -14,7 +14,6 @@ jobs:
         with:
           submodules: true  # Fetch Hugo themes (true OR recursive)
           fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
-          HUGO_TMDB: ${{ secrets.HUGO_TMDB }}
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
@@ -25,6 +24,8 @@ jobs:
 
       - name: Build
         run: hugo --minify
+        env:
+          HUGO_TMDB: ${{ secrets.HUGO_TMDB }}
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
