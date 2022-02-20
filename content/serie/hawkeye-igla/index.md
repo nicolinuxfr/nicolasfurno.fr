@@ -1,0 +1,16 @@
++++
+title = '*Hawkeye*,  Jonathan Igla'
+date = 2022-02-07
+image = 'hawkeye.jpg'
+tmdb = 88329
++++
+
+*Hawkeye* s’ajoute à l’immense immensité de l’univers Marvel, avec une série pour Disney+ qui accorde un petit peu de place à des personnages secondaires. Après [*Loki*](https://voiretmanger.fr/loki-waldron-disney/) ou bien encore [*Falcon et le Soldat de l’Hiver*](https://voiretmanger.fr/falcon-soldat-hiver-spellman-disney/), *Hawkeye* fait de la place au personnage du même nom, croisé à plusieurs reprises dans la saga, mais qui n’a jamais tenu le rôle principal. Non pas qu’il le tienne beaucoup plus ici, à dire vrai, puisqu’il est censé passer le flambeau à une nouvelle génération. Ces six épisodes forment une assez brève mini-série qui aurait gagné à se rapprocher encore davantage de la durée d’un long-métrage. Disney+ ne radine pas avec un budget de 150 millions de dollars, mais pour remplir six épisodes de 40 à 60 minutes l’un[^1], il faut forcément meubler. Et les scénaristes ont ainsi rempli au maximum, avec des intrigues secondaires pas toujours dignes d’intérêt et quelques scènes de dialogue franchement longues.
+
+Tout n’est pas à jeter pour autant. D’une part, la bonne humeur qui caractérise l’univers Marvel est au rendez-vous et l’ambiance de Noël ajoute une note festive qui allège l’ensemble et évite à *Hawkeye* de se prendre trop au sérieux, ce qui est toujours un piège. D’autre part, la relève de Clint Barton (Jeremy Renner) est assurée par Kate Bishop, interprétée par l’étonnante Hailee Steinfeld. La star de l’excellente série [*Dickinson*](https://voiretmanger.fr/dickinson-smith-apple-tv/) est un choix surprenant, mais payant et elle apporte beaucoup à la série, qui aurait été bien morne sans cela. Une touche moderne et féminine, que 	Jonathan Igla étend en utilisant d’autres personnages jeunes et féminins — et même sourde pour Maya Lopez (Alaqua Cox), le deuxième personnage avec ce handicap chez Marvel en 2021, les temps changent (un petit peu) —, dont Yelena et une Florence Pugh qui revient après [*Black Widow*]({{< ref "/film/black-widow-cate" >}}). Cela permet à la série de Disney+ de mieux s’ancrer dans la saga et à l’actrice de revenir avec son accent russe foireux, mais aussi une dose de bonne humeur supplémentaire. Son jeu complice avec Hailee Steinfeld donne les meilleures séquences de *Hawkeye* et on en vient à regretter qu’elles ne soient pas davantage à l’écran. 
+
+On n’en dira pas autant de Vincent D’Onofrio, qui revient bizarrement incarner Wilson Fisk. C’est étrange, car on l’a déjà vu dans ce rôle, mais [chez Netflix](https://voiretmanger.fr/saga/defenders/), dans ce qui devrait être un univers différent. Quoi qu’il en soit, son interprétation ici ne laissera aucun souvenir mémorable, le personnage est monolithique dans tous les sens du terme. 
+
+*Hawkeye* n’est pas monolithique, mais elle n’est pas plus mémorable pour autant. Si on veut suivre la saga Marvel, il faut bien tout regarder pour ne pas trop s’y perdre et ces six épisodes passent rapidement et se regardent sans déplaisir, mais ce n’est pas un moment fort pour autant. 
+
+[^1]: Même s’il faut bien retirer dix bonnes minutes par épisode, entre le résumé et le générique Marvel au départ, et surtout l’interminable générique de fin qui ne recèle aucune scène de fin digne d’intérêt. Croyez-le, on a testé pour vous.

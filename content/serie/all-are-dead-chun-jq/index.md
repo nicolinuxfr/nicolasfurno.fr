@@ -1,0 +1,12 @@
+---
+title: "*All of Us Are Dead*, Chun Sung-il et JQ Lee"
+date: 2022-02-14T21:29:03+01:00
+tmdb: 99966
+image: "dead.jpg"
+---
+
+Une attaque de zombies, mais dans un lycée sud-coréen, histoire de varier les décors. *All of Us Are Dead*, adaptation d’un « *webtoon* » pour Netflix, n’est originale à nos yeux d’occidentaux que par son cadre différent. Pour le reste, c’est toujours la même base, avec des ports-vivants assoiffés de sang qui contaminent rapidement tout un lycée, puis bientôt une ville entière. On suit quelques survivants qui tentent de résister en attendant l’arrivée des secours, mais comme à chaque fois, les zombies ont tellement d’avantages qu’il est bien difficile de ne pas mourir face aux hordes de monstres. D’autant que cette version coréenne conserve l’idée de bestioles pas très intelligentes et guidées par le goût du sang, mais pas leur lenteur traditionnelle. Ces zombies courent vite et il est bien difficile de leur résister, même quand on a vu *[Dernier train pour Busan](https://voiretmanger.fr/dernier-train-busan-yeon/)* et que l’on devine assez vite à quoi on a affaire, ce qui n’est pas gagné.
+
+Les scénaristes ont la bonne idée de faire référence explicitement à cette œuvre locale impliquant des zombies. Malgré tout, ces lycéens ont tous besoin d’un temps infiniment long pour comprendre à quoi ils ont affaire et surtout comment tuer ces créatures. Ils sont si lents que même dans le douzième épisode, ils en sont encore à taper sur le dos des zombies pour essayer de les détruire. *All of Us Are Dead* s’adresse ouvertement plutôt aux adolescents qu’à leurs parents, mais je ne vois pas en quoi cela justifierait la bêtise des personnages. Il n’y en a pas un pour rattraper l’autre, ils sont tous lents pour comprendre ce qui se passe et font constamment n’importe quoi, une facilité de scénario un petit peu trop exploitée pour le bien de la série. Les pauses émotionnelles sont également nombreuses, lourdes et assez répétitives, si bien que l’ensemble peut être lassant par moment. 
+
+Cela étant, ne boudons pas trop notre plaisir : à condition d’aimer les zombies, cette variante sud-coréenne reste fort sympathique dans l’ensemble. Chun Sung-il et JQ Lee n’hésitent pas à tuer des personnages même importants, ce qui est toujours une bonne idée face à une apocalypse de cette ampleur et on ne sait jamais à quoi s’attendre. *All of Us Are Dead* n’est pas une grande série, certes, mais elle reste un excellent divertissement, sous réserve d’aimer le genre bien sûr. 

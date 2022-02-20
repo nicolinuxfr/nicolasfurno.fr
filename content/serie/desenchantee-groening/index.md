@@ -1,0 +1,12 @@
+---
+title: "*Désenchantée*,	Matt Groening"
+date: 2022-02-18T21:50:03+01:00
+tmdb: 73021
+image: "desenchantee.jpg"
+---
+
+*Désenchantée*, ou la rencontre ahurissante des *Simpsons* et de *Game of Thrones*, comme le suggère John DiMaggio qui donne sa voix au roi Zøg. La référence est assumée dans les premiers épisodes, avec ce trône composé d’épées et un gag dans l’esprit des bonshommes jaunes créés par le même Matt Groening près de 30 ans avant : repoussant le prince qu’elle devait épouser, la princesse Bean tue son prétendant, empalé sur l’une des épées. En apparence, cette création pour Netflix ressemble ainsi à une énième variante des *Simpsons*, mais dans un univers d’heroïc-fantasy avec des créatures mythiques et de la magie. Et si les premiers épisodes restent concentrés sur cette idée, *Désenchantée* révèle progressivement un univers beaucoup plus riche que cela et aussi… nettement moins drôle. 
+
+On pourrait croire que c’est un défaut et y voir le signe de l’échec du dernier projet de Matt Groening. De fait, si l’on s’attend à rire constamment dans chacun des 40 épisodes diffusés à ce jour, la déception est inévitable. Mais en s’éloignant des gags faciles et en creusant d’autres voies plus inattendues sur la relation entre Bean et sa mère, sur sa dépression dissimulée derrière son addiction à l’alcool ou encore sur son amour pour une sirène, *Désenchantée* s’avère plus riche et passionnant qu’escompté. Tout ne fonctionne pas, il faut l’admettre et certains épisodes ne parviennent pas à concrétiser leurs idées, mais qu’importe. Sur la durée, la série parvient à séduire par sa collection de personnages qui dépassent vite les caricatures initiales et l’humour un petit peu facile. Les scénaristes auraient pu en rester là et signer une satire de *Game of Thrones* à la sauce Matt Groening. C’est peut-être ce que la majorité attendait, mais cela aurait été moins intéressant à mon avis. 
+
+Les cliff-hangers sont une marque de fabrique de *Désenchantée* et l’ultime épisode diffusé tout récemment par Netflix se termine à nouveau sur une grosse surprise. On ne sait pas encore si le service a prévu de renouveler la série pour une saison de plus, mais si les scénaristes ont encore des idées en tête pour éviter la simple redite, on sera au rendez-vous pour découvrir la suite !

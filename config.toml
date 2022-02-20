@@ -1,0 +1,5 @@
+baseURL = 'https://nicolasfurno.fr'
+languageCode = 'fr'
+title = 'Nicolas Furno'
+theme = 'nicolasfurno'
+

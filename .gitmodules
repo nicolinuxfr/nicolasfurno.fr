@@ -1,3 +1,4 @@
 [submodule "themes/nicolasfurno"]
 	path = themes/nicolasfurno
 	url = https://github.com/nicolinuxfr/nicolasfurno
+	fetchrecursesubmodules = true
