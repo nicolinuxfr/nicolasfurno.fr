@@ -6,10 +6,19 @@
     --police-meta: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
     --couleur-texte: rgba(0, 0, 0, 0.7);
     --fond-sombre: #24292e;
-    --texte-sombre: rgba(255, 255, 255, 0.78)
+    --texte-sombre: rgba(255, 255, 255, 0.78);
 }
 
 /* Global */
+
+html, body {
+    margin: 0;
+    padding: 0;
+    -webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	text-rendering: optimizeLegibility;
+    color: var(--couleur-texte)
+}
 
 @media (prefers-color-scheme: dark){
     html {
@@ -81,15 +90,14 @@ a {
 /* Page d'accueil */
 
 .homepage-header h1 {
-    margin: 1em;
     font-family: var(--police-titre);
     text-align: center;
     font-weight: bold;
-    font-size: 2.5em;
+    font-size: 4vw;
 }
 
 
-@media (min-width: 600px) {
+@media (min-width: 800px) {
 
     .articles {
         display: grid;
@@ -124,8 +132,8 @@ a {
 #single .content {
     margin: 0 auto;
     max-width: 850px;
-    padding: 0 1em;
-    font-size: 1.4em;
+    padding: 0 0.5em;
+    font-size: 1.3em;
 	line-height: 1.4em;
 }
 
@@ -134,7 +142,7 @@ a {
     font-family: var(--police-titre);
     margin: 0.5em auto;
     font-weight: normal;
-    font-size: 1.3em;
+    font-size: 1.6em;
     line-height: 1.2em;
 }
 
@@ -151,7 +159,6 @@ a {
 
 #single .article {
     font-family: var(--police-texte);
-    color: var(--couleur-texte)
 }
 
 #single a {
@@ -183,7 +190,7 @@ a {
     }
 }
 
-@media (min-width: 750px) {
+@media (min-width: 800px) {
 
     #single {
         display: flex;
@@ -197,7 +204,7 @@ a {
         height: calc(100vh - 20px);
         position: sticky;
         top: 0;
-        max-width: 50%;
+        max-width: 40%;
         margin:0 auto;
     }
 
@@ -211,12 +218,11 @@ a {
     }
 
     #single .content {
-        width: 45%;
+        width: 55%;
         margin: 0 auto;
-        
+        font-size: 1.4em;
     }
 
-    
 }
 
 /* Métadonnées */
@@ -242,7 +248,25 @@ a {
     content: ", ";
 }
 
+/* Header */
+
+.header {
+    padding: 0.5em 1em;
+    margin: 0;
+}
+
+.header ul {
+    display: inline;
+    list-style: none;
+    padding: 0;
+    margin:0;
+}
+
+
+
+
 /* Footer */
+
 .footer {
     font-family: var(--police-meta);
     font-size: 0.8em;
