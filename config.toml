@@ -1,5 +1,8 @@
 baseURL = 'https://nicolasfurno.fr'
 languageCode = 'fr'
-title = 'Nicolas Furno'
+title = 'Le blog de Nicolas Furno'
 theme = 'nicolasfurno'
 
+[author]
+  name = "Nicolas Furno"
+  email = "nicolasfurno@gmail.com"

@@ -1,3 +1,3 @@
 +++
-title = "Le blog de Nicolas Furno"
+title = ""
 +++
