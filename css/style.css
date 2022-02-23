@@ -163,12 +163,9 @@ h1 {
 }
 
 @media (prefers-color-scheme: dark) {
-    .pagination li {
-        background-color:var(--texte-sombre);
-    }
-
     .pagination a {
         color: var(--couleur-texte);
+        background-color:var(--texte-sombre);
     }
 }
 
