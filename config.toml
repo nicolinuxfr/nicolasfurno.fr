@@ -2,6 +2,7 @@ baseURL = 'https://nicolasfurno.fr'
 languageCode = 'fr'
 title = 'Le blog de Nicolas Furno'
 theme = 'nicolasfurno'
+paginate = 12
 
 [author]
   name = "Nicolas Furno"
