@@ -3,6 +3,7 @@ languageCode = 'fr'
 title = 'Le blog de Nicolas Furno'
 theme = 'nicolasfurno'
 paginate = 12
+copyright = "© Nicolas Furno"
 
 [author]
   name = "Nicolas Furno"
