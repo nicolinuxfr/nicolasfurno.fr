@@ -1,9 +1,11 @@
 baseURL = 'https://nicolasfurno.fr'
 languageCode = 'fr'
+defaultContentLanguage = "fr"
 title = 'Le blog de Nicolas Furno'
 theme = 'nicolasfurno'
 paginate = 12
 copyright = "© Nicolas Furno"
+timeZone = "Europe/Paris"
 
 [author]
   name = "Nicolas Furno"
