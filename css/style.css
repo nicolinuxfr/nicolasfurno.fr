@@ -6,19 +6,10 @@
     --police-meta: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
     --couleur-texte: rgba(0, 0, 0, 0.7);
     --fond-sombre: #24292e;
-    --texte-sombre: rgba(255, 255, 255, 0.78);
+    --texte-sombre: rgba(255, 255, 255, 0.78)
 }
 
 /* Global */
-
-html, body {
-    margin: 0;
-    padding: 0;
-    -webkit-font-smoothing: antialiased;
-	-moz-osx-font-smoothing: grayscale;
-	text-rendering: optimizeLegibility;
-    color: var(--couleur-texte)
-}
 
 @media (prefers-color-scheme: dark){
     html {
@@ -89,20 +80,16 @@ a {
 
 /* Page d'accueil */
 
-h1 {
+.homepage-header h1 {
+    margin: 1em;
     font-family: var(--police-titre);
     text-align: center;
     font-weight: bold;
     font-size: 2.5em;
-    margin: 0.5em auto;
 }
 
-@media (min-width: 800px) {
 
-    h1 {
-        font-size: 4vw;
-        margin: 2vw auto;
-    }
+@media (min-width: 600px) {
 
     .articles {
         display: grid;
@@ -132,56 +119,13 @@ h1 {
     }
 }
 
-.pagination {
-    text-align: center;
-    font-family: var(--police-meta);
-    font-weight: 300;
-    margin: 2em;
-}
-
-.pagination ul {
-    list-style: none;
-}
-
-.pagination li {
-    display: inline;
-    text-align: center;
-}
-
-.pagination a {
-    color: var(--texte-sombre);
-    border-radius: 0.3em;
-    margin: 0 0.2em;
-    padding: 0.5em;
-    background-color: var(--couleur-texte);
-}
-
-.pagination a:hover{
-    font-weight: 900;
-}
-
-.pagination .disabled {
-    display: none;
-}
-
-.pagination .active a {
-    font-weight: 900;
-}
-
-@media (prefers-color-scheme: dark) {
-    .pagination a {
-        color: var(--couleur-texte);
-        background-color:var(--texte-sombre);
-    }
-}
-
 /* Articles */
 
 #single .content {
     margin: 0 auto;
     max-width: 850px;
-    padding: 0 0.5em;
-    font-size: 1.3em;
+    padding: 0 1em;
+    font-size: 1.4em;
 	line-height: 1.4em;
 }
 
@@ -190,7 +134,7 @@ h1 {
     font-family: var(--police-titre);
     margin: 0.5em auto;
     font-weight: normal;
-    font-size: 1.6em;
+    font-size: 1.3em;
     line-height: 1.2em;
 }
 
@@ -207,6 +151,7 @@ h1 {
 
 #single .article {
     font-family: var(--police-texte);
+    color: var(--couleur-texte)
 }
 
 #single a {
@@ -238,7 +183,7 @@ h1 {
     }
 }
 
-@media (min-width: 800px) {
+@media (min-width: 750px) {
 
     #single {
         display: flex;
@@ -252,7 +197,7 @@ h1 {
         height: calc(100vh - 20px);
         position: sticky;
         top: 0;
-        max-width: 40%;
+        max-width: 50%;
         margin:0 auto;
     }
 
@@ -266,11 +211,12 @@ h1 {
     }
 
     #single .content {
-        width: 55%;
+        width: 45%;
         margin: 0 auto;
-        font-size: 1.4em;
+        
     }
 
+    
 }
 
 /* Métadonnées */
@@ -296,25 +242,7 @@ h1 {
     content: ", ";
 }
 
-/* Header */
-
-.header {
-    padding: 0.5em 1em;
-    margin: 0;
-}
-
-.header ul {
-    display: inline;
-    list-style: none;
-    padding: 0;
-    margin:0;
-}
-
-
-
-
 /* Footer */
-
 .footer {
     font-family: var(--police-meta);
     font-size: 0.8em;
