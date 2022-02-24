@@ -6,6 +6,7 @@ theme = 'nicolasfurno'
 paginate = 12
 copyright = "© Nicolas Furno"
 timeZone = "Europe/Paris"
+enableGitInfo = true
 
 [author]
   name = "Nicolas Furno"
