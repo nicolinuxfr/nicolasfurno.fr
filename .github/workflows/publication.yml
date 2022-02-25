@@ -35,7 +35,14 @@ jobs:
           title: Auto Compress Images
           branch-suffix: timestamp
           commit-message: Compress Images
-          body: ${{ steps.calibre.outputs.markdown }}
+          body: ${{ steps.calibre.outputs.markdown }} 
+      - name: Enable Pull Request Automerge
+        if: steps.cpr.outputs.pull-request-operation == 'created'
+        uses: peter-evans/enable-pull-request-automerge@v1
+        with:
+          token: ${{ secrets.PAT }}
+          pull-request-number: ${{ steps.cpr.outputs.pull-request-number }}
+          merge-method: squash
 
   deploy:
     if: ${{ always() }}
