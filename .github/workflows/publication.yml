@@ -7,7 +7,21 @@ on:
   pull_request:
 
 jobs:
+  images:
+    name: calibreapp/image-actions
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v2
+
+      - name: Compress Images
+        uses: calibreapp/image-actions@main
+        with:
+          githubToken: ${{ secrets.GITHUB_TOKEN }}
+
   deploy:
+    if: ${{ always() }}
+    needs: images
     runs-on: ubuntu-20.04
     steps:
       - uses: actions/checkout@v2
