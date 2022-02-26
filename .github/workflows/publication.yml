@@ -31,14 +31,21 @@ jobs:
           github.event_name != 'pull_request' &&
           steps.calibre.outputs.markdown != ''
         uses: peter-evans/create-pull-request@v3
+        id: cpr
         with:
           title: Auto Compress Images
           branch-suffix: timestamp
           commit-message: Compress Images
-          body: ${{ steps.calibre.outputs.markdown }}
+          body: ${{ steps.calibre.outputs.markdown }} 
+      - name: Merge Pull Request
+        if: steps.cpr.outputs.pull-request-operation == 'created'
+        uses: juliangruber/merge-pull-request-action@v1
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          number: ${{ steps.cpr.outputs.pull-request-number }}
+          method: squash
 
   deploy:
-    if: ${{ always() }}
     needs: images
     runs-on: ubuntu-20.04
     steps:
