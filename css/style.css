@@ -162,7 +162,8 @@ h1 {
 
 /* Articles */
 
-#single .content {
+#single .content,
+#single-photo .content {
     margin: 0 auto;
     max-width: 850px;
     padding: 0 0.5em;
@@ -171,7 +172,8 @@ h1 {
     letter-spacing: -0.01em;
 }
 
-#single .title {
+#single .title,
+#single-photo .title {
     text-align: center;
     font-family: var(--police-titre);
     margin: 0.5em auto;
@@ -180,28 +182,33 @@ h1 {
     line-height: 1.2em;
 }
 
-#single .title em {
+#single .title em,
+#single-photo .title em {
     font-weight: 800;
 }
 
-#single .date {
+#single .date,
+#single-photo .date {
     text-align: right;
     font-family: var(--police-meta);
     font-weight: 100;
     font-size: 0.7em;
 }
 
-#single .article {
+#single .article,
+#single-photo .article {
     font-family: var(--police-texte);
     font-weight: 400;
 }
 
-#single a {
+#single a,
+#single-photo a {
     text-decoration: underline;
     color: var(--couleur-texte)
 }
 
-#single a:hover {
+#single a:hover,
+#single-photo a:hover {
     color: rgba(0, 0, 0, 0.9);
 }
 
@@ -247,7 +254,8 @@ h1 {
         max-height: 100%;
     }
 
-    #single .title {
+    #single .title,
+    #single-photo .title {
         margin: 1vw auto;
         font-size: 3.5vw;
     }
