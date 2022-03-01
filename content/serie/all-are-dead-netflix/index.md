@@ -1,5 +1,5 @@
 ---
-title: "*All of Us Are Dead* (Netflix)"
+title: "*All of Us Are Dead*, Netflix"
 date: 2022-02-14T21:29:03+01:00
 tmdb: 99966
 image: "dead.jpg"

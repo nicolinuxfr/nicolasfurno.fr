@@ -1,5 +1,5 @@
 ---
-title: "*Inventing Anna* (Netflix)"
+title: "*Inventing Anna*, Netflix"
 date: 2022-02-23T20:29:03+01:00
 tmdb: 95665
 image: "anna.jpeg"

@@ -1,5 +1,5 @@
 +++
-title = '*Hawkeye* (Disney+)'
+title = '*Hawkeye*, Disney+'
 date = 2022-02-07
 image = 'hawkeye.jpg'
 tmdb = 88329

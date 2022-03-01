@@ -1,5 +1,5 @@
 +++
-title = '*Archive 81* (Netflix)'
+title = '*Archive 81*, Netflix'
 date = 2022-02-05T17:17:48+01:00
 image = 'archive-81.jpg'
 tmdb = 112314

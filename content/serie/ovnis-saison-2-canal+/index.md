@@ -1,5 +1,5 @@
 ---
-title: "*OVNI(s)* (Canal+), saison 2"
+title: "*OVNI(s)*, Canal+ (saison 2)"
 date: 2022-02-24T21:15:47+01:00
 tmdb: 108353 
 image: "ovnis.jpg"
