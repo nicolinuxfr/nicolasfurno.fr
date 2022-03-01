@@ -306,6 +306,17 @@ h1 {
     margin:0;
 }
 
+.logo{
+    width: 3em;
+    fill:#487b00;
+    stroke:#487b00;
+}
+
+.logo:hover {
+    fill:#63aa01;
+    stroke:#63aa01;
+}
+
 
 
 
