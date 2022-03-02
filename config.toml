@@ -11,6 +11,8 @@ enableGitInfo = true
 [author]
   name = "Nicolas Furno"
   email = "nicolasfurno@gmail.com"
+[taxonomies]
+
 [params]
   description = 'Critiques de films, de séries, d’albums, de livres… et tout ce que je veux écrire.'
   title = 'Le blog de Nicolas Furno'
