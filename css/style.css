@@ -4,6 +4,8 @@
     --police-texte: "EBGaramond", serif;
     --police-titre: "Playfair Display", serif;
     --police-meta: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+    --vert: #487b00;
+    --vert-hover: #63aa01;
     --couleur-texte: rgba(0, 0, 0, 0.7);
     --fond-sombre: #24292e;
     --texte-sombre: rgba(255, 255, 255, 0.78);
@@ -12,6 +14,7 @@
 /* Global */
 
 html, body {
+    height:100%;
     margin: 0;
     padding: 0;
     -webkit-font-smoothing: antialiased;
@@ -35,6 +38,18 @@ img {
 a {
     text-decoration: none;
     color: var(--couleur-texte)
+}
+
+a:hover {
+    color: var(--vert);
+    text-decoration: none;
+}
+
+
+@media (prefers-color-scheme: dark) {
+    a:hover {
+        color: var(--vert-hover);
+    }
 }
 
 /* Polices */
@@ -72,6 +87,29 @@ a {
 }
 
 
+/* Header */
+
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 1em;
+    width: 100%;
+    color:var(--vert);
+}
+
+.logo {
+    width: 2.5vw;
+    min-width: 2em;
+    fill:var(--vert);
+    stroke:var(--vert);
+}
+
+.logo:hover {
+    fill:var(--vert-hover);
+    stroke:var(--vert-hover);
+}
+
 /* Page d'accueil */
 
 h1 {
@@ -85,14 +123,14 @@ h1 {
 @media (min-width: 800px) {
 
     h1 {
-        font-size: 5vw;
-        margin: 2vw auto;
+        font-size: 4vw;
     }
 
     .articles {
         display: grid;
         grid-template-columns: repeat(2, 1fr);
         grid-gap: 0.5em;
+        margin:5vw 0;
     }
 
     .articles .item {
@@ -204,18 +242,18 @@ h1 {
 #single a,
 #single-photo a {
     text-decoration: underline;
-    color: var(--couleur-texte)
+    color: var(--couleur-texte);
 }
 
 #single a:hover,
 #single-photo a:hover {
-    color: rgba(0, 0, 0, 0.9);
+    color: var(--vert);
     text-decoration: none;
 }
 
 .littlefoot {
     --popover-font-family: var(--police-texte);
-    --popover-line-height: 1em;
+    --popover-line-height: 1.2em;
     --popover-text-color: var(--couleur-texte);
 }
 
@@ -225,10 +263,14 @@ h1 {
     }
 
     #single a:hover {
-        color: #f2f6fa;
+        color: var(--vert-hover);
+    }
+    
+    .littlefoot {
+        --popover-text-color: var(--texte-sombre) !important;
     }
 
-    .littlefoot {
+    .littlefoot__content {
         --popover-background-color: var(--fond-sombre);
     }
 }
@@ -244,15 +286,14 @@ h1 {
     }
     
     #single .image {
-        height: calc(100vh - 20px);
-        position: sticky;
-        top: 0;
+        position:sticky;
+        top:0;
         max-width: 40%;
-        margin:0 auto;
+        margin: 0 auto;
     }
 
     #single .image img {
-        max-height: 100%;
+        max-height: calc(100vh - 10em);
     }
 
     #single .title,
@@ -292,42 +333,14 @@ h1 {
     content: ", ";
 }
 
-/* Header */
-
-.header {
-    padding: 0.5em 1em;
-    margin: 0;
-}
-
-.header ul {
-    display: inline;
-    list-style: none;
-    padding: 0;
-    margin:0;
-}
-
-.logo{
-    width: 3em;
-    fill:#487b00;
-    stroke:#487b00;
-}
-
-.logo:hover {
-    fill:#63aa01;
-    stroke:#63aa01;
-}
-
-
-
 
 /* Footer */
 
 .footer {
     font-family: var(--police-meta);
     font-size: 0.8em;
-    font-weight: 300;
     text-align: center;
-    margin: 2em auto;
+    padding: 1em;
 }
 
 @media (prefers-color-scheme: dark){
