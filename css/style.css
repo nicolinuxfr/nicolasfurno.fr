@@ -7,8 +7,42 @@
     --vert: #487b00;
     --vert-hover: #63aa01;
     --couleur-texte: rgba(0, 0, 0, 0.7);
-    --fond-sombre: #0f1d09;
-    --texte-sombre: rgb(217, 238, 217);
+    --fond-sombre: #0d1a08;
+    --texte-sombre: rgb(198, 211, 198);
+}
+
+/* Polices */
+
+@font-face {
+    font-family: 'Playfair Display';
+    src: url('../fonts/PlayfairDisplay.woff2') format('woff2');
+    font-style: normal;
+    font-weight: 400 900;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Playfair Display';
+    src: url('../fonts/PlayfairDisplay-Italic.woff2') format('woff2');
+    font-style: italic;
+    font-weight: 400 900;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'EBGaramond';
+    src: url('../fonts/EBGaramond.woff2') format('woff2');
+    font-style: normal;
+    font-weight: 400 900;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'EBGaramond';
+    src: url('../fonts/EBGaramond-Italic.woff2') format('woff2');
+    font-style: italic;
+    font-weight: 400 900;
+    font-display: swap;
 }
 
 /* Global */
@@ -56,40 +90,6 @@ a:hover {
     }
 }
 
-/* Polices */
-
-@font-face {
-    font-family: 'Playfair Display';
-    src: url('../fonts/PlayfairDisplay.woff2') format('woff2');
-    font-style: normal;
-    font-weight: 400 900;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'Playfair Display';
-    src: url('../fonts/PlayfairDisplay-Italic.woff2') format('woff2');
-    font-style: italic;
-    font-weight: 400 900;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'EBGaramond';
-    src: url('../fonts/EBGaramond.woff2') format('woff2');
-    font-style: normal;
-    font-weight: 400 900;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'EBGaramond';
-    src: url('../fonts/EBGaramond-Italic.woff2') format('woff2');
-    font-style: italic;
-    font-weight: 400 900;
-    font-display: swap;
-}
-
 
 /* Header */
 
@@ -112,6 +112,13 @@ a:hover {
 .logo:hover {
     fill:var(--vert-hover);
     stroke:var(--vert-hover);
+}
+
+@media (prefers-color-scheme: dark) {
+    .logo{
+        fill:var(--texte-sombre);
+        stroke:var(--texte-sombre);
+    }
 }
 
 /* Page d'accueil */
