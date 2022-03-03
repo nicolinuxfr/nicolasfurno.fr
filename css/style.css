@@ -7,25 +7,25 @@
     --vert: #487b00;
     --vert-hover: #63aa01;
     --couleur-texte: rgba(0, 0, 0, 0.7);
-    --fond-sombre: #24292e;
-    --texte-sombre: rgba(255, 255, 255, 0.78);
+    --fond-sombre: #0f1d09;
+    --texte-sombre: rgb(217, 238, 217);
 }
 
 /* Global */
 
 html, body {
-    height:100%;
     margin: 0;
     padding: 0;
     -webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
 	text-rendering: optimizeLegibility;
-    color: var(--couleur-texte)
+    color: var(--couleur-texte);
 }
 
 @media (prefers-color-scheme: dark){
-    html {
+    html, body {
         background-color: var(--fond-sombre);
+        color: var(--texte-sombre);
     }
 }
 
@@ -37,7 +37,7 @@ img {
 
 a {
     text-decoration: none;
-    color: var(--couleur-texte)
+    color: var(--couleur-texte);
 }
 
 a:hover {
@@ -47,6 +47,10 @@ a:hover {
 
 
 @media (prefers-color-scheme: dark) {
+    a {
+        color: var(--texte-sombre);
+    }
+
     a:hover {
         color: var(--vert-hover);
     }
@@ -93,7 +97,7 @@ a:hover {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    margin: 1em;
+    padding: 1em;
     width: 100%;
     color:var(--vert);
 }
@@ -225,11 +229,15 @@ h1 {
     font-weight: 900;
 }
 
+#single .image {
+    text-align: center;
+}
+
 #single .date,
 #single-photo .date {
     text-align: right;
     font-family: var(--police-meta);
-    font-weight: 100;
+    font-weight: 300;
     font-size: 0.7em;
 }
 
@@ -255,10 +263,16 @@ h1 {
     --popover-font-family: var(--police-texte);
     --popover-line-height: 1.2em;
     --popover-text-color: var(--couleur-texte);
+    --popover-font-size: 0.8em;
+}
+
+.littlefoot p {
+    margin: 0.5em;
 }
 
 @media (prefers-color-scheme: dark) {
-    #single .article, #single a {
+    #single .article, 
+    #single a {
         color: var(--texte-sombre);
     }
 
@@ -342,13 +356,3 @@ h1 {
     text-align: center;
     padding: 1em;
 }
-
-@media (prefers-color-scheme: dark){
-	body, a, article .post-content, article .post-content h3, article .post-content a, .single .post-title, .home article header .post-title{
-		color: rgba(255, 255, 255, 0.78);
-	}
-
-	.bigfoot-footnote__content{
-		background:  #24292e !important;
-	}
- }
