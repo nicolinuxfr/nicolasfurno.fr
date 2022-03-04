@@ -19,7 +19,6 @@ enableGitInfo = true
 
 [social]
   twitter = 'nicolasfurno'
-  twitter = 'nicolasfurno'
 
 [markup]
   [markup.goldmark]
