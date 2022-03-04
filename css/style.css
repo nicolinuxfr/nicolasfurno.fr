@@ -97,12 +97,12 @@ a:hover {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 1em;
     width: 100%;
     color:var(--vert);
 }
 
 .logo {
+    margin:1em;
     width: 2.5vw;
     min-width: 2em;
     fill:var(--vert);
@@ -118,6 +118,11 @@ a:hover {
     .logo{
         fill:var(--texte-sombre);
         stroke:var(--texte-sombre);
+    }
+
+    .logo:hover {
+        fill:var(--vert);
+        stroke:var(--ver);
     }
 }
 
