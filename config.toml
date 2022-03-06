@@ -13,6 +13,9 @@ enableGitInfo = true
   email = "nicolasfurno@gmail.com"
 [taxonomies]
 
+[permalinks]
+  pages = '/:filename/'
+
 [params]
   description = 'Critiques de films, de séries, d’albums, de livres… et tout ce que je veux écrire.'
   title = 'Le blog de Nicolas Furno'
