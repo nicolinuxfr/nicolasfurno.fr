@@ -113,6 +113,21 @@ a:hover {
     stroke:var(--vert-hover);
 }
 
+.header nav {
+    font-family: var(--police-texte);
+    font-weight: 700;
+    font-size: 1.5em;
+    margin:1em;
+}
+
+.header nav a {
+    color:var(--vert);
+}
+
+.header nav a:hover {
+    color:var(--vert-hover);
+}
+
 @media (prefers-color-scheme: dark) {
     .logo{
         fill:var(--texte-sombre);
@@ -124,6 +139,17 @@ a:hover {
         stroke:var(--ver);
     }
 }
+
+/* Footer */
+
+.footer {
+    font-family: var(--police-meta);
+    font-size: 0.8em;
+    text-align: center;
+    padding: 1em;
+}
+
+
 
 /* Page d'accueil */
 
@@ -358,12 +384,36 @@ h1 {
     content: ", ";
 }
 
+/* Recherche */
 
-/* Footer */
-
-.footer {
-    font-family: var(--police-meta);
-    font-size: 0.8em;
+#search-input {
+    font-family: var(--police-texte);
+    font-size: 1.5em;
+    width: 100%;
     text-align: center;
-    padding: 1em;
+    margin:1em auto;
+    font-weight: 600;
 }
+
+#search-results {
+    text-align: center;
+    list-style: none;
+    font-family: var(--police-titre);
+    font-weight: 500;
+    margin: 0 1em;
+    padding: 0;
+}
+
+#search-results li {
+    margin: 0.5em 0;
+}
+
+#search-results em {
+    font-weight: 900;
+}
+
+#search-results a {
+    text-decoration: none;
+
+}
+
