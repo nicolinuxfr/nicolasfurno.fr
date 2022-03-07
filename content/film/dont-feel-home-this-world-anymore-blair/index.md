@@ -1,0 +1,10 @@
+---
+title: "*I Don't Feel at Home in This World Anymore*, Macon Blair"
+date: 2022-03-06T18:11:57+01:00
+tmdb: 425591 
+image: "home.jpg"
+---
+
+Derrière son titre à rallonge, *I Don't Feel at Home in This World Anymore* est en réalité un film assez simple. Dans ce thriller aux forts airs des frères Coen, on suit un duo de personnages en marge de la société, qui en ont assez du comportement irrespectueux de la majorité. Quand Ruth se fait cambrioler et que la police ne fait rien pour l’aider, elle décide que c’en est trop. Avec l’aide de Tony, son voisin bizarre manifestement prêt pour aller en découvre, ils partent récupérer ce qu’elle a perdu. D’abord son ordinateur portable chez des étudiants fêtards, puis l’argenterie de sa grand-mère chez un vendeur pas très consciencieux. Mais comme chez les Coen, ils ne savent pas s’arrêter et croisent la route des voleurs jusqu’à un final sanglant et vomitif. 
+
+L’inspiration est plutôt évidente sans être explicite, mais on peut imaginer que Macon Blair, dont c’est le premier long-métrage, avait en tête les classiques du duo en écrivant *I Don't Feel at Home in This World Anymore*. Voilà qui ne permettra pas au film de remporter une palme de l’originalité, certes, mais après tout, cela n’a pas à être l’unique objectif de toute œuvre de fiction. Sachant cela, le film reste plaisant à suivre, parce qu’il imagine deux personnages étonnants et finalement plus attachants qu’on l’imaginait. Melanie Lynskey est impeccable dans le rôle de Ruth, cette infirmière sans histoire qui encaisse des incivilités tous les jours jusqu’à celle de trop. Et Elijah Wood est plein de surprise, avec ce personnage en apparence *macho* qui est en réalité bien moins violent ou même agressif que prévu. En parlant de violence, le scénario en dit long sur celle qui habite la société américaine, qu’elle soit active ou passive. La toxicité masculine, la place des armes et les conflits sociaux ne sont pas traités directement, mais ce sont autant de thèmes présents en arrière-plan.
