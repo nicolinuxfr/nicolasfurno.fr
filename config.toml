@@ -8,9 +8,20 @@ copyright = "© Nicolas Furno"
 timeZone = "Europe/Paris"
 enableGitInfo = true
 
+
 [author]
   name = "Nicolas Furno"
   email = "nicolasfurno@gmail.com"
+
+[menu]
+[[menu.main]]
+  identifier = 'about'
+  name = 'Recherche'
+  url = '/recherche/'
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
 [taxonomies]
 
 [permalinks]
@@ -19,6 +30,7 @@ enableGitInfo = true
 [params]
   description = 'Critiques de films, de séries, d’albums, de livres… et tout ce que je veux écrire.'
   title = 'Le blog de Nicolas Furno'
+
 
 [social]
   twitter = 'nicolasfurno'
