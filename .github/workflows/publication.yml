@@ -3,51 +3,10 @@ name: Publication GitHub Pages
 on:
   push:
     branches:
-      - main  # Set a branch to deploy
-  pull_request:
-
+      - main
+      
 jobs:
-  images:
-    name: calibreapp/image-actions
-    runs-on: ubuntu-latest
-    # Only run on main repo on and PRs that match the main repo.
-    if: |
-      github.repository == 'nicolinuxfr/nicolasfurno.fr' &&
-      (github.event_name != 'pull_request' ||
-       github.event.pull_request.head.repo.full_name == github.repository)
-    steps:
-      - name: Checkout Branch
-        uses: actions/checkout@v2
-      - name: Compress Images
-        id: calibre
-        uses: calibreapp/image-actions@main
-        with:
-          githubToken: ${{ secrets.GITHUB_TOKEN }}
-          # For non-Pull Requests, run in compressOnly mode and we'll PR after.
-          compressOnly: ${{ github.event_name != 'pull_request' }}
-          ignorePaths: 'content/photo/**'
-      - name: Create Pull Request
-        # If it's not a Pull Request then commit any changes as a new PR.
-        if: |
-          github.event_name != 'pull_request' &&
-          steps.calibre.outputs.markdown != ''
-        uses: peter-evans/create-pull-request@v3
-        id: cpr
-        with:
-          title: Auto Compress Images
-          branch-suffix: timestamp
-          commit-message: Compress Images
-          body: ${{ steps.calibre.outputs.markdown }} 
-      - name: Merge Pull Request
-        if: steps.cpr.outputs.pull-request-operation == 'created'
-        uses: juliangruber/merge-pull-request-action@v1
-        with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          number: ${{ steps.cpr.outputs.pull-request-number }}
-          method: squash
-
   deploy:
-    needs: images
     runs-on: ubuntu-20.04
     steps:
       - uses: actions/checkout@v2
