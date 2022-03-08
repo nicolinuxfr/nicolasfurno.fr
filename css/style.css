@@ -141,7 +141,7 @@ button:focus {
         stroke:var(--texte-sombre);
     }
 
-    .logo:hover {
+    .logo a:hover {
         fill:var(--vert);
         stroke:var(--ver);
     }
