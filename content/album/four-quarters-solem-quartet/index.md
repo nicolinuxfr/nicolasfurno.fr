@@ -1,7 +1,7 @@
 ---
 title: "*The Four Quarters*, The Solem Quartet"
 date: 2022-03-10T21:21:58+01:00
-image: "quarters.jpeg"
+image: "quarters.jpg"
 ---
 
 Peut-on réinventer la musique de chambre au XXI<sup>e</sup> siècle ? The Solem Quartet est un quatuor à cordes britannique qui pourrait difficilement offrir une composition plus traditionnelle : deux violons, un alto et un violoncelle, c’est une formule éprouvée depuis plusieurs siècles. Et pourtant, *The Four Quarters*, leur premier album, ne ressemble en rien aux compositions de Haydn ou de Mozart. 
