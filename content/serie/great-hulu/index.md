@@ -1,0 +1,12 @@
+---
+title: "*The Great*, Hulu"
+date: 2022-03-10T20:57:30+01:00
+tmdb: 93812 
+image: "great.jpg"
+---
+
+« Une histoire occasionnellement vraie », promet Tony McNamara dans cette adaptation portée par Hulu de la pièce qu’il avait lui-même créé, on pourrait même dire « accidentellement ». *The Great* s’inspire de l’histoire de [Catherine II de Russie](https://fr.wikipedia.org/wiki/Catherine_II), surnommée « Catherine la Grande », mais si les grandes lignes directrices sont là, la série ne s’embarrasse en effet pas longtemps avec la réalité historique. Son époux, Pierre III de Russie, est un homme sexuellement actif quand elle débarque et leur mariage n’est pas heureux, mais la fiction imagine surtout une grande histoire d’amour entre Catherine et son amant officiel, Leo. Et si elle finit par prendre le pouvoir, elle ne tue pas son mari qui reste dans sa vie comme dans la série.
+
+L’idée de tourner cette histoire en dérision ou en satire est intéressante et regarder *The Great* en cet hiver 2022, alors que la Russie mène une guerre ouverte contre l’Ukraine, est particulièrement troublant. Dans la fiction, c’est contre la Suède que le pays se bat, mais c’est la seule différence. Les raisons pour les deux guerres sont aussi stupides — Pierre III veut restaurer la gloire de son père, ça vous rappelle quelque chose ? — et l’armée russe est toute aussi incompétente. Mais cette proximité est finalement le point faible de la série de Hulu, qui se fait constamment dépasser par la réalité et qui ne parvient pas à concrétiser ses promesses. En gardant Nicholas Hoult, qui incarne un roi russe par ailleurs fort réussi, dans l’équation, *The Great* tourne un petit peu trop en rond après un excellent début. Le point de départ est excellent, la suite un petit peu moins et la saison 2 patine assez, sauf lorsque Gillian Anderson la réveille pour un épisode ou deux. 
+
+Elle Fanning est remarquable dans le rôle titre, entre l’angélisme des débuts et la noirceur qui s’empare progressivement de son personnage. Et même si c’est une vaste blague, il faut souligner la qualité de la reconstitution historique et notamment des costumes. Il y a beaucoup de réussites dans *The Great*, ce qui rend d’autant plus frustrant ce manque de mordant et surtout cette propension à tourner en rond. Hulu a renouvelé sa série pour une troisième saison, mais ferai-je l’effort de la voir ? Pas sûr…
