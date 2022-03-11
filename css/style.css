@@ -391,6 +391,10 @@ h1 {
     content: ", ";
 }
 
+.meta li:first-child:after {
+    content: " ";
+}
+
 /* Recherche */
 
 #search-input {
