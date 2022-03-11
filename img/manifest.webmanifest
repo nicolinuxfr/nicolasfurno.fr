@@ -1,6 +1,12 @@
 {
+    "name": "Le blog de Nicolas Furno",
+    "short_name": "Nicolas Furno",
     "icons": [
-        { "src": "/icon-192.png", "type": "image/png", "sizes": "192x192" },
-        { "src": "/icon-512.png", "type": "image/png", "sizes": "512x512" }
-    ]
+        {
+            "src": "/img/icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        }
+    ],
+    "display": "standalone"
 }
