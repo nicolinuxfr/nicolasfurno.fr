@@ -1,3 +1,7 @@
 ---
 title: "Archives"
 ---
+
+## Catégories
+
+{{< sections >}}
