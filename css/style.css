@@ -451,3 +451,14 @@ input:focus::placeholder {
 #single .archives li a {
     text-decoration: none;
 }
+
+#single .menu {
+    font-weight: 700;
+    font-family: var(--police-titre);
+    font-size: 1.5em;
+    text-align: center;
+}
+
+#single .menu a {
+    text-decoration: none;
+}
