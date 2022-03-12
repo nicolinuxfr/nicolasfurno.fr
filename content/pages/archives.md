@@ -6,3 +6,6 @@ title: "Archives"
 
 {{< sections >}}
 
+## Liste des articles
+
+{{< articles >}}
