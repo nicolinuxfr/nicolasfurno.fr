@@ -440,3 +440,14 @@ input:focus::placeholder {
         margin:0.5em auto;
     }
 }
+
+/* Archives */
+
+#single .archives {
+    list-style: none;
+    columns: 2;
+}
+
+#single .archives li a {
+    text-decoration: none;
+}
