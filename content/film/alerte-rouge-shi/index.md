@@ -1,0 +1,12 @@
+---
+title: "*Alerte rouge*, Domee Shi"
+date: 2022-03-13T17:36:53+01:00
+tmdb: 508947 
+image: "red.jpg"
+---
+
+Nous sommes en 2022 et l’un des faits notables à propos de la dernière production Pixar est le genre de sa créatrice. Aussi incroyable que cela puisse paraître, le studio n’a fait confiance à une femme pour réaliser l’un de ses films qu’une autre fois et encore, Brenda Chapman n’était que la co-réalisatrice de [*Rebelle*](https://voiretmanger.fr/rebelle-andrews-chapman/). Cette fois, pas d’entourloupes, *Alerte rouge* a bien été réalisé par une seule femme, Domee Shi, dont c’est d’ailleurs le premier film. C’est aussi elle qui a apporté l’idée au studio et l’héroïne est inspirée par sa propre expérience en tant qu’adolescente dans le Toronto du début des années 2000. 
+
+Un homme se serait-il aventuré sur le terrain d’*Alerte rouge* ? Le long-métrage évoque les changements de l’adolescence pour les jeunes filles et en particulier les premières règles, le rouge du titre est une allusion à peine voilée et même si cela passe par la transformation de Mei en panda roux, la métaphore est transparente. Si le sujet n’est pas réservé aux femmes, il faut saluer la vision féminine et sans concession apportée par Domee Shi. En particulier, la manière dont les jeunes filles sont censées canaliser leurs émotions pour être acceptées par la société, est un sujet aussi important que central dans le projet. C’est bien mené et traité avec une grande justesse, mais ce n’est pas le sujet explicite pour autant et le scénario peut intégrer ces idées à l’arrière-plan, sans jamais les perdre de vue.
+
+*Alerte rouge* est un excellent Pixar, parce qu’il parvient à toucher à l’universel à travers le particulier. C’est l’histoire de Domee Shi qui est racontée, cette fille d’émigrée chinois qui a grandi à Toronto, qui était probablement fan des boys-band kitsch qui se multipliaient à l’époque et qui s’est affirmée avec difficulté au sein d’une famille traditionnelle. Tout ce parcours ne me parle pas et j’imagine que ce ne sera pas plus le cas pour l’écrasante majorité d’entre vous, mais cela n’empêche aucunement de suivre et apprécier l’histoire. S’affirmer face à ses parents et son milieu d’origine et choisir quel adulte on sera est un thème universel, peu importe le lieu ou le genre. 
