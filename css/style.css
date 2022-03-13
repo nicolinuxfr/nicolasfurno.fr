@@ -248,6 +248,17 @@ h1 {
 
 /* Articles */
 
+#single .content h2,
+#single .content h3 { 
+    text-align: center;
+    margin: 1.5em auto 1em auto;
+}
+
+#single .content h2:not(:first-child) {
+    padding-top: 0.5em;
+    border-top: 0.1em solid var(--vert);
+}
+
 #single .content,
 #single-photo .content {
     margin: 0 auto;
@@ -315,6 +326,10 @@ h1 {
 }
 
 @media (prefers-color-scheme: dark) {
+    #single .content h2:not(:first-child) {
+        border-top: 0.1em solid var(--texte-sombre);
+    }
+
     #single .article, 
     #single a {
         color: var(--texte-sombre);
@@ -445,12 +460,46 @@ input:focus::placeholder {
 
 #single .archives {
     list-style: none;
-    columns: 2;
+}
+
+#single .archives.sections {
+    text-align: center;
+}
+
+#single .archives.calendrier li {
+    display: grid;
+    grid-template-columns: 1fr auto auto;
+    align-items: center;
+}
+
+#single .archives.calendrier .date {
+    display: none;
+}
+
+#single .archives.calendrier .date.court {
+    display: block;
+    padding-left: 1em;
 }
 
 #single .archives li a {
     text-decoration: none;
 }
+
+@media (min-width: 900px) {
+    #single .archives.sections {
+        columns: 2;
+    }
+
+    #single .archives.calendrier .date {
+        display: block;
+    }
+   
+    #single .archives.calendrier .date.court {
+        display: none;
+    }
+}
+
+/* Menu */
 
 #single .menu {
     font-weight: 700;
