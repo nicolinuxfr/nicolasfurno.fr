@@ -15,17 +15,20 @@ enableGitInfo = true
 
 [menu]
 [[menu.main]]
+  identifier = 'about'
+  name = 'À propos'
+  url = '/a-propos/'
+  weight = 10
+[[menu.main]]
   identifier = 'archives'
   name = 'Archives'
   url = '/archives/'
-[[menu.main]]
-  identifier = 'recherche'
-  name = 'Recherche'
-  url = '/recherche/'
+  weight = 20
 [[menu.main]]
   identifier = 'mentions'
   name = 'Mentions légales'
   url = '/mentions-legales/'
+  weight = 100
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
