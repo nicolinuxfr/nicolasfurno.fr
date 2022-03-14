@@ -1,6 +1,6 @@
 ---
 title: "*The Four Quarters*, The Solem Quartet"
-date: 2022-03-10T21:21:58+01:00
+date: 2022-03-14T18:11:00+01:00
 image: "quarters.jpg"
 ---
 
