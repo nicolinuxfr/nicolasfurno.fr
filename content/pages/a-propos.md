@@ -29,4 +29,4 @@ Je suis aussi accessible sur Twitter : [@nicolasfurno](https://twitter.com/nico
 
 [^1]: C’est ce qui m’a donné l’idée du logo « officiel » du site, si vous vous posiez la question.
 
-[^2]: Ce qui n’est pas forcément une bonne idée, j’ai toujours été plus à l’aise avec les serveurs qu’avec 
+[^2]: Ce qui n’est pas forcément une bonne idée, j’ai toujours été plus à l’aise avec les serveurs (le « *back* ») qu’avec le design des sites web (le « *front* »)…
