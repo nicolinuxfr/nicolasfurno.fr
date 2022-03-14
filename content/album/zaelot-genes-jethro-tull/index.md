@@ -1,8 +1,8 @@
 ---
 title: "*The Zealot Genes*, Jethro Tull"
 date: 2022-02-10
+id: 1590404272
 image: "gene.jpeg"
-midb: "9db620ba-8113-4503-942d-25f0e67f25c8"
 ---
 
 De la flûte traversière dans du rock ? Il n’y avait bien que le Progressif pour l’envisager, mais Jethro Tull a toujours eu le don pour brouiller le piste. Cet étonnant groupe anglais né dans les années 1960 s’est distingué dans la décennie suivante par quelques albums conceptuels qui ont bercé mes années prog, *Thick as a Brick* en tête. Je n’étais pas nécessairement le plus grand fan du groupe qui soit et je n’ai jamais suivi son actualité au-delà de cette période, mais une poussée nostalgique m’a incité à essayer *The Zealot Gene*, le dernier album d’un groupe qui ne veut pas mourir. 
