@@ -2,6 +2,7 @@
 title: "*The Zealot Genes*, Jethro Tull"
 date: 2022-02-10
 id: 1590404272
+pays: "gb"
 image: "gene.jpeg"
 ---
 

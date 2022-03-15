@@ -3,6 +3,7 @@ title: "*Artifacts*, Beirut"
 date: 2022-03-04T21:34:29+01:00
 id: 1583272303
 image: "artifacts.jpeg"
+pays: "us"
 ---
 
 Je n’avais pas écouté ‌Beirut depuis des années, mais j’ai tant écouté les deux premiers albums de cet étrange groupe qu’ils sont gravés dans ma mémoire. Suite à [de solides recommandations](https://podcaaast.fr/trente-sept/), j’ai écouté *Artifacts*, leur sixième album qui vient tout juste de sortir et qui est en réalité une compilation. Pas un *best-of*, mais plutôt une galerie de morceaux anciens ou récents, des pistes secondaires et même quelques enregistrements réalisés par Zach Condon, le créateur de Beirut, alors qu’il n’avait que 14 ans. Tout un programme et à l’écoute, surprise, cet assemblage bizarroïde forme un album au long court — pas moins de 26 morceaux pour près d’une heure et demie —, mais pas incohérent pour autant.

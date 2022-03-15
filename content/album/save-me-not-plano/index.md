@@ -3,6 +3,7 @@ title: "*Save Me Not*, Sebastian Plano"
 date: 2022-03-07T07:20:52+01:00
 id: 1554077598
 image: "save-me-not.jpeg"
+pays: "ar"
 ---
 
 J’ai toujours eu un faible pour le violoncelle. Quand mes parents m’ont proposé d’apprendre un instrument, c’est vers lui que je voulais me tourner et je n’ai jamais accroché au piano, choisi par dépit quand j’ai réalisé que l’école de musique du coin ne proposait pas de cours. À défaut d’en jouer, je n’ai jamais cessé d’aimer le son produit par le violoncelle.

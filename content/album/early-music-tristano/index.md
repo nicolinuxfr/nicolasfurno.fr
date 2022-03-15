@@ -3,6 +3,7 @@ title: "*On Early Music*, Francesco Tristano"
 date: 2022-02-28T21:17:48+01:00
 id: 1595745858
 image: "early-music.jpeg"
+pays: "lu"
 ---
 
 J’ai découvert Francesco Tristano, non pas pour ses interprétations de Jean-François Bach qui ont lancé sa carrière, mais pour sa participation dans Aufgang, ce réjouissant trio qui entremêlait astucieusement musiques classique et électronique. Il a abandonné ce groupe il y a quelques années et même si j’avais écouté l’un de ses albums en solo, *Idiosynkrasia* qui mélangeait à nouveau les genres, je ne me suis jamais trop intéressé à sa carrière.
