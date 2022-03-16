@@ -248,13 +248,13 @@ h1 {
 
 /* Articles */
 
-#single .content h2,
-#single .content h3 { 
+#single .article h2,
+#single .article h3 { 
     text-align: center;
     margin: 1.5em auto 1em auto;
 }
 
-#single .content h2:not(:first-child) {
+#single .article h2:not(:first-child) {
     padding-top: 0.5em;
     border-top: 0.1em solid var(--vert);
 }
@@ -408,6 +408,12 @@ h1 {
 
 .meta li:first-child:after {
     content: " ";
+}
+
+@media (min-width: 1000px) {
+    .meta .col {
+        columns: 2;
+    }
 }
 
 /* Recherche */
