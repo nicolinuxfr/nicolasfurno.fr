@@ -2,6 +2,8 @@
 title: "*Steven Soderbergh, anatomie des fluides*, Pauline Guedj"
 date: 2022-03-02T21:30:47+01:00
 image: "soderbergh.jpg"
+id: "D5FNEAAAQBAJ"
+pays: "fr"
 ---
 
 Il y a des cinéastes plus faciles à suivre et des carrières plus simples à analyser que le cas Steven Soderbergh. Alors que son [tout premier long-métrage](https://voiretmanger.fr/sexe-mensonges-video-soderbergh/) lui a offert la Palme d’or à Cannes, il a ensuite enchaîné les projets les plus variés, passant du film indépendant à tout petit budget parfois filmé à l’iPhone à la grosse production hollywoodienne avec un immense budget et un casting de stars, naviguant entre les genres et les styles. On peut vite se sentir perdus face à cette filmographie étrange qui semble partir dans tous les sens sans offrir d’angle d’attaque bien défini. 

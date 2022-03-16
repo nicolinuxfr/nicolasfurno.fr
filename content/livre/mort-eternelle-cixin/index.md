@@ -2,6 +2,8 @@
 title: "*La Mort immortelle*, Liu Cixin"
 date: 2022-01-25
 image: "lamortimortelle.jpg"
+id: "nmtuDwAAQBAJ"
+pays: "cn"
 ---
 
 C’est une constante chez Liu Cixin : dans les mêmes romans, on trouve à la fois les idées de science-fiction parmi les plus ambitieuses et folles jamais imaginées, et les clichés les plus rétrogrades qui soient. *La Mort immortelle*, le dernier roman dans sa trilogie *La Forêt Sombre* ne fait, hélas, pas exception. Cet épais volume de plus de 900 pages en version poche nous emmène plus loin que la majorité des récits dans le genre, avec un récit principal qui se déroule sur plusieurs siècles et un nombre incroyable d’événements.  C’est fascinant et c’est la raison principale qui pousse à le lire, mais il faut encore une fois se farcir des lieux communs, du sexisme et même une pointe d’homophobie au passage. Le tout, sans oublier des personnages à la psychologie digne d’un trou noir et des dialogues jamais très bons.
