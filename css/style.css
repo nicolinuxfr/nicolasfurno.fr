@@ -466,17 +466,22 @@ input:focus::placeholder {
 
 #single .archives {
     list-style: none;
+    padding: 0;
 }
 
 #single .archives.sections {
     text-align: center;
+    padding: 0;
 }
 
 #single .archives.calendrier li {
     display: grid;
     grid-template-columns: 1fr auto auto;
     align-items: center;
+    padding-bottom: 0.5em;
+    line-height: 1em;
 }
+
 
 #single .archives.calendrier .date {
     display: none;
@@ -496,8 +501,13 @@ input:focus::placeholder {
         columns: 2;
     }
 
+    #single .archives.calendrier li {
+        padding-left: 1em;
+    }
+
     #single .archives.calendrier .date {
         display: block;
+        padding-left: 1em;
     }
    
     #single .archives.calendrier .date.court {
