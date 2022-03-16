@@ -2,6 +2,8 @@
 title: "*Laurent Cantet, le sens du collectif*, Marilou Duponchel et Quentin Mével"
 date: 2022-03-13T21:33:19+01:00
 image: "cantet.jpg"
+id: "R1JgEAAAQBAJ"
+pays: "fr"
 ---
 
 À part pour [*Entre les murs*](https://voiretmanger.fr/entre-les-murs-laurent-cantet/) vu à sa sortie et *Ressources humaines* qui avait été un sujet d’étude au lycée, je n’ai qu’une connaissance très limitée de la carrière de Laurent Cantet. Son style, « trop français », ne m’attire pas particulièrement et je n’ai jamais eu tellement envie de creuser. L’idée de lire un entretien ne m’attirait ainsi pas spécialement, je dois bien le reconnaître, mais *Laurent Cantet, le sens du collectif* m’a davantage intéressé qu’escompté. Pas tant pour l’introduction de Marilou Duponchel que j’ai trouvée inutilement complexe par endroits, que pour l’entretien lui-même, mené par Quentin Mével.
