@@ -1,0 +1,12 @@
+---
+title: "*The Afterparty*, Apple TV+"
+date: 2022-03-18T21:31:25+01:00
+tmdb: 106454 
+image: "afterparty.jpg"
+---
+
+*The Afterparty* ressemble à une version modernisée d’un Agatha Christie. Une grande maison, un mort, toutes les personnes présentes suspectes et deux enquêteurs qui essaient de résoudre l’affaire dans les heures qui suivent. Chaque personne vient apporter son témoignage et un récit des faits avec son angle, jusqu’à la résolution finale, avec un petit peu de chance. Rien de bien originale jusque-là, mais la série portée par Apple TV+ opte pour un traitement plus original, avec un mélange des genres audacieux. Christopher Miller pastiche un genre par témoignage et par épisode : comédie romantique, thriller, *teen movie*, policier, comédie musicale, action et même animation, tout y passe dans un joyeux best-of un peu bordélique. 
+
+Heureusement que *The Afterparty* sait rester court, avec ses huit épisodes d’une trentaine de minutes, car le dispositif s’épuise vite. Les premiers épisodes sont les plus réussis et les plus réjouissants, avec une accumulation de clichés assez fun à suivre. Malheureusement, on arrive vite à un ventre mou et je ne dis pas seulement cela parce que la comédie musicale, même parodique, est presque instantanément ennuyeuse. Raconter la même histoire avec un angle différent atteint rapidement ses limites et l’enquête patine un peu, jusqu’au final explosif où tout est révélé. Grâce à ce format court, la création d’Apple TV+ ne tombe jamais dans l’ennui et il faut saluer le casting, avec en particulier un trio exceptionnel. Tiffany Haddish dans le rôle de la détective, Sam Richardson dans celui d’Aniq et Ben Schwartz dans celui de Yasper sont tous excellents, dans la surenchère qui tombe malgré tout juste. 
+
+Tous ces éléments convaincants permettent de passer un bon moment et à cet égard, la mission est réussie pour Christophe Miller. Apple a renouvelé *The Afterparty* pour une deuxième saison, un pari dangereux : y-a-t-il vraiment matière à offrir une suite ? À moins que le concept seul soit maintenu, mais même alors, ne pas répéter va être sacrément compliqué. En attendant, les moments hilarants sont suffisamment nombreux pour que je puisse recommander ces huit premiers épisodes. 
