@@ -331,11 +331,13 @@ h1 {
     }
 
     #single .article, 
-    #single a {
+    #single a,
+    #single-photo a {
         color: var(--texte-sombre);
     }
 
-    #single a:hover {
+    #single a:hover,
+    #single-photo a:hover {
         color: var(--vert-hover);
     }
     
@@ -384,7 +386,8 @@ h1 {
 }
 
 /* Métadonnées */
-.meta {
+.meta,
+.meta-photos {
     display: inline;
     list-style: none;
     font-family: var(--police-meta);
@@ -393,12 +396,13 @@ h1 {
 }
 
 .meta p,
-.meta ul{
+.meta ul {
     padding: 0;
     margin:0;
 }
 
-.meta li {
+.meta li,
+.meta-photos li {
     display: inline;
 }
 
@@ -414,6 +418,10 @@ h1 {
     .meta .col {
         columns: 2;
     }
+}
+
+.meta-photo {
+    font-family: var(--police-meta);
 }
 
 /* Recherche */
