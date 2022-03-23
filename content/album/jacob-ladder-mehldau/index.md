@@ -1,0 +1,12 @@
+---
+title: "*Jacob's Ladder*, Brad Mehldau"
+date: 2022-03-23T21:29:01+01:00
+id: 1606023157 
+image: "jacob.jpeg"
+---
+
+Le jazz est un genre qui se prête volontiers au mélange des genres et Brad Mehldau en est un bon témoignage. J’ai découvert le pianiste américain avec son excellent album *Largo* sorti au début des années 2000 et qui m’avait accroché l’oreille à l’époque pour sa reprise du non moins excellent « [*Paranoid Android*](https://www.youtube.com/watch?v=NZGQp6sWM4s) » de Radiohead. Il avait réussi à conserver toute l’énergie du titre original, mais avec une formation traditionnelle de jazz et sans aucune voix et cette reprise reste une superbe réussite.
+
+Je n’ai pas tellement suivi sa carrière prolixe par la suite, mais j’ai été intrigué par *Jacob’s Ladder*, son dernier album qui a été présenté comme un hommage au rock progressif. Voilà de quoi titiller ma curiosité et je dois dire que je m’attendais pas à un tel résultat. Cette fois, Brad Mehldau s’éloigne d’une formation classique de jazz et fait appel à des instruments tous droit sortis de l’âge d’or du prog’ et des groupes des années 1970, Yes et Emerson, Lake and Palmer en tête. L’album se construit en partie sur des reprises et hommages, en utilisant un son typé de cette époque grâce à l’utilisation d’orgues et autres claviers électroniques ainsi que des guitares électriques, et en partie sur des créations originales inspirées cette fois par… la *Bible*. J’aurais préféré éviter le thème biblique, mais Brad Mehldau est Américain après tout et puis on peut apprécier l’album sans prêter trop attention aux paroles. Pouvait-on d’ailleurs imaginer rendre hommage au rock progressif sans un concept qui traverse l’œuvre et lui donne sa structure ?
+
+Outre le son de l’époque, les douze titres font aussi la part belle aux compositions alambiquées, aux ruptures rythmiques et aux changements de tonalité. Si vous n’avez jamais écouté d’album de la grande époque du prog’, vous serez peut-être déboussolé par ce méli-mélo d’ambiances qui peut sembler bien bordélique. Peut-être est-ce mon adolescence plongée dans ces concept-albums tortueux, mais j’ai vite accroché à *Jacob’s Ladder*. Et sous les nappes des sonorités rétro, on peut toujours retrouver le piano de Brad Mehldau, égal à lui-même. Une agréable surprise.
