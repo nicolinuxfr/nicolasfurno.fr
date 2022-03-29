@@ -3,6 +3,7 @@ title: "*Jacob's Ladder*, Brad Mehldau"
 date: 2022-03-29T18:05:01+02:00
 id: 1606023157 
 image: "jacob.jpeg"
+pays: "us"
 ---
 
 Le jazz est un genre qui se prête volontiers au mélange des genres et Brad Mehldau en est un bon témoignage. J’ai découvert le pianiste américain avec son excellent album *Largo* sorti au début des années 2000 et qui m’avait accroché l’oreille à l’époque pour sa reprise du non moins excellent « [*Paranoid Android*](https://www.youtube.com/watch?v=NZGQp6sWM4s) » de Radiohead. Il avait réussi à conserver toute l’énergie du titre original, mais avec une formation traditionnelle de jazz et sans aucune voix et cette reprise reste une superbe réussite.
