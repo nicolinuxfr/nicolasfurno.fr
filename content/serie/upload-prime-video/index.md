@@ -1,0 +1,14 @@
+---
+title: "*Upload*, Prime Video"
+date: 2022-03-29T21:24:45+02:00
+tmdb: 86248 
+image: "upload.jpg"
+---
+
+Greg Daniels avait créé non pas une, mais deux séries en 2020. Quelques semaines seulement avant la sortie [*Space Force*](https://nicolasfurno.fr/serie/space-force-netflix/) sur Netflix, c’est Prime Video qui diffusait *Upload*, présentée comme une comédie dans un univers de science-fiction. Ses deux premières saisons explorent un univers virtuel où l’on peut se mettre en ligne après la mort et qui condense tout le pire de ce que l’humanité a imaginé : capitalisme à outrance, achats in-app et restrictions similaires au monde réel dans ce paradis numérique assez effrayant. Ce qui pourrait n’être un épisode de [*Black Mirror*](https://voiretmanger.fr/black-mirror-brooker-channel-4/) est ici étendu sur la durée, pas toujours adroitement d’ailleurs, mais la série est inventive et elle sait rester plaisante jusqu’au bout
+
+L’humour est moins marqué qu’on pouvait l’imaginer et surtout beaucoup plus noir. *Upload* s’éloigne du format de la sitcom qui a rendu Greg Daniels si célèbre, au profit d’une histoire qui frôle constamment avec la comédie romantique. Au fond, la création de Prime Video se construit autour de la relation entre Nathan, envoyé à Lakeview suite à sa mort, et Nora, l’« ange » qui s’occupe de lui dans sa vie numérisée. Tout le reste est presque un épiphénomène autour de cette intrigue amoureuse, ce qui est plutôt surprenant au premier abord, mais ce qui n’est pas le plus réussi à mon avis. Je préfère la découverte de ce monde virtuel qui combine le pire de la réalité mélangé au pire de l’informatique moderne[^1]. Ces paradis numériques où il faut payer pour avoir la chance de vivre après la mort, puis payer des achats in-app pour améliorer son train de vie, font froid dans le dos. La vision du futur mise en avant par *Upload* est proche de notre réalité, ce qui renforce son aspect glaçant. Tout ce qui est imaginé dans cet avenir existe dans notre présent, de la conduite autonome à la réalité augmentée, sans pour autant atteindre le même niveau de complexité.
+
+C’est bien pour cette raison que l’on pense si souvent à *Black Mirror* en regardant *Upload*. Est-ce une mauvaise situation pour autant ? En tout cas, Greg Daniels parvient à trouver sa propre voie et la fin de la deuxième saison laisse entrevoir une suite qui joue davantage sur les possibilités offertes par le clonage, virtuel ou non. De quoi, peut-être, offrir à la suite un petit peu plus de consistance, on peut en tout cas l’espérer. 
+
+[^1]: À un (gros) détail près, tout de même : la série se construit sur l’idée que la conscience numérique est stockée en un seul endroit et que l’on peut mourir pour de bon en cas de dommage. C’est logique comme excuse pour faire avancer l’intrigue, mais cela casse quelque peu l’illusion…
