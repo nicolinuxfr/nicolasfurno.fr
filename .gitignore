@@ -1,5 +1,6 @@
 /public/
 /resources/_gen/
 .env
+.envrc
 .hugo_build.lock
 .DS_Store
