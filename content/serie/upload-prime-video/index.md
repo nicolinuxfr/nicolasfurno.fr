@@ -1,6 +1,6 @@
 ---
 title: "*Upload*, Prime Video"
-date: 2022-03-29T21:24:45+02:00
+date: 2022-03-30T21:24:45+02:00
 tmdb: 86248 
 image: "upload.jpg"
 ---
