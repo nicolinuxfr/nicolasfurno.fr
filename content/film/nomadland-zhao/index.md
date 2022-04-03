@@ -1,6 +1,6 @@
 ---
 title: "*Nomadland*, Chloé Zhao"
-date: 2022-04-03T18:37:09+02:00
+date: 2022-04-03T21:37:09+02:00
 tmdb: 581734 
 image: "nomadland.jpg"
 ---
@@ -11,6 +11,6 @@ Fern fait partie de ces Américains qui ont tout perdu et qui ont choisi d’ach
 
 Chloé Zhao a utilisé des acteurs non-professionnels pour une partie du casting, ce qui apporte un réalisme incontestable au projet. Cette communauté d’Américains souvent vieux et peu fortunés sur la route est intéressante par ses contrastes. D’un côté, ils mettent tous en avant le choix de ce mode de vie et leur refus de revenir en arrière et de vivre à nouveau sous un toit en dur. D’un autre, on voit bien la difficulté de leur quotidien et le personnage de Dave n’hésite pas tellement quand il a l’opportunité de retrouver une maison avec sa famille. Ce n’est pas la norme pour autant, comme en témoigne le parcours de l’héroïne de *Nomadland*, mais la cinéaste n’a pas du tout cherché à embellir la situation. Son style est particulier, en ce sens qu’il n’est jamais directement jugeur, mais cela n’empêche pas la cinéaste de laisser son message transparaître par sa mise en scène. J’imagine qu’Amazon n’aurait jamais accepté d’ouvrir ses portes si le scénario avait été plus critique et même s’il n’avait pas été en apparence positif. Mais derrière l’apparence, il y a les images montrées par Chloé Zhao et des messages plus subtils, notamment sur la complicité du géant du commerce dans la précarité de ces séniors[^1]. 
 
-Comment ne pas s’enthousiasmer face à ce long-métrage ? On comprend vite les critiques dithyrambiques et la moisson de prix pour *Nomadland*, sa créatrice et ses interprètes, avec une mention spéciale pour Frances McDormand, excellente comme toujours. L’actrice a besoin de peu de moyens pour composer son personnage et toute sa complexité et le succès du projet lui doit indéniablement beaucoup.
+Comment ne pas s’enthousiasmer face à ce long-métrage ? On comprend vite les critiques dithyrambiques et la moisson de prix pour *Nomadland*, sa créatrice et ses interprètes, avec une mention spéciale pour Frances McDormand, excellente comme toujours. L’actrice a besoin de peu de moyens pour composer son personnage et toute sa complexité et le succès du projet lui doit indéniablement beaucoup. Sans oublier la bande-originale de Ludivic Einaudi, toute en légèreté et pourtant si intense.
 
 [^1]: Ce n’est jamais dit dans le film, mais on comprend qu’Amazon finance les emplacements de camping pour permettre à ces travailleurs en camionnettes aménagées de venir travailler. Au lieu de leur offrir un logement décent, l’entreprise préfère leur payer une place de camping au cœur de l’hiver, sans trop se soucier de leurs conditions de vie. 
