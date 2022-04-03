@@ -395,14 +395,26 @@ h1 {
     line-height: 1.3em;
 }
 
+.meta-photos {
+    text-align: right;
+    margin: 1em;
+    font-size: 0.7em;
+    color: var(--vert);
+}
+
+@media (prefers-color-scheme: dark){
+    .meta-photos {
+        color: var(--vert-hover);
+    }
+}
+
 .meta p,
 .meta ul {
     padding: 0;
     margin:0;
 }
 
-.meta li,
-.meta-photos li {
+.meta li {
     display: inline;
 }
 
@@ -417,6 +429,10 @@ h1 {
 @media (min-width: 1000px) {
     .meta .col {
         columns: 2;
+    }
+
+    .meta-photos {
+        font-size: 0.9em;
     }
 }
 
