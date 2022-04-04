@@ -1,0 +1,10 @@
+---
+title: "*Suspicion*, Apple TV+"
+date: 2022-04-04T21:41:21+02:00
+tmdb: 100414 
+image: "suspicion.jpg"
+---
+
+Adaptée, encore une fois, d’une série israélienne, *Suspicion* est surtout bien dans ses débuts. Quand on découvre le kidnapping dans un hôtel new-yorkais de Leo Newman, le fils de la patronne de l’agence de communication la plus puissante des États-Unis et surtout quand quatre citoyens anglais sont suspectés. Ils étaient tous de passage dans cet hôtel, mais leur implication semble dingue, ils ressemblent à des gens normaux et sans histoire. Petit à petit, Rob Williams apporte toutefois la suspicion promise par le titre et on découvre qu’ils ont tous un passé trouble. Malheureusement, cette bonne base ne mène pas à une résolution aussi explosive et la série portée par Apple TV+ finit par presque ennuyer poliment. Elle a le bon goût de ne pas trop s’étirer en longueur, mais j’ai été déçu.
+
+Et pourtant l’idée de placer le réchauffement climatique au cœur des enjeux sans en faire la justification pour un grand méchant qui veut tout détruire est bienvenue. Plus intéressant encore, cette remarque sur la destruction de la vérité quand on a commencé à remettre en cause la recherche scientifique et ses désastres potentiellement pire que le réchauffement climatique. Mais ces deux pistes auraient mérité d’être creusées davantage et pas balancées un petit peu au hasard, comme une excuse trouvée à la hâte pour répondre au slogan « *Tell The Truth* » scandé par des manifestants toujours plus nombreux… sans que l’on ne sache très bien à quoi ils font référence. *Suspicion* avait de bonnes bases, mais c’est comme si les scénaristes n’avaient pas su construire une bonne histoire à partir de ces fondations. Et ce n’est pas Uma Thurman qui vient relever le niveau, l’actrice n’a pas vraiment un rôle qui lui permet de briller. Dommage. 
