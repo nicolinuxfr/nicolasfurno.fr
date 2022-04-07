@@ -522,6 +522,15 @@ input:focus::placeholder {
     line-height: 1em;
 }
 
+#single .archives.calendrier a {
+    padding-left: 1.5em;
+    text-indent:-1.5em;
+}
+
+#single .archives.calendrier .catemoji {
+    padding-right: 0.2em;
+}
+
 
 #single .archives.calendrier .date {
     display: none;
