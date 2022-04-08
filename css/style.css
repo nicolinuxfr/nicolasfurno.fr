@@ -511,7 +511,10 @@ input:focus::placeholder {
 
 #single .archives.sections {
     text-align: center;
-    padding: 0;
+}
+
+#single .archives.sections .catemoji {
+    padding-right: 0.3em;
 }
 
 #single .archives.calendrier li {
