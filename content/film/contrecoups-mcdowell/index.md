@@ -1,0 +1,10 @@
+---
+title: "*Contrecoups*, Charlie McDowell"
+date: 2022-04-10T18:38:05+02:00
+tmdb: 850018 
+image: "contrecoups.jpg"
+---
+
+Le minimalisme peut produire des contenus extraordinaires, mais ce n’est pas toujours une qualité. Dans le cas de *Contrecoups*, on pourrait noter que la conception et le tournage au cœur d’une pandémie se voit quelque peu et le résultat manque peut-être un petit peu d’ampleur. L’idée n’est pas intéressante : un riche couple revient dans sa grande maison californienne alors qu’un cambrioleur est encore là. Le malfaiteur demande une grosse somme d’argent et il doit attendre pendant plus de 24 heures avec les propriétaires. C’est un huis-clos, même s’il y a un grand verger d’orangers derrière la maison pour sortir un petit peu, et il n’y a que quatre acteurs, dont trois principaux. Un dispositif minimaliste qui évoque une pièce de théâtre et qui ne laisse quasiment que des dialogues pour construire le long-métrage réalisé par Charlie McDowell.
+
+Et c’est un petit peu là que le bat blesse. Le casting est correct, mais leurs interactions sont limitées, notamment parce que le voleur, incarné par Jason Segel, ne dit rien à son sujet pour ne pas être identifié. Il reste le milliardaire standard de la Silicon Valley, interprété par un Jesse Plemons toujours aussi efficace, même si on l’a vu plus inspiré, et sa femme, jouée par Lily Collins. Le couple est présenté d’abord comme follement amoureux, mais les fissures sont vite révélées entre les deux. Le scénario n’a toutefois pas assez de place à leur accorder, puisqu’il faut faire avancer l’intrigue principale en parallèle et multiplier les problèmes pour le malfaiteur pour que la situation s’envenime. *Contrecoups* reste suffisamment court pour ne pas ennuyer complètement, sans pour autant passionner, d’autant que sa progression est au fond assez attendue. Je ne dirais pas que j’avais deviné dès le départ ce qui allait se passer, notamment pas la toute fin, mais enfin, je n’ai jamais été surpris et le film aurait bénéficié de quelques surprises ici ou là. 
