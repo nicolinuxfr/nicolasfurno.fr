@@ -296,16 +296,29 @@ h1 {
     text-align: center;
 }
 
-#single .date,
-#single-photo .date {
+.meta-top {
     text-align: right;
     font-family: var(--police-meta);
-    font-weight: 300;
+    line-height: 1.3em;
     font-size: 0.7em;
+    margin: 0.5em;
+}
+
+.meta-top .date {
+    font-weight: 300;
+}
+
+.meta-top .section {
+    font-weight: 600;
+}
+
+.meta-top .section a {
+    text-decoration: none !important;
 }
 
 #single .article,
 #single-photo .article {
+    clear: both;
     font-family: var(--police-texte);
     font-weight: 400;
 }
