@@ -522,6 +522,12 @@ input:focus::placeholder {
     padding: 0;
 }
 
+#single .compteur{
+    font-family: var(--police-meta);
+    font-size: 0.7em;
+    font-weight: 300;
+}
+
 #single .archives.sections {
     text-align: center;
 }
@@ -547,8 +553,14 @@ input:focus::placeholder {
     padding-right: 0.2em;
 }
 
+#single .archives.calendrier a:hover~.date {
+    color: var(--vert-hover);
+}
 
 #single .archives.calendrier .date {
+    font-family: var(--police-meta);
+    font-size: 0.6em;
+    font-weight: 300;
     display: none;
 }
 
@@ -577,6 +589,12 @@ input:focus::placeholder {
    
     #single .archives.calendrier .date.court {
         display: none;
+    }
+}
+
+@media (prefers-color-scheme: dark){
+    #single .archives.calendrier a:hover~.date {
+        color: var(--vert);
     }
 }
 
