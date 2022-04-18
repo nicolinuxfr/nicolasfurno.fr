@@ -86,6 +86,12 @@ button:focus {
     outline: none;
 }
 
+sup {
+    line-height: 0;
+    position: relative;
+    vertical-align: baseline;
+    top: -0.5em;
+}
 
 @media (prefers-color-scheme: dark) {
     a {
