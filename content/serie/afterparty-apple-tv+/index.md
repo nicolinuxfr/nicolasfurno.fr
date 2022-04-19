@@ -2,7 +2,6 @@
 title: "*The Afterparty*, Apple TV+"
 date: 2022-03-18T21:31:25+01:00
 tmdb: 106454 
-image: "afterparty.jpg"
 ---
 
 *The Afterparty* ressemble à une version modernisée d’un Agatha Christie. Une grande maison, un mort, toutes les personnes présentes suspectes et deux enquêteurs qui essaient de résoudre l’affaire dans les heures qui suivent. Chaque personne vient apporter son témoignage et un récit des faits avec son angle, jusqu’à la résolution finale, avec un petit peu de chance. Rien de bien originale jusque-là, mais la série portée par Apple TV+ opte pour un traitement plus original, avec un mélange des genres audacieux. Christopher Miller pastiche un genre par témoignage et par épisode : comédie romantique, thriller, *teen movie*, policier, comédie musicale, action et même animation, tout y passe dans un joyeux best-of un peu bordélique. 

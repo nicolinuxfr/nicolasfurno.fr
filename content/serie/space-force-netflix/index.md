@@ -2,7 +2,6 @@
 title: "*Space Force*, Netflix"
 date: 2022-02-26T21:11:19+01:00
 tmdb: 85922 
-image: "space-force.jpg"
 ---
 
 Une sitcom créée par Greg Daniels[^1] et Steve Carrell ? Non, ce n’est pas la suite de [*The Office*](https://voiretmanger.fr/office-gervais-merchant-nbc/), même si on retrouve bien quelques éléments clés de la « recette ». *Space Force* se déroule majoritairement dans un bureau, tous les personnages principaux sont des collègues et l’humour se construit sur leurs relations dans ce lieu de travail. Sur le papier, cela ressemble à une énième variante, avec un lieu de travail différent. Sur l’écran, il y a un petit peu de cela, inutile de le nier, mais la série portée par Netflix parvient à trouver sa propre voie. 

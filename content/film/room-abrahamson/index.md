@@ -2,7 +2,6 @@
 title: "*Room*, Lenny Abrahamson"
 date: 2022-02-22T21:21:27+01:00
 tmdb: 264644 
-image: "room.jpeg"
 ---
 
 Le mieux, c’est encore de découvrir *Room* sans rien avoir lu à son sujet. 

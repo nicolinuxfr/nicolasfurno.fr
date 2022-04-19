@@ -1,7 +1,6 @@
 +++
 title = "*Black Widow*, Cate Shortland"
 date = 2022-01-18
-image = 'black-widow.jpg'
 tmdb = 497698
 +++
 

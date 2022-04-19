@@ -2,7 +2,6 @@
 title: "*Contrecoups*, Charlie McDowell"
 date: 2022-04-12T18:22:05+02:00
 tmdb: 850018 
-image: "contrecoups.jpg"
 ---
 
 Le minimalisme peut produire des contenus extraordinaires, mais ce n’est pas toujours une qualité. Dans le cas de *Contrecoups*, on pourrait noter que la conception et le tournage au cœur d’une pandémie se voit quelque peu et le résultat manque peut-être un petit peu d’ampleur. L’idée n’est pas inintéressante : un riche couple revient dans sa grande maison californienne alors qu’un cambrioleur est encore là. Le malfaiteur demande une grosse somme d’argent et il doit attendre pendant plus de 24 heures avec les propriétaires. C’est un huis-clos, même s’il y a un grand verger d’orangers derrière la maison pour sortir un petit peu, et il n’y a que quatre acteurs, dont trois principaux. Un dispositif minimaliste qui évoque une pièce de théâtre et qui ne laisse quasiment que des dialogues pour construire le long-métrage réalisé par Charlie McDowell.

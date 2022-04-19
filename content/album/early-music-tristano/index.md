@@ -2,7 +2,6 @@
 title: "*On Early Music*, Francesco Tristano"
 date: 2022-02-28T21:17:48+01:00
 id: 1595745858
-image: "early-music.jpeg"
 pays: "lu"
 ---
 

@@ -2,7 +2,6 @@
 title: "*Artifacts*, Beirut"
 date: 2022-03-04T21:34:29+01:00
 id: 1583272303
-image: "artifacts.jpeg"
 pays: "us"
 ---
 

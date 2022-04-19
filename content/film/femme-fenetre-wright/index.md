@@ -2,7 +2,6 @@
 title: "*La femme à la fenêtre*, Joe Wright"
 date: 2022-02-06
 tmdb: 520663
-image: "fenetre.jpg"
 ---
 
 Adapté d’un roman, *La femme à la fenêtre* est un thriller au point de départ étonnamment proche de [*Fenêtre sur cour*](https://voiretmanger.fr/fenetre-cour-hitchcock/). Comme dans ce grand classique d’Alfred Hitchcock, on est dans un huis-clos, non pas sur une cour d’immeuble, mais dans une maison qui donne sur une autre maison de l’autre côté de la rue. Anna (Amy Adams) reste enfermée dans sa maison en permanence, elle n’en sort jamais et s’occupe en épiant ses voisins. Un jour, elle assiste à un meurtre dans la maison d’en face, mais personne ne la croit initialement à cause de son état psychologique. Si la trame ressemble fort à une redite, Joe Wright s’en éloigne vite, tout comme le roman qu’il adapte ici. Et malheureusement, quand on sort de l’hommage hitchcockien lourdement appuyé, on entre dans une partie originale… mais ratée.

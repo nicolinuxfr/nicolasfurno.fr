@@ -2,7 +2,6 @@
 title: "*Invasion*, Max Richter"
 date: 2022-02-16
 id: 1591027808
-image: "invasion.jpg"
 pays: "de"
 ---
 

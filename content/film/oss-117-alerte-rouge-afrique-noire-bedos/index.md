@@ -2,7 +2,6 @@
 title: "*OSS 117 : Alerte rouge en Afrique noire*, Nicolas Bedos"
 date: 2022-04-02T17:53:51+02:00
 tmdb: 604563 
-image: "oss-117.jpg"
 ---
 
 Le second degré nécessite un dosage précis. Un pas de côté, et vous transformez la critique en hommage, ce qui résume assez bien tout le problème d’*OSS 117 : Alerte rouge en Afrique noire*. Nicolas Bedos commence pourtant avec une bonne idée : représenter l’agent secret, toujours incarné par Jean Dujardin, au début des années 1980, ancré dans le passé glorieux de la France colonialiste et dépassé. Face à lui, Pierre Niney incarne un agent moderne, loin du racisme, du sexisme et de l’homophobie de son prédécesseur plein de préjugés. Le scénario imagine l’agent 117 relégué dans la cave avec les geeks qui travaillent sur des ordinateurs et son successeur part en mission en Afrique. Même quand Hubert doit partir l’aider, cet esprit de l’homme qui a fait son temps reste et le scénario se moque notamment de son incapacité à satisfaire les femmes.

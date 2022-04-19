@@ -2,7 +2,6 @@
 title: "*Alerte rouge*, Domee Shi"
 date: 2022-03-13T17:36:53+01:00
 tmdb: 508947 
-image: "red.jpg"
 ---
 
 Nous sommes en 2022 et l’un des faits notables à propos de la dernière production Pixar est le genre de sa créatrice. Aussi incroyable que cela puisse paraître, le studio n’a fait confiance à une femme pour réaliser l’un de ses films qu’une autre fois et encore, Brenda Chapman n’était que la co-réalisatrice de [*Rebelle*](https://voiretmanger.fr/rebelle-andrews-chapman/). Cette fois, pas d’entourloupes, *Alerte rouge* a bien été réalisé par une seule femme, Domee Shi, dont c’est d’ailleurs le premier film. C’est aussi elle qui a apporté l’idée au studio et l’héroïne est inspirée par sa propre expérience en tant qu’adolescente dans le Toronto du début des années 2000. 

@@ -2,7 +2,6 @@
 title: "*The Discovery*, Charlie McDowell"
 date: 2022-02-20T20:46:15+01:00
 tmdb: 376134 
-image: 'discovery.jpg'
 ---
 
 Que se passe-t-il après la mort ? Cette question hante théologiens et scientifiques depuis des siècles et il n’est pas étonnant que la fiction s’en empare régulièrement. *The Discovery* ne s’éloigne pas loin des rivages de *L’Expérience interdite* ou des *Thanatonautes* pour donner un exemple dans un autre genre, mais Charlie McDowell ne prétend pas réinventer la roue. Son long-métrage brille avant tout par son ouverture, pleine de mystère et particulièrement convaincante. Il n’est pas aussi spectaculaire une fois que les principales réponses ont été apportées, sans décevoir pour autant. En particulier, son ultime idée sur les regrets est intéressante, même si elle aurait peut-être mérité d’être creusée. Cela dit, la surprise finale est assez bien trouvée et, à défaut d’être très originale elle aussi, elle offre une remise en perspective amusante. 

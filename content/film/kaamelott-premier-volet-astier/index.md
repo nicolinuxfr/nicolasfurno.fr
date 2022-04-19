@@ -2,7 +2,6 @@
 title: "*Kaamelott - Premier volet*, Alexandre Astier"
 date: 2022-02-13T18:03:03+01:00
 tmdb: 577242 
-image: kaamelott.jpg
 ---
 
 [*Kaamelott*](https://voiretmanger.fr/kaamelott-astier/) a commencé comme une série de saynètes comiques, cinq minutes de relecture absurde du mythe arturien avec humour bien particulier qui est vite devenu culte. Alexandre Astier ne comptait pas en rester là toutefois, c’était un début modeste pour un univers de plus en plus ample et surtout sérieux. La série se concluait ainsi par deux saisons en rupture de plus en plus nette et le génial touche-à-tout avait déjà en tête une trilogie au cinéma pour offrir une fin digne de ce nom à sa relecture de la quête du Graal. Après quelques péripéties et retards, *Kaamelott - Premier volet* lance enfin cette trilogie, avec un long-métrage de deux heures pile à l’image de son créateur : d’une ambition folle, multipliant les idées et oscillant constamment entre sérieux et humour. C’est inégal, mais c’est si riche et généreux que ce n’est pas bien gênant.

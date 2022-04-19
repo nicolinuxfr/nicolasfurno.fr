@@ -1,7 +1,6 @@
 ---
 title: "*Laurent Cantet, le sens du collectif*, Marilou Duponchel et Quentin Mével"
 date: 2022-03-16T18:11:19+01:00
-image: "cantet.jpg"
 id: "R1JgEAAAQBAJ"
 pays: "fr"
 ---

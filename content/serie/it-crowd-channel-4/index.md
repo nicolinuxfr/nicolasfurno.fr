@@ -2,7 +2,6 @@
 title: "*The IT Crowd*, Channel 4"
 date: 2022-03-12T15:45:29+01:00
 tmdb: 2490 
-image: "crowd.jpg"
 ---
 
 Un bureau, quatre personnages principaux et un tournage face à un public pour enregistrer les rires en direct : *The IT Crowd* ressemble à n’importe quelle autre sitcom. Mais on peut faire confiance à la chaîne britannique Channel 4 pour imposer son ton décalé et un peu trash. La série créée par Graham Linehan a beau durer quatre saisons (et demi, la dernière ne comptant qu’un seul épisode), elle est restée courte avec 25 épisodes en tout. Cette durée lui permet de rester plaisante jusqu’au bout, même si elle peine un petit peu à sortir de ses clichés. À défaut d’être originale, on comprend facilement pourquoi la série est devenue culte, en particulier pour le public geek.

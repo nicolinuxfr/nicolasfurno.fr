@@ -2,7 +2,6 @@
 title: "*Jacob's Ladder*, Brad Mehldau"
 date: 2022-03-29T18:05:01+02:00
 id: 1606023157 
-image: "jacob.jpeg"
 pays: "us"
 ---
 

@@ -1,7 +1,6 @@
 +++
 title = "*Shang-Chi et la Légende des Dix Anneaux*, Destin Daniel Cretton"
 date = 2022-02-04
-image = 'shang.jpg'
 tmdb = 566525
 +++
 

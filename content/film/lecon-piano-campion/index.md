@@ -2,7 +2,6 @@
 title: "*La Leçon de piano*, Jane Campion"
 date: 2022-04-17T21:34:51+02:00
 tmdb: 713 
-image: "piano.jpg"
 ---
 
 *La Leçon de piano* est entré dans l‘histoire pour une raison assez triste au fond : Jane Campion est la première réalisatrice à avoir obtenu la Palme d’or à Cannes. Alors que cette récompense existe depuis le milieu des années 1950, il a fallu attendre 1993 pour qu’une femme soit enfin récompensée. Tant qu’à parler de choses tristes, le Festival de Cannes est une institution si sexiste qu’une seule autre femme a obtenu la récompense dans toute l’histoire de la compétition et c’était l’an dernier, en 2021, pour *Titane* de Julia Durcournau. 

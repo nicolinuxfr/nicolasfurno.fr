@@ -2,7 +2,6 @@
 title: "*Inventing Anna*, Netflix"
 date: 2022-02-23T20:29:03+01:00
 tmdb: 95665
-image: "anna.jpeg"
 ---
 
 L’histoire d’Anna Sorokin, jeune russe qui décide de se faire passer pour une riche héritière allemande et qui parvient à arnaquer le gratin new-yorkais, est fascinante et on comprend sans peine que Netflix ait décidé d’acheter les droits pour la raconter. Le résultat est *Inventing Anna*, une mini-série qui s’étale malgré tout sur neuf épisodes d’une bonne heure chacun et qui adopte le point de vue de la journaliste qui a révélé l’affaire et fait d’Anna Delvey, son pseudonyme d’arnaqueuse, une star. Un joli programme, pour une série passionnante, même si elle aurait peut-être mérité quelques coupes et même si la fin avec le procès est moins réussie que les premiers épisodes.

@@ -1,7 +1,6 @@
 ---
 title: "*Zèbre*, Paul Mirabel"
 date: 2022-03-05T22:45:28+01:00
-image: "zebre.jpg"
 ---
 
 Découvert pour ses chroniques délicieusement décalées et légèrement absurdes pour *France Inter*[^1], Paul Mirabel est bel et bien parti en tournée, dont à Guipavas [comme prévu](https://www.youtube.com/watch?v=MehDwNagb48) où nous avons pu le voir en chair et en os et l’écouter en direct. Son spectacle est nommé *Zèbre* en hommage à cet animal étrange à mi-chemin entre le cheval et l’âne qui tente de se cacher dans la savane avec ses rayures noires sur fond blanc, ou vice-versa, mais qui sont en tout cas toutes uniques. Comme Paul Mirabel lui-même, qui revendique son originalité dans un spectacle qui se situe quelque part entre le stand-up et la poésie. 

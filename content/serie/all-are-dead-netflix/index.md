@@ -2,7 +2,6 @@
 title: "*All of Us Are Dead*, Netflix"
 date: 2022-02-14T21:29:03+01:00
 tmdb: 99966
-image: "dead.jpg"
 ---
 
 Une attaque de zombies, mais dans un lycée sud-coréen, histoire de varier les décors. *All of Us Are Dead*, adaptation d’un « *webtoon* » pour Netflix, n’est originale à nos yeux d’occidentaux que par son cadre différent. Pour le reste, c’est toujours la même base, avec des ports-vivants assoiffés de sang qui contaminent rapidement tout un lycée, puis bientôt une ville entière. On suit quelques survivants qui tentent de résister en attendant l’arrivée des secours, mais comme à chaque fois, les zombies ont tellement d’avantages qu’il est bien difficile de ne pas mourir face aux hordes de monstres. D’autant que cette version coréenne conserve l’idée de bestioles pas très intelligentes et guidées par le goût du sang, mais pas leur lenteur traditionnelle. Ces zombies courent vite et il est bien difficile de leur résister, même quand on a vu *[Dernier train pour Busan](https://voiretmanger.fr/dernier-train-busan-yeon/)* et que l’on devine assez vite à quoi on a affaire, ce qui n’est pas gagné.

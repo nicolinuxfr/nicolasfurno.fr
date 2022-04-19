@@ -2,7 +2,6 @@
 title: "*Upload*, Prime Video"
 date: 2022-03-30T21:24:45+02:00
 tmdb: 86248 
-image: "upload.jpg"
 ---
 
 Greg Daniels avait créé non pas une, mais deux séries en 2020. Quelques semaines seulement avant la sortie [*Space Force*](https://nicolasfurno.fr/serie/space-force-netflix/) sur Netflix, c’est Prime Video qui diffusait *Upload*, présentée comme une comédie dans un univers de science-fiction. Ses deux premières saisons explorent un univers virtuel où l’on peut se mettre en ligne après la mort et qui condense tout le pire de ce que l’humanité a imaginé : capitalisme à outrance, achats in-app et restrictions similaires au monde réel dans ce paradis numérique assez effrayant. Ce qui pourrait n’être un épisode de [*Black Mirror*](https://voiretmanger.fr/black-mirror-brooker-channel-4/) est ici étendu sur la durée, pas toujours adroitement d’ailleurs, mais la série est inventive et elle sait rester plaisante jusqu’au bout

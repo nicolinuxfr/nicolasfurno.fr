@@ -2,7 +2,6 @@
 title: "*Ants From Up There*, Black Country, New Road"
 date: 2022-04-01T18:35:08+02:00
 id: 1586070259 
-image: "ants.jpg"
 pays: "gb"
 ---
 

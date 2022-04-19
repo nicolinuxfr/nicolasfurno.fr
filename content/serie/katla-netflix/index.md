@@ -1,7 +1,6 @@
 +++
 title = '*Katla*, Netflix'
 date = 2022-02-01
-image = 'katla.jpg'
 tmdb = 104157
 +++
 
