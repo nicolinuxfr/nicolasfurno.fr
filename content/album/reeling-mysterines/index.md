@@ -1,8 +1,7 @@
 ---
 title: "*Reeling*, The Mysterines"
-date: 2022-04-14T21:34:15+02:00
+date: 2022-04-22T21:50:15+02:00
 id: 1587673426 
-image: "reeling.jpg"
 pays: "gb"
 ---
 
