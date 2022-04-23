@@ -1,6 +1,6 @@
 ---
 title: "*I Am Greta*, Nathan Grossman"
-date: 2022-04-18T21:05:19+02:00
+date: 2022-04-23T21:05:19+02:00
 tmdb: 728123 
 ---
 
