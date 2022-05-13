@@ -1,5 +1,5 @@
 ---
-title: "*Euphoria*, HBO (Saison 2)"
+title: "*Euphoria*, HBO (saison 2)"
 date: 2022-03-31T21:59:35+02:00
 tmdb: 85552 
 ---

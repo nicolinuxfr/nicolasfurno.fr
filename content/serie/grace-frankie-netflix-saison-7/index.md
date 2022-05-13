@@ -1,5 +1,5 @@
 ---
-title: "*Grace et Frankie*, Netflix (Saison 7)"
+title: "*Grace et Frankie*, Netflix (saison 7)"
 date: 2022-05-12T20:57:11+02:00
 tmdb: 62320 
 ---
