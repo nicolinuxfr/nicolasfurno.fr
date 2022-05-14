@@ -2,7 +2,7 @@
 title: "*Get To Heaven*, Everything Everything"
 date: 2022-05-13T20:46:55+02:00
 id: 964286886 
-pays: ""
+pays: "gb"
 ---
 
 C’est toujours intéressant de découvrir un groupe qui a plusieurs années derrière lui et surtout qui a publié plusieurs albums. Recommandé par le service *Last.fm* basé sur mes écoutes habituelles, j’ai découvert Everything Everything un petit peu par hasard, en testant leur troisième album intitulé *Get To Heaven*. Tout un programme, pour cet ensemble de pas moins de 17 morceaux[^1] et de plus d’une heure qui s’est d’abord imposé comme une collection de titres légers aux intonations pop. En creusant un petit peu plus et en le réécoutant quelques fois supplémentaires, j’ai vite découvert que cette légèreté cachait une complexité formelle, avec des compositions plus originales qu’on pourrait l’imaginer au premier abord, et des thèmes volontairement très sombres.
