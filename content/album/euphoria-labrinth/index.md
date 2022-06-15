@@ -1,0 +1,12 @@
+---
+title: "*Euphoria (Original Score from the HBO Series)*, Labrinth"
+date: 2022-06-15T21:42:05+02:00
+id: 1481092579 
+pays: "gb"
+---
+
+*Euphoria* continue de me réserver des surprises. Pour une raison que j’ignore, j’étais passé à côté de la bande-originale composée par Labrinth pour [l’excellente première saison](https://voiretmanger.fr/euphoria-levinson-hbo/) de cette série créée par Sam Levinson pour HBO. L’artiste britannique a composé un melting-pot de genres avec une bonne vingtaine de morceaux d’inspiration diverses, mais qui se réunissent pour formé un excellent album cohérent, une gageure. Je n’irais peut-être pas jusqu’à dire que *‌Euphoria (Original Score from the HBO Series)* est encore plus réussi que la saison originale d’*Euphoria*, mais je dirais sans hésiter que le match serait serré.
+
+Les 26 titres qui composent l’album forment une bande sonore de plus d’une heure et si tous les morceaux ne sont pas tous aussi forts, mais ils sont tous indispensables à l’ensemble. Quelques-uns sortent du lot dès la toute première écoute, dont les géniaux « [*Forever*](https://www.youtube.com/watch?v=03nR6eWanXs) », « [*Nate Growing Up*](https://www.youtube.com/watch?v=mgDMTorgCPg) » ou encore l’impressionnant « [*Euphoria Funfair*](https://www.youtube.com/watch?v=cZ95LjpgCjU) » — un orchestre symphonique pour dix minutes d’anthologie inspirées par l’ambiance des fêtes foraines — qui m’avaient également marqués dès la première vision de la série elle-même. Ils conservent tout leur attrait pris indépendamment et forment une excellente musique, riche et intense, parfaitement adaptée à *Euphoria* autant qu’à une écoute indépendante. D’autres morceaux se dévoilent par la suite, comme « [*We All Knew*](https://www.youtube.com/watch?v=6Z09DVQpvdk) » qui est l’un de ceux qui exploitent la voix de Labrinth, « [*The Lake*](https://www.youtube.com/watch?v=KAEv2u5IsNk) » qui est d’une belle intensité ou encore « [*Demanding Excellence*](https://www.youtube.com/watch?v=R12kRIKWKPw) » qui me reste en tête.
+
+Après de multiples passages dans les oreilles, *‌Euphoria (Original Score from the HBO Series)* continue de m’impressionner par la variété des genres et inspirations qu’il déploie constamment sans perdre sa cohérence d’ensemble. J’aurais aimé le découvrir plus tôt, mais il n’est jamais trop tard et entre la bande-originale signée par l’artiste pour la [deuxième saison d’*Euphoria*](https://nicolasfurno.fr/serie/euphoria-hbo-saison-2/) et le reste de sa discographie, je sais que j’ai encore de nombreux titres signés Labrinth à écouter…
