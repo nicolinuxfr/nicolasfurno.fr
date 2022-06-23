@@ -1,5 +1,5 @@
 ---
-title: "*Severance*, Apple TV+"
+title: "*Severance*, Apple TV+"
 date: 2022-04-08T21:35:52+02:00
 tmdb: 95396 
 ---

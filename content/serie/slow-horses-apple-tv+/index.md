@@ -1,5 +1,5 @@
 ---
-title: "*Slow Horses*, Apple TV+"
+title: "*Slow Horses*, Apple TV+"
 date: 2022-05-05T21:33:49+02:00
 tmdb: 95480 
 ---

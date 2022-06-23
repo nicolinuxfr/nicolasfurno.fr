@@ -1,5 +1,5 @@
 ---
-title: "*The Afterparty*, Apple TV+"
+title: "*The Afterparty*, Apple TV+"
 date: 2022-03-18T21:31:25+01:00
 tmdb: 106454 
 ---
