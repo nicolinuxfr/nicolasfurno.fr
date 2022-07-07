@@ -1,6 +1,6 @@
 ---
 title: "*La Famille Tenenbaum*, Wes Anderson"
-date: 2022-07-03T20:40:23+02:00
+date: 2022-07-07T21:45:23+02:00
 tmdb: 9428 
 ---
 
