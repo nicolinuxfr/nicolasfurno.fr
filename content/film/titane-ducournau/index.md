@@ -1,0 +1,11 @@
+---
+title: "*Titane*, Julia Ducournau"
+date: 2022-07-27T22:31:34+02:00
+tmdb: 630240 
+---
+
+S’il y a bien un reproche que l’on ne fera pas à *Titane*, c’est de manquer d’originalité. En même temps, qui pensait après [*Grave*](https://voiretmanger.fr/grave-ducournau/) que Julia Ducournau pouvait tomber dans la banalité ? Bien au contraire, la cinéaste franchit une nouvelle étape dans le bizarre et propose avec ce deuxième long-métrage une histoire aussi folle que gênante, un mélange aussi audacieux que troublant d’un thriller teinté d’un drame, saupoudré d’une bonne dose d’horreur et d’une touche de fantastique, pourquoi pas. J’avais beaucoup aimé *Grave* qui bousculait le spectateur tout en lui laissant des repères plus conventionnels. Je suis plus circonspect sur *Titane*, qui se construit sur une base d’absurde qui m’a évoqué Quentin Dupieux et qui ne laisse ainsi aucune branche pour s’accrocher. 
+
+On ne peut pas non plus nier que Julia Ducournau sait créer des personnages forts et le travail de son actrice principale, Agathe Rousselle dont c’est d’ailleurs le premier long-métrage, est à nouveau époustouflant. Alexia est une danseuse aux pulsions meurtrières, avant de se transformer violemment en Adrien, fils disparu depuis dix ans que Vincent — incarné par un Vincent Lindon bodybuildé, on aura tout vu — adopte malgré l’absence de ressemblance physique. Cette transformation qui évoque la transidentité se fait sur fond de grossesse paranormale, Alexia ayant eu des rapports avec… une voiture. *Titane* ne va jamais là où on l’attend, ce qui est une qualité en même temps qu’une limite. À force de déstabiliser, le film prend le risque de perdre ses spectateurs avec des messages qui semblent partir dans toutes les directions. J’aime me laisser porter par une œuvre inattendue, mais même alors, je dois reconnaître que je ne savais plus trop que penser de cette histoire, surtout avec cette fin encore plus ébouriffante. 
+
+Sans être sûr d’avoir entièrement apprécié *Titane*, je peux malgré tout dire que je suis content de l’avoir vu. Julia Ducournau signe à nouveau une proposition de cinéma radicale, ce qui n’est pas si fréquent et qui mérite notre intérêt. Mieux vaut néanmoins se lancer avec un estomac bien accroché et un esprit grand ouvert.
