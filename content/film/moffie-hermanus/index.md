@@ -1,0 +1,14 @@
+---
+title: "*Moffie*, Oliver Hermanus"
+date: 2022-08-21T21:13:19+02:00
+tmdb: 618228 
+---
+
+Imaginez l’enfer du service militaire sud-africain en pleine Apartheid, ces quelques mois pendant lesquels tous les jeunes hommes devaient risquer leur vie pour un régime raciste rétrograde. Maintenant, imaginez qu’un jeune gay se retrouve au milieu de cet environnement rigoriste et profondément homophobe. C’est tout le sujet de *Moffie*, qui suit le parcours de Nicholas, alors qu’il découvre son attirance pour les garçons dans l’un des pires contextes qui soit. Oliver Hermanus adapte un roman autobiographique écrit par André Carl van der Merwe et il choisit de bloquer sa caméra sur le point de vue de son personnage principal. Un choix évident et payant quand le spectateur est confronté, comme Nicholas, à la violence absolue de l’homophobie qui règne dans ce camp.
+
+*Moffie* ne s’arrête pas à ce sujet toutefois, le long-métrage s’attaque aussi aux horreurs de l’Apartheid et surtout décortique méthodiquement la toxicité masculine érigée en doctrine. Le régime sud-africain du début des années 1980 considère que les garçons deviennent des hommes à l’armée, à condition de les traiter comme des moins que rien, de les martyriser psychologiquement et même physiquement et surtout de leur inculquer les « bonnes valeurs », à base de racisme anti-noir et de haine du communisme. La haine de l’homosexualité est glissée au passage, la religion n’étant jamais loin pour justifier les actions intolérables de ces hommes qui vivaient dans un fantasme passéiste. L’ensemble est terrifiant et parfaitement rendu, tout en ménageant presque par miracle une place pour la romance. J’ai trouvé Kai Luke Brümmer très juste dans le rôle de Nicholas, qui se sait gay depuis l’enfance, mais qui a déjà été terrorisé par cette société viscéralement homophobe et qui sait ainsi à quoi s’en tenir. Malgré tout, il parvient à trouver non pas l’amour, mais un espoir. Sans tomber dans l’angélisme facile, Oliver Hermanus choisit de ne pas rester non plus dans la noirceur absolue avec cette touche de lumière sur la fin. Elle est d’autant plus la bienvenue que le film n’épargne pas les horreurs de la guerre, ni son absurdité, à l’image de cette séquence d’attaque incompréhensible et inutile. 
+
+*Moffie* ne révolutionne pas le genre, mais le projet n’en est pas moins important. Les faits évoqués n’ont qu’une quarantaine d’années et on aurait tort d’oublier qu’à cette époque, on pouvait traiter un homme moins que rien parce qu’il n’avait pas la peau blanche ou parce qu’il avait le tort d’aimer les hommes. Et au-delà de ces faits historiques, on ne rappellera jamais trop souvent la stupidité de la guerre et des entraînements militaires ridiculisés il y a bien des années de cela [par Stanley Kubrick](https://voiretmanger.fr/full-metal-jacket-kubrick/). 
+
+
+
