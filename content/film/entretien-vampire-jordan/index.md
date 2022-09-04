@@ -1,6 +1,6 @@
 ---
 title: "*Entretien avec un vampire*, Neil Jordan"
-date: 2022-09-04T19:20:58+02:00
+date: 2022-09-04T21:05:58+02:00
 tmdb: 628 
 ---
 
