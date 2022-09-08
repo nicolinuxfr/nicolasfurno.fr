@@ -1,0 +1,9 @@
+---
+title: "*Voodoo Detective*"
+date: 2022-09-08T20:50:12+02:00
+id: "1740680"
+---
+
+Vous incarnez « Detective, Voodoo Detective », un détective privé qui pratique le vaudou et qui est embauché par une cliente amnésique. Votre travail consiste à l’aider à retrouver sa mémoire en menant l’enquête auprès des habitants d’une petite île tropicale envahie de touristes. *Voodoo Detective* est un jeu d’aventures à l’ancienne, avec son univers en deux dimensions dessiné à la main, son interaction basée uniquement sur un curseur et des clics, ses multiples dialogues et ses puzzles à résoudre. Dans la grande famille des « *point & click* », celui-ci appartient par ailleurs au sous-genre humoristique, avec un personnage principal qui fait des traits d’humour, des personnages secondaires souvent ridicules et des solutions régulièrement loufoques pour les énigmes. Ce n’est pas très original et j’ai forcément pensé aux premiers jeux LucasArts, le mythique *The Secret of Monkey Island* en tête, mais est-ce un défaut pour autant ?
+
+Dans ce genre assez bien défini désormais, *Voodoo Detective* est un jeu réussi, fun et même drôle par moments, pas trop difficile sans être trop simple pour autant. Il m’a fallu autour de cinq heures pour terminer l’aventure, sans me presser, mais en accélérant quelques dialogues qui peuvent être longs, même si je dois souligner que les interprétations des acteurs sont toutes excellentes. À ce sujet, il faut noter que le titre n’est pas traduit, tout est en anglais et même si vous pouvez lire des sous-titres, ils sont aussi en anglais. Si vous ne maîtrisez pas langue, vous passerez à côté du jeu et mieux vaut attendre qu’une hypothétique traduction arrive. Mais si ce n’est pas un problème et que vous aimez ces jeux d’aventures à l’ancienne, vous pouvez vous précipiter les yeux fermés, vous ne le regretterez pas. 
