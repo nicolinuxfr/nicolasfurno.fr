@@ -233,16 +233,14 @@ h1 {
     background-color: var(--couleur-texte);
 }
 
-.pagination a:hover{
-    font-weight: 900;
+.pagination a:hover,
+.pagination .active a {
+    background-color: var(--vert-hover);
+    color: var(--couleur-texte);
 }
 
 .pagination .disabled {
     display: none;
-}
-
-.pagination .active a {
-    font-weight: 900;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -250,7 +248,14 @@ h1 {
         color: var(--couleur-texte);
         background-color:var(--texte-sombre);
     }
+
+    .pagination a:hover,
+    .pagination .active a {
+        background-color: var(--vert);
+    }
 }
+
+
 
 /* Articles */
 
