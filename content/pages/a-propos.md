@@ -26,6 +26,10 @@ Vous pouvez me contacter par mail : [nicolasfurno@gmail.com](mailto:nicolasfurn
 
 Je suis aussi accessible sur Twitter : [@nicolasfurno](https://twitter.com/nicolasfurno)
 
+## Suivre le blog
+
+Vous pouvez suivre le blog en vous abonnant [à son flux RSS](/index.xml).
+
 
 [^1]: C’est ce qui m’a donné l’idée du logo « officiel » du site, si vous vous posiez la question.
 
