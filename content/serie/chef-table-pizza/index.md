@@ -1,6 +1,6 @@
 ---
 title: "*Chef's Table : Pizza*, Netflix"
-date: 2022-08-15T21:33:33+02:00
+date: 2022-09-18T22:00:33+02:00
 tmdb: 208589 
 ---
 
