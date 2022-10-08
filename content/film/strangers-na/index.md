@@ -1,0 +1,12 @@
+---
+title: "*The Strangers*, Na Hong-jin"
+date: 2022-10-08T21:48:43+02:00
+tmdb: 293670 
+---
+
+*The Strangers* appartient à cette catégorie de longs-métrages qu’il est préférable de découvrir à l’aveugle, sans rien savoir à son sujet. Si vous aimez les histoires bizarres et que la violence visuelle ne vous effraie pas, je vous recommande de le regarder avant de revenir lire ce qui suit.
+
+Na Hong-jin prend son temps pour déployer son troisième film, qui dure plus de deux heures et demi. Pour autant, ce n’est pas trop long, bien au contraire : l’ennui n’a pas sa place dans ce petit village reculé de Corée secoué par une série de meurtres d’une violence inouïe. *The Strangers* suit un policier du coin qui est caractérisé dès le départ par son manque de courage et sa bêtise. Le scénario ne fait pas dans la dentelle et frôle même avec la caricature avec son collègue encore plus idiot, mais c’est tout à fait intentionnel. Le cinéaste coréen ne cesse de brouiller les pistes pour nous plonger dans le noir, d’ailleurs littéralement dans plusieurs séquences. L’intrigue semble se former autour d’une enquête policière, mais c’est une fausse piste abandonnée progressivement en faveur de ce qui s’apparente à de l’horreur en mode zombies, à moins que ce soit du fantastique religieux à base d’exorcisme. Après tout, le long-métrage commence par une citation de l’Évangile selon Saint-Luc, mais la place de la religion catholique est moins déterminante qu’on le pensait initialement. Même le rôle de l’étranger évoqué dès le titre est confus : le « Jap’ » comme le surnomme les habitants est rapidement pris pour cible, mais est-il le meurtrier ou au contraire un protecteur ?
+
+Jusqu’à la dernière minute, Na Hong-jin prend un malin plaisir pour brouiller les pistes et relancer plus de questions qu’il n’apporte de réponses. Il ne faut pas chercher d’explications complètes, notamment pour la fin assez confuse à dessein. *The Strangers* ne peut pas se résumer en une ligne facile et il n’y a peut-être rien à comprendre, en tout cas, ce n’est pas l’essentiel. À cet égard, on est davantage dans le film d’ambiance, et quelle ambiance ! Poisseuse et humide, elle fait la part belle à des décors crades à souhait et elle devient de plus en plus étouffante au fur et à mesure que l’histoire avance. De quoi rendre fous les villageois qui hurlent et s’en prennent aveuglément à la cible facile. Même les nerfs du spectateur sont mis à rude épreuve et on sort déboussolé et lessivé, ce qui est sans doute le signe de la réussite de *The Strangers*. 
+
