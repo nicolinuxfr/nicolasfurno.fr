@@ -19,8 +19,10 @@ jobs:
         env:
             cache-name: cache_ressources
         with:
-          path: resources/_gen
-          key: ${{ runner.os }}-build-${{ env.cache-name }}
+          path: |
+            build
+            resources/_gen       
+          key: ${{ runner.os }}-build-${{ env.cache-name }}-${{ hashFiles('config', 'content', 'data', 'themes') }}
           restore-keys: |
             ${{ runner.os }}-build-${{ env.cache-name }}-
             ${{ runner.os }}-build-
