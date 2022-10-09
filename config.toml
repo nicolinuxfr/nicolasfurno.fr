@@ -50,3 +50,8 @@ enableGitInfo = true
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+
+[caches]
+  [caches.getjson]
+    dir = ':resourceDir/_gen/'
+    maxAge = "336h"
