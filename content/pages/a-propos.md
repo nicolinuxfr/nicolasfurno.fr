@@ -24,7 +24,7 @@ Puisqu’il s’agit d’un site statique qui ne nécessite pas un serveur dynam
 
 Vous pouvez me contacter par mail : [nicolasfurno@gmail.com](mailto:nicolasfurno@gmail.com)
 
-Je suis aussi accessible sur Twitter : [@nicolasfurno](https://twitter.com/nicolasfurno)
+Je suis également sur Twitter : [@nicolasfurno](https://twitter.com/nicolasfurno)
 
 ## Suivre le blog
 
