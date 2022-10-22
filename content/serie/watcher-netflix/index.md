@@ -1,0 +1,13 @@
+---
+title: "*The Watcher*, Netflix"
+date: 2022-10-22T21:45:55+02:00
+tmdb: 210232 
+---
+
+Juste après *[Dahmer : Monstre - L’histoire de Jeffrey Dahmer](https://nicolasfurno.fr/serie/dahmer-netflix/)*, on n’arrête plus Ryan Murphy ! Depuis qu’il a signé un accord exclusif avec Netflix, le cinéaste crée série après série, en général avec Ian Brennan. On retrouve d’ailleurs les deux noms dans la liste de créateurs de *The Watcher*, mais cette fois, Ryan Murphy ne se contente pas de donner son nom et son œil de producteur. Il a écrit tous les épisodes et il en a même réalisé deux : il s’est impliqué pour de bon dans cette maison hantée, avec un gros twist, puisqu’elle est inspirée d’une histoire vraie. 
+
+Pour autant, tous les codes du genre sont bien respectés : une famille s’installe dans une grande et vieille maison du New Jersey et très vite, des choses anormales s’y passent. Le garçon de la famille retrouve son furet la tête écrabouillée, la fille entend une musique et des lettres menaçantes commencent à arriver. *The Watcher* instaure ainsi progressivement une ambiance de plus en plus oppressante et la série a d’ailleurs besoin d’un épisode ou deux pour atteindre son rythme de croisière. L’horreur vécue par la famille va *crescendo*, tandis que le couple augmente sa paranoïa à toute allure : installation d’une alarme et de dizaines de caméras, nuits passées dans un Motel du coin et bientôt une détective privée embauchée pour résoudre ce mystère. La mini-série de Netflix monte en gamme et explose en son cœur, avec deux ou trois épisodes d’une rare intensité et qui justifient de la regarder. Les hypothèses les plus folles défilent, à base de passages secrets, de société secrète assoiffée de sangs et d’agents immobiliers sans scrupules. Comme les deux parents, les spectateurs vont d’une piste à l’autre, ça part dans tous les sens tout en gardant le cap : ces épisodes centraux sont brillants.
+
+Malheureusement, *The Watcher* n’a pas de conclusion brillante à apporter, l’affaire n’ayant jamais été élucidée dans la réalité. Les scénaristes ont parié sur une fin ouverte, mais j’ai trouvé qu’elle ne fonctionnait pas très bien ici, surtout pas après des séquences aussi intenses. Et puis, on ne nous explique jamais pourquoi des pistes pourtant évidentes (où va le tunnel ?) ne sont pas explorées.  Dans le même ordre d’idée, les personnages secondaires sont sous-exploités pour la plupart et auraient mérité une place plus significative. Malgré ces défauts, la dernière série de Ryan Murphy est suffisamment courte pour rester divertissante jusqu’au bout et j’ai passé un bon moment.
+
+
