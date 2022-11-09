@@ -54,4 +54,4 @@ enableGitInfo = true
 [caches]
   [caches.getjson]
     dir = ':resourceDir/_gen/'
-    maxAge = "336h"
+    maxAge = "536h"
