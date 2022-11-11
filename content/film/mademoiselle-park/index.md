@@ -1,6 +1,6 @@
 ---
 title: "*Mademoiselle*, Park Chan-wook"
-date: 2022-11-06T20:39:37+01:00
+date: 2022-11-11T11:20:00+01:00
 tmdb: 290098 
 ---
 
