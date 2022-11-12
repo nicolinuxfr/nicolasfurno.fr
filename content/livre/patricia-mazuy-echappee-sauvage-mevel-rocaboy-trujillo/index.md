@@ -1,0 +1,11 @@
+---
+title: "*Patricia Mazuy, l’échappée sauvage*, Gabriela Trujillo, Séverine Rocaboy et Quentin Mével"
+date: 2022-11-12T21:31:03+01:00
+id: "bsOWEAAAQBAJ"
+pays: "fr"
+---
+
+Cette fois, j’ignorais non seulement la carrière de Patricia Mazuy, mais jusqu’à son nom. Elle est « *singulière dans le paysage cinématographique français* », comme le note la quatrième couverture de *Patricia Mazuy, l’échappée sauvage*, un essai composé d’une introduction et d’un entretien avec la cinéaste. Autant dire que j’ai abordé ma lecture avec une curiosité polie, mais sans en attendre beaucoup. Mais comme toujours avec les publications de Playlist Society, j’ai pris du plaisir à découvrir un univers que je ne connaissais pas.
+
+L’introduction rédigée par Gabriela Trujillo est utile pour poser les grands moments de la carrière de Patricia Mazuy et dresser les lignes directrices de son travail. C’est toutefois dans l’entretien réalisé par Séverine Rocaboy et Quentin Mével qui occupe la majorité du livre que l’intérêt de l’ouvrage se trouve surtout à mon sens. La cinéaste parle de son travail et elle le fait avec une franchise rare dans le cinéma, saluant ce qu’elle trouve réussi, regrettant aussi ce qu’elle pense avoir raté. N’ayant vu aucun de ses films, je n’ai pas d’avis sur la question, mais je trouve cette approche rafraîchissante et cette sincérité donne envie de découvrir son univers. Un univers qui semble en effet singulier, avec des œuvres très différentes et un brassage des genres assez impressionnant quand on pense que sa filmographie n’atteint pas les dix long-métrages. Documentaire commandé par une chaîne, film d’époque en costume et même thriller : elle a essayé de nombreuses pistes et son côte touche à tout rend son témoignage plus intéressant. J’ai particulièrement apprécié ses réponses détaillées sur les choix musicaux, parfois liés à des obligations externes — comme sur son dernier film, *Bowling Saturne*, où il fallait des artistes belges pour obtenir un financement — mais qui parviennent toujours à trouver une place logique dans le projet. Le problème des financements traverse aussi toutes ses réponses et c’est assez fascinant de voir comment des réalisateurs peu connus parviennent à créer des films avec peu de moyens. 
+
