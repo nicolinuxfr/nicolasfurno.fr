@@ -1,8 +1,8 @@
-+++
-title = '*Archive 81*, Netflix'
-date = 2022-02-05T17:17:48+01:00
-tmdb = 112314
-+++
+---
+title: '*Archive 81*, Netflix'
+date: 2022-02-05T17:17:48+01:00
+tmdb: 112314
+---
 
 
 Une série horrifique qui joue sur notre nostalgie, encore ? Oui, mais *Archive 81* est plus intéressante qu’on pourrait le croire. Certes, l’histoire développée par Rebecca Sonnenshine à partir d’un podcast nous renvoie dans les années 1990, à l’ère où l’on enregistrer des vidéos sur des films en plastique. Certes, la série portée par Netflix raconte une histoire d’horreur à base de sorcières et de rites occultes. Elle mérite néanmoins votre intérêt, en tout cas les huit épisodes de la première saison, car elle parvient à créer une ambiance poisseuse très réussie et surtout qui ne retombe pas comme un soufflet passés les premiers épisodes.

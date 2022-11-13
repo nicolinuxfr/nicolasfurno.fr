@@ -1,8 +1,8 @@
-+++
-title = "*Shang-Chi et la Légende des Dix Anneaux*, Destin Daniel Cretton"
-date = 2022-02-04
-tmdb = 566525
-+++
+---
+title: "*Shang-Chi et la Légende des Dix Anneaux*, Destin Daniel Cretton"
+date: 2022-02-04
+tmdb: 566525
+---
 
 
 Après le succès de [*Black Panther*](https://voiretmanger.fr/black-panther-coogler/), Marvel semble enfin avoir réalisé que le monde ne s’arrêtait pas aux frontières des États-Unis et qu’il y avait d’autres pays au-delà. *Shang-Chi et la Légende des Dix Anneaux* introduit un nouveau personnage dans le monstrueux [*Univers Cinématographique Marvel*](https://voiretmanger.fr/saga/univers-cinematographique-marvel/), un choix qui semble un petit peu surprenant après le gigantesque combat contre Thanos, mais enfin, ce nouveau superhéros est différent. Comme son nom l’indique, il trouve son origine à l’autre bout du monde, en Chine plus particulièrement et Marvel a réuni un casting (américano-)asiatique pour raconter son histoire. Destin Daniel Cretton n’est pas un habitué des blockbusters immenses qui parcourent la saga, mais cela ne lui permet pas de dévier de la formule consacrée, avec une bonne dose d’action, un gros soupçon d’humour et une histoire qui implique de sauver le monde, rien que ça. 
