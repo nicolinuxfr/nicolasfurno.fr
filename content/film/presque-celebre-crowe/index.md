@@ -1,7 +1,7 @@
 ---
 title: "*Presque Célèbre*, Cameron Crowe"
 date: 2022-06-26T21:05:42+02:00
-tmdb: 786 
+id: 786 
 ---
 
 *Presque Célèbre* suit les pas d’un jeune de 15 ans embauché par *Rolling Stones* pour suivre la tournée d’un groupe de rock et publier un article de plusieurs milliers de mots qui fera peut-être la couverture du magazine. Autant dire que cette histoire ne se déroule pas notre époque ni à celle de sa sortie, en 2000. Cameron Crowe a puisé dans ses propres souvenirs de jeunesse pour écrire le scénario de ce long-métrage qui est ainsi en partie autobiographique. Il se déroule au début des années 1970, en pleine révolution culturelle, en pleine explosion de groupes et artistes devenus mythiques et à une époque où personne ne semble choqué qu’un jeune de 15 ans suive pendant plusieurs semaines le quotidien d’un groupe constamment alcoolisé et drogué.

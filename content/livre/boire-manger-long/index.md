@@ -1,7 +1,7 @@
 ---
 title: "*A boire et à manger*, Guillaume Long"
 date: 2022-08-31T21:22:03+02:00
-id: "xeO7zgEACAAJ"
+id: xeO7zgEACAAJ
 pays: "fr"
 ---
 

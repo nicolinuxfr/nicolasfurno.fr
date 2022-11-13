@@ -1,7 +1,7 @@
 ---
 title: "*OVNI(s)*, Canal+ (saison 2)"
 date: 2022-02-24T21:15:47+01:00
-tmdb: 108353 
+id: 108353 
 ---
 
 La [première saison d’*OVNI(s)*](https://voiretmanger.fr/ovnis-dargent-douaire-canal/) avait réussi à épater par son ton décalé et un humour qui ne laissait pas de côté un sérieux dans la réalisation et la direction d’acteurs. Canal+ avait renouvelé sans attendre cette excellente création originale et la suite est arrivée un an après, avec douze nouveaux épisodes d’une trentaine de minutes. Inutile de faire durer le suspense plus longtemps : c’est à nouveau une réussite incontestable, du genre qu’on aimerait voir plus souvent en France.

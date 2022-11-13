@@ -1,7 +1,7 @@
 ---
 title: "*Pachinko*, Apple TV+"
 date: 2022-05-02T21:30:48+02:00
-tmdb: 110382 
+id: 110382 
 ---
 
 Le huitième épisode de la première saison de *Pachinko* se termine sur des extraits d’interview de femmes originaires de Corée qui ont émigré au Japon dans les années 1920 ou 1930 et qui ne sont pas reparties dans leur pays après la Seconde Guerre mondiale. En clôturant sa première partie sur ces images, la série créée par Soo Hugh termine de surprendre, comme si elle cherchait à révéler son véritable sujet à la toute fin. Avant cela, la création d’Apple TV+ a déployé huit épisodes d’une heure d’une densité assez folle et avec le pari toujours difficile à relever de toucher à l’universel par l’intime. *Pachinko* n’est pas aisée à résumer, c’est tout à la fois une fresque historique qui s’étale sur plusieurs décennies, le récit d’une famille de Coréens émigrés au Japon à travers les générations et les histoires de femmes qui ont survécu au sein d’un milieu hostile. C’est une page des histoires coréenne et japonaise que l’on connaît mal et c’est encore une touchante histoire personnelle. 

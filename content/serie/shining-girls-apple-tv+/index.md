@@ -1,7 +1,7 @@
 ---
 title: "*Shining Girls*, Apple TV+"
 date: 2022-06-22T21:44:56+02:00
-tmdb: 106388 
+id: 106388 
 ---
 
 **Cette série s’appréciera mieux sans rien avoir lu à son sujet…**

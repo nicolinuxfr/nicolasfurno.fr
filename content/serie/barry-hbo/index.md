@@ -1,7 +1,7 @@
 ---
 title: "*Barry*, HBO"
 date: 2022-09-10T21:12:44+02:00
-tmdb: 73107 
+id: 73107 
 ---
 
 Un tueur à gages qui se découvre une vocation d’acteur lors d’un assassinat à Los Angeles : le point de départ de *Barry* est original et suffisamment barré[^1] pour intriguer, mais après le pilote, j’avais un petit peu de mal à envisager qu’il puisse servir de fondation pour une série de trois saisons. Alec Berg et Bill Hader ont toutefois largement prouvé qu’ils avaient de quoi tenir la distance, en créant des personnages toujours loufoques, mais crédibles. *Barry* est une comédie aussi noire que délicieuse et qui a le meilleur parcours qu’une série peut rêver d’avoir : au fil des épisodes et des saisons, elle s’améliore. La première est très bien, mais quand on arrive à la troisième, on atteint le niveau des grandes séries, avec un humour absurde parfaitement maîtrisé et une mise en scène qui frôle avec les meilleures. HBO a renouvelé sa création originale pour une quatrième saison et même si l’histoire semblait toucher à sa fin, je suis sûr que les scénaristes sauront trouver les bonnes idées pour étendre leur univers.

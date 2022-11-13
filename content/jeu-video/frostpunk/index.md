@@ -1,7 +1,7 @@
 ---
 title: "*Frostpunk*"
 date: 2022-05-23T21:15:19+02:00
-id: "323190"
+id: 323190
 ---
 
 Vous prenez la tête d’un camp de survivants qui tente de se réchauffer autour d’une immense chaudière au charbon, la seule défense contre l’ère glaciaire qui s’abat sur cette version de la planète plongée dans le noir à la fin du XIX<sup>e</sup> siècle par l’éruption de deux volcans. Vous devrez collecter du charbon pour maintenir le générateur en route et tenter de survivre un jour de plus. Bienvenue dans *Frostpunk*, un jeu de gestion post-apocalyptique tendance *steampunk*. 

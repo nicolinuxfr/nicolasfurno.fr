@@ -1,7 +1,7 @@
 ---
 title: "*Le Réalisme magique du cinéma chinois*, Hendy Bicaise"
 date: 2022-05-09T21:53:03+02:00
-id: "-F1lEAAAQBAJ"
+id: -F1lEAAAQBAJ
 pays: "fr"
 ---
 

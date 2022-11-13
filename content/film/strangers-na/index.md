@@ -1,7 +1,7 @@
 ---
 title: "*The Strangers*, Na Hong-jin"
 date: 2022-10-08T21:48:43+02:00
-tmdb: 293670 
+id: 293670 
 ---
 
 *The Strangers* appartient à cette catégorie de longs-métrages qu’il est préférable de découvrir à l’aveugle, sans rien savoir à son sujet. Si vous aimez les histoires bizarres et que la violence visuelle ne vous effraie pas, je vous recommande de le regarder avant de revenir lire ce qui suit.

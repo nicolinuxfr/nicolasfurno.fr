@@ -1,7 +1,7 @@
 ---
 title: "*Désenchantée*, Netflix"
 date: 2022-02-18T21:50:03+01:00
-tmdb: 73021
+id: 73021
 ---
 
 *Désenchantée*, ou la rencontre ahurissante des *Simpsons* et de *Game of Thrones*, comme le suggère John DiMaggio qui donne sa voix au roi Zøg. La référence est assumée dans les premiers épisodes, avec ce trône composé d’épées et un gag dans l’esprit des bonshommes jaunes créés par le même Matt Groening près de 30 ans avant : repoussant le prince qu’elle devait épouser, la princesse Bean tue son prétendant, empalé sur l’une des épées. En apparence, cette création pour Netflix ressemble ainsi à une énième variante des *Simpsons*, mais dans un univers d’heroïc-fantasy avec des créatures mythiques et de la magie. Et si les premiers épisodes restent concentrés sur cette idée, *Désenchantée* révèle progressivement un univers beaucoup plus riche que cela et aussi… nettement moins drôle. 

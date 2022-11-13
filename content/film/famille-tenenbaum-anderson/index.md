@@ -1,7 +1,7 @@
 ---
 title: "*La Famille Tenenbaum*, Wes Anderson"
 date: 2022-07-07T21:45:23+02:00
-tmdb: 9428 
+id: 9428 
 ---
 
 Le style Wes Anderson se reconnaît entre milles et *La Famille Tenenbaum* a permis au cinéaste de le cristalliser pleinement. Son troisième long-métrage rassemble tout ce qui l’a fait connaître : les couleurs pop, les décors rétro très travaillés, les personnages hauts en couleur, la famille dysfonctionnelle et cette pointe d’absurde teintée de préciosité. Autant de traits qui plairont à ses fans et feront fuir ses détracteurs. Je me place dans la première catégorie et ce film sorti en 2001 reste indéniablement l’un de ses meilleurs.

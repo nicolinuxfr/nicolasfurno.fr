@@ -1,7 +1,7 @@
 ---
 title: "*Adaptation.*, Spike Jonze"
 date: 2022-07-03T20:32:58+02:00
-tmdb: 2757 
+id: 2757 
 ---
 
 *Adaptation.* est un film étonnant, qu’il est préférable de découvrir sans rien avoir lu à son sujet. Le long-métrage réalisé par Spike Jonze s’apprécie d’autant plus la première fois qu’on le regarde sans connaître son sujet et surtout pas son concept, car c’est là tout son intérêt. Si vous ne l’avez jamais vu, je vous conseille ainsi de commencer par le regarder, avant de revenir ici lire la suite.

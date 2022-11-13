@@ -1,7 +1,7 @@
 ---
 title: "*Matrix Resurrections*, Lana Wachowski"
 date: 2022-05-14T22:00:52+02:00
-tmdb: 624860 
+id: 624860 
 ---
 
 Warner Bros voulait tellement créer une suite à [la trilogie](https://voiretmanger.fr/saga/the-matrix/), l’une des deux sœurs Wachowski[^1] s’y est finalement collée. De manière assez amusante, c’est aussi le message qui ouvre *Matrix Resurrections*, où l’on retrouve un Neo enfermé dans une nouvelle matrice dans laquelle les trois premiers films de la saga sont des jeux vidéo qu’il a créé. Il ne veut pas en faire un quatrième, mais on lui force la main, prétextant que si ce n’est pas lui, un autre le fera à sa place. Comment ne pas voir en ce Neo développeur de jeu vidéo la présence de Lana Wachowski, qui décide de céder face à ce qui ressemble à des années de pression ininterrompue de la part des studios ? Peut-on aller un cran plus loin, et comprendre que cet avertissement sur la qualité de cette suite vaut autant dans la matrice que dans notre monde ?

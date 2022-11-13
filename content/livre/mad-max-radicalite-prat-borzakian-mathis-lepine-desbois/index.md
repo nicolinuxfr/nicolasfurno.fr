@@ -1,7 +1,7 @@
 ---
 title: "*Mad Max, au-delà de la radicalité*, Nico Prat, Manouk Borzakian, Alexandre Mathis, Élise Lépine et Erwan Desbois"
 date: 2022-03-23T20:54:50+01:00
-id: "v-RhEAAAQBAJ"
+id: v-RhEAAAQBAJ
 pays: "fr"
 ---
 

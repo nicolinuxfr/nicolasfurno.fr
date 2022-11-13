@@ -1,7 +1,7 @@
 ---
 title: "*Young Royals*, Netflix (saison 2)"
 date: 2022-11-09T21:10:52+01:00
-tmdb: 125910 
+id: 125910 
 ---
 
 La [première saison de *Young Royals*](https://voiretmanger.fr/young-royals-ambjorn-forsman-forsman-netflix/) avait une très belle surprise. Même si ses prémices laissait craindre un [*Élite*](https://voiretmanger.fr/elite-madrona-montero-netflix/) suédois, le scénario bien écrit et surtout les acteurs du bon âge et juste formaient un petit miracle, une histoire d’ados qui sortait des caricatures faciles doublée d’une belle romance gay. J’avais ainsi hâte de voir la suite et Netflix livre un an plus tard une deuxième saison, dans la lignée de la précédente par le format court, puisqu’il faut à nouveau se contenter de six épisodes. Pour autant, c’était bien trop court dans la première saison, mais presque long dans celle-ci, qui fait avancer péniblement son histoire.

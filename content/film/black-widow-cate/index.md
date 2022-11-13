@@ -1,7 +1,7 @@
 ---
 title: "*Black Widow*, Cate Shortland"
 date: 2022-01-18
-tmdb: 497698
+id: 497698
 ---
 
 *Black Widow* n’est pas seulement le vingt-quatrième long-métrage à intégrer l’[*Univers cinématographique Marvel*](https://voiretmanger.fr/saga/univers-cinematographique-marvel/), c’est aussi le premier de sa quatrième phase. Mais à dire vrai, cette logique perd un petit peu de son sens quand les projets se multiplient au cinéma et en série. À tel point que ce volet ne prend pas place dans la chronologie logique de la saga, il se déroule quelques films auparavant, après les événements présentés dans *[Captain America : Civil War](https://voiretmanger.fr/captain-america-civil-war-russo/)* et alors que les Avengers se déchirent. Une bonne manière de créer une histoire à part, liée de façon distante au reste. Cate Shortland tente aussi de proposer une expérience un petit peu différente, moins masculine et plus axée sur la famille, même si la machine Marvel impose ses codes avec fracas. *Black Widow* reste un bon divertissement, avec quelques touches d’humour qui viennent alléger le tout, sans pour autant sortir autant du lot qu’on pouvait l’espérer.

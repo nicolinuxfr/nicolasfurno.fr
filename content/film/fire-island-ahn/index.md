@@ -1,7 +1,7 @@
 ---
 title: "*Fire Island*, Andrew Ahn"
 date: 2022-06-04T22:16:28+02:00
-tmdb: 846250 
+id: 846250 
 ---
 
 *Fire Island* commence sur une citation de Jane Austen, un clin d’œil à la célèbre romancière dont le non moins célèbre *Orgueil et Préjugés* a servi ici encore d’inspiration. Sauf que l’intrigue se déroule en 2022 sur Fire Island, une petite île au sud de Long Island sur la côte est américaine qui est notamment connue pour héberger une communauté LGBTQ+ et cela tombe bien, car les héros de cette variante sont tous gays. Un groupe de jeunes homosexuels qui se rend tous les étés pour une semaine de débauche sur l’île et qui, comédie romantique oblige, vont découvrir l’amour : ‌le décor est posé. 

@@ -1,7 +1,7 @@
 ---
 title: "*Le Téléphone de M. Harrigan*, John Lee Hancock"
 date: 2022-10-09T21:21:03+02:00
-tmdb: 723419 
+id: 723419 
 ---
 
 Voilà un film qui aurait trouvé toute sa place sur Apple TV+, mais c’est Netflix qui a finalement raflé les droits de cette adaptation d’un roman court signé Stephen King. Pourtant, la vraie star n’est pas tellement Craig, ni même John Harrington, mais bien l’iPhone Edge qui joue un rôle clé dans l’intrigue. *Le Téléphone de M. Harrigan* est bien le tout premier téléphone conçu par Apple, alors qu’il venait de sortir et que tous les gens « cools » devaient en acheter un. C’est lui qui est au cœur de l’intrigue et même de l’image, avec une bonne documentation de la part des accessoiristes, qui ont reconstitué avec soin l’interface du système exploitation original que l’on n’appelait pas encore iOS. Les animations sont ratées comme souvent, mais le sens du détail fait plaisir à voir.

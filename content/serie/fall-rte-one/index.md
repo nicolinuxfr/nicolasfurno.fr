@@ -1,7 +1,7 @@
 ---
 title: "*The Fall*, RTÉ One"
 date: 2022-07-22T22:02:26+02:00
-tmdb: 49010 
+id: 49010 
 ---
 
 Une policière face à un tueur en série. *The Fall* ne cherche pas l’originalité à tout prix, sans pour autant répéter une énième fois la même formule. Certes, il est question d’une enquête policière et d’une série de meurtres, mais la série créée par la BBC et RTÉ One repose sur plusieurs choix intéressants. D’une part, il n’y a aucun mystère sur l’identité du tueur, il est connu dès le départ puisque l’on suit ses agissements en même temps que l’enquête avance. D’autre part, le tueur est un père de famille en apparence tout ce qu’il y a de plus normal et il agit à l’insu de ses proches. Ajoutez à cette base la présence de Gillian Anderson dans le rôle de la policière qui l’affronte et vous obtenez une très bonne série. 

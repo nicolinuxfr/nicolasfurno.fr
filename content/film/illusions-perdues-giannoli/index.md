@@ -1,7 +1,7 @@
 ---
 title: "*Illusions perdues*, Xavier Giannoli"
 date: 2022-09-25T21:18:25+02:00
-tmdb: 660000
+id: 660000
 ---
 
 Adapter du Balzac, voilà qui n’est pas l’idée la plus originale qui soit. Xavier Giannoli compose un film d’époque en costume assez classique sur la forme, mais il parvient malgré tout à transmettre un message hélas bien trop moderne. Sa représentation de la presse corrompue et de la montée en puissance de la bourgeoisie qui commence à mettre la main sur la publicité et ainsi sur la principale source de revenus de cette presse, fait froid dans le dos tant elle trouve des échos avec l’actualité. C’était manifestement le principal élément que le réalisateur a retenu du roman et *Illusions perdues* est à cet égard très convaincant. Sans écarter entièrement les histoires d’amours de Lucien de Rubempré, il se concentre sur ce discours politique et c’est à mon sens l’élément le plus réussi de son adaptation.

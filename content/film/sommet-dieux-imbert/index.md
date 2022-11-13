@@ -1,7 +1,7 @@
 ---
 title: "*Le Sommet des dieux*, Patrick Imbert"
 date: 2022-08-07T18:59:59+02:00
-tmdb: 712454 
+id: 712454 
 ---
 
 *Le Sommet des dieux* est l’adaptation française d’un manga japonais qui évoque l’attrait des ascensions des plus hautes montagnes et en particulier de l’Everest. Un film d’animation hybride entre deux, voire trois cultures, c’est un choix intriguant. Le style de l’animation est plutôt européen, mais tous les personnages sont japonais et même s’ils parlent français — drôle de choix d’ailleurs —, c’est bien leur culture qui est mise en avant. Sans oublier le sommet de la planète qui joue un rôle à part entière, avec une reproduction qui surprend par sa fidélité et le niveau de détails. Le résultat de cette alliance étonnante est un film captivant. Patrick Imbert n’a gardé que le cœur des mangas publiés en cinq volumes et qui sont beaucoup trop amples et complexes pour l’heure et demi du long-métrage. Combinée à une animation magnifique, la question de la motivation qui traverse *Le Sommet des dieux* est parfaitement amenée.

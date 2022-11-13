@@ -1,7 +1,7 @@
 ---
 title: "*Better Call Saul*, AMC (saison 6)"
 date: 2022-08-17T21:21:55+02:00
-tmdb: 60059 
+id: 60059 
 ---
 
 Sept ans après la diffusion de [sa première saison](https://voiretmanger.fr/better-call-saul-gilligan-gould-amc/), *Better Call Saul* trouve sa conclusion avec treize nouveaux épisodes. Quand Vince Gilligan et Peter Gould ont lancé cette série qui retrace l’histoire d’un personnage secondaire de [*Breaking Bad*](https://voiretmanger.fr/breaking-bad-gilligan/), j’étais loin de penser qu’il y aurait suffisamment d’idées pour tenir six saisons. Et pourtant, c’est indéniablement le cas : ce *spin-off* n’a cessé au fil des années de me surprendre, atteignant et même surpassant le niveau  de l’originale, notamment sur son cœur, avec les saisons [3](https://voiretmanger.fr/better-call-saul-gilligan-gould-amc/#3) et [4](https://voiretmanger.fr/better-call-saul-gilligan-gould-amc/#4) qui resteront à mon sens les meilleures. Avec la cinquième et surtout cette sixième et ultime saisons, *Better Call Saul* termine de faire le pont avec *Breaking Bad* et va même au-delà, en concluant pour de bon le parcours de Saul Goodman, avocat véreux et salopard au grand cœur. C’est peut-être plus contraint par les liens qu’il faut bien tisser avec la première série AMC, mais ne boudons pas notre plaisir : c’est impeccablement mis en scène, parfaitement bien joué et surtout remarquablement raconté.

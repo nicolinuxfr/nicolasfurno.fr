@@ -1,7 +1,7 @@
 ---
 title: "*Licorice Pizza*, Paul Thomas Anderson"
 date: 2022-07-10T21:03:43+02:00
-tmdb: 718032 
+id: 718032 
 ---
 
 Paul Thomas Anderson, les années 1970 et le fils de Philip Seymour Hoffman puisque le père n’est plus là… sur le papier, *Licorice Pizza* n’a rien d’original. Malheureusement, c’est encore pire sur la pellicule — littéralement, le long-métrage a été tourné pour simuler les caméras 70 mm de l’époque —, avec un scénario paresseux quand il n’est pas carrément limite. Le réalisateur imagine une histoire d’amour entre un garçon de quinze ans interprété par un excellent Cooper Hoffman, il faut le reconnaître, et une femme qui en a dix de plus jouée par Alana Haim qui est elle aussi parfaite dans ce rôle. Quand l’intrigue s’est mise en place, j’imaginais une suite bien différente, mais le cinéaste se contente de développer cette romance sans jamais la remettre en cause et en se complaisant dans une nostalgie passéiste franchement ennuyeuse. 

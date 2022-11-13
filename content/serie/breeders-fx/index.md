@@ -1,7 +1,7 @@
 ---
 title: "*Breeders*, FX"
 date: 2022-08-05T21:22:11+02:00
-tmdb: 93290 
+id: 93290 
 ---
 
 Paul et Ally ont deux enfants, Luke et Ava et les quatre forment une famille londonienne tout ce qu’il y a de plus banale, sauf que les parents ont beaucoup de mal à éduquer leurs enfants. Le pire, c’est pour Paul qui entre dans des colères noires pour un rien et passe son temps à engueuler ses enfants avec une violence assez surprenante, surtout dans la première saison quand ils sont encore tout jeune. C’est comme ça dans cette famille plus courante probablement qu’on peut l’imaginer et *Breeders* se construit et évolue à partir de ce point de départ pour former une série de plus en plus réussie.

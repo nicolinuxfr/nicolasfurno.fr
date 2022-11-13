@@ -1,7 +1,7 @@
 ---
 title: "*Severance*, Apple TV+"
 date: 2022-04-08T21:35:52+02:00
-tmdb: 95396 
+id: 95396 
 ---
 
 *Severance* est une série qui s’apprécie d’autant plus que l’on ne sait rien à son sujet. Faites-moi confiance, abonnez-vous à Apple TV+ le temps de la regarder sans lire une ligne de plus, vous ne le regretterez pas et vous prendrez d’autant plus de plaisir en ne sachant rien à son sujet.

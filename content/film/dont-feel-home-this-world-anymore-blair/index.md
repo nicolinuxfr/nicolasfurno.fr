@@ -1,7 +1,7 @@
 ---
 title: "*I Don’t Feel at Home in This World Anymore*, Macon Blair"
 date: 2022-03-09T21:02:57+01:00
-tmdb: 425591 
+id: 425591 
 ---
 
 Derrière son titre à rallonge, *I Don’t Feel at Home in This World Anymore* est en réalité un film assez simple. Dans ce thriller aux forts airs des frères Coen, on suit un duo de personnages en marge de la société, qui en ont assez du comportement irrespectueux de la majorité. Quand Ruth se fait cambrioler et que la police ne fait rien pour l’aider, elle décide que c’en est trop. Avec l’aide de Tony, son voisin bizarre manifestement prêt pour aller en découvre, ils partent récupérer ce qu’elle a perdu. D’abord son ordinateur portable chez des étudiants fêtards, puis l’argenterie de sa grand-mère chez un vendeur pas très consciencieux. Mais comme chez les Coen, ils ne savent pas s’arrêter et croisent la route des voleurs jusqu’à un final sanglant et vomitif. 

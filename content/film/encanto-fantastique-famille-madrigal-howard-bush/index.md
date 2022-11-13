@@ -1,7 +1,7 @@
 ---
 title: "*Encanto : La Fantastique Famille Madrigal*, Byron Howard et Jared Bush"
 date: 2022-08-14T21:37:46+02:00
-tmdb: 568124 
+id: 568124 
 ---
 
 *Encanto : La Fantastique Famille Madrigal*[^1] permet à Disney de continuer à explorer des cultures locales tout en offrant une version modernisée de ses classiques d’animation d’antan. Après le Mexique avec *[Coco](https://voiretmanger.fr/coco-unkrich-molina/)* du côté de Pixar, c’est la Colombie qui est à l’honneur ici. Byron Howard et Jared Bush sont à la réalisation et comme on les avait croisés auparavant pour l’épatant [*Zootopie*](https://voiretmanger.fr/zootopie-howard-moore-bush/), j’attendais un nouveau film d’animation moderne, mais j’ai été assez déçu. La forme très conventionnelle n’est pas un défaut, mais la structure du long-métrage animé découpé en chansons a mal vieilli et surtout, le message est assez maladroit. Ou du moins, en partie maladroit.

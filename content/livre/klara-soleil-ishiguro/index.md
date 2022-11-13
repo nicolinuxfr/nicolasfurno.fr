@@ -1,7 +1,7 @@
 ---
 title: "*Klara et le Soleil*, Kazuo Ishiguro"
 date: 2022-06-25T22:34:47+02:00
-id: "7yk4EAAAQBAJ"
+id: 7yk4EAAAQBAJ
 pays: "gb"
 ---
 

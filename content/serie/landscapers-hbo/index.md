@@ -1,7 +1,7 @@
 ---
 title: "*Landscapers*, HBO"
 date: 2022-10-05T22:15:30+02:00
-tmdb: 113987 
+id: 113987 
 ---
 
 *Landscapers* se rajoute à l’interminable liste des *true-crime stories*, ces histoires vraies de tueurs. Mais la mini série créée par Ed Sinclair pour HBO et SkyAtlantic se distingue toutefois par le format. D’une part, elle est courte, avec quatre épisodes de moins de cinquante minutes. D’autre part, elle fait le pari assez étonnant d’une mise en scène baroque, où s’entremêlent tous les genres du cinéma classique et où le quatrième mur est régulièrement brisé. Le résultat surprend et rend même l’ensemble quelque peu confus, mais ce n’est pas grave. Portée par un duo d’acteurs exceptionnels, aidée par son format court, la série parvient à séduire par son ton décalé et ses partis-pris radicaux. Une curiosité que je recommande à tous ceux qui n’ont pas peur des expériences bizarres.

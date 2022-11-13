@@ -1,7 +1,7 @@
 ---
 title: "*Return to Monkey Island*"
 date: 2022-10-13T08:45:00+02:00
-id: "2060130"
+id: 2060130
 ---
 
 Vous êtes à nouveau Guybrush Threepwood, pirate émérite ! Vingt-cinq ans après la sortie de *The Curse of Monkey Island*, plus personne n’attendait de suite pour la fameuse saga de jeux d’aventures lancée il y a plus de trente ans de cela avec *The Secret of Monkey Island*. Mais tout arrive, y compris un tout nouveau jeu — et non pas une énième « amélioration » graphique des originaux —, créé en outre par Ron Gilbert et Dave Grossman qui ont travaillé sur les premiers volets. *Return to Monkey Island* offre une nouvelle aventure pour le pirate ridicule et pour ses récits héroïques de loin, avec l’humour qui a fait tout le charme de la série. Après une brève introduction dans un parc d’attraction où des enfants jouent à reconstituer les premiers épisodes, vous incarnez à nouveau Guybrush et vous débarquez sur l’île de Mêlée pour une histoire qui vous fera croiser les pas de votre ennemi juré LeChuck, ainsi que ceux de votre chérie Elaine, mais également le vendeur de tout et rien Stan, le cartographe Wally, la gouverneure Carla et même ceux du crâne Murray (enfin, façon de parler). 

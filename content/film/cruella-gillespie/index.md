@@ -1,7 +1,7 @@
 ---
 title: "*Cruella*, Craig Gillespie"
 date: 2022-05-01T18:21:26+02:00
-tmdb: 337404 
+id: 337404 
 ---
 
 Disney poursuit cette surprenante idée de créer des remakes en images réelles de ses classiques d’animation. *Cruella* reprend ainsi [*Les 101 Dalmatiens*](https://voiretmanger.fr/101-dalmatiens-geronimi-luske-reitherman/), même si le long-métrage de Craig Gillespie n’est pas tant une nouvelle version qu’une extension de l’univers original. Plus précisément, c’est une préquelle qui ambitionne de présenter la naissance du personnage de Cruella Denfer, quand elle n’était pas encore la grande méchante du dessin animé. Le résultat n’est pas très original, ce qui n’empêche pas que le divertissement reste plaisant et les deux actrices principales justifient la séance.

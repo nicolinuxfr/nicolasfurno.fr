@@ -1,7 +1,7 @@
 ---
 title: "*Le Jeune Acteur 1 : Aventures de Vincent Lacoste au cinéma*, Riad Sattouf"
 date: 2022-04-10T11:20:47+02:00
-id: "PoO7zgEACAAJ"
+id: PoO7zgEACAAJ
 pays: "fr"
 ---
 

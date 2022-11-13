@@ -1,7 +1,7 @@
 ---
 title: "*Jojo Rabbit*, Taika Waititi"
 date: 2022-08-08T22:01:46+02:00
-tmdb: 515001 
+id: 515001 
 ---
 
 Pendant toute la durée de *Jojo Rabbit*, j’ai eu du mal à oublier une question : mais à qui diable s’adresse ce film ? Taika Waititi adopte un angle original : la Seconde Guerre mondiale, vue par les yeux d’un jeune de dix ans qui est aussi un fanboy du nazisme et en particulier d’Adolf Hitler. Loin du sérieux du roman qu’il adapte, le réalisateur opte pour un ton léger, un humour enfantin qui colle avec le point de vue de son personnage. Sauf que l’on parle d’une guerre, d’un holocauste et d’enfants réellement embrigadés et envoyés se battre avec trois fois rien alors que le Führer avait déjà lâchement abandonné une guerre terminée.  *Jojo Rabbit* se retrouve ainsi constamment entre deux extrêmes, l’humour naïf à travers les yeux de son jeune héros en particulier au début et la tragédie des horreurs de la guerre notamment sur la fin. À l’heure où les Nazis sont de retour et sérieux, peut-on prendre le risque d’un second degré  par endroit trop subtil ?

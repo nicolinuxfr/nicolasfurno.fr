@@ -1,7 +1,7 @@
 ---
 title: "*La Mort immortelle*, Liu Cixin"
 date: 2022-01-25
-id: "nmtuDwAAQBAJ"
+id: nmtuDwAAQBAJ
 pays: "cn"
 ---
 

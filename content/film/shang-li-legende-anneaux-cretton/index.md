@@ -1,7 +1,7 @@
 ---
 title: "*Shang-Chi et la Légende des Dix Anneaux*, Destin Daniel Cretton"
 date: 2022-02-04
-tmdb: 566525
+id: 566525
 ---
 
 

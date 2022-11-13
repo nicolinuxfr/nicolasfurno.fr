@@ -1,7 +1,7 @@
 ---
 title: "*Le Dernier Duel*, Ridley Scott"
 date: 2022-06-19T18:53:17+02:00
-tmdb: 617653 
+id: 617653 
 ---
 
 Une fresque de plus de deux heures trente à l’ère médiévale réalisée par Ridley Scott ? Non, ce n’est pas [*Kingdom of Heaven*](https://voiretmanger.fr/kingdom-heaven-scott/) ni [*Robin des Bois*](https://voiretmanger.fr/robin-des-bois-scott/), mais bel et bien un tout nouveau long-métrage… même si pour être honnête, j’avais un intense sentiment de déjà-vu à l’annonce du projet. *Le Dernier Duel* est une reconstitution historique comme le cinéaste en a tant réalisé, pas réaliste pour un sou, mais parfaitement mise en œuvre et avec un sens du majestueux qui force le respect. Il faut reconnaître au réalisateur ce sens pour plonger les spectateurs dans des batailles sanglantes du passé, mais justement : on l’a déjà vu faire, on sait de quoi il est capable et cela fait bien longtemps qu’il ne force plus son talent et se contente de reproduire de vieux schémas. Plusieurs séquences pourraient être des calques quasiment parfaits de scènes sorties de ses anciens longs-métrages et le manque d’originalité est de plus en plus difficile à masquer.

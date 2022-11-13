@@ -1,7 +1,7 @@
 ---
 title: "*The Watcher*, Netflix"
 date: 2022-10-22T21:45:55+02:00
-tmdb: 210232 
+id: 210232 
 ---
 
 Juste après *[Dahmer : Monstre - L’histoire de Jeffrey Dahmer](https://nicolasfurno.fr/serie/dahmer-netflix/)*, on n’arrête plus Ryan Murphy ! Depuis qu’il a signé un accord exclusif avec Netflix, le cinéaste crée série après série, en général avec Ian Brennan. On retrouve d’ailleurs les deux noms dans la liste de créateurs de *The Watcher*, mais cette fois, Ryan Murphy ne se contente pas de donner son nom et son œil de producteur. Il a écrit tous les épisodes et il en a même réalisé deux : il s’est impliqué pour de bon dans cette maison hantée, avec un gros twist, puisqu’elle est inspirée d’une histoire vraie. 

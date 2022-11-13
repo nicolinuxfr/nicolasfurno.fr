@@ -1,7 +1,7 @@
 ---
 title: "*Bernadette a disparu*, Richard Linklater"
 date: 2022-03-06T18:06:53+01:00
-tmdb: 405177 
+id: 405177 
 ---
 
 Adapté d’une pièce de théâtre déjà ceo-écrite par Richard Linklater et elle-même adaptée d’un roman, *Bernadette a disparu* est un film assez étonnant à suivre. Le titre évoque une disparition, mais elle n’arrive qu’assez tardivement dans l’intrigue… à moins qu’elle ne soit métaphorique ? Quoi qu’il en soit, le long-métrage semble hésiter entre plusieurs directions et peut sembler un petit peu confus par endroit, sans pour autant lui enlever tout intérêt. 

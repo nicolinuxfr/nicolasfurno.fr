@@ -1,7 +1,7 @@
 ---
 title: "*Doctor Strange in the Multiverse of Madness*, Sam Raimi"
 date: 2022-07-14T22:20:05+02:00
-tmdb: 453395 
+id: 453395 
 ---
 
 Le multivers est la tendance du moment chez Marvel, si vous étiez encore passé à côté jusque-là, *Doctor Strange in the Multiverse of Madness* tient à le rappeler dès son titre. Mais le vingt-huitième long-métrage de l’immense saga est loin d’être le premier à présenter le concept et si vous êtes passé à côté de [*Loki*](https://voiretmanger.fr/loki-waldron-disney/) qui l’introduisait, mais aussi du précédent volet dans l’Univers cinématographique Marvel, [*Spider-Man: No Way Home*](https://nicolasfurno.fr/film/spider-man-no-way-home-watts/), qui le reprenait, vous serez un petit peu perdu. Et si cela ne suffisait pas, mieux vaut aussi avoir bien en tête la série [*WandaVision*](https://voiretmanger.fr/wandavision-schaeffer-disney/) et pendant que vous y serez, le premier [*Doctor Strange*](https://voiretmanger.fr/doctor-strange-derrickson/) posait quelques bases utiles pour comprendre ce qui se passe ici. En bref, Disney poursuit sans freiner cette idée folle d’une immense saga et Sam Raimi n’essaie même pas de réintroduire tous les concepts, si bien que la folie évoquée dans le titre n’est pas éloignée de ce qu’un spectateur peu au fait pourrait ressentir.

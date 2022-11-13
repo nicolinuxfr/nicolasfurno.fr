@@ -1,7 +1,7 @@
 ---
 title: "*Adam à travers le temps*, Shawn Levy"
 date: 2022-03-21T18:42:24+01:00
-tmdb: 696806 
+id: 696806 
 ---
 
 *Adam à travers le temps* (re)pose une vieille question : la fiction doit-elle être toujours originale pour être digne d’intérêt ? En l’occurrence, est-ce que Shawn Levy peut s’en sortir en construisant un film sur le voyage temporel sans chercher aucune idée originale et uniquement en assemblant des morceaux déjà vus ailleurs ? Chaque spectateur aura sa propre réponse, mais si l’on cherche un pur divertissement, cette énième variante reste suffisamment consciente de sa modestie pour être divertissante. 

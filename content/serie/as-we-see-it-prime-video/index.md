@@ -1,7 +1,7 @@
 ---
 title: "*As We See It*, Prime Video"
 date: 2022-03-17T21:15:30+01:00
-tmdb: 139397 
+id: 139397 
 ---
 
 Trois jeunes adultes sur le spectre autistique et leurs combats au quotidien pour paraître « normaux » dans société neurotypique. Remake américain d’une série israélienne, *As Wee See It* fait le pari de présenter ce quotidien parfois difficile, mais sans tomber dans le pathos excessif ou à l’inverse dans l’angélisme et surtout sans en faire une comédie aux dépens des personnes sur le spectre. On peut saluer à ce sujet le casting composé de trois acteurs qui sont eux aussi autistes et qui apportent ainsi une crédibilité indéniable au projet. Jason Katims connaît aussi bien ce sujet, puisque son propre fils a aussi été diagnostiqué du syndrome d’Asperger.

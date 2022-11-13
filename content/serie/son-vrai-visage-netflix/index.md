@@ -1,7 +1,7 @@
 ---
 title: "*Son vrai visage*, Netflix"
 date: 2022-04-21T21:17:06+02:00
-tmdb: 99002
+id: 99002
 ---
 
 Dans un restaurant, Laura parvient à neutraliser un attaquant en retournant son arme contre lui, un couteau qu’il avait planté dans sa main. Son mouvement aussi rapide que précis, chirurgical presque, en fait une héroïne en même temps qu’un sujet controversé. Qui est cette orthophoniste sans histoire, si elle peut attaquer un homme aussi aisément, même dans une situation de défense comme celle-ci ? Le point de départ de *Son vrai visage* est intriguant, à défaut d’être original. Malheureusement, la série de Netflix ne parvient pas vraiment à faire beaucoup mieux que cette introduction et la suite déçoit de manière croissante, jusqu’à un final assez ennuyeux. 

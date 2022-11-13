@@ -1,7 +1,7 @@
 ---
 title: "*Parallèles*, Disney+"
 date: 2022-04-24T21:55:22+02:00
-tmdb: 118906 
+id: 118906 
 ---
 
 Comme tous les services de streaming, Disney+ n’a pas le choix : pour rester disponible en Europe, il doit offrir du contenu local. La règle ne s’intéresse qu’à la quantité, pas à la qualité et malheureusement, cela se voit un petit peu avec *Parallèles*. Cette création française signée Quoc Dang Tran impressionne par la qualité de sa réalisation et surtout son casting. Tous les acteurs sonnent justes, ce qui est suffisamment rare pour le souligner, et l’ensemble est à la hauteur d’une grosse série américaine, on ne voit pas les coupes budgétaires partout. Sur ce plan, il n’y a rien à redire et j’aurais adoré aimer la série… sauf que le fond n’est pas à la hauteur de la forme. Son plus gros défaut étant un manque cruel d’inspiration et un mélange assez indigeste de ses quelques références.

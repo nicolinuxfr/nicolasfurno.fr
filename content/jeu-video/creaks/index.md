@@ -1,7 +1,7 @@
 ---
 title: "*Creaks*"
 date: 2022-08-26T21:42:44+02:00
-id: "956030"
+id: 956030
 ---
 
 Vous commencez dans une petite chambre où vous découvrez un trou dans le mur. Derrière se cache un chemin, puis une échelle qui descend dans un étrange bâtiment en ruine et c’est là que votre aventure débute. *Creaks* est un jeu d’aventures au gameplay assez classique, mais qui se distingue d’emblée par son style travaillé, l’absence complète de dialogues et sa bande-originale soignée. Le studio Amanita Design s’est fait une réputation pour ses jeux qui parient avant tout sur une ambiance et celui-ci en est une parfaite illustration. Alors qu’il raconte une histoire autour d’une bête qui détruit un univers sous-terrain, il le fait sans une seule ligne de texte, tout comme il n’explique rien au joueur. Dans le même esprit de *[FAR: Lone Sails](https://nicolasfurno.fr/jeu-video/far-lone-sails/)* que j’avais aussi beaucoup apprécié, c’est à vous de déterminer ce que vous devez faire et comment avancer.

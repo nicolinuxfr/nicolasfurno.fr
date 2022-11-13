@@ -1,7 +1,7 @@
 ---
 title: "*Borgen : Le pouvoir et la gloire*, DR1"
 date: 2022-07-25T22:01:55+02:00
-tmdb: 203281 
+id: 203281 
 ---
 
 Fallait-il réellement créer une suite à *[Borgen, une femme au pouvoir](https://voiretmanger.fr/borgen-price-dr1/)* ? L’excellente série créée par Adam Price se concluait après trois saisons d’une belle manière, mais le succès aidant, l’idée de créer une saison supplémentaire s’est imposée. La chaîne danoise DR1 s’est associée à Netflix pour créer *Borgen : Le pouvoir et la gloire*[^1], huit épisodes de plus qui se déroulent une dizaine d’années après, le même intervalle de temps qu’entre les deux saisons. Les premiers instants sont rassurants : le créateur n’a pas perdu la main, pas plus que Sidse Babett Knudsen qui retrouve immédiatement la Birgitte Nyborg que l’on a appris à connaître et qui s’impose comme l’évidence dès l’épisode initial. Ajoutez à cela un message environnemental autour de la découverte de pétrole au Groenland et j’avais de quoi imaginer une grande saison avec pourquoi pas une dose d’optimisme, mais la noirceur rode comme toujours avec Adam Price. 

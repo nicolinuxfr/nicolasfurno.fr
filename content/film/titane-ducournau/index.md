@@ -1,7 +1,7 @@
 ---
 title: "*Titane*, Julia Ducournau"
 date: 2022-07-27T22:31:34+02:00
-tmdb: 630240 
+id: 630240 
 ---
 
 S’il y a bien un reproche que l’on ne fera pas à *Titane*, c’est de manquer d’originalité. En même temps, qui pensait après [*Grave*](https://voiretmanger.fr/grave-ducournau/) que Julia Ducournau pouvait tomber dans la banalité ? Bien au contraire, la cinéaste franchit une nouvelle étape dans le bizarre et propose avec ce deuxième long-métrage une histoire aussi folle que gênante, un mélange aussi audacieux que troublant d’un thriller teinté d’un drame, saupoudré d’une bonne dose d’horreur et d’une touche de fantastique, pourquoi pas. J’avais beaucoup aimé *Grave* qui bousculait le spectateur tout en lui laissant des repères plus conventionnels. Je suis plus circonspect sur *Titane*, qui se construit sur une base d’absurde qui m’a évoqué Quentin Dupieux et qui ne laisse ainsi aucune branche pour s’accrocher. 

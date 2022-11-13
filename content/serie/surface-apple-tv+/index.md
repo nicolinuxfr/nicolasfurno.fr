@@ -1,7 +1,7 @@
 ---
 title: "*Surface*, Apple TV+"
 date: 2022-10-10T21:48:06+02:00
-tmdb: 127641 
+id: 127641 
 ---
 
 Sophie a perdu la mémoire après avoir sauté depuis un ferry. Une tentative de suicide, lui disent son mari et sa psy, mais elle n’y croit pas, elle ne se voit pas dans cette femme qui décide un beau jour de sauter par dessus la rambarde d’un bateau. Quand un policier, avec qui elle a manifestement eu une histoire romantique, vient lui dire qu’il suspecte son mari, l’espoir naît d’une hypothèse crédible pour expliquer sa chute sans aller sur cette piste. *Surface* se construit autour de cette tension et de cette brillante idée d’une femme qui a perdu la mémoire et qui ne sait pas à qui elle doit accorder sa confiance. Elle réalise avec les informations apportées par le policier que son mari ne lui a pas dit toute la vérité, mais est-ce que son ancien amant n’a pas intérêt aussi à lui mentir ? Même la psy, qui semble résolue à lui faire reconnaître sa tentative de suicide et à éviter toute thérapie qui pourrait l’aider à retrouver la mémoire, paraît dès lors suspecte. Comment démêler le vrai du faux ? Et surtout, comment reconstruire son identité après un tel drame et sans avoir de personne de confiance ?

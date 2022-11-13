@@ -1,7 +1,7 @@
 ---
 title: "*I Am Greta*, Nathan Grossman"
 date: 2022-04-23T21:05:19+02:00
-tmdb: 728123 
+id: 728123 
 ---
 
 Nathan Grossman a commencé très tôt à filmer Greta Thunberg, quand elle n’était encore qu’une collégienne à faire grève de l’école toute seule et toute la journée devant le parlement suédois pour réclamer une réaction face au réchauffement climatique. Le réalisateur pouvait alors difficilement imaginer l’ampleur que le phénomène allait prendre, ni qu’il se lançait sur un documentaire de longue durée. *I Am Greta* suit sur une année le parcours extraordinaire de celle qui a réussi à replacer le réchauffement climatique au cœur des débats, même si cela n’a pas été pérenne. Un film qui ne vous apprendra sans doute rien, mais ce n’est pas son objectif et ce qu’il montre, le quotidien d’une jeune fille qui a tout sacrifié pour tenter de sauver la planète, est aussi touchant que déchirant. 

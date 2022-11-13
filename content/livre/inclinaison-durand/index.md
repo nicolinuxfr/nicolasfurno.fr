@@ -1,7 +1,7 @@
 ---
 title: "*L'inclinaison*, Corentin Durand"
 date: 2022-08-12T09:03:52+02:00
-id: "cU50EAAAQBAJ"
+id: cU50EAAAQBAJ
 pays: "fr"
 ---
 

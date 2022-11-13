@@ -1,7 +1,7 @@
 ---
 title: "*Disco Elysium*"
 date: 2022-06-18T22:11:01+02:00
-id: "632470"
+id: 632470
 ---
 
 Vous incarnez un policier alcoolique et amnésique qui se réveille dans une chambre d’hôtel miteuse sans la moindre idée de ce qu’il fait là. *Disco Elysium* surprend dès les premières minutes par ses graphismes à la main originaux et surtout son ambiance crade. L’univers urbain imaginé par les créateurs est aussi détruit que les personnages, tous mal en point et bien souvent mal intentionnés. D’ailleurs, le détective que vous incarnez n’est pas bien meilleur, au contraire même, c’est un sale type, un flic voyou qui noie son incompétence dans l’alcool et tient à peine sur ses deux jambes. Si vous ne faites pas gaffe, vous pourrez mourir dans les premières minutes du jeu et même s’il n’y a pas réellement d’action ou de combats dans *Disco Elysium*, c’est une menace à ne jamais perdre de vue. 

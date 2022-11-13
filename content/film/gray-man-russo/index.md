@@ -1,7 +1,7 @@
 ---
 title: "*The Gray Man*, Anthony et Joe Russo"
 date: 2022-07-24T21:43:36+02:00
-tmdb: 725201 
+id: 725201 
 ---
 
 Les frères Russo et Chris Evans dans un blockbuster d’action ? Eh non, ce n’est pas un énième volet de l’immense saga Marvel et l’acteur ne reprend pas son rôle de Captain America, cette page est *a priori* belle et bien tournée. Plus que vers les super-héros qui ont fait connaître le duo, *The Gray Man* va chercher son inspiration du côté de *James Bond*, *Jason Bourne* ou d’autres sagas d’espionnage similaire. Mais cette inspiration se conjugue à un art du grand spectacle et un sens du n’importe quoi qui atteint des sommets. Le résultat est sans surprise : à l’image de tous les films[^1] d’Anthony et Joe Russo, c’est bien fichu, on en prend plein la vue surtout avec un grand téléviseur compatible HDR et c’est aussi divertissant qu’oubliable. Je cherchais un divertissement léger, je l’ai eu.

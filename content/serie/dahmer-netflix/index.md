@@ -1,7 +1,7 @@
 ---
 title: "*Dahmer : Monstre - L'histoire de Jeffrey Dahmer*, Netflix"
 date: 2022-09-28T21:30:48+02:00
-tmdb: 113988 
+id: 113988 
 ---
 
 *Dahmer : Monstre - L'histoire de Jeffrey Dahmer* vaut mieux que cet interminable titre, heureusement. La dernière série créée pour Netflix par Ryan Murphy, accompagné de Ian Brennan avec qui il travaille régulièrement, s’intéresse à l’un des nombreux tueurs en série que compte l’histoire américaine récente. Jeffrey Dahmer a tué dix-sept victimes entre 1978 et 1991, tous des hommes jeunes et le récit de ses horreurs évolue entre cannibalisme, nécrophilie, viol et démembrement. L’horreur absolue, que la série choisit de présenter du point de vue non pas des victimes, mais du meurtrier, incarné par un Evan Peters en grande forme, comme toujours. Ce choix génère une gêne intense, surtout dans les premiers épisodes. C’est logique et normal, mais je vous conseille de persister, parce que l’objectif n’est pas de tomber dans le voyeurisme malsain et parce que les dix épisodes de la mini-série accordent une part croissante aux victimes et à l’enquête, ce qui dissipe la gêne ressentie au départ.

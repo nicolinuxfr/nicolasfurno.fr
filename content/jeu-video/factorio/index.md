@@ -1,7 +1,7 @@
 ---
 title: "*Factorio*"
 date: 2022-04-11T18:45:11+02:00
-id: "427520"
+id: 427520
 image: "factorio.jpg"
 ---
 

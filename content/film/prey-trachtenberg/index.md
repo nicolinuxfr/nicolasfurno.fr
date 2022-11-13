@@ -1,7 +1,7 @@
 ---
 title: "*Prey*, Dan Trachtenberg"
 date: 2022-08-27T22:10:05+02:00
-tmdb: 766507 
+id: 766507 
 ---
 
 Après [un premier volet](https://voiretmanger.fr/predator-mctiernan/) resté dans les annales comme un classique du cinéma d’action des années 1980, le personnage du Predator a laissé place à une série de navets tous plus ridicules les uns que les autres. C’est pourquoi l’annonce d’un nouvel opus dans cette saga bizarre avait de quoi me laisser indifférent et j’étais passé à côté de *Prey*, persuadé que sa sortie directement en streaming n’augurait rien de bon quant à sa qualité. J’avais tort, car le long-métrage de Dan Trachtenberg parvient à se hisser au niveau de l’originale et même le surpasser. Ne passez sous aucun prétexte à côté de cette excellente surprise.

@@ -1,7 +1,7 @@
 ---
 title: "*Entretien avec un vampire*, Neil Jordan"
 date: 2022-09-04T21:05:58+02:00
-tmdb: 628 
+id: 628 
 ---
 
 *Entretien avec un vampire* a fêté son vingt-huitième anniversaire cette année et cela se voit un petit peu. Visuellement, le film de Neil Jordan n’a pas trop mal vieilli pourtant, grâce à l’utilisation principale de maquillages à l’ancienne au lieu de trop compter sur les effets numériques qui étaient encore récents au début des années 1990, probablement trop pour un usage abusif. Il y a bien quelques effets spéciaux qui accusent le poids des années, mais l’ensemble se tient bien. En revanche, on ne ferait plus un long-métrage comme celui-ci aujourd’hui. Sa représentation de l’esclavagisme au XVIII<sup>e</sup> est au mieux naïve, sinon gênante. Et par la suite, les relations entre les vampires et les enfants auraient bien du mal à passer de nos jours.

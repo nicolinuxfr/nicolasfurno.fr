@@ -1,7 +1,7 @@
 ---
 title: "*This Is Going to Hurt*, BBC One"
 date: 2022-04-16T11:21:20+02:00
-tmdb: 154359 
+id: 154359 
 ---
 
 Ne vous faites pas avoir par sa prétention comme une comédie, *This Is Going to Hurt* tient bien plus du drame et la série de la BBC ne cherche pas vraiment à faire rire. Ce serait même plutôt l’inverse, tant cette traversée de l’hôpital public britannique donnerait envie de pleurer ou de hurler, c’est selon. Adam Kay, le créateur et aussi producteur et scénariste, adapte ici un livre qu’il a lui-même écrit et qui était basé sur sa propre expérience du milieu hospitalier. La version destinée aux petits écrans est fictive, certes mais on sent bien que cette vision est trop désespérée pour ne pas être réelle. Loin d’amuser, *This Is Going to Hurt* a tendance à mettre un gros coup au moral.

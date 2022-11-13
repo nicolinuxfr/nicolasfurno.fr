@@ -1,7 +1,7 @@
 ---
 title: "*Promising Young Woman*, Emerald Fennell"
 date: 2022-07-17T21:30:45+02:00
-tmdb: 582014 
+id: 582014 
 ---
 
 Tous les hommes ne sont peut-être pas des violeurs, mais il n’y en a quand même vraiment pas un pour rattraper l’autre. C’est le message que l’on retient en sortant du premier film réalisé par Emerald Fennell, un coup de poing de moins de deux heures et une plongée dans l’enfer de la toxicité masculine et viols perpétués en toute impunité, ou presque. *Promising Young Woman* n’est pas toujours évident à regarder et je me suis senti mal à l’aise à plusieurs reprises alors que je n’ai jamais été confronté à une telle situation. Ce n’est pas une raison pour autant de bouder le long-métrage, bien au contraire : ce défilé de salopards, hommes et femmes d’ailleurs, qui s’en seraient sortis sans encombre dans la ténacité de l’héroïne est une piqure de rappel encore bien trop utile, hélas.

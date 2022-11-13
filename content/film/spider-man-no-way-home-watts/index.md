@@ -1,7 +1,7 @@
 ---
 title: "*Spider-Man: No Way Home*, Jon Watts"
 date: 2022-03-19T17:59:09+01:00
-tmdb: 634649 
+id: 634649 
 ---
 
 Il faut bien reconnaître que Marvel a un vrai talent pour construire la saga la plus improbable de l’histoire du cinéma sans perdre la vision d’ensemble et sans perdre les spectateurs en route. *Spider-Man: No Way Home* demande malgré tout au minimum une bonne connaissance de base de l’*Univers cinématographique Marvel* et aussi des deux précédentes sagas *Spider-Man*, [celle de Sam Raimi](https://voiretmanger.fr/trilogie-spider-man-raimi/) lancée au début des années 2000 et [celle Marc Web](https://voiretmanger.fr/saga/the-amazing-spider-man/) dans la décennie suivante. Et quand bien même : si ce n’est pas votre cas, vous passerez à côté de multiples clins d’œil, mais vous pourrez comprendre ce qui se passe sans difficultés majeures. Un exploit d’autant plus impressionnant que le long-métrage réalisé par Jon Watts explore pleinement le concept du multivers patiemment mis en place par Marvel.

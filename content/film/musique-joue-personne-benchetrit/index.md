@@ -1,7 +1,7 @@
 ---
 title: "*Cette musique ne joue pour personne*, Samuel Benchetrit"
 date: 2022-05-29T22:55:54+02:00
-tmdb: 785210 
+id: 785210 
 ---
 
 C’est bien une bande de gangsters, mais dans une ville côtière que l’on imagine quelque part au nord de la France ou en Belgique, à Dunkerque par exemple, où le tournage s’est déroulé en partie. Ce décalage entre l’attente provoquée par l’affiche et la réalité est le moteur de *Cette musique ne joue pour personne*, une comédie noire teintée d’absurde où Samuel Benchetrit filme ses (vieux) acteurs qui interprètent des personnages issus d’un monde de violence alors qu’il découvre une touche de douceur. Pour l’un, c’est la poésie inspirée par une jeune caissière croisée au supermarché. Pour l’autre, le théâtre attiré par une actrice qui rêve de comédie musicale sur Simone de Beauvoir. C’est intrigant et il faut reconnaître au cinéaste son sens de l’absurde, avec des traitements toujours en décalage un petit peu dans l’esprit d’un Quentin Dupieux. Le casting est impeccable, la ribambelle de stars sans aucune fausse note, avec une mention spéciale à Vanessa Paradis, hilarante dans son interprétation appuyée de Simone de Beauvoir. 

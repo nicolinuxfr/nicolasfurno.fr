@@ -1,7 +1,7 @@
 ---
 title: "*Kleo*, Netflix"
 date: 2022-10-03T21:20:48+02:00
-tmdb: 206010 
+id: 206010 
 ---
 
 *Kleo*, c’est en quelque sorte [*Killing Eve*](https://voiretmanger.fr/killing-eve-waller-bridge-bbc-america/), façon Allemagne de l’Est. Cette nouvelle série allemande pour Netflix débute au cœur d’un Berlin déchiré par le mur de la Guerre froide, mais elle se déroule principalement en 1990, après la chute et juste avant la réunification. Une période charnière, qui aurait pu servir de cadre à un récit historique fort intéressant… sauf que ce n’est pas du tout l’ambition des créateurs de cette série. *Kleo* commence avec un panneau qui prévient qu’elle est basée sur une histoire vraie, mais que tout est faux et c’est un bon résumé de son état d’esprit. Les huit premiers épisodes qui composent la saison sont dans l’ensemble correctement placés dans l’espace et le temps, avec quelques personnages historiques ici ou là, mais ils n’ont jamais peur de s’éloigner d’une reconstitution réaliste et osent même s’affranchir de toute vraisemblance. C’est fun et assez léger, une vraie réussite !

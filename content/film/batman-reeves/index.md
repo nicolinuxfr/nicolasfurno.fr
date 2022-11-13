@@ -1,7 +1,7 @@
 ---
 title: "*The Batman*, Matt Reeves"
 date: 2022-10-16T21:45:27+02:00
-tmdb: 414906 
+id: 414906 
 ---
 
 Quand Marvel multiplie les superhéros et même désormais les déclinaisons de superhéros grâce au multiverse, DC semble toujours bloqué avec les mêmes personnages. Vous trouviez qu’il n’y avait pas suffisamment d’[adaptations de Batman au cinéma](https://fr.wikipedia.org/wiki/Batman_(série_de_films)) ? En voici une de plus ! Cette fois, c’est Matt Reeves qui s’y colle, avec Robert Pattinson derrière le fameux masque et une galerie de personnages déjà croisés et re-croisés, de Catwoman au Pingouin, en passant par le Riddler en guise d’ennemi. On nous aura épargné le Joker[^1], c’est toujours ça de pris, mais je dois bien dire qu’à l’annonce de cette affiche, ma première réaction a été : à quoi bon ? Après quasiment trois heures devant *The Batman*, je peux répondre : à rien. La plus grande réussite du projet est visuelle, avec un Gotham sombre comme on l’a encore jamais vu et une photographie magnifique. Mais ce bel écrin est au service d’une histoire d’un autre temps, sans aucun intérêt.

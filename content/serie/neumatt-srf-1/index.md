@@ -1,7 +1,7 @@
 ---
 title: "*Neumatt*, SRF 1"
 date: 2022-09-13T21:14:05+02:00
-tmdb: 135022 
+id: 135022 
 ---
 
 *Neumatt*, une série suisse diffusée par Netflix dans nos contrées, m’a surpris par sa densité. Dès le premier épisode qui commence avec le suicide d’un agriculteur endetté et le retour de mauvaise grâce de son fils qui avait tout fait pour quitter ce milieu, la création de SRF 1 m’avait happé et elle ne baisse pas de rythme avant la fin de sa première saison. Les scénaristes ont des dizaines d’idées pour ne laisser aucun temps mort et faire exploser cette famille qui vit depuis des années dans la rancœur et les mensonges. Ce dispositif n’a rien de gratuit toutefois, bien au contraire : Marianne Wendt a créé une galerie de personnages complexes et donc crédibles, ce qui lui permet d’aborder de nombreux sujets tout en leur laissant une vraie place pour évoluer. Malgré tout, la liste de péripéties et retournements de situation est impressionnante pour cette série qui semblait plutôt réaliste au premier abord. Je ne vais rien divulgâcher, naturellement, mais je ne m’attendais clairement pas à un tel rythme et à une telle intensité scénaristique.

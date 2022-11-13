@@ -1,7 +1,7 @@
 ---
 title: "*Mademoiselle*, Park Chan-wook"
 date: 2022-11-11T11:20:00+01:00
-tmdb: 290098 
+id: 290098 
 ---
 
 *Mademoiselle* est l’adaptation d’un roman britannique, mais cela ne se voit pas du tout. Il faut dire que Park Chan-wook l’a entièrement adapté à un contexte différent, puisque le cinéaste coréen rapatrie l’histoire dans son pays, en l’intégrant dans le contexte de la colonisation japonaise de la Corée. On pouvait faire confiance au créateur d’[*Old Boy*](https://voiretmanger.fr/old-boy-park/) pour proposer une vision personnelle de cette histoire d’arnaques sur fond d’amour lesbien. De fait, on retrouve son goût pour la mise en scène sophistiquée, ainsi que pour la narration déconstruite, avec une intrigue qui se déploie progressivement et par couche. Son goût pour la violence frontale est encore là, même si ce n’est pas autant le sujet et *Mademoiselle* surprend par son ton plus léger.

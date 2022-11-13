@@ -1,7 +1,7 @@
 ---
 title: "*Hideo Kojima, aux frontières du jeu*, Erwan Desbois"
 date: 2022-10-14T22:30:05+02:00
-id: "9feGEAAAQBAJ"
+id: 9feGEAAAQBAJ
 pays: "fr"
 ---
 

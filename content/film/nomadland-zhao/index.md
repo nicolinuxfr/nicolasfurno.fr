@@ -1,7 +1,7 @@
 ---
 title: "*Nomadland*, Chloé Zhao"
 date: 2022-04-03T21:37:09+02:00
-tmdb: 581734 
+id: 581734 
 ---
 
 Un film peut être ouvertement politique et dénoncer frontalement un système économique ou défendre une classe sociale. *Nomadland* est loin d’être aussi explicite, mais le long-métrage écrit, réalisé et monté par Chloe Zhao n’en est pas moins politique. Son adaptation d’un essai de Jessica Bruder est un témoin sans concession de la cruauté socio-économique des États-Unis, un pays où l’on peut tout perdre du jour au lendemain, un pays surtout qui abandonne ses séniors sans aucun soutien, forçant les plus démunis à mener une vie d’errance, de petit boulot en petit boulot.

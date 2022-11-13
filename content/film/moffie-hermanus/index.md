@@ -1,7 +1,7 @@
 ---
 title: "*Moffie*, Oliver Hermanus"
 date: 2022-08-21T21:13:19+02:00
-tmdb: 618228 
+id: 618228 
 ---
 
 Imaginez l’enfer du service militaire sud-africain en pleine Apartheid, ces quelques mois pendant lesquels tous les jeunes hommes devaient risquer leur vie pour un régime raciste rétrograde. Maintenant, imaginez qu’un jeune gay se retrouve au milieu de cet environnement rigoriste et profondément homophobe. C’est tout le sujet de *Moffie*, qui suit le parcours de Nicholas, alors qu’il découvre son attirance pour les garçons dans l’un des pires contextes qui soit. Oliver Hermanus adapte un roman autobiographique écrit par André Carl van der Merwe et il choisit de bloquer sa caméra sur le point de vue de son personnage principal. Un choix évident et payant quand le spectateur est confronté, comme Nicholas, à la violence absolue de l’homophobie qui règne dans ce camp.

@@ -1,7 +1,7 @@
 ---
 title: "*Sur ordre de Dieu*, Hulu"
 date: 2022-09-09T21:49:08+02:00
-tmdb: 128095 
+id: 128095 
 ---
 
 Dans la famille des séries qui valorisent ce qu’elles devaient dénoncer, après [*Loot*](https://nicolasfurno.fr/serie/loot-apple-tv+/), je vous propose *Sur ordre de Dieu*. Cette adaptation d’un livre non-fictif qui mettait en parallèle les origines violentes de la religion Mormon et deux crimes au sein de la communauté Mormon est censée être une attaque en règle de cette religion américaine. Dustin Lance Black, son créateur ouvertement gay né dans ce milieu, savait pourtant de quoi il parle, mais il tombe dans un piège grossier et fini par valoriser la religion et son mode de vie rétrograde. Est-ce une demande de la part de FX ou Hulu qui ont commandé la série ? Quoi qu’il en soit, c’est une vraie déception, d’autant que ces sept épisodes souffrent de quelques longueurs et se perdent un petit peu dans les méandres de l’histoire, alors que l’intrigue policière peine à intéresser.

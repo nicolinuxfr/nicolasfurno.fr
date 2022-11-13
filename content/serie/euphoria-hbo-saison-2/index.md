@@ -1,7 +1,7 @@
 ---
 title: "*Euphoria*, HBO (saison 2)"
 date: 2022-03-31T21:59:35+02:00
-tmdb: 85552 
+id: 85552 
 ---
 
 Frappée de plein fouet par la pandémie, *Euphoria* a pris du retard et la deuxième saison n’est sortie que début 2022, plus de deux ans et demi après [la première](https://voiretmanger.fr/euphoria-levinson-hbo/). Pour une série qui parle de lycéens, c’est un problème, même si le ton noir et adulte imposé par Sam Levinson dans les premiers épisodes laissait plus de latitude. De fait, la suite reprend avec des acteurs qui ne ressemblent plus du tout à des lycéens, ce qui est finalement assez courant, mais qui ressemble bien à la suite d’*Euphoria*, ce qui est encore le plus important. Le premier épisode ouvre d’ailleurs sur une fête pleine d’alcool, de drogue et de sexe, comme pour mieux marquer le coup. Cela étant, ne vous attendez pas à une simple redite des huit premiers épisodes, la création de HBO parvient à surprendre en allant dans de nouvelles directions.
