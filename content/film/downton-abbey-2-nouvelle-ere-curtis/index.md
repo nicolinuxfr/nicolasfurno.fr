@@ -1,0 +1,11 @@
+---
+title: "*Downton Abbey II : Une nouvelle ère*, Simon Curtis"
+date: 2022-11-13T21:46:37+01:00
+tmdb: 820446 
+---
+
+*Downton Abbey*, c’est avant tout [une excellente série](https://voiretmanger.fr/downton-abbey-fellowes-itv1/) sur la noblesse anglaise, ses années de faste et de richesses infinies à la fin du XIX<sup>e</sup> siècle, puis sa déchéance au siècle suivant. Julian Fellowes a parfaitement su capter cette ambiance de fin de siècle, en créant des personnages attachants, ce qui est le plus important pour toute série. Après six saisons un peu courtes, l’intérêt pour les personnages était encore là et un premier film est sorti en 2019. Surprise, il n’était pas mauvais, sans atteindre le niveau de la série, si bien qu’une suite a été lancée dans la foulée.
+
+*Downton Abbey II : Une nouvelle ère‌* reprend un an après le film précédent, en 1928, une époque charnière. Loin encore de la crise économique qui allait tout détruire, l’espoir d’un renouveau est encore permis et c’est bien l’objectif de cette suite, qui tente de rester dans un esprit positif. Julian Fellowes est toujours à la manœuvre côté scénario, ce qui probablement la meilleure garantie que le projet pouvait espérer et Simon Curtis réalise une suite dans la lignée de ce qui précède, sans essayer de bouleverser la formule. Si vous avez aimé *Downton Abbey*, il n’y a pas de raison pour que vous n’appréciez pas ce film fort sympathique. Certes, il ne fait pas d’étincelle et son format réduit force les personnages à se retrouver tous au bon endroit au bon moment. Malgré tout, j’ai passé un bon moment et l’idée de confronter la famille à l’évolution, cette fois par le biais du cinéma, est excellente. J’ai aussi apprécié que l’homosexualité de Thomas Barrow soit enfin traitée pour de bon, après des allusions qui évacuaient trop rapidement le sujet. Trouver une fin heureuse pour ce personnage malgré les contraintes de l’époque n’était pas évident, mais le film le fait de façon adroite et touchante, c’est bien vu. 
+
+Le titre laisse entendre que ce pourrait être le dernier film et je ne veux pas dévoiler trop d’informations sur sa fin, mais elle semble aussi aller dans ce sens. En attendant de savoir si *Downton Abbey II : Une nouvelle ère‌* pourrait avoir une suite, j’ai passé un bon moment, mais c’est d’abord parce que j’ai vraiment beaucoup aimé la série. 
