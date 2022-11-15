@@ -1,0 +1,10 @@
+---
+title: "*Planète Terre*, Louise Attaque"
+date: 2022-11-15T21:29:27+01:00
+id: 1641747483 
+pays: "fr"
+---
+
+Vingt-cinq ans… cela fait 25 ans que Louise Attaque a débarqué sur la scène musicale française avec son album éponyme qui a marqué les esprits. Le groupe a réussi à créer son propre son, notamment grâce à l’utilisation du violon d’Arnaud Samuel qui était assez inattendue dans la pop, mais aussi la voix aisément identifiable de Gaëtan Roussel. Pour cet anniversaire, ils ont décidé de se retrousser les manches et de signer un nouvel album, entièrement imaginé et enregistré en vingt-cinq jours, lui aussi. Une pression volontairement adoptée, qui donne *Planète Terre*, un album dans l’esprit de l’original, vif et plaisant. 
+
+Louise Attaque adopte une approche similaire à celle qui a fait ses premiers succès et je trouve qu’elle n’a pas pris une ride. Les paroles comme les mélodies sont simples, mais pas simplistes et les onze morceaux sont tous assez brefs et incisifs. On ne perd pas de temps avec des compositions trop complexes, on parie sur l’efficacité et cela paye. *Planète Terre* n’est pas un chef d’œuvre qui restera dans les annales de la musique et le groupe ne retrouvera sans doute jamais le succès de son premier album. Qu’importe, l’ensemble dure à peine plus de 34 minutes et il s’écoute avec plaisir, du premier au dernier titre. C’est indéniablement un plaisir en partie nostalgique pour moi, mais est-ce un défaut ? Et puis, Louise Attaque ne se contente pas de reproduire ce qu’ils ont déjà fait, les compositions ont beau rester simples, les arrangements sont plus complexes et les morceaux probablement plus matures qu’en 1997. C’est à l’image de la pochette au fond : la même idée de base et le même esprit, mais une approche différente et un résultat plus sophistiqué. 
