@@ -1,6 +1,6 @@
 ---
 title: "*The Wonder*, Sebastián Lelio"
-date: 2022-11-20T17:59:53+01:00
+date: 2022-11-21T21:25:53+01:00
 id: 823766 
 ---
 
