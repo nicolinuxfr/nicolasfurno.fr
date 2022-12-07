@@ -1,0 +1,11 @@
+---
+title: "*Mort sur le Nil*, Kenneth Branagh"
+date: 2022-12-07T21:51:35+01:00
+id: 505026 
+---
+
+*Mort sur le Nil* peut à tout le moins revendiquer la première place sur un podium : celui du film le plus moche qui soit. Kenneth Branagh semble n’avoir retenu aucune leçon de son adaption du *[Crime de l’Orient-Express](https://voiretmanger.fr/crime-orient-express-branagh/)*, qui souffrait déjà de ses fonds verts trop marqués. Au contraire, il persiste et signe en proposant un Égypte numérique digne d’un jeu vidéo sorti il y a dix ans, et encore, un moche. Je ne parviens toujours pas à comprendre comment un long-métrage avec un tel budget peut se planter autant sur la technique. Tous les décors de fonds sont dessinés par des ordinateurs sans aucun sens du photoréalisme, mais le pire, c’est peut-être les fonds verts qui se voient parfaitement sur les personnages découpés au scalpel. L’effet de flou sur l’arrière-plan est trop prononcé, ou alors les acteurs sont trop éclairés, mais il y a bien une constante : c’est hideux. 
+
+La forme ne va pas du tout, mais *Mort sur le Nil* ne se rattrape pas sur le fond. La pauvre Agatha Christie est maltraitée avec cette adaptation caricaturale, où tous les personnages en font des caisses avec la subtilité du sphinx. Leur psychologie est écrite grossièrement et Kenneth Branagh n’a pas non plus abandonné son horrible accent français. C’était la pire idée du précédent film, mais personne ne l’a prévenu manifestement. Ajoutez à l’ensemble un scénario qui s’étire inutilement en longueur — la fameuse mort promise par le titre n’arrive qu’au bout d’une heure ! — et vous obtenez un cocktail franchement déplaisant. C’est amusant deux minutes de se moquer de ces riches bourgeois qui se plaignent constamment, mais pour être honnête, on finit vite par s’ennuyer. 
+
+Comme je le suspectais, cette série d’adaptations d’Agatha Christie ne vaut rien et j’aurais mieux fait de m’abstenir. Dire que les producteurs ont donné le feu vert à Kenneth Branagh pour un troisième volet ! Qu’il ne compte pas sur moi pour le voir…
