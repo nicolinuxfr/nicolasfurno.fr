@@ -1,0 +1,13 @@
+---
+title: "*Smiley*, Netflix"
+date: 2022-12-16T21:25:50+01:00
+id: 214609 
+---
+
+Lassé de s’être fait à nouveau des illusions à son sujet, Álex pense laisser un message énervé sur le répondeur du mec rencontré sur Grindr, mais il se trompe de numéro et le laisse à Bruno, architecte, lui aussi gay et célibataire. Amusé, il décide de rappeller Álex et même de le rencontrer. Les deux hommes réalisent alors qu’ils n’ont rien en commun et qu’ils s’agacent immédiatement, ce qui ne les empêchent de tomber amoureux dans la foulée. Voilà le point de départ de *Smiley*, une comédie romantique d’un banal qui serait affligeant si le couple était hétérosexuel. Ou même si 	Guillem Clua n’avait pas le bon sens de ne pas prendre sa série, adaptée d’une pièce de théâtre, trop au sérieux. Grâce à une touche de légèreté et une autre d’humour, cette création Netflix reste dans l’ensemble du côté plus fun, malgré son avalanche de clichés et de guimauve.
+
+Malin, le service de streaming m’a attiré avec le visage de Carlos Cuevas sur sa page d’accueil. Le jeune acteur repéré dans [#Philo : Sapere aude](https://nicolasfurno.fr/serie/philo-sapere-aude-movistar-plus/) est une caricature du gay bien fichu qui passe beaucoup de temps dans les salles de sport, mais cela tombe bien, c’est pile ce qu’il fallait pour le personnage d’Álex, barman qui partage son temps entre la fonte et les rencontres d’un soir. Face à lui, Miki Esparbé est le contrepoint parfait pour incarner Bruno, un architecte plus âgé et plus mûr, romantique qui espère trouver le grand amour et qui vit en attendant bien seul avec son chien. Les deux forment un couple que tout oppose, un lieu commun de tant de comédies romantiques. *Smiley* joue cette carte jusqu’au bout, avec une romance qui est loin d’être résolue dès le premier épisode, il faut bien entretenir le suspense. Je ne vais pas dévoiler le final, mais disons que si vous avez l’habitude du genre, vous ne serez guère surpris. La création de Netflix ne cherche pas à réinventer quoi que ce soit, c’est une comédie romantique qui assume jusqu’au bout. Ce qui ne veut pas dire qu’elle ne sait pas prendre du recul et se moquer gentiment de ses propres effets parfois exagérés ou des clichés perpétués par ses soins. 
+
+Composée de huit épisodes assez courts, cette saison de *Smiley* se regarde rapidement et avec plaisir. Est-ce une grande série qui restera dans les annales ? Probablement pas, mais est-ce que toutes les séries doivent révolutionner le genre ? Il n’y a pas de mal à se faire plaisir de temps en temps avec une histoire mignonne, surtout en cette saison un petit peu morose…
+
+
