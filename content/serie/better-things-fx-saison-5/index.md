@@ -2,6 +2,7 @@
 title: "*Better Things*, FX (saison 5)"
 date: 2022-06-03T21:36:46+02:00
 id: 66859 
+saison: 5
 ---
 
 *Better Things* est une série discrète et il serait facile de passer à côté. D’ailleurs, j’ignorais jusqu’à son existence avant de [regarder ses quatre premières saisons](https://voiretmanger.fr/better-things-adlon-ck-fx/), avalées d’une traite et quittées avec regret. FX a fort heureusement offert la possibilité à Pamela Adlon de la conclure avec une cinquième et ultime saison, encore plus touchante et réussie que les précédentes. C’est sans doute l’une des meilleures séries familiales de ces dernières années et vous auriez bien tort de ne pas vous y plonger. 

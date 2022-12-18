@@ -2,6 +2,7 @@
 title: "*The Mandalorian*, Disney+ (saison 2)"
 date: 2022-06-12T13:50:52+02:00
 id: 82856 
+saison: 2
 ---
 
 En voulant créer un feuilleton à l’ancienne, avec une intrigue qui se suffit à elle-même par épisode, *The Mandalorian* était largement [passé à côté de sa première saison](https://voiretmanger.fr/mandalorian-favreau-disney/). Les huit premiers épisodes étaient tous plus lents et ennuyeux les uns que les autres et l’unique objectif semblait être de vendre une peluche « trop mignonne ». C’était si mauvais que je m’étais juré de ne pas voir la suite, mais comme il n’y a que les imbéciles qui ne changent pas d’avis, j’ai regardé la deuxième saison. Et elle est à peine mieux, sauvée *in extremis* par l’arrivée (enfin ! 🙄) d’une vraie intrigue.

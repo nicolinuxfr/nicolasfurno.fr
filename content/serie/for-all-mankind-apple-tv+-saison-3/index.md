@@ -2,6 +2,7 @@
 title: "*For All Mankind*, Apple TV+ (saison 3)"
 date: 2022-09-01T22:25:44+02:00
 id: 87917 
+saison: 3
 ---
 
 L’uchronie imaginée pour Apple TV+ se poursuit et après une première saison [dans les années 1970](https://voiretmanger.fr/for-all-mankind-moore-nedivi-wolpert-apple-tv/), une deuxième qui se déroulait [dans les années 1980](https://voiretmanger.fr/for-all-mankind-moore-nedivi-wolpert-apple-tv/#2), la suite prend place dans des années 1990 toujours plus fictives. Une femme est élue Présidente des États-Unis et Mars devient la cible de la Nasa américaine, de son homologue russe et de Helios, une entreprise privée qui décide de se lancer à son tour dans la conquête spatiale. De quoi permettre à *For All Mankind* de se hisser au rang de grande série qui lui avait échappé de peu jusque-là ? Raté, c’est même tout le contraire, avec ces dix épisodes qui ne trouvent aucune bonne idée pour les personnages et qui forment une saison interminable.

@@ -2,6 +2,7 @@
 title: "*Heartstopper*, Netflix"
 date: 2022-04-28T21:48:51+02:00
 id: 124834 
+saison: 1
 ---
 
 *Heartstopper* n’est pas la première œuvre de fiction à suivre le parcours de deux jeunes garçons qui tombent amoureux, mais vous savez quoi ? La série créée par Netflix n’en est pas moins essentielle pour sa représentation et surtout sa normalisation d’une relation homosexuelle chez des jeunes collégiens ou lycéens. J’aurais adoré pouvoir la regarder quand j’avais 15 ou 16 ans et quand j’étais encore si loin de m’imaginer gay. Et je sais que la création d’Alice Oseman, adaptée de son propre roman graphique, aura un impact sur d’innombrables jeunes qui s’interrogent sur leur sexualité.

@@ -2,6 +2,7 @@
 title: "*Umbrella Academy*, Netflix (saison 3)"
 date: 2022-06-27T21:47:39+02:00
 id: 75006 
+saison: 3
 ---
 
 Dix nouveaux épisodes pour *Umbrella Academy* et sans grande surprise, c’est léger, c’est fun, on ne s’ennuie pas une seule seconde et on en redemande. La série de Netflix m’avait déjà séduit pour [ses deux premières saisons](https://voiretmanger.fr/umbrella-academy-blackman-netflix/) à la fois très conventionnelles sur le fond pour l’amateur de science-fiction que je suis et originales par la forme, avec un sens aiguisé de l’auto-dérision qui lui permet d’éviter de se prendre trop au sérieux. À la fin de la deuxième saison, la bande avait réussi à sauver la planète d’une deuxième apocalypse dans les années 1960 et revenait au présent… mais un présent altéré par leur voyage dans le temps. Dans cette autre version de la réalité, l’Umbrella Academy n’existe pas, c’est la Sparrow Academy que Reginald a créé, avec d’autres super-héros tous nés ce même jour de 1989. Voilà le point de départ, pour cette troisième saison qui joue *encore une fois* la carte de l’apocalypse à éviter. Mais cette fois, c’est différent, puisque c’est l’univers tout entier qu’il faut sauver ! Et surtout, Steve Blackman a suffisamment d’idées nouvelles pour ne pas nous ennuyer et c’est réussi.

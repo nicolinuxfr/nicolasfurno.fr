@@ -2,6 +2,7 @@
 title: "*Peaky Blinders*, BBC One (saison 6)"
 date: 2022-06-16T21:14:52+02:00
 id: 60574 
+saison: 6
 ---
 
 [*Peaky Blinders*](https://voiretmanger.fr/peaky-blinders-knight-bbc/) a toujours impressionné par son style radical, mais depuis le pilote diffusé en 2013 — il y a presque dix ans de cela ! —, la création de Steven Knight n’a toujours su se renouveler. Je mentionnais déjà à propos de [la cinquième saison](https://voiretmanger.fr/peaky-blinders-knight-bbc/#5) une tendance inquiétante à la caricature, un piège dans lequel tombent trop facilement les séries au style marqué, mais cela se confirme malheureusement dans cette sixième, et dernière, saison. Les personnages passent au second plan et il reste surtout l’image hyper contrastée et presque même dans le noir dans trop de séquences, la musique anachronique et un réel sens de la mise en scène qui oublie un petit peu trop souvent qu’elle devrait être au service d’une histoire pour rester utile.

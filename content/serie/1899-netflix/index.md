@@ -1,7 +1,8 @@
 ---
 title: "*1899*, Netflix"
 date: 2022-11-23T21:50:36+01:00
-id: 90669 
+id: 90669
+saison: 1
 ---
 
 Jantje Friese et Baran bo Odar, les deux créateurs de l’incroyable [*Dark*](https://voiretmanger.fr/dark-odar-friese-netflix/) ont signé une nouvelle série pour Netflix ? Évidemment que j’étais au rendez-vous, sans même rien savoir à son sujet et je vous encourage naturellement à la regarder de la même manière. *1899* se construit *crescendo* sur une multitudes de révélations et même si je ne vais rien divulgâcher de majeur, je préfère prévenir que la première saison sera encore meilleure en la découvrant sans aucun *a priori*. Si vous avez aimé *Dark* et que vous appréciez les puzzles qui se dévoilent petit à petit, ne ratez pas cette nouvelle série !

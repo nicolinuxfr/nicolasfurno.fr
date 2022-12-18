@@ -2,6 +2,7 @@
 title: "*Sandman*, Netflix"
 date: 2022-08-15T21:33:33+02:00
 id: 90802 
+saison: 1
 ---
 
 Avant d’être une série portée par Netflix, *Sandman* était un roman graphique de Neil Gaiman publié dans les années 1990. Voilà qui avait d’emblée de quoi attirer mon attention : l’auteur prolifique a toujours le don pour signer des œuvres fantastiques originales et qui peuvent donner d’excellentes adaptations en série, comme [*American Gods*](https://voiretmanger.fr/american-gods-fuller-green-starz/) a pu en témoigner. Bonne pioche : les dix épisodes de la première saison sont réjouissants par leur capacité à jouer avec des personnages ou concepts bien connus, mais en leur offrant un point de vue décalé qui les rend plus intéressants. Même si la série de Netflix souffre de quelques défauts, elle est particulièrement plaisante et donne envie d’en voir plus.

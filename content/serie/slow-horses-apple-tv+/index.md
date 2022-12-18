@@ -2,6 +2,7 @@
 title: "*Slow Horses*, Apple TV+"
 date: 2022-05-05T21:33:49+02:00
 id: 95480 
+saison: 1
 ---
 
 Adapté d’un roman de Mick Herron qui porte le même nom, *Slow Horses* pourrait n’être qu’un thriller d’espionnage de plus. Mais les « veaux » du titre dynamitent à leur manière les codes du genre et permettent à la série portée par Apple TV+ de sortir du lot. Les personnages principaux sont tous des espions du MI-5, en tout cas techniquement. En réalité, ils travaillent dans une annexe, un lieu réservé aux espions qui se sont foirés lamentablement, à l’image du héros, Cartwright, qui ne parvient pas à empêcher un terroriste de se faire exploser dans une simulation qui ouvre la première saison. Face à cet échec, il est envoyé moisir avec la poignée d’autres agents secrets, dirigés par Jackson Lamb, qui tente d’être le plus désagréable possible en attendant de mourir. 
