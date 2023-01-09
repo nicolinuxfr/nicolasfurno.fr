@@ -1,0 +1,16 @@
+---
+title: "*Kaleidoscope*, Netflix"
+date: 2023-01-09T21:00:21+01:00
+id: 156902 
+---
+
+*Kaleidoscope* décrit un casse bien banal qui serait entièrement sans intérêt s’il n’y avait pas eu cette bonne idée. Puisque la série est diffusée sur Netflix d’un bloc, les expérimentations sont possibles : pourquoi ne pas imaginer une série qui peut se regarder dans n’importe quel sens ? Huit épisodes[^1] qui ne sont pas numérotés, mais associés à une couleur et vous pouvez les regarder presque comme vous le voulez. Normalement, l’épisode « Blanc » est pensé pour être regardé en dernier, mais ce n’est même pas une obligation. Netflix devrait vous proposer un ordre qui n’est pas le même pour tout le monde, vous pouvez le suivre ou bien piocher au hasard dans la liste. C’est comme vous le sentez et vous devriez petit à petit reconstituer le puzzle et comprendre tout ce qui s’est passé.
+
+Pour que ce concept fonctionne, Eric Garcia a associé chaque épisode à une période donnée autour du casse, qui se déroule dans « Blanc ». Par exemple, « Jaune » se déroule six semaines avant, alors que « Rouge » se place le lendemain. C’est l’idée du puzzle : vous allez découvrir les préparatifs et les conséquences sans avoir tout de suite la vue d’ensemble. L’idée est amusante et les premiers épisodes sont à mon sens forcément les plus réussis pour cette raison. Quand vous ne savez encore rien, la vision parcellaire proposée par un seul épisode permet de multiplier les hypothèses. Plus la série avance et moins c’est vrai toutefois. J’ai d’ailleurs trouvé la fin assez décevante, notamment l’ultime épisode qui est censé contenir de multiples surprises, alors que tout m’a semblé facile à deviner[^2]. Je m’attendais à mieux, à des rebondissements qui m’auraient vraiment laissé surpris, mais ça n’a jamais été le cas. De fait, en mettant de côté l’aspect aléatoire des épisodes, *Kaleidoscope* est une série bien banale. Combien de films ont déjà raconté un casse de façon déstructurée ? Peut-être qu’un sujet plus original aurait enrichi l’expérience au-delà de ces 5 000 combinaisons possibles en gardant l’épisode final à sa place                 (sinon, c’est plus de 40 000 combinaisons possibles).
+
+Giancarlo Esposito commence à tourner en rond avec des rôles trop souvent similaires et sa version rajeunie est à peine meilleure que [celle de Robert de Niro](https://voiretmanger.fr/irishman-scorsese/). Le reste du casting ne laisse pas beaucoup plus de souvenir mémorable et de ce point de vue, la mécanique de la série empêche sans doute d’avoir des personnages riches. Malgré ces défauts, je dois aussi reconnaître que je n’ai pas passé un mauvais moment, surtout au début, quand toutes les hypothèses sont encore ouvertes. C’est alors assez fun d’imaginer ce qui aurait pu se passer, avant que *Kaleidoscope* ne donne trop d’indices pointant vers une intrigue hélas si banale…
+
+
+[^1]: Neuf en comptant « Noir » qui ouvre la série en présentant le concept
+
+[^2]: ⚠️ Alerte divulgâchage ⚠️ Le fait que la fille de Leo double tout le monde me semblait assez évident, on avait vu que sa colocataire était impliquée sans savoir en quoi et puisqu’elle était la seule à mener la belle vie, on imaginait sans peine qu’elle était riche.  
