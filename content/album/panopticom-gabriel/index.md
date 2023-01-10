@@ -2,7 +2,7 @@
 title: "« *Panopticom* », Peter Gabriel"
 date: 2023-01-10T21:51:46+01:00
 id: 1659681108 
-pays: "uk"
+pays: "gb"
 ---
 
 Cela fait maintenant plus de vingt ans que l’on n’a pas eu un « vrai » nouvel album de Peter Gabriel. Plus de vingt ans que *Up* est sorti et plus de vingt ans que je suis tombé amoureux de l’artiste. En deux décennies, j’ai eu le temps d’apprendre à connaître toute sa carrière jusqu’au bout des ongles, des flamboyantes années Genesis à sa géniale carrière solo en évolution constante. J’ai découvert son perfectionnisme maladif qui contraint tout fan à la patience : il s’était écoulé dix ans entre *So* sorti en 1992 et *Up* qui a débarqué en 2002 et il a vite fallu se rendre à l’évidence, son successeur n’était pas sur le point d’arriver. Les projets secondaires se sont multipliés, des [reprises](https://voiretmanger.fr/scratch-my-back-peter-gabriel/), des compilations, un *[single](https://www.youtube.com/watch?v=nqFKjz4l9u0)*, de multiples collaborations [à droite](https://nicolasfurno.fr/album/we-arcade-fire/) [à gauche](https://nicolasfurno.fr/album/here-it-is-tribute-leonard-cohen/)… mais de nouvel album, il n’en était pas question. Les rumeurs [s’accumulaient tant](https://fr.wikipedia.org/wiki/I/O_(album)#Historique) que cela commençait à ressembler à une mauvaise blague et je commençais sérieusement à me demander s’il allait sortir un nouvel album de son vivant.
