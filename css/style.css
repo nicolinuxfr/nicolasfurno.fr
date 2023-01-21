@@ -334,6 +334,19 @@ h1 {
     font-weight: 400;
 }
 
+#single .article blockquote {
+    font-style: italic;
+    margin: auto 1em auto 1.5em;
+    font-size: 1.05em;
+    line-height: 1.3em;
+    border-left: 0.06em solid var(--vert);
+    padding-left: 0.5em;
+}
+
+#single .article blockquote em {
+    font-style: normal;
+}
+
 #single a,
 #single-photo a {
     text-decoration: underline;
@@ -371,6 +384,10 @@ h1 {
     #single a:hover,
     #single-photo a:hover {
         color: var(--vert-hover);
+    }
+
+    #single .article blockquote {
+        border-left-color: var(--vert-hover);
     }
     
     .littlefoot {
