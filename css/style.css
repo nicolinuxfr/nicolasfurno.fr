@@ -359,6 +359,31 @@ h1 {
     text-decoration: none;
 }
 
+#single .saison {
+    text-align: center;
+    margin: auto;
+    width: fit-content;
+    padding: 0.3em;
+    cursor: pointer;
+    border-radius: 0.3em;
+    font-family: var(--police-meta);
+    font-weight: 600;
+    font-size: 1.2em;
+}
+
+#single .saison:hover {
+    background-color: var(--vert-hover);
+}
+
+#single .saison a {
+    color: var(--vert);
+    text-decoration: none;
+}
+
+#single .saison:hover a {
+    color: var(--texte);
+}
+
 .littlefoot {
     --popover-font-family: var(--police-texte);
     --popover-line-height: 1.2em;
@@ -388,6 +413,18 @@ h1 {
 
     #single .article blockquote {
         border-left-color: var(--vert-hover);
+    }
+    
+    #single .saison:hover {
+        background-color: var(--vert);
+    }
+    
+    #single .saison a {
+        color: var(--vert-hover);
+    }
+    
+    #single .saison:hover a {
+        color: var(--texte-sombre);
     }
     
     .littlefoot {
