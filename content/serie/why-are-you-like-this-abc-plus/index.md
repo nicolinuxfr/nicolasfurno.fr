@@ -1,0 +1,11 @@
+---
+title: "*Why Are You Like This?*, ABC TV Plus"
+date: 2023-01-25T21:19:26+01:00
+id: 118945 
+---
+
+Penny, Mia et Austin, la vingtaine à Melbourne et une série construite autour de leur quotidien, sans aucun filtre. C’est la promesse de *Why Are You Like This?*, une série australienne sortie en 2018 qui fait la part belle aux minorités et à leur combat, du moins en apparence. Sous couvert d’un humour « trash », elle tombe dans l’excès inverse en se moquant continuellement des minorités en question. Je ne sais pas si c’était l’intention du trio de créateurs, je préfère imaginer que non, mais en l’état, leur création donne des arguments à tous ceux qui pensent combattre le « wokisme » de notre société et d’autres âneries dans le même esprit. Si encore c’était drôle, on pourrait éventuellement fermer les yeux sur l’acharnement porté contre tous ceux qui tentent de dénoncer les injustices et de défendre les opprimés. Malheureusement, à part une bonne idée ici ou là, les six épisodes d’une vingtaine de minutes patinent un petit peu, si bien que le bilan est loin d’être positif. 
+
+C’est dommage, car le trio de personnages imaginé pour la série aurait mérité mieux. Les trois jeunes acteurs se donnent au maximum pour faire vivre ces personnages et même s’ils sont assez caricaturaux, il y aurait une bonne base pour les développer et leur offrir une psychologie un petit peu plus riche. La dépression d’Austin était une bonne occasion, mais le sujet est écarté trop rapidement et n’est pas très bien exploité. Même le rapport à la religion de Mia n’est qu’une excuse pour enchaîner des blagues et ne parlons pas de Penny, blanche hétéro qui surcompense en cherchant à sauver les opprimés partout. Elle accuse son collègue gay d’homophobie, fait virer toutes les femmes d’une entreprise en faisant la promotion de l’égalité homme/femme… c’est un festival de caricatures et de clichés et ce n’est pas très drôle tout en étant sur le fond assez gênant. 
+
+C’est bien tout le problème de *Why Are You Like This?*, une série qui semble n’avoir été écrite que pour rassurer tous ceux qui ont peur des progrès de notre société. Passez votre chemin.
