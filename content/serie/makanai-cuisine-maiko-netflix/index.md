@@ -1,6 +1,6 @@
 ---
 title: "*Makanai : Dans la cuisine des maiko*, Netflix"
-date: 2023-02-19T20:30:16+01:00
+date: 2023-02-20T21:15:16+01:00
 id: 154916
 ---
 
