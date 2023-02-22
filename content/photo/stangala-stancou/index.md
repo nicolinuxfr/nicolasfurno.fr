@@ -1,6 +1,6 @@
 ---
 title: "Le Stangala côté Stancou"
-date: 2023-02-19T21:39:36+01:00
+date: 2023-02-22T21:12:36+01:00
 image: "IMG_4841.jpeg"
 ---
 
