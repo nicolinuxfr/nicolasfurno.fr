@@ -1,0 +1,14 @@
+---
+title: "*Ginny & Georgia*, Netflix"
+date: 2023-03-02T21:50:35+01:00
+id: 117581 
+---
+
+*Ginny & Georgia* ressemble au premier abord à un remake de *[Gilmore Girls](https://voiretmanger.fr/gilmore-girls-sherman-palladino-wb/)*. La même dynamique construite autour d’un duo mère/fille, les mêmes voix off pour exprimer les pensées des deux personnages principaux, le même cadre d’une petite ville de la côte est américaine[^C’est quasiment le même État : Connecticut pour l’originale, Massachusetts pour la copie.], le même bar/restaurant au cœur de toutes les intrigues, le même petit ami ténébreux… c’est un hommage appuyé, disons. Mais après tout, la série originale est culte et je l’avais trouvé plaisante, bien que datée, si bien qu’une version plus moderne, avec une plus grande diversité raciale et sexuelle, semblait plutôt séduisante. Et puis, le point de départ est identique, mais la série créée par Sarah Lampert pour Netflix trouve sa propre voie, avec une once de thriller pour ajouter un petit peu de variété à l’ensemble. 
+
+Le résultat est sympathique, sans être pleinement réussi. Je crois que c’est le côté prévisible du scénario qui m’a le plus gêné. Les rebondissements ne sont jamais surprenants, on s’attend toujours à ce qui va se passer et l’ensemble est assez téléphoné. Cela dit, même sans l’élément de surprise, *Ginny & Georgia* sait rester divertissante et même fun par moment. La vie riche et compliquée de Georgia est amusante, d’autant qu’elle est dévoilée petit à petit au fil des deux saisons. Celle tout aussi compliquée de sa fille Ginny est plus banale, entre premières amours et fêtes de lycéens, mais le duo formé par les deux actrices, Brianne Howey pour la mère et Antonia Gentry pour la fille, est une mécanique bien huilée qui apporte beaucoup à l’ensemble. Brianne Howey en fait des caisses avec son accent sudiste et on frôle constamment le ridicule, mais cela fonctionne bien et même si son personnage peut être prévisible, l’actrice se donne à fond et parvient à convaincre. Même si on oubliera que son personnage est censé avoir 30 ans quand débute la série…
+
+C’est d’ailleurs une bizarrerie qui se retrouve pour tous les adolescents qui entourent Ginny. Ils sont censés avoir tous 15 ou 16 ans et même si je peux concevoir que c’est compliqué de faire tourner des jeunes qui ont réellement cet âge-là alors qu’ils doivent enchaîner des scènes avec de l’alcool, les responsables du casting auraient pu faire des efforts sur l’âge de leurs acteurs. Ils font tous 10 ans de plus, si bien qu’on a beaucoup de mal à croire qu’ils sont au lycée. C’est aggravé par le scénario qui les font se comporter comme des adultes, avec un effet [*Élite*](https://voiretmanger.fr/elite-madrona-montero-netflix/) assez marqué, en moins sexe tout de même. 
+
+
+
