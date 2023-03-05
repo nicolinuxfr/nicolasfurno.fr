@@ -1,0 +1,10 @@
+---
+title: "*The Inventory of Our Desire*, Thomas Azier"
+date: 2023-03-05T10:10:48+01:00
+id: 1648231398 
+pays: "nl"
+---
+
+Thomas Azier poursuit sa carrière avec un cinquième album assez différent du précédent. Sorti en pleine‌ pandémie, *Love, Disorderly* était assez brut, voire brutal, ce qui créait un contraste intéressant la voix plutôt aérienne de l’artiste néerlandais. Trois ans plus tard, *The Inventory of Our Desire* est nettement plus doux et subtil, sans oublier une part de noirceur ou du moins de mélancolie. La musique est plus ouverte, aérienne ou même éthérée, les instruments sont plus variés et orientent l’album vers d’autres genres, jazz en tête.  Les mélodies soignées ressortent davantage et j’ai trouvé ces dix nouveaux titres agréables dès la première écoute, mais avec un dévoilement qui se poursuit par la suite. C’est toujours aussi agréable d’avoir ainsi un album qui accroche immédiatement, tout en contenant en son sein une richesse suffisante pour tenir sur la durée. 
+
+Une profondeur qui rappelle d’ailleurs que le chaos n’est jamais loin, même s’il est adouci par la voix de Thomas Azier, toujours aussi belle, qui survole les compositions sophistiquées où chaque instrument trouve logiquement sa place. « [*What Does It Mean To Be Free*](https://www.youtube.com/watch?v=5Qr0w4kHciI) » est un excellent exemple de cet exercice, avec un saxophone qui ne vient pas simplement faire de la figuration au fond de la scène sonore, mais qui joue au contraire un rôle à part entière, aussi important que celui de la voix. *The Inventory of Our Desire* évolue d’un genre à l’autre avec une facilité déconcertante, offre des ambiances sonores qui peuvent varier fortement rien qu’en passant au titre suivant, mais aussi une unité grâce à sa douceur, à peine interrompue par endroits. À l’image de « [*Slow Revolution*](https://www.youtube.com/watch?v=XweJr2OHgBY) », une montée en puissance qui finit par brièvement exploser, sans pour autant interrompre cette douceur généralisée et sans casser la belle cohérence de l’ensemble. 
