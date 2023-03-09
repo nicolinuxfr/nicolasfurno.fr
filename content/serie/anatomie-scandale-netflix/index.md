@@ -1,0 +1,10 @@
+---
+title: "*Anatomie d’un scandale*, Netflix"
+date: 2023-03-09T21:05:06+01:00
+id: 113984 
+---
+
+*Anatomie d’un scandale* raconte une histoire hélas bien trop courante d’un viol par un homme de pouvoir et elle devrait être l’occasion d’une série intense sur le sujet, mais ce n’est pas tout à fait le cas. David E. Kelley et Melissa James Gibson ont adapté un roman éponyme de Sarah Vaughan et je ne peux pas juger de la qualité de la version écrite, mais l’adaptation souffre de plusieurs défauts que je résumerais en parlant d’un manque général de subtilité. La mise en scène est grossière, avec des effets bien trop appuyés et en particulier des flashbacks parmi les pires que j’ai pu voir ces derniers temps à la télévision. Présenter de manière subtile des retours dans le passé n’est jamais simple, mais la mini-série Netflix cumule les mauvaises idées, avec des effets visuels qui nuisent à la lecture en plus d’être des clichés vus et revus. Si les seuls flashbacks étaient concernés, encore, mais non : même les scènes dans le présent souffrent de tics de réalisation malvenus, à l’image de la caméra qui penche inutilement sur de nombreux plans.
+
+Disons-le, *Anatomie d’un scandale* n’est pas une série jolie ou bien réalisée, mais elle souffre en outre d’une narration incohérente et de ficelles narratives bien trop grosses. Je ne voudrais rien divulgâcher, alors disons simplement que les effets de surprise introduits au fil des six épisodes sont souvent bien trop gros pour garder un once de crédibilité. Les personnages comprennent ou ne comprennent pas ce qui se passe comme cela arrange le scénario et l’ensemble est bien trop artificiel pour convaincre, pour ne pas dire grossier à nouveau. Même si le casting est convaincant, avec une mention spéciale pour Rupert Friend qui compose un violeur terrifiant par sa confiance en son propre jugement, cela ne suffit pas à renverser la mauvaise opinion qui reste. Heureusement qu’*Anatomie d’un scandale* est courte, car sinon je ne suis même pas sûr qu’on aurait été jusqu’au bout. Dommage. 
+
