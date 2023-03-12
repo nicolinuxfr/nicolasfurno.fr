@@ -1,6 +1,6 @@
 ---
 title: "*Everything Everywhere All at Once*, Daniel Scheinert et Daniel Kwan"
-date: 2023-03-12T16:10:23+01:00
+date: 2023-03-12T17:10:23+01:00
 id: 545611 
 ---
 
