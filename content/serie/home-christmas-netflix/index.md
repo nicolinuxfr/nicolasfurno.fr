@@ -1,0 +1,11 @@
+---
+title: "*Home for Christmas*, Netflix"
+date: 2023-03-29T21:50:07+02:00
+id: 95612 
+---
+
+*Home for Christmas* est une comédie romantique qui n’essaie pas de réinventer le genre et qui n’a pas peur de rester dans un cadre établi. Ce qui ne veut pas dire que c’est une mauvaise série, déjà car on a toujours besoin de temps en temps d’un peu de guimauve, ensuite parce que cette création norvégienne pour Netflix, la première dans le pays, est amusante et attachante grâce à son personnage principal. Johanne, trentenaire, promet à sa famille qu’elle viendra avec un petit ami au prochain Noël… dans deux semaines. C’est le point de départ de la première saison, qui se transforme en course contre la montre pour trouver le bon candidat. La jeune femme enchaîne les expérimentations, sort avec un jeune puis un vieux, tente un *speed-dating* et se laisse même tenter par une collègue qui la drague. Sans trop en dire, le happy-end attendu dans le genre n’est pas nécessairement au rendez-vous à la fin de la première saison, mais la deuxième embraye avec six nouveaux épisodes de 30 minutes et cette fois une conclusion en bonne et due forme.
+
+J’ai beaucoup aimé cette comédie romantique norvégienne, avec un décalage culturel suffisant pour ajouter une petite dose d’exotisme[^1]. Les deux saisons de *Home for Christmas* se déroulent la semaine d’avant Noël et on voit bien la folie représentée par cette période, toutes les petites traditions que l’on ne connaît pas en France, tout en déroulant une histoire universelle. Ce n’est pas réellement surprenant, ne nous mentons pas, et si vous cherchez l’originalité dans chaque série, vous serez forcément déçu. Mais dans le cas contraire, la création de Netflix se regarde aisément et avec plaisir. J’ai particulièrement apprécié Ida Elise Broch, parfaite de générosité et de désespoir dans le rôle principal. À ses côtés, Felix Sandman, acteur suédois déjà croisé dans *[Quicksand](https://voiretmanger.fr/quicksand-edgren-hakansson-netflix/)*, m’a surpris par la complexité inattendue de son personnage. Mais il faut saluer le travail d’écriture sur tous les personnages secondaires, la famille et les amis de Johanne, qui enrichissent indéniablement l’ensemble. Une belle réussite, en somme.
+
+[^1]: « *Gouyoule* ! » (en réalité, « *‌god jul* », mais c’est plus amusant à entendre qu’à lire)
