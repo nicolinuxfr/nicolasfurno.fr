@@ -2,7 +2,7 @@
 title: "*Street of Minarets*, Dhafer Youssef"
 date: 2023-03-31T21:45:33+02:00
 id: 1651671600 
-pays: "tu"
+pays: "tn"
 ---
 
 Dès les premières notes de « [*Street of Minarets*](https://www.youtube.com/watch?v=IJ4PnzgdzfI) » qui ouvre l’album du même nom, j’étais conquis. Dhafer Youssef débute avec une ambiance éthérée, où la trompette et sa voix aérienne se combinent pour former une introduction qui m’a rappelé l’excellente collaboration [entre Erik Truffaz et Murcof](https://www.youtube.com/watch?v=ouHQBJry-s8). Et puis, après plus de 4 minutes et alors qu’il en reste autant, un changement d’ambiance qui laisse place à la batterie, à une guitare électrique. Sur près de neuf minutes, c’est un morceau plein de surprises qui se révèle progressivement, tout en gardant une belle cohérence. *Street of Minarets* est à l’image de ce titre inaugural, un réjouissant échange entre les influences tunisiennes apportées par l’artiste et une exploration de multiples jazz. 
