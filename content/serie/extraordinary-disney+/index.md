@@ -2,7 +2,7 @@
 title: "*Extraordinary*, Disney+"
 date: 2023-02-23T21:20:26+01:00
 id: 47907 
-saison: 1
+saison: [1]
 ---
 
 Encore une série avec des super-héros… certes. Mais *Extraordinary* est britannique, ce qui lui donne un avantage potentiel indéniable en termes d’humour et surtout, la création d’Emma Moran pour Disney+ opte pour une idée intéressante. Dans son univers, les pouvoirs fantastiques ne sont pas réservés à une poignée d’individus exceptionnels, tout le monde en a un. Dès la majorité, tout le monde se découvre un pouvoir, qu’il soit classique et utile comme de voler, de développer une force surhumaine ou encore de se déplacer très rapidement, ou loufoque et même gênant. L’inventivité des scénaristes d’*Extraordinary* permet d’imaginer des super-héros vraiment idiots, à l’image de celui qui a un anus qui imprime des objets en 3D ou alors de cet autre qui peut transformer n’importe quoi en PDF. Cette inventivité est rafraîchissante et la série n’hésite pas à se moquer de ces anti-héros ridicules. Les hommes, en particulier, sont les plus visés par les critiques. Motivés par des besoins d’héroïsme un peu stupides, ils cherchent à reproduire les scénarios des *comics* et font n’importe quoi en conséquence.

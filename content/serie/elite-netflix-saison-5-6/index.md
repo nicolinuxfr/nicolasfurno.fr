@@ -1,8 +1,8 @@
 ---
-title: "*Élite*, Netflix (saisons 5 et 6)"
+title: "*Élite*, Netflix (saisons 5 et 6)"
 date: 2023-03-30T21:50:38+02:00
 id: 76669 
-saison: 6
+saison: [5,6]
 ---
 
 *Élite* a toujours assumé son côté ridicule, ce qui a aussi fait le succès de [ses premières saisons](https://voiretmanger.fr/elite-madrona-montero-netflix/). Mais la création espagnole de Netflix a vite tourné en rond et la quatrième en particulier semblait assez redondante. Ce qui ne l’empêche pas de poursuivre sa carrière, puisque le service de streaming en a ajouté deux de plus en 2022 et commandé une septième saison. Plus on avance, moins le concept de lycéens tient debout et plus encore que la cinquième saison qui reste dans cet état d’esprit, je crois que le message est enfin passé avec la sixième. Il y a bien un plan ou deux dans les couloirs du lycée histoire de dire, mais l’excuse n’a jamais été aussi apparente et Darío Madrona et Carlos Montero n’essaient même plus de faire semblant. Tant mieux, *Élite* n’avait jamais été réaliste de toute manière, même si je ne peux pas m’empêcher de noter que c’est tout de même dommage de perdre toute ambition réaliste alors même que le sponsor de Microsoft s’est arrêté. On retrouve enfin des iPhone et des Mac dans les mains de ces riches madrilènes, ce qui est un progrès indéniable en matière de crédibilité.

@@ -2,7 +2,7 @@
 title: "*Dirty Lines*, Netflix"
 date: 2023-02-14T21:25:47+01:00
 id: 105306 
-saison: 1
+saison: [1]
 ---
 
 *Dirty Lines* offre une plongée dans l’Amsterdam de la fin des années 1980, pour découvrir l’histoire vraie de la naissance du téléphone rose dans le pays et apparemment en Europe. La première saison composée de six épisodes suit les pas de Marly, une étudiante en sexologie qui se retrouve à travailler un petit peu à son insu chez Teledutch, la première entreprise qui exploite l’ouverture des lignes de téléphone au monde du privé. Toute une époque de bascule vers le monde moderne que l’on connaît encore aujourd’hui, quelques années avant l’émergence d’internet, sur fond de fin de Guerre froide et d’euphorie où l’argent autant que la drogue coule à flot. C’est aussi une très bonne comédie, qui laisse suffisamment de place à ses personnages pour exister et évoluer : en bref, une excellente surprise.

@@ -2,7 +2,7 @@
 title: "*Tokyo Vice*, HBO Max"
 date: 2023-01-26T21:30:29+01:00
 id: 90296 
-saison: 1
+saison: [1]
 ---
 
 *Tokyo Vice* n’est pas tout à fait une série de Michael Mann. L’affiliation avec le cinéaste à qui l’on doit notamment [*Miami Vice*](https://voiretmanger.fr/miami-vice-deux-flics-miami-mann/) est assez évidente et c’est une référence qui parcourt les huit épisodes qui constituent la première saison. Le réalisateur a même dirigé le premier épisode, mais sa participation s’arrête là et ce n’est pas lui qui a créé cette série pour HBO Max, c’est J. T. Rogers. Surtout connu pour ses pièces, il a adapté ici l’autobiographie de Jake Adelstein, un journaliste américain qui a été le premier occidental embauché par le plus grand journal japonais[^1] et qui a en effet enquêté sur la corruption de la police par la mafia à Tokyo. Les huit premiers épisodes offrent une plongée dans le Japon de la fin des années 1990, une époque pas si lointaine même si elle éloigne de plus en plus de la nôtre, où les yakuzas régnaient en maîtres et n’hésitaient pas à tuer impunément. Grâce à son solide scénario et à son casting sans faute, *Tokyo Vice* séduit et donne envie de voir la suite, prévue par HBO pour cette année.

@@ -2,7 +2,7 @@
 title: "*House of the Dragon*, HBO"
 date: 2022-11-14T21:21:16+01:00
 id: 94997 
-saison: 1
+saison: [1]
 ---
 
 [*Game of Thrones*](https://voiretmanger.fr/game-of-thrones-weiss-benioff-hbo/) fait partie de ces œuvres cultes qui ont bouleversé une industrie. Pour la première fois, une création destinée au petit écran se permettait d’être aussi épique et grandiose qu’un long-métrage destiné aux grands écrans. Même si la création de HBO s’est mal terminée, avec [une huitième saison franchement ratée](https://voiretmanger.fr/game-of-thrones-weiss-benioff-hbo/#8), il n’en reste pas moins l’une des plus grandes séries de ces dernières années et un incontournable pour tout fan de heroïc-fantasy. La chaîne américaine ne pouvait pas lâcher un tel filon et l’idée d’enrichir l’univers avec une deuxième série a vite émergé. *House of the Dragon* est le résultat, une préquelle qui se déroule deux siècles avant les évènements originaux, centrée sur le règne des Targaryen et plus précisément sur leur fin. Un choix intéressant, d’autant qu’il est basé sur un roman de George R.R. Martin, *Feu et sang*, et que l’auteur est impliqué dans le projet. Des assurances qui n’empêchaient pas de craindre la suite au rabais et après avoir vu le désastre avec [*Les Anneaux de pouvoir*](https://nicolasfurno.fr/serie/seigneur-anneaux-pouvoir-amazon/), je m’attendais au pire.

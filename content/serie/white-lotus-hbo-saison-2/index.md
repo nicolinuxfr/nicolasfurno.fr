@@ -2,7 +2,7 @@
 title: "*The White Lotus*, HBO (saison 2)"
 date: 2022-12-23T21:27:23+01:00
 id: 111803 
-saison: 2
+saison: [2]
 ---
 
 *The White Lotus* devait n’être qu’une mini-série, mais après [une première saison si réussie](https://nicolasfurno.fr/serie/white-lotus-hbo-saison-1/), HBO l’a transformée en une série d’anthologie. Pour cette deuxième saison, le concept reste le même, mais le casting change totalement, à une ou deux exceptions près. Le White Lotus devient une chaîne d’hôtels de luxe répartis dans le monde entier et cette suite se déroule ainsi dans la branche sicilienne. Mike White ne conserve pas que le nom, il reprend les éléments clés de la saison originale. Tout se déroule sur une semaine, le premier épisode ouvre sur un mort et revient ensuite dans le temps, pour suivre plusieurs clients américains et leurs mésaventures. Tanya, incarnée par la délicieusement paumée Jennifer Coolidge est toujours là, c’est la seule cliente hawaïenne que l’on retrouve, tous les autres sont nouveaux. Néanmoins, le casting crée des ponts pour certains personnages, à l’image de la directrice de l’hôtel, elle aussi gay et insupportable avec ses employés et obséquieuse avec les clients. Parmi les clients, le double couple d’amis venus en vacances ensemble évoque en partie le couple en lune de miel et la famille de la saison précédente. 

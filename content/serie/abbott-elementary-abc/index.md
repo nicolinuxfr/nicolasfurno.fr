@@ -2,7 +2,7 @@
 title: "*Abbott Elementary*, ABC"
 date: 2022-06-21T21:35:20+02:00
 id: 125935
-saison: 1
+saison: [1]
 ---
 
 L’originalité est-elle toujours nécessaire ? C’est un petit peu la question qui m’est venue en tête en découvrant *Abbott Elementary*, une nouvelle sitcom en mode faux documentaire dans un lieu de travail. Comme dans [*The Office*](https://voiretmanger.fr/office-gervais-merchant-nbc/), comme dans [*Parks and Recreation*](https://voiretmanger.fr/parks-recreation-daniels-schur-nbc/) et comme dans tant d’autres, une caméra est supposée venir filmer le quotidien de professionnels qui sont censés agir normalement et présenter leur métier, avec des phases d’interviews. Quinta Brunson n’essaie même pas de mettre à jour la formule éprouvée et la seule originalité, et encore, est que le milieu professionnel en question est une école primaire. Autant le dire, si vous voulez de l’originalité, oubliez cette série ABC diffusée en France sur Disney+, mais si vous aimez le genre et que vous voulez en voir une de plus, la première saison d’*Abbott Elementary* est sympathique.

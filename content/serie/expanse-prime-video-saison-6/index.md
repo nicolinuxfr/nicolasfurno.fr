@@ -2,7 +2,7 @@
 title: "*The Expanse*, Prime Video (saison 6)"
 date: 2022-12-06T21:45:54+01:00
 id: 63639 
-saison: 6
+saison: [6]
 ---
 
 Quel gâchis. C’est le sentiment qui domine en regardant le sixième et dernier épisode de cette sixième et ultime saison pour *The Expanse*. Cette série créée sur SyFy avait pourtant [si bien démarré](https://voiretmanger.fr/expanse-fergus-ostby-syfy/), avec un univers de science-fiction aussi immense que riche, des combats à travers tout le système solaire et cette mystérieuse protomolécule dont on voulait tout savoir. Après trois saisons réussies, la série reprise par Amazon pour Prime Vidéo s’est hélas enlisée dans les mauvaises idées. La [saison 4](https://voiretmanger.fr/expanse-fergus-ostby-syfy/#3) en bloquant l’action sur une seule planète isolée, la [saison 5](https://voiretmanger.fr/expanse-fergus-ostby-syfy/#5) en éclatant le groupe de personnages principaux sur des arcs narratifs séparés. À force de multiplier les histoires et personnages secondaires et à trop oublier la protomolécule qui la distinguait de la masse, *The Expanse* est devenue ennuyeuse. Et ce n’est pas cette brève sixième saison qui vient redresser le tir.

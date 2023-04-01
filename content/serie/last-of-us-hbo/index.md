@@ -2,7 +2,7 @@
 title: "*The Last of Us*, HBO"
 date: 2023-03-19T22:05:29+01:00
 id: 100088 
-saison: 1
+saison: [1]
 ---
 
 Si les adaptations de jeu vidéo finissent rarement bien, il y a toujours des exceptions à la règle. On pouvait avoir confiance en HBO pour mettre le budget, mais cela n’aurait pas suffi : fort heureusement, la version télévisée de *The Last of Us* a été créée par Craig Mazin et Neil Druckmann. Le premier s’est fait connaître pour l’excellent *[Chernobyl](https://voiretmanger.fr/chernobyl-mazin-hbo/)*, tandis que le deuxième n’est autre que l’un des créateurs du jeu vidéo. Une bonne base, qui a donné un résultat excellent. Je pourrais trouver à redire ici ou là, évidemment. Cette première saison m’a toutefois impressionné par la cohérence et même la crédibilité de l’univers post-apocalyptique, en parvenant à réinventer un monde de zombie sans tomber dans la redite, et par l’épaisseur psychologique des personnages et même l’intensité de leur existence, aussi brève soit-elle. *The Last of Us* est un grand moment de télévision, à ne surtout pas rater même si, comme l’auteur de ces lignes, vous n’aviez jamais joué au jeu.

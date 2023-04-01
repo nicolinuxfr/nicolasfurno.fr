@@ -2,7 +2,7 @@
 title: "*Slow Horses*, Apple TV+ (saison 2)"
 date: 2023-01-02T21:41:18+01:00
 id: 95480 
-saison: 2
+saison: [2]
 ---
 
 Après [une première saison réellement excellente](https://nicolasfurno.fr/serie/slow-horses-apple-tv+/) qui avait juste le défaut d’être trop courte, Apple TV+ a eu le bon goût de ne pas trop nous faire attendre. *Slow Horses* est déjà de retour avec une deuxième saison tournée dans la foulée de la précédente et qui garde les mêmes qualités et toujours le même défaut de la durée courte. Néanmoins, je trouve que ces six nouveaux épisodes dosent mieux leur rythme et cette saison semble durer pile la bonne longueur, ou alors c’est la force de l’habitude. Quoi qu’il en soit, cette galerie d’espions incapables du MI5 qui parvient malgré tout à faire mieux que ceux du « Park » est délicieuse et les scénaristes enrichissent encore leurs personnages avec cette suite. 

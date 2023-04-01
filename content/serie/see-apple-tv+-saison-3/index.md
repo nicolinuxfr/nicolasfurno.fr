@@ -2,7 +2,7 @@
 title: "*See*, Apple TV+ (saison 3)"
 date: 2022-10-15T22:15:50+02:00
 id: 80752 
-saison: 3
+saison: [3]
 ---
 
 *See* ressemblait à un pari fou, mais [ses deux premières saisons](https://voiretmanger.fr/see-knight-lawrence-apple-tv/) prouvaient que l’on pouvait bien envisager un univers entièrement composé d’aveugles sans perdre (trop) en crédibilité. Malgré quelques facilités, la création d’Apple TV+ parvenait à tenir la distance et j’avais hâte de découvrir la troisième et ultime saison. Malheureusement, ce n’est pas aussi bon. Tous les personnages principaux sont là et la trame narrative reste dans la lignée des seize épisodes précédents, mais Steven Knight et Francis Lawrence se perdent à mon sens en persistant sur une voie bien trop similaire à la précédente. Pendant huit épisodes, on assiste à un déferlement de violences dans une guerre sans grand intérêt, alors même que la suite la plus intéressante pour *See* était là, presque sous nos yeux. L’ultime épisode, quand tous les sacrifices ont été faits, dévoile ce qui aurait pu être la meilleure conclusion de la série, une ouverture sur un monde où la vue pourrait revenir. Mais quand cet aperçu arrive enfin, c’est déjà la fin : décevant.

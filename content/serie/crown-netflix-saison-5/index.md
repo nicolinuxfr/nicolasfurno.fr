@@ -2,7 +2,7 @@
 title: "*The Crown*, Netflix (saison 5)"
 date: 2022-11-20T12:10:26+01:00
 id: 65494 
-saison: 5
+saison: [5]
 ---
 
 Peter Morgan poursuit sa formidable rétrospective du règne d’Elizabeth II avec une cinquième saison placée sous le signe du renouvellement de casting. C’est une tradition pour [*The Crown*](https://voiretmanger.fr/crown-morgan-netflix/) : toutes les deux saisons, on change d’acteurs pour avancer dans les décennies de manière plus naturelle. Le dernier changement avait eu lieu dans [la saison 3](https://voiretmanger.fr/crown-morgan-netflix/#3), ces huit nouveaux épisodes qui se déroulent dans les années 1990 sont l’occasion de découvrir de nouvelles visages. C’est toujours aussi déroutant et il faut quelques épisodes pour retrouver ses repères, mais je dois saluer le travail des créateurs de la série, qui parviennent toujours à trouver des acteurs convaincants. Imelda Staunton en particulier est parfaite dans le rôle principal, l’actrice semblait destinée à incarner la Reine et elle le fait avec une aisance presque troublante. À ses côtés, Jonathan Pryce est impeccable dans le rôle du roi, mais je retiendrais surtout Elizabeth Debicki dans celui de Diana. C’est naturellement un personnage de plus en plus important et il fallait une actrice capable d’offrir un jeu subtil, ce qui est tout à fait son cas.

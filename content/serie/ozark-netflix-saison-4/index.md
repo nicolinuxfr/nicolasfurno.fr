@@ -2,7 +2,7 @@
 title: "*Ozark*, Netflix (saison 4)"
 date: 2022-05-31T22:28:41+02:00
 id: 69740 
-saison: 4
+saison: [4]
 ---
 
 *Ozark* trouve une conclusion avec une quatrième et ultime série qui s’étale un petit peu plus en comptant 14 épisodes,  de quoi offrir à la famille Byrde une conclusion digne de ce nom. La création de Netflix avait [démarré de manière assez laborieuse](https://voiretmanger.fr/ozark-dubuque-williams-netflix/), mais rapidement trouvé son rythme par la suite, si bien que j’étais curieux de savoir ce que les scénaristes allaient nous réserver. Il faut dire qu’ils avaient fait très fort sur le dernier épisode de la troisième saison, avec la mort de l’avocate du cartel devant les yeux ébahis de Wendy et Marty, une manière de forcer le renouvellement des personnages. 

@@ -2,7 +2,7 @@
 title: "*Locke & Key*, Netflix (saison 3)"
 date: 2022-08-22T21:44:02+02:00
 id: 86423 
-saison: 3
+saison: [3]
 ---
 
 Suite et fin pour *Locke & Key*, une série sympathique, mais qui n’a jamais réussi à entièrement briller [dans ses deux premières saisons](https://voiretmanger.fr/locke-key-hill-netflix/). La faute à des personnages trop superficiels et surtout des facilités scénaristiques trop grossières. Malheureusement, la troisième saison ne redresse pas le tir. Heureusement, c’est aussi la dernière pour la création de Netflix, qui a tout juste su rester divertissante jusqu’au bout.

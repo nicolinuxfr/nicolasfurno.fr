@@ -2,7 +2,7 @@
 title: "*Bad Sisters*, Apple TV+"
 date: 2022-11-01T21:30:06+01:00
 id: 199318 
-saison: 1
+saison: [1]
 ---
 
 Adaptée d’une série flamande, *Bad Sisters* se construit autour d’une famille de cinq sœurs, d’un mari ou beau-frère mort et de deux assureurs qui trouvent le décès un petit peu trop mystérieux. Cette série irlandaise manie l’humour noir avec talent pour nous faire saliver pendant dix épisodes : que s’est-il passé au juste le soir où John-Paul est mort ? Les quatre sœurs ont-elles enfin réussi à tuer leur insupportable beau-frère qui leur a toutes fait du mal ? La tension est maintenue jusqu’à l’ultime épisode et la création d’Apple TV+ est aussi intense qu’elle peut être fun : une vraie réussite.

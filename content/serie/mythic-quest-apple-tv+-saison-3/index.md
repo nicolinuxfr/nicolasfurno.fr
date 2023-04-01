@@ -1,8 +1,8 @@
 ---
 title: "*Mythic Quest*, Apple TV+ (saison 3)"
 date: 2023-01-20T21:45:47+01:00
-id: 94951 
-saison: 3
+id: 94951
+saison: [3]
 ---
 
 > On ne sait pas encore si *Mythic Quest* aura un avenir, mais les scénaristes ont judicieusement opté pour une fin qui obligera la série à partir sur d’autres voies si elle doit continuer. Une bonne manière de ne pas tourner en rond et de se forcer à se réinventer.

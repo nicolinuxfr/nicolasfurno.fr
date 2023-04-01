@@ -2,7 +2,7 @@
 title: "*Star Wars : Andor*, Disney+"
 date: 2022-11-28T21:25:11+01:00
 id: 83867 
-saison: 1
+saison: [1]
 ---
 
 Un *spin-off* du *spin-off*, une préquelle de la préquelle ? La promesse de *Star Wars : Andor*, dernière série Disney+ dans le mythique univers créé par George Lucas, avait de quoi décourager. Surtout quand on pense à la qualité [au mieux correcte sans plus](https://nicolasfurno.fr/serie/obi-wan-kenobi-disney+/), au pire [carrément médiocre](https://nicolasfurno.fr/serie/mandalorian-disney+-saison-2/), des autres créations du service de streaming dans ce même univers. Et pourtant, Tony Gilroy signe contre toute attente une excellente première saison en imaginant ce qui se déroule avant [*‌Rogue One : A Star Wars Story*](https://voiretmanger.fr/rogue-one-star-wars-story-edwards/), avant l’[*Épisode IV*](https://voiretmanger.fr/star-wars-episode-4-nouvel-espoir-lucas/). Il n’est même pas encore question d’Étoile de la Mort à ce stade, tout du moins les personnages n’en ont pas conscience. Avant de voler ses plans et d’offrir une véritable chance aux Rebelles, quel est le parcours de Cassian Andor ? Non, ce n’est pas intéressant sur le papier, mais en réalité, c’est passionnant. 

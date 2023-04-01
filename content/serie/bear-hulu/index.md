@@ -2,7 +2,7 @@
 title: "*The Bear*, Hulu"
 date: 2022-12-21T22:05:07+01:00
 id: 136315 
-saison: 1
+saison: [1]
 ---
 
 *The Bear*[^1] offre une plongée brutale dans les cuisines un peu crasseuses d’un petit restaurant de Chicago. Brutale, c’est un mot qui correspond assez bien à la série créée par Christopher Storer. Rien ne va dans ce restaurant cédé par Mickey à son frère Carmy après son suicide : une dette énorme, des sandwiches paresseux et surtout une équipe qui ne veut pas faire évoluer son « système » qui a du mal à accepter leur nouveau chef venu de la grande gastronomie. La première saison compte huit épisodes relativement courts, même si le dernier dépasse les 45 minutes. Elle est néanmoins étonnamment riche, non pas tellement pour son intrigue principale qui reste assez simple au fond, mais pour ses personnages particulièrement bien travaillés. Et comme toujours, c’est la clé pour une série réussie.

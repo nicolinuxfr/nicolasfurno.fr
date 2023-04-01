@@ -2,7 +2,7 @@
 title: "*Half Bad : Mal & Fils*, Netflix"
 date: 2023-03-24T21:25:00+01:00
 id: 210235 
-saison: 1
+saison: [1]
 ---
 
 Des sorciers, des adolescents… *Half Bad : Mal & Fils*[^1] n’a pas grand-chose pour elle. Mais on n’est jamais à l’abris d’une bonne surprise avec les séries britanniques, alors nous avons donné sa chance à la création de Joe Barton, croisé auparavant pour le sympathique *[Giri/Haji](https://voiretmanger.fr/giri-haji-barton-bbc/)*. Nous l’avons commencée sans savoir que Netflix avait annulé la série, comme c’est désormais trop régulièrement le cas. Et c’est dommage, car malgré son manque d’originalité et des dialogues pas toujours bien menés, cette première saison se regarde avec plaisir. Il y avait un vrai potentiel pour se rapprocher de [*The Magicians*](https://voiretmanger.fr/magicians-gamble-mcnamara-syfy/), sans l’atteindre pleinement à cause de ces défauts et de personnages peut-être un peu trop jeunes, même si j’ai trouvé qu’ils étaient assez bien écrits dans l’ensemble. 

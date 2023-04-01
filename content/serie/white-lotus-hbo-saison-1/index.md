@@ -2,7 +2,7 @@
 title: "*The White Lotus*, HBO (saison 1)"
 date: 2022-12-19T21:50:10+01:00
 id: 111803 
-saison: 1
+saison: [1]
 ---
 
 Pour *The White Lotus*, Mike White imagine un hôtel fictif et bien trop réel à la fois à Hawaï, où plusieurs familles se retrouvent pour une semaine de vacances et de relaxations. Sauf qu’il ouvre la saison avec une première séquence dans l’aéroport de retour, où l’on apprend qu’il y a eu un mort pendant ce séjour, dans cet hôtel de luxe. Une bonne manière de poser le cadre de cette comédie noire, où les apparences sont toujours trompeuses. La première saison est composée de six épisodes, un par jour qui se déroule sur cette île paradisiaque qui cache en réalité un enfer permanent, des touristes au personnel. Tout le monde ment, manipule, abuse et même vole dans cette descente aux enfers décidément jouissive.

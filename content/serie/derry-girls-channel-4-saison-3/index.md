@@ -2,7 +2,7 @@
 title: "*Derry Girls*, Channel 4 (saison 3)"
 date: 2022-12-26T21:35:27+01:00
 id: 76148 
-saison: 3
+saison: [3]
 ---
 
 Après [deux excellentes saisons](https://voiretmanger.fr/derry-girls-mcgee-channel-4/), *Derry Girls* trouve sa conclusion avec sept épisodes, c’est à peine plus long que les précédentes. Le format court m’a toujours laissé un petit peu sur ma faim, mais il faut reconnaître que cela fonctionne bien pour cette série à l’humour noir toujours aussi corrosif. Lisa McGee reprend ses personnages pile où ils en étaient, avec une évolution malgré tout liée à leur âge : moins de classe, plus d’extra-scolaire. Les filles de Derry, et James, approchent toutes des 18 ans, elles commencent à sortir, s’intéressent aux garçons ou aux filles c’est selon, bref, on s’approche des jeunes adultes sans quitter entièrement l’adolescence, fort heureusement. *Derry Girls* reste sur des personnages très marqués, proches de la caricature même, sans que ce soit un problème de manière assez remarquable. Cette simplicité dans leurs traits de caractère n’empêche aucunement le développement de leur personnalité et le dernier épisode, qui est aussi deux fois plus long, nous laisse avec cette si belle impression de les connaître un petit peu comme notre propre famille.

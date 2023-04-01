@@ -2,7 +2,7 @@
 title: "*Stranger Things*, Netflix (saison 4)"
 date: 2022-07-09T22:19:06+02:00
 id: 66732 
-saison: 4
+saison: [4]
 ---
 
 Netflix a modernisé les séries en se débarrassant des contraintes liées à la diffusion à horaire fixe. Comme l’entreprise n’a jamais eu de grille horaire ni de coupures pubs à respecter, elle n’a imposé aucune durée fixe et encore moins de nombre d’épisodes à ses créateurs. Alors, pourquoi ne pas imaginer qu’une saison fasse neuf épisodes, découpée bizarrement en deux parties de sept et deux ? Et surtout, pourquoi ne pas terminer cette saison sur un épisode de… deux heures et demi ? *Stranger Things* ne se refuse rien, quitte à faire trop long dans ce final qui aurait mérité quelques coupes franches. Néanmoins, cette quatrième saison reste dans l’ensemble un grand moment de n’importe quoi, de l’horreur bien fun et qui explique sans difficulté l’incroyable succès de cette série.
