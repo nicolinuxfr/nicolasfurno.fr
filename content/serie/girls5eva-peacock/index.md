@@ -1,0 +1,12 @@
+---
+title: "*Girls5eva*, Peacock"
+date: 2023-04-13T21:50:45+02:00
+id: 100350 
+saison: [1,2]
+---
+
+Dans *Girls5Eva*, un « [*girl group*](https://fr.wikipedia.org/wiki/Girl_group) » qui a cartonné avec un seul titre à la toute fin des années 1990 tente un retour à notre époque. Les cinq filles — [parce que quatre c’est trop court](https://www.youtube.com/watch?v=baaSjb-Cihs) — sont désormais bien loin du ‌showbiz, avec leurs familles, leurs boulots et un nom oublié depuis toujours. Tout bascule quand un célèbre rappeur reprend leur fameux titre en guise de sample pour son dernier tube et la série créée par Meredith Scardino se construit alors autour de cet espoir d’un retour. Entre nostalgie pour l’époque des Spice Girls et comédie caustique sur notre monde moderne où TikTok fait la loi, *Girls5Eva* est amusante et pleine de bonnes idées ainsi que d’hilarantes vraies fausses chansons inventées pour les besoins du groupe. Malheureusement, ce fourmillement bascule souvent dans le trop plein et la création de Peacock peut tomber dans l’indigestion. 
+
+Un des défauts de *Girls5Eva* est sans doute de vouloir brasser trop de thématiques et développer trop d’arcs narratifs sur ces personnages. Il y a un fil rouge qui aligne les seize épisodes des deux premières saisons, le fameux retour souhaité par les quatre survivantes du groupe, mais chaque épisode est l’occasion d’évoquer des sujets secondaires. En général, deux par épisode, avec un duo de chanteuses pour accompagner chaque sous-intrigue. Et dans le lot, je trouve que tout n’est pas aussi réussi et drôle que les fausses chansons où le curseur du ridicule est poussé au maximum pour notre plus grand plaisir. Cela dit, *Girls5Eva* repose sur un format court avec des épisodes qui tournent autour de la demi-heure et il faut saluer le travail des quatre actrices principales : Sara Bareilles, Renée Elise Goldsberry, Busy Philippe, sans oublier l’excellente ~~Melissa McCarthy~~ Paula Bell. Elles sont toutes dans la caricature outrancière, mais parviennent à insuffler dans leurs personnages une part de crédibilité. Je n’irai pas jusqu’à dire réalisme, mais enfin, ce n’était pas gagné. 
+
+Après l’annulation de Peacock, Netflix a repris le flambeau et offrira à *Girls5Eva* une troisième saison. Est-ce que je serai au rendez-vous ? Peut-être par curiosité, mais je ne suis pas convaincu que les scénaristes pourront renouveler la série sans tomber dans la redite. 
