@@ -2,7 +2,7 @@
 title: "*Acharnés*, Netflix"
 date: 2023-04-18T21:15:59+02:00
 id: 154385 
-saison: 1
+saison: [1]
 ---
 
 Un klaxon un peu long accompagné d’un doigt d’honneur et Danny perd la tête. Il fonce au volant de son pick-up pourchasser le SUV blanc qui lui a fait du tort. Commence une longue poursuite qui ne se termine pas avec quelques fleurs abimées dans le malheureux jardin qui s’est trouvé sur leur route, mais bien plus tard, avec une série d’agressions qui va *crescendo* jusqu’au dernier épisode. *Acharnés* mérite d’être vu sans trop en savoir à son sujet. Lee Sung Jin commence avec un point de départ hélas trop banal — l’agressivité au volant teintée de masculinité toxique — pour aboutir sur une double histoire riche et complexe. Il est question de dépression, de capitalisme, de racisme et de famille dans ce tourbillon d’émotions fortes, une réussite à ne pas rater.
