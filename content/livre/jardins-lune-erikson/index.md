@@ -1,6 +1,6 @@
 ---
 title: "*Les Jardins de la Lune*, Steven Erikson"
-date: 2023-04-24T21:25:44+02:00
+date: 2023-04-24T21:30:44+02:00
 id: veRPDwAAQBAJ
 pays: "ca"
 ---
@@ -11,7 +11,7 @@ Passé cet étonnement initial, je me suis lancé dans ce premier tome de l’un
 
 On ne peut pas dire que Steven Erikson n’avait pas prévenu, mais était-ce nécessaire de faire aussi complexe ? Je suis le premier à apprécier un récit fictif qui plonge dans l’action sans préambule et surtout qui compte sur l’intelligence du lecteur ou spectateur pour tout comprendre. Mais *Les Jardins de la Lune* est confus sans raison et il me semble que c’est un défaut d’écriture, plus qu’un choix que l’on peut expliquer raisonnablement. Fallait-il vraiment multiplier ainsi les personnages et en introduire constamment de nouveaux, jusqu’à la toute fin ? Certes, cela donne l’impression d’un monde immense, mais en contrepartie, ces personnages peinent pour la plupart à exister et ils sont rarement plus qu’un nom qu’on croise de temps en temps au fil des pages. Quelques séquences, notamment d’actions liées à la magie, semblent impressionnantes, mais sont à la limite d’être illisibles. Il y a des arcs narratifs entiers qui paraissent gratuits, parce qu’ils ne sont jamais expliqués. Il y a des événements qui semblent déconnectés de tout et qui n’apportent rien… ou alors je n’ai pas compris quoi.
 
-Cela fait beaucoup et je suis persuadé que ce premier roman aurait pu être bien meilleur avec quelques ajustements, des expansions sur quelques personnages clés que l’on aurait aimé mieux connaître et des retraits d’éléments secondaires dont on peine à déceler l’importance. Malgré tout, j’ai lu *Les Jardins de la Lune* jusqu’au bout et je pense donner sa chance à la saga en attaquant le deuxième tome. Je ne peux pas nier que Steven Erikson a une vision à l’ambition folle et que cela séduit mon amour du genre. *Le Livre des Martyrs* imagine un monde que j’ai envie de découvrir, mais j’espère que le style de l’auteur s’améliorera au fil des épisodes. Je suis partant pour un monde complexe, mais la narration n’a pas besoin d’être aussi chargée et alambiquée pour le décrire.
+Cela fait beaucoup et je suis persuadé que ce premier roman aurait pu être bien meilleur avec quelques ajustements, des expansions sur quelques personnages clés que l’on aurait aimé mieux connaître et des retraits d’éléments secondaires dont on peine à déceler l’importance. Malgré tout, j’ai lu *Les Jardins de la Lune* jusqu’au bout et je pense donner sa chance à la saga en attaquant le deuxième tome. Je ne peux pas nier que Steven Erikson a une vision à l’ambition folle et que cela m’a séduit. J’ai aussi beaucoup aimé certains choix narratifs, l’absence claire de héros et de méchants, ou encore quelques idées originales, en particulier sur le fonctionnement précis de la magie. *Le Livre des Martyrs* imagine un monde que j’ai envie de découvrir, mais j’espère que le style de l’auteur s’améliorera au fil des épisodes. Je suis toujours partant pour un univers complexe, mais la narration n’a pas besoin d’être aussi chargée et alambiquée pour le décrire.
 
 
 
