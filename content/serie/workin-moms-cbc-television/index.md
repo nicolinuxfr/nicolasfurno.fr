@@ -2,6 +2,7 @@
 title: "*Workin’ Moms*, CBC Television"
 date: 2022-05-20T21:30:32+02:00
 id: 69555 
+saison: [1,6]
 ---
 
 Créée, co-écrite, co-réalisée et interprétée par Catherine Reitman, *Workin’ Moms* respire la sincérité dès le tout premier épisode. La série de CBC Télévision dresse le portrait de quelques mères qui reprennent le travail après leur congé maternité. Dès le pilote, elle surprend par la franchise de son ton et de son humour, bien loin des clichés sur les mères que l’on voit trop souvent dans la fiction. Non pas que je sois le mieux placé pour juger le sujet, bien sûr, mais il est assez évident à l’écran que la créatrice a puisé dans sa propre expérience et celle de ses connaissances pour écrire les scénarios des six saisons.
