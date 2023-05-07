@@ -1,6 +1,6 @@
 ---
 title: "*Last Night in Soho*, Edgar Wright"
-date: 2023-05-06T17:15:10+02:00
+date: 2023-05-07T20:55:10+02:00
 id: 576845 
 ---
 
