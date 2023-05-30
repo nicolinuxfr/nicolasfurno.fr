@@ -1,0 +1,13 @@
+---
+title: "*Américain de Chine*, Disney+"
+date: 2023-05-30T21:45:24+02:00
+id: 135615 
+saison: [1]
+---
+
+*Américain de Chine* est l’adaptation pour Disney+ d’un roman graphique éponyme paru dans les années 2000 et qui était lui-même inspiré par un roman traditionnel chinois de la fin du XVI<sup>e</sup> siècle, rien que ça. L’idée de base est de mêler deux cultures, la mythologie fantastique chinoise traditionnelle d’un côté et l’*American way of life* de l’autre. Le résultat est un mix étonnamment équilibré. D’une part, la série pour ados comme on en a vu des dizaines, avec un personnage principal au lycée qui a tous les problèmes classiques, entre reconnaissance de ses pairs et histoires d’amour. D’autre part, une histoire de roi singe, un bâton doré, un démon taureau et bien d’autres éléments mythologiques qui sont totalement étrangers à notre culture et en même temps assez familiers. À la frontière des deux mondes, un adolescent sino-américain, issu de la première immigration, mais qui sait à peine parler chinois et qui tente de vivre la vie américaine la plus caricaturale possible en jouant dans l’équipe de foot de son lycée. L’air de rien, la série créée par Kelvin Yu est politique.
+
+Elle ne l’est pas directement, on est chez Disney quand même. Ne vous attendez pas à un discours explicite contre le racisme ambiant aux États-Unis, même si *Américain de Chine* n’est pas très loin. Notamment grâce à ce personnage secondaire, un autre sino-américain qui s’est fait connaître dans les années 1990 avec une sitcom qui l’a rendu populaire avec une vision caricaturale et ridicule de son identité. J’étais agréablement surpris de retrouver cet arc et de le voir porté aussi loin, même si cela se fait maladroitement dans l’une des scènes post-génériques[^1], mais je ne m’attendais pas à un tel discours. Au fond, Disney+ pervertit le modèle traditionnel en introduisant cette autre culture et fusionne les deux avec une habilité assez remarquable. Certes, la première saison part dans tous les sens, n’évite jamais une bonne dose de ridicule et peut parfois abuser de ses effets. Mais j’ai trouvé l’ensemble généreux et dans l’ensemble séduisant. J’espère que le service de streaming permettra à cette création résolument à part de poursuivre sur une deuxième saison, je suis sûr qu’il y aurait encore beaucoup à dire sur le racisme ambiant aux États-Unis, notamment à l’encontre des sino-américains.
+
+
+[^1]: Disney+ reste toujours bizarrement attaché à l’ancien monde, avec une diffusion à la semaine des épisodes de ses séries. Si bien qu’il y a encore des séquences post-génériques qu’on peut aisément louper si on ne fait pas attention et qui peuvent pourtant être importantes. Soupir.
