@@ -1,0 +1,10 @@
+---
+title: "*La Diplomate*, Netflix"
+date: 2023-06-17T21:31:22+02:00
+id: 203857 
+saison: [1]
+---
+
+*La Diplomate* nous plonge dans la diplomatie internationale, version thriller américain. Sa créatrice donne une bonne idée de ce qu’il faut attendre : Debora Cahn a commencé sa carrière en écrivant et produisant pour *À la Maison-Blanche* et elle a aussi écrit travaillé pour [*Homeland*](https://voiretmanger.fr/homeland-gordon-gansa-raff-showtime/) — et *Grey’s Anatomy*, dans un tout autre registre. La série portée par Netflix est à l’intersection entre la politique, avec les machinations habituelles des deux côtés de l’Atlantique pour garder sa place ou dégager un adversaire, et l’espionnage international, entre les États-Unis et ses alliés et les ennemis habituels, Russie en tête. Rien de révolutionnaire, mais cet assemblage fonctionne bien pour cette première saison, surtout grâce au talent de l’actrice principale. Keri Russell excelle pour incarner Kate Wyler, nommée ambassadrice américaine au Royaume-Uni avec l’espoir d’en faire une future vice-présidente américaine. J’imagine que c’est une pure coïncidence, mais elle m’a souvent évoqué Carrie de *Homeland*, avec un jeu et même une manière de parler assez proches. J’ai en tout cas retrouvé sa ferveur et la série vaut le détour rien que pour elle.
+
+Même si c’est outrancier d’un bout à l’autre, évidemment, *La Diplomate* est un divertissement solide. Personne n’imagine que la diplomatie se déroule ainsi, mais voir le Président des États-Unis et le Premier ministre britannique représentés comme des gamins qu’il faut maîtriser tant bien que mal dans les coulisses est assez réjouissant. Et puis, les scénaristes intègrent astucieusement notre actualité, si bien que la série de Netflix semble parfaitement à son aise dans notre réalité. Les huit épisodes se regardent avec grand plaisir et le final explosif donne envie d’en voir plus. Cela tombe bien, le service de streaming a commandé une deuxième saison et j’ai hâte de voir ce qu’elle nous réserve. D’ici là, je recommande *La Diplomate*, sauf si vous en attendez une leçon sérieuse sur la diplomatie internationale bien entendu. 
