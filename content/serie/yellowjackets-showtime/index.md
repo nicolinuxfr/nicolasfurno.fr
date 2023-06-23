@@ -2,6 +2,7 @@
 title: "*Yellowjackets*, Showtime"
 date: 2022-03-15T21:24:21+01:00
 id: 117488 
+saison: [1]
 ---
 
 Il semble bien que les 1990’s sont les nouvelles 1980’s. Résumer *Yellowjackets* à une série nostalgique serait toutefois bien injuste, même si la création de Showtime joue indéniablement sur cet aspect, avec une partie de son action qui se déroule en 1996 et un ensemble de clins d’œil à cette époque. Ashley Lyle et Bart Nickerson ont toutefois une excellente idée, qui transcende ce goût pour le passé : ils imaginent un avion qui s’écrase, des survivants qui ne sont pas retrouvés et qui doivent vivre 18 mois dans la nature profonde, forcés d’en venir au cannibalisme pour survivre. *Yellowjackets* ajoute deux petites idées supplémentaires pour pimenter le tout : d’une part, ce sont presque uniquement des adolescentes qui sont dans cet avion ; d’autre part, une bonne dose de fantastique plane.
