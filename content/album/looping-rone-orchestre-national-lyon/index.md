@@ -1,0 +1,12 @@
+---
+title: "*L(oo)ping*, Rone & Orchestre National de Lyon"
+date: 2023-07-21T21:45:23+02:00
+id: 1679635275 
+pays: "fr"
+---
+
+J’ai découvert *L(oo)ping* par l’album et par le simple nom de Rone, sans savoir à l’avance à quoi m’attendre. La mention de l’Orchestre National de Lyon annonçait la couleur, mais j’ignorais qu’il s’agissait en réalité d’un projet à cheval entre plusieurs arts, mêlant la musique électronique chère à l’artiste français, la musique symphonique qu’un orchestre de 90 musiciens peut produire et encore la danse avec la présence de plusieurs chorégraphes. Un spectacle sons et lumière que l’on peut [découvrir sur Arte](https://www.arte.tv/fr/videos/112343-000-A/rone-l-oo-ping/), mais je trouve que la musique se suffit amplement à elle-même.
+
+Et c’est une musique très cinématographique que j’ai découvert sur ces onze morceaux qui composent une bande-originale de film particulièrement convaincante. En une heure, Rone revisite ses morceaux en mode grand orchestre et le long-métrage qui pourrait être associé défile sous vos yeux rien qu’en écoutant les compositions orchestrales de Romain Allender. À défaut d’être toujours originale, j’ai apprécié l’efficacité de cette bande-son et le jeu astucieux entre les bandes numériques et les instruments analogiques. Le cinéma fait régulièrement appel aux deux registres, si bien que cela renforce le sentiment d’écouter la musique d’un film, même s’il reste fictif. La partition est en tout cas plaisante et tient dans la durée, avec une excellente gestion du rythme et de la tension qui donne envie à chaque fois d’écouter l’album du premier au dernier titre. *L(oo)ping* est principalement orchestral, ce qui met d’autant mieux en valeur le seul morceau parlé : « *[Bora Vocal (Looping)](https://www.youtube.com/watch?v=bKHHbkCuWaM)* », un titre que je découvrais pour l’occasion alors même que c’est l’un des tous premiers de Rone, un titre où l’on entend la voix d’Alain Damasio s’encourageant pendant la rédaction de *La Horde du Contrevent*.
+
+Au bout du compte, *L(oo)ping* est une œuvre riche qui m’accompagne depuis quelques semaines avec à chaque retour dans la playlist quelques petites découvertes supplémentaires. Je regarderai peut-être la version filmée avec la danse en plus, mais je crois que j’ai suffisamment d’images mentales qui me viennent en écoutant la musique. 
