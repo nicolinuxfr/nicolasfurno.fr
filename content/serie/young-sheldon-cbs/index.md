@@ -2,7 +2,7 @@
 title: "*Young Sheldon*, CBS"
 date: 2023-08-12T21:26:17+02:00
 id: 71728 
-saison: [1-6]
+saison: [1,6]
 ---
 
 Le succès de [*The Big Bang Theory*](https://voiretmanger.fr/big-bang-theory-lorre-prady-cbs/) a été tel que l’on imagine sans peine que CBS n’a pas eu besoin de beaucoup de temps pour valider le projet de faire une série dérivée. Comme son nom le suggère, *Young Sheldon* s’intéresse à l’enfance de Sheldon Cooper, le personnage principal de la sitcom d’origine. Derrière les manettes, on retrouve Chuck Lorre qui avait aussi créé la série originale, accompagné cette fois de Steven Molaro qui était impliqué dans sa production et son écrire. Même si Jim Parsons n’apparaît pas, on entend aussi sa voix dans chaque épisode puisque c’est lui le narrateur. Le résultat n’est pas qu’une manière d’exploiter le succès d’une sitcom, même s’il est préférable de connaître l’univers de *The Big Bang Theory* pour apprécier cette nouvelle création CBS. Néanmoins, cette préquelle trouve son rythme et parvient à créer de nouveaux personnages aussi attachants et drôles que son illustre inspiration. À condition de ne pas en attendre davantage qu’une série à l’ancienne, assez conservatrice tant sur la forme que le fond, c’est un divertissement fort sympathique.
