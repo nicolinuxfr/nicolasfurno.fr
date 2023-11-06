@@ -1,6 +1,6 @@
 ---
 title: "*Les Bonnes étoiles*, Hirokazu Kore-eda"
-date: 2023-11-05T18:09:31+01:00
+date: 2023-11-06T18:07:31+01:00
 id: 736732 
 ---
 
