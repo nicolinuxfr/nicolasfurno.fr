@@ -1,0 +1,12 @@
+---
+title: "*Les Débuts*, Netflix"
+date: 2023-11-15T21:06:00+01:00
+id: 230372 
+saison: [1]
+---
+
+*Les Débuts* est peut-être une énième série sur des adolescents et leurs premiers émois amoureux le temps d’un été, c’est aussi une série polonaise. C’est une raison comme une autre de lui donner sa chance et je suis bien content d’avoir essayé. Même si le sujet ne semble pas bien original au premier abord, cette création pour Netflix trouve son propre ton et parvient surtout à développer des personnages crédibles et attachants. En six épisodes d’environ trois quart d’heure, ce n’était pas gagné, d’autant que le scénario ne se contente pas de creuser les trois personnages principaux, il accorde une place conséquente à une myriade de personnages secondaires. Et à l’arrivée, ce pitch bien banal a donné naissance à une très belle série que vous auriez tort de rater.
+
+Le sujet central reste la fin de l’adolescence et les premiers émois amoureux. Lena et Niko sont des amis d’enfance et leur amitié est mise à mal quand ils rencontrent Igor, joueur de basket de passage dans la station balnéaire où ils sont en vacances. De cette rencontre naît une forme de triangle amoureux aux contours flous et mouvants et il faut saluer la façon qu’ont Nina Lewandowska et Kamila Tarabura de raconter cette romance adolescente. Les deux créatrices font preuve d’une grande finesse et filme leur histoire avec beaucoup de sensualité et surtout de crédibilité. Tout le casting est vraiment impeccable, il n’y a aucune fausse note et il faut saluer tout particulièrement le travail des trois jeunes, ils sont épatants. J’ai aussi apprécié l’inclusion des adultes, en général absents de ce type d’histoires, alors qu’ils sont bien présents ici comme contrepoint peut-être ou en tout cas comme expansion sur le sujet de l’amour et des formes qu’il peut prendre.
+
+*Les Débuts* est aussi un récit des débuts dans le cinéma d’une jeune réalisatrice et à cet égard, une série très « méta ». Les six épisodes sont parsemées de références et citations, en particulier de Quentin Tarantino, et on suit les débuts derrière ou devant la caméra des trois personnages principaux. Autre bonne idée, Lena est sur le spectre autistique et j’ai trouvé que cet aspect était particulièrement bien géré, sans tomber dans la caricature facile et en offrant un aperçu fidèle de ce que c’est de vivre avec un TSA ou de vivre avec une personne sur le spectre. À l’arrivée, cela donne une série bien plus riche et intéressante que je l’imaginais au premier abord. Bonne pioche de la part de Netflix !
