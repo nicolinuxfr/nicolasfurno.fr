@@ -1,0 +1,13 @@
+---
+title: "*Parlement*, france.tv"
+date: 2023-12-08T21:00:10+01:00
+id: 101666 
+---
+
+*Parlement* est un petit bijou, l’équivalent européen d’un [*Veep*](https://voiretmanger.fr/veep-iannucci-hbo/), une satire politique aussi drôle que déprimante sur les institutions européennes et toute leur défaillance, une comédie absurde parfaitement menée… du moins, si l’on s’en tient aux premiers dix épisodes. Tournée avec un budget ridicule, la première saison a rencontré un immense succès parfaitement légitime, si bien que france.tv a commandé une suite et transformé la satire créée par Noé Debré en une longue série puisqu’une quatrième saison est en attente. Malheureusement, l’équilibre parfait obtenu dans la première saison a été entièrement perdu dès la deuxième. Deux ans et une pandémie s’étaient écoulés entre les deux, ce qui a suffi à perdre tout ce qui faisait le succès de *Parlement*. Les personnages si bien écrits sont devenus des caricatures grossières, l’humour subtil est devenu une farce même pas drôle : je n’ai même pas réussi à terminer cette deuxième saison et j’aurais aimé qu’on me prévienne comme je le fais maintenant pour vous. 
+
+En vous arrêtant à la fin de la saison initiale, vous resterez avec le souvenir d’une série politique parfaitement écrite et remarquablement interprétée. Loin de chercher les blagues faciles, *Parlement* creusait des personnages tantôt paumés, tantôt de vrais requins de la politique. Le parcours de Samy, jeune assistant au Parlement européen, était l’excuse parfaite pour décortiquer et démonter ces institutions à la bureaucratie si absurde que Kafka ne s’y retrouverait pas. Les luttes entre pays sont doublées de conflits entre forces politiques et triplées de combats entre les différentes instances en place. Des parlementaires qui ne font strictement rien ou n’importe quoi aux lobbyistes prêts aux pires manœuvres pour leurs clients et des assistants malléables aux fonctionnaires qui ne sont censés rien pouvoir faire, la galerie de personnages est elle aussi parfaite. Rien n’est à jeter dans cette première saison sur fond de Brexit et de grands projets de loi sur la pêche. Même les histoires personnelles sont bien menées et touchantes, c’était un sans faute.
+
+Quelle déception quand on découvre que les personnages sont tous devenus ridicules, que les situations sont toutes grotesques et surtout que les scénaristes n’ont plus rien à raconter. Ils tournent en boucle autour de blagues même pas drôles et on s’ennuie ferme. Vraiment, oubliez la suite, mais regardez la première saison de *Parlement*, vous ne le regretterez pas.  
+
+
