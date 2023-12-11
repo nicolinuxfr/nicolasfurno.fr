@@ -10,4 +10,4 @@ Adaptation d’un roman graphique, *Bodies* est presque un long-métrage découp
 
 Comme souvent, le puzzle est plus amusant avant les révélations finales. Non pas que *Bodies* rate son final, le dernier épisode est propre et cohérent avec les paradoxes du voyage temporel, tout en offrant une fin mignonne à ses personnages. Le meilleur reste néanmoins pour moi les premiers épisodes, quand toutes les possibilités sont toujours ouvertes et que le scénario n’a pas encore tranché. Malgré tout, le bilan est très positif pour moi, j’ai beaucoup apprécié cette mini-série portée par Netflix et je la recommande sans hésiter. 
 
-[^1]: Bizarrement raduite par « *Avec tout notre amour* », ce qui détourne le sens original, je trouve. Elias recherche l’amour, être aimé est ce qu’il veut avant tout et la version originale me semble plus proche.
+[^1]: Bizarrement traduite par « *Avec tout notre amour* », ce qui détourne le sens original, je trouve. Elias recherche l’amour, être aimé est ce qu’il veut avant tout et la version originale me semble plus proche.
