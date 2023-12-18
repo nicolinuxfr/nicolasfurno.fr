@@ -1,0 +1,12 @@
+---
+title: "*Still Up*, Apple TV+"
+date: 2023-12-18T21:54:52+01:00
+id: 213337 
+saison: [1]
+---
+
+*Still Up* réinvente la comédie romantique en introduisant quelques idées nouvelles. La série se passe intégralement de nuit, puisque les deux protagonistes n’arrivent pas à dormir, comme son titre le suggère bien. Danny souffre aussi d’une agoraphobie qui l’empêche de sortir de son appartement depuis des années, si bien que l’essentiel des épisodes se déroule par FaceTime[^1] interposé. Un dispositif original est intriguant, sans suffire pour autant à faire une bonne série. J’étais même sceptique au départ, je trouvais que c’était un petit peu artificiel, ces échanges par écran interposé toutes les nuits et toutes les astuces du scénario pour trouver des choses intéressantes à dire. Je dois reconnaître que la première saison m’a bluffé, avec un duo de personnages aussi bien écrits qu’interprétés qui forment un couple parfaitement crédible et attachant. 
+
+C’est, je trouve, le vrai tour de force de cette création pour Apple TV+. *Still Up* a beau sembler invraisemblable par endroits, avec des péripéties alambiquées pour tenir dans son format original, elle parvient à convaincre et je crois que c’est surtout la réussite de ses deux personnages principaux. Danny interprété par ~~Martin Freeman jeune~~ Craig Roberts, comme Antonia Thomas qui incarne Lisa, sont excellents et on sent leur connexion dès les premières secondes. À cet égard, on est sur une trajectoire assez classique de comédie romantique, où le spectateur comprend bien avant les personnages qu’il y a une attraction réciproque. Même si le scénario parvient à adroitement brouiller quelques pistes, en plaçant notamment Lisa dans une relation de longue durée qui semble sérieuse, il n’y a pas réellement de suspense. *Still Up* n’essaie pas de créer un faux suspense assez vain et c’est aussi bien comme ça, le plaisir de la série provient de l’alchimie entre ses deux protagonistes et elle n’a besoin de rien de plus. Une bien belle surprise. 
+
+[^1]: C’est une série Apple, ça se voit bien. Non pas tant par l’utilisation d’iPhone ou de Mac d’ailleurs, plutôt par le réalisme des interfaces, puisqu’il s’agit bien d’iOS. Et puis par l’inclusion de Shareplay dans une séquence, car qui utilise réellement ce truc, à part les personnages d’une série Apple TV+ ?
