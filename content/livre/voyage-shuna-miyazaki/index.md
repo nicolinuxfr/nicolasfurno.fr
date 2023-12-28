@@ -2,7 +2,7 @@
 title: "*Le voyage de Shuna*, Hayao Miyazaki"
 date: 2023-12-27T22:27:04+01:00
 id: u8RD0AEACAAJ
-pays: "ja"
+pays: "jpn"
 ---
 
 Si j’ai beaucoup regardé d’œuvres qu’il a dirigées, c’est la première fois que je lisais du Hayao Miyazaki. Publié à l’origine en 1983, *Le voyage de Shuna* précède la création des studios Ghibli de deux ans et c’est une publication passionnante rien que pour cette raison. Concentré dans ce conte illustré assez court, on retrouve tout l’univers du Japonais, tant sur le plan visuel que sur ses histoires fétiches. Le cinéaste s’inspire d’un conte tibétain, qu’il modifie en profondeur en ajoutant le thème de l’esclavage et en offrant ce qui est peut-être son récit le plus sombre, même s’il garde un horizon d’espoir. Au-delà d’ailleurs des points de son œuvre future que l’on peut déceler ici et même avant eux, j’ai été frappé par la beauté de ce conte simple et sophistiqué à la fois. Hayao Miyazaki fait preuve d’une économie de moyens, en se concentrant sur les images plutôt que les dialogues, ce qui ne l’empêche pas d’en dire long sur la cupidité humaine et la cruauté de ces êtres divins qui gardent les bonnes céréales pour eux.
