@@ -1,10 +1,10 @@
 ---
 title: "*Tout va bien*, Disney+"
-date: 2024-01-21T20:34:57+01:00
+date: 2024-01-22T17:37:57+01:00
 id: 208920
 ---
 
-Anne Vasseur, sorte de gourou psychologue qui explique dans tous ses livres et à qui veut bien l’entendre que le bonheur n’est qu’une question de volonté, a retiré les dernières pages du *Chateau de ma Mère* à l’exemplaire qu’elle donne à sa fille pour ne pas la confronter à la mort. Je me demande à quel point *Tout va bien* ne mériterait pas le même traitement avec son dernier épisode. Ne lisez pas ce qui suit si vous n’avez pas vu la série et que vous comptez le faire, je ne voudrais pas divulgâcher quoi que ce soit.
+Ne lisez pas ce qui suit si vous n’avez pas vu la série et que vous comptez le faire, je m’en voudrais de divulgâcher quoi que ce soit et il faut bien parler de la fin. Anne Vasseur, sorte de gourou psychologue qui explique dans tous ses livres et à qui veut bien l’entendre que le bonheur n’est qu’une question de volonté, a retiré les dernières pages du *Chateau de ma Mère* à l’exemplaire qu’elle donne à sa fille pour ne pas la confronter à la mort. Je me demande à quel point *Tout va bien* n’a pas subi le même traitement avec son dernier épisode, réorienté pour nous éloigner d’une fin trop tragique. 
 
 Cette mini-série proposée par Disney+ m’a impressionné par le choix de son sujet et surtout son traitement frontal. Il est question d’une jeune fille atteinte de leucémie et des bouleversements opérés par cette terrible maladie sur toute sa famille. Le casting est impeccable, ce qui n’est pas toujours le cas dans la fiction française, l’écriture fine et l’ensemble parfaitement réaliste. *Tout va bien* résonne comme un titre à l’ironie de plus en plus mordante au fur et à mesure où la santé de Rose se détériore et alors que la famille se délite toujours plus. L’hypocrisie d’Anne — Nicole Garcia, royale — qui opte aveuglement pour l’optimisme quitte à ignorer tous ceux qui l’entourent à commencer par son mari est décrite avec soin et de plus en plus flagrante. La santé mentale de ses trois enfants dérape brutalement et la maladie révèle toutes les fêlures sous-jacentes qu’ils masquaient tant bien que mal. Virginie Efira et Sara Giraudeau sont impeccables pour incarner les deux sœurs, respectivement la tante et la mère, leur douleur est palpable sans trop en faire et leur personnage est remarquablement dosé. Cela ressemblait à un sans faute, pour une mini-série pas marrante du tout, mais puissante et juste.
 
