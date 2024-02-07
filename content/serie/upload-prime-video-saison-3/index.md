@@ -1,0 +1,10 @@
+---
+title: "*Upload*, Prime Video (saison 3)"
+date: 2024-02-07T21:05:30+01:00
+id: 86248 
+saison: [3]
+---
+
+*Upload* fait partie de ces séries qui se bonifient manifestement au fil des saisons. Les [deux premières](https://nicolasfurno.fr/serie/upload-prime-video/) ressemblaient davantage à un épisode rallongé de [*Black Mirror*](https://voiretmanger.fr/black-mirror-brooker-channel-4/) et manquaient peut-être un petit peu de profondeur, même si la deuxième allait dans la bonne direction. Bonne pioche, la troisième est à mon avis encore meilleure, peut-être parce qu’elle s’éloigne en partie du monde virtuel. C’était la grande surprise du final de la deuxième saison, Nathan a été « téléchargé » dans un corps cloné à la demande d’Ingrid, une forme de résurrection qui le renvoie dans le monde réel. Cela suffit à renouveler la série et lui ajouter quelques bonnes idées hors de Lakeview, avec une vision toujours aussi cauchemardesque d’un futur proche où tous nos problèmes actuels sont gérés de façon si absurde qu’ils sont presque pires. L’idée des deux Nathan est bonne pour creuser encore la psychologie des personnages et la relation amoureuse avec Nora passe mieux, je trouve, maintenant qu’elle n’est plus à moitié virtuelle. J’aime encore mieux la trajectoire de l’entreprise derrière Upload et son idée de faire travailler les personnes numériques stockées sur ses serveurs, c’est une bonne manière de pousser la logique capitalistique jusqu’à ses conclusions les plus absurdes. 
+
+Avec tous ces ajustements, *Upload* évite la répétition tout en creusant le même univers. Je ne sais pas si Prime Video a prévu une quatrième saison et je sais encore moins si Greg Daniels aurait encore suffisamment d’idées nouvelles pour tenir la distance. En tout cas, je sais que serai au rendez-vous pour cette satire de science-fiction qui semble parfois un petit peu trop proche de notre réalité. C’est d’ailleurs tout le succès du projet, qui oscille au fond constamment entre l’humour et l’effroi face à un monde stupide et en même temps qui pourrait bien être le nôtre…
