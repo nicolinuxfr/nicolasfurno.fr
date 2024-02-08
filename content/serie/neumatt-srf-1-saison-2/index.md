@@ -1,0 +1,13 @@
+---
+title: "*Neumatt*, SRF 1 (saison 2)"
+date: 2024-02-08T21:45:28+01:00
+id: 135022 
+saison: [2]
+---
+
+La [première saison](https://nicolasfurno.fr/serie/neumatt-srf-1/) de *Neumatt* m’avait bluffé par la complexité de ses personnages et la densité de son scénario, en apparence simple alors qu’il enchaînait les rebondissements sans perdre en vraisemblance. J’avais hâte de voir ce que SRF 1 allait nous réserver pour la suite et la bonne nouvelle, c’est que les huit épisodes qui constituent la deuxième saison sont sur la même lancée. On retrouve les mêmes personnages principaux et cette même manière d’écrire sans aucun temps mort et avec de nombreuses idées et rebondissements, jusqu’à la dernière seconde d’ailleurs même si je ne dirai rien de plus. *Neumatt* reste une série toujours aussi intense et bien maîtrisée, avec des psychologies encore plus creusées et des personnages que l’on adore toujours autant détester. Mention spéciale à cet égard pour Michi, qui est vraiment un sale type jusqu’au bout et dans tous les domaines, même s’il tente la voie de la rédemption *in extremis*. C’est sans compter sur les autres membres de sa famille, qui sont au fond tous aussi égoïstes et pourris les uns que les autres. À cet égard, *Neumatt* dresse un ensemble de portraits délicieusement détestables, sans pour autant en faire trop, ce qui est une prouesse.
+
+Malheureusement, la création de SRF 1 ne va pas davantage sur le terrain agricole dans cette suite, alors même que cela s’y prêtait pourtant si bien. Les conditions horribles d’élevage des vaches, même dans cette petite ferme familiale où les bêtes sont réellement aimées par leurs éleveurs, sont montrées, sans jamais remettre en cause l’élevage laitier. Il est bien question de bio en arrière-plan et purement comme moteur de l’action, alors que le modèle productiviste n’est jamais réellement questionné. D’ailleurs, toute la partie avec les supermarchés est assez bizarre, à la fois représentée comme le pire du capitalisme cynique et en même temps, comme la solution qui va sauver les petits producteurs et promouvoir une meilleure qualité. Si *Neumatt* ne va pas jusqu’à défendre ce modèle, la série ne passe pas loin et je trouve en tout cas dommage de ne pas avoir abordé ces sujets de manière plus directe. 
+
+Malgré tout, j’ai trouvé la deuxième saison tout aussi plaisante que la première, principalement grâce à une écriture toujours incisive et des personnages toujours aussi bien dessinés. La fin laisse la voie grande ouverte pour une troisième saison et je serai au rendez-vous pour suivre les futures (més)aventures de la famille Wyss.
+
