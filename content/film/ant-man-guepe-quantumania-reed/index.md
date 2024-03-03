@@ -1,7 +1,9 @@
 ---
 title: "*Ant-Man et la Guêpe : Quantumania*, Peyton Reed"
 date: 2023-11-12T18:48:26+01:00
-id: 640146 
+id: 640146
+saga: "Ant-Man"
+avant: https://voiretmanger.fr/ant-man-guepe-reed/
 ---
 
 Le personnage d’Ant-Man n’a jamais été mon favori dans l’immense univers cinématographique Marvel. Sa première apparition [en 2015](https://voiretmanger.fr/ant-man-reed/) — cela ne nous rajeunit pas… — était divertissante, mais dès [le deuxième film](https://voiretmanger.fr/ant-man-guepe-reed/), ça se gâtait sérieusement. Le personnage « sauvait » l’humanité en annulant les actions de Thanos dans l’immense bazar indigeste qu’était [*Avengers: Endgame*](https://voiretmanger.fr/avengers-endgame-russo/) et on n’en avait plus trop entendu. Jusqu’à son retour, pour le trente-et-unième volet de la saga, *Ant-Man et la Guêpe : Quantumania*. La mode étant désormais au multivers dans le MCU, un épisode concentré sur l’univers quantique introduit par le personnage était assez évident. Peyton Reed ne déçoit pas de ce côté, avec un tournage quasiment réalisé exclusivement dans le monde quantique, mais il ne crée pas la surprise pour autant. Son troisième film avec Ant-Man est aussi peu intéressant que les autres, malgré la présence notable de Kang et surtout de son interprète, Jonathan Majors remontant le niveau face à un quatuor d’acteurs bien peu inspirés[^1]. Je n’irais pas jusqu’à dire que je me suis ennuyé et avec deux heures au compteur, c’est un blockbuster relativement court de nos jours, mais j’ai tout de même eu l’impression assez nette qu’un résumé d’un quart d’heures aurait été préférable pour garder un pied dans l’univers.

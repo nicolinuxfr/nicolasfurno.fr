@@ -2,6 +2,8 @@
 title: "*Glass Onion : Une histoire à couteaux tirés*, Rian Johnson"
 date: 2022-12-24T18:45:56+01:00
 id: 661374 
+saga: "À couteaux tirés"
+avant: https://voiretmanger.fr/couteaux-tires-johnson/
 ---
 
 [*À couteaux tirés*](https://voiretmanger.fr/couteaux-tires-johnson/) a été une telle réussite que Rian Johnson a obtenu l’opportunité d’étendre l’univers qu’il avait imaginé de toutes pièces pour ce film. Un univers fortement inspiré par l’œuvre d’Agatha Christie et quelques autres détectives célèbres, certes, mais original malgré tout et qui devient une sorte de saga. Netflix a récupéré le projet et *Glass Onion : Une histoire à couteaux tirés* devient le deuxième volet d’une série de films, sachant que le troisième est d’ores et déjà en route. Un choix intéressant et un petit peu dangereux : le fragile équilibre du premier long-métrage peut-il être maintenu sur deux, voire trois réalisations ? Avant de voir ce que Rian Johnson nous réserve, cette première suite est rassurante, avec une nouvelle enquête rondement menée et aussi délicieuse que la précédente.

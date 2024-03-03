@@ -2,6 +2,8 @@
 title: "*Enola Holmes 2*, Harry Bradbeer"
 date: 2022-11-06T20:45:48+01:00
 id: 829280 
+saga: "Enola Holmes"
+avant: https://voiretmanger.fr/enola-holmes-bradbeer/
 ---
 
 Le premier [*Enola Holmes*](https://voiretmanger.fr/enola-holmes-bradbeer/) était une bonne surprise dans l’ensemble, une variation intéressante autour du mythique détective, avec l’idée d’une sœur adolescente qui refuse les conventions de son temps et décide de devenir détective privée à son tour. Face au succès, Netflix a commandé un deuxième volet et *Enola Holmes 2* reprend la même recette et recommence. C’est encore Harry Bradbeer qui est à la réalisation, on retrouve Millie Bobby Brown dans le rôle titre et à ses côtés, le casting reste largement inchangé, avec notamment Henry Cavill dans le rôle de Sherlock. Sans oublier une bonne pincée de féminisme, cela ne peut jamais faire de mal n’est-ce pas ?

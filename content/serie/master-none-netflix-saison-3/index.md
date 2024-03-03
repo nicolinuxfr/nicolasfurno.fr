@@ -3,6 +3,7 @@ title: "*Master of None*, Netflix (saison 3)"
 date: 2023-01-04T21:55:57+01:00
 id: 64254 
 saison: [3]
+avant: https://voiretmanger.fr/master-none-ansari-yang-netflix/#2
 ---
 
 Quelle série ! *Master of None* a commencé avec [une première saison](https://voiretmanger.fr/master-none-ansari-yang-netflix/) qui ressemblait un petit peu à un remake de *Friends*, mais avec déjà une ambition artistique nettement plus élevée que la simple sitcom et avec un sens de l’émotion que l’on n’attendait pas dans une comédie. Loin de s’arrêter là, Aziz Ansari a au contraire poussé encore plus loin dans [une deuxième saison](https://voiretmanger.fr/master-none-ansari-yang-netflix/#2) qui s’éloignait de la série télévisée traditionnelle pour basculer dans une collection de courts-métrages, y compris des hommages à des grands cinéastes italiens avec des épisodes en noir et blanc et quasiment sans anglais. Depuis, un long silence radio jusqu’à la sortie courant 2021 d’une troisième saison sous-titrée « *Moments in Love* ». Et c’est encore une fois une grosse surprise : cinq épisodes qui oscillent entre une vingtaine de minutes et une heure, tous centrés sur Denise et son épouse Alicia. Des tranches de vie où le créateur et comédien ne fait que passer, l’humour n’est désormais qu’un vague souvenir et la série n’hésite pas à rester dans l’émotion pure et un format qui évoque le travail d’Ingmar Bergman… l’esprit de la sitcom est bien éloigné.

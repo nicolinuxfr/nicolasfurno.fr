@@ -3,6 +3,7 @@ title: "*Sex Education*, Netflix (saison 4)"
 date: 2023-10-03T21:15:37+02:00
 id: 81356
 saison: [4]
+avant: https://voiretmanger.fr/sex-education-nunn-netflix/#3
 ---
 
 *Sex Education* est une série quasiment miraculeuse, [depuis sa première saison](https://voiretmanger.fr/sex-education-nunn-netflix/). Tout laissait à croire que l’on aurait affaire à une énième série adolescente sans grand intérêt, mais Laurie Nunn a trouvé le ton juste au fil des saisons pour parler de la sexualité des adolescents, sans tabous et sans clichés, mais avec une diversité et un optimisme qui ont toujours forcé le respect. Netflix semblait hésiter sur la poursuite de la série, *Sex Education* a fort heureusement eu droit à une quatrième saison, la dernière. Huit épisodes pour conclure en beauté, avec des trajectoires parfaitement maintenues pour tous les personnages principaux et une belle dernière évocation de tous les problèmes liés à la sexualité.

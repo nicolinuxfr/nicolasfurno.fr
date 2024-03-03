@@ -2,6 +2,8 @@
 title: "*Mission impossible : Dead Reckoning, partie 1*, Christopher McQuarrie"
 date: 2024-01-13T17:45:09+01:00
 id: 575264 
+saga: "Mission impossible"
+avant: "https://voiretmanger.fr/mission-impossible-fallout-mcquarrie/"
 ---
 
 Je me demande si ce combat de Tom Cruise, alias Ethan Hunt, contre une intelligence artificielle n’est pas une manière pour l’acteur de tenter d’éviter ce qui semble de plus en plus inévitable : l’extension de la [saga *Mission : Impossible*](https://voiretmanger.fr/saga/mission-impossible/) jusqu’à la fin des temps. Depuis le premier volet diffusé en 1996, on en est au septième long-métrage et comme son nom le suggère bien, *Mission impossible : Dead Reckoning, partie 1* sera complété par un huitième. Avec les retards liés à la pandémie, la deuxième partie finira peut-être par sortir en 2026, trente ans après l’original. Trente ans d’une formule qui n’a pas énormément varié, si ce n’est que les cascades sont de plus en plus spectaculaires et sont désormais bien plus que le clou du spectacle, la raison d’être de chaque épisode. Tout le discours marketing autour de Tom Cruise qui continue à réaliser ses propres cascades le montre bien. Force est d’ailleurs de constaté que l’acteur, qui a fête ses 60 ans pendant la réalisation de ce film, n’a pas perd de son talent et compose un agent secret toujours aussi convaincant. À tel point que l’on pourrait se demander s’il n’a jamais déjà été remplacé par une intelligence artificielle.

@@ -3,6 +3,7 @@ title: "*Grace et Frankie*, Netflix (saison 7)"
 date: 2022-05-12T20:57:11+02:00
 id: 62320 
 saison: [7]
+avant: https://voiretmanger.fr/grace-frankie-kauffman-morris-netflix/#6
 ---
 
 Sept saisons ! Alors que Netflix a pris la mauvaise habitude de sabrer ses séries dès qu’elles donnent le premier signe de faiblesse, *Grace et Frankie* a connu une longévité exceptionnelle pour le service, depuis [son lancement en 2015](https://voiretmanger.fr/grace-frankie-kauffman-morris-netflix/) jusqu’au final diffusé en 2022. Sept saisons en sept ans, on se croirait presque à la télévision de nos parents. Et d’ailleurs, ces seize épisodes n’innovent malheureusement toujours pas, une tendance de fond empruntée par la série de Marta Kauffman et de Howard J. Morris depuis plusieurs saisons, mais qui s’accentue encore ici.

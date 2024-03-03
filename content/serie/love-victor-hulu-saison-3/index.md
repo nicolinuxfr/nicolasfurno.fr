@@ -3,6 +3,7 @@ title: "*Love, Victor*, Hulu (saison 3)"
 date: 2022-11-22T18:39:45+01:00
 id: 97186 
 saison: [3]
+avant: https://voiretmanger.fr/love-victor-aptaker-berger-hulu/#2
 ---
 
 C’est peu dire que [*Love, Victor*](https://voiretmanger.fr/love-victor-aptaker-berger-hulu/), la série créée à l’origine pour Disney+ sur la base de l’excellent long-métrage [*Love, Simon*](https://voiretmanger.fr/love-simon-berlanti/), avait déçu. Alors que l’histoire originale célébrait un coming-out, la première saison tombait constamment dans l’homophobie et créait finalement un environnement négatif, le tout avec une vision simpliste et hétéronormée de l’homosexualité. Mais j’avais tellement aimé le film original que j’étais prêt à faire un effort et [la deuxième saison](https://voiretmanger.fr/love-victor-aptaker-berger-hulu/#2) redressait en partie la barre. La troisième et ultime saison fait-elle encore mieux ? En partie, même si *Love, Victor* est toujours bien éloignée du niveau de sa source d’inspiration.

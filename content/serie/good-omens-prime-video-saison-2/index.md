@@ -3,6 +3,7 @@ title: "*Good Omens*, Prime Video (saison 2)"
 date: 2023-08-24T21:26:02+02:00
 id: 71915 
 saison: [2]
+avant: https://voiretmanger.fr/good-omens-gaiman-prime-video/
 ---
 
 La [première saison](https://voiretmanger.fr/good-omens-gaiman-prime-video/) couvrait l’étendue du roman, il fallait bien imaginer une nouvelle histoire pour la suite de *Good Omens*. De fait, Neil Gaiman a imaginé un scénario original pour ces huit nouveaux épisodes, mais un scénario dans la continuité du précédent et qui pourrait même servir de pont à une troisième saison. Si Prime Vidéo le souhaite, cette suite se construirait sur l’idée tissée du vivant de Terry Pratchett, voilà qui est prometteur. En attendant, j’ai été bizarrement moins déçu par cette deuxième saison que la précédente, alors qu’on est objectivement sur le même niveau. L’humour décalé du duo Gaiman/Pratchett fonctionne mieux à l’écrit et on ne rigole pas souvent dans cette adaptation. Le format court évite l’ennui, mais le rythme assez mou peut aussi jouer en défaveur de la série. Et pourtant, j’ai trouvé cette suite de *Good Omens* assez plaisante, peut-être parce qu’elle s’éloignait davantage du format textuel et osait davantage d’idées différentes ? Peut-être aussi parce qu’elle explore pour de bon la relation amoureuse entre les deux personnages principaux, une relation toujours sous-entendre et jamais explicite auparavant.

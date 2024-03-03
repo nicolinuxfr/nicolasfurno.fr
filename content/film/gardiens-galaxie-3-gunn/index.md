@@ -2,6 +2,8 @@
 title: "*Les Gardiens de la Galaxie : Volume 3*, James Gunn"
 date: 2023-12-31T19:09:41+01:00
 id: 447365 
+saga: "Les Gardiens de la Galaxie"
+avant: https://voiretmanger.fr/gardiens-galaxie-2-gunn/
 ---
 
 Quand [*Les Gardiens de la Galaxie*](https://voiretmanger.fr/gardiens-galaxie-gunn/) est sorti il y a près de dix ans de cela — aïe le coup de vieux —, j’ai été agréablement surpris par ce qui n’était pas un énième film de super-héros répétant une formule vue et revue. Le [deuxième volume](https://voiretmanger.fr/gardiens-galaxie-2-gunn/) était moins original et m’a laissé un souvenir nettement plus mitigé, si bien que je n’étais pas particulièrement pressé de voir la suite. C’est d’autant moins le cas que l’univers cinématographique de Marvel est définitivement entré dans une phase de n’importe quoi toujours plus grand et, pour être honnête, toujours moins intéressant. Cela dit, la présence de James Gunn à l’écriture et la réalisation pouvait laisser l’espoir d’un troisième volume dans le même esprit et peut-être moins alourdi par l’immensité de l’univers poussé par Disney. De fait, *Les Gardiens de la Galaxie : Volume 3* se concentre sur ses héros en leur offrant une fin étonnamment touchante, une pause rafraîchissante dans le MCU.

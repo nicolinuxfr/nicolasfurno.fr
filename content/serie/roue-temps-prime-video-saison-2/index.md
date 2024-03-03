@@ -3,6 +3,7 @@ title: "*La Roue du Temps*, Prime Video (saison 2)"
 date: 2023-10-22T21:48:47+02:00
 id: 71914 
 saison: [2]
+avant: https://voiretmanger.fr/roue-temps-judkins-prime-video/
 ---
 
 La [première saison](https://voiretmanger.fr/roue-temps-judkins-prime-video/) de *La Roue du Temps* n’était pas une réussite, il faut bien le dire. À tel point que j’ai failli passer à côté de cette suite, mais cela aurait été une erreur. Les huit épisodes qui composent la deuxième saison redressent la barre et même s’il reste quelques défauts, je trouve que la série portée par Prime Video est remontée dans mon estime. Certes, cela reste une variation d’héroïc-fantasy un petit peu trop proche du *Seigneur des Anneaux* ou *Game of Thrones*, les effets spéciaux manquent encore par endroit de finesse et l’opposition entre le bien et le mal est toujours un petit peu grossière, mais enfin, les plus gros défauts ont été gommés et l’histoire est plus intéressante maintenant que les présentations ont été faites. J’ai hâte de voir ce Rafe Judkins proposera par la suite, sachant qu’Amazon a renouvelé la série pour une troisième saison.

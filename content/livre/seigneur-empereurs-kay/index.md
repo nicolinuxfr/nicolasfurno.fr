@@ -3,6 +3,8 @@ title: "*Le Seigneur des Empereurs*, Guy Gavriel Kay"
 date: 2023-10-16T20:55:51+02:00
 id: o5EdEAAAQBAJ
 pays: "ca"
+saga: "La Mosaïque de Sarance"
+avant: "/livre/voile-vers-sarance-kay/"
 ---
 
 Après *[Voile vers Sarance](https://nicolasfurno.fr/livre/voile-vers-sarance-kay/)*, le second volet de *La mosaïque sarantine* se déroule presque entièrement au cœur de l’empire Byzantin réinventé par Guy Gabriel Kay, dans la ville de Sarance. *Le Seigneur des Empereurs* suit le mosaïste Crispin, mais le côté choral ressort encore davantage dans cette suite qui ajoute encore plusieurs personnages clés, dont un personnage bassanien, équivalent à notre Turquie. Cela foisonne et la virtuosité du romancier canadien permet de faire évoluer tous ces personnages au grès d’une histoire les réunit tous. C’est une qualité et aussi un défaut, que j’ai trouvé encore renforcé dans cette suite : il y a beaucoup de personnages, certes, mais ils sont tous essentiels dans l’histoire racontée et à chaque événement clé, on retrouve toujours les mêmes. Ça m’avait un petit peu gêné dans le premier roman, ici c’en était même presque agaçant, du moins si prévisible que tout espoir de suspense est annihilé.

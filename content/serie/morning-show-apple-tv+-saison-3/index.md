@@ -3,6 +3,7 @@ title: "*The Morning Show*, Apple TV+ (saison 3)"
 date: 2023-11-24T22:00:34+01:00
 id: 90282 
 saison: [3]
+avant: https://voiretmanger.fr/morning-show-carson-ehrin-apple-tv/#2
 ---
 
 C’est marrant les souvenirs. Tenez, je ne me souvenais absolument pas que j’avais trouvé la [deuxième saison](https://voiretmanger.fr/morning-show-carson-ehrin-apple-tv/#2) de *The Morning Show* décevante, juste que [la première](https://voiretmanger.fr/morning-show-carson-ehrin-apple-tv/) m’avait paru convaincante. C’est pourquoi j’ai lancé la suite en m’attendant à regarder une bonne série et… eh bien non. Sans être une purge non plus, ces dix épisodes souffrent de l’envie des scénaristes d’aborder *tous* les sujets d’actualité, tout en les collant de façon assez artificielle à des intrigues personnelles qui ressemblent malheureusement de plus en plus à du *soap opera*. Marier l’actualité aux histoires personnelles a toujours été le concept de la création d’Apple TV+. Il me semble tout de même que la première saison trouvait un meilleur équilibre entre les deux et surtout consacrait davantage de temps dans les coulisses d’une émission télévisée. Désormais, cela ressemble à un vague prétexte.

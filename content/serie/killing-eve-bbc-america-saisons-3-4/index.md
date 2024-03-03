@@ -3,6 +3,7 @@ title: "*Killing Eve*, BBC America (saisons 3 et 4)"
 date: 2022-05-15T21:42:33+02:00
 id: 72750
 saison: [3,4]
+avant: https://voiretmanger.fr/killing-eve-waller-bridge-bbc-america/#2
 ---
 
 *Killing Eve* avait su renouveler astucieusement le mythe de la course-poursuite entre policier et tueur, avec toute l’astuce et la malice de Phoebe Waller-Bridge au service d’une série audacieuse et novatrice. Les deux premières saisons étaient [une vraie réussite](https://voiretmanger.fr/killing-eve-waller-bridge-bbc-america/), les deux dernières ne déçoivent pas, sans briller autant malgré tout. La faute sans doute à un manque de renouvellement et à une intrigue principale qui étire un petit peu trop les bases, sur les fameux douze. C’est tout particulièrement vrai dans la quatrième saison, qui n’est pas plus longue que les autres et pourtant qui auraient probablement mérité quelques coupes.

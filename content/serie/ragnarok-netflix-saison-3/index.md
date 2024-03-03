@@ -3,6 +3,7 @@ title: "*Ragnarök*, Netflix (saison 3)"
 date: 2023-08-30T10:45:50+02:00
 id: 91557 
 saison: [3]
+avant: https://voiretmanger.fr/ragnarok-price-netflix/#2
 ---
 
 Comment juger une série qui se termine sur la pire idée ? Après [deux saisons fort sympathiques](https://voiretmanger.fr/ragnarok-price-netflix/), bien que trop courtes à chaque fois, *Ragnarök* se termine avec six nouveaux épisodes qui semblent dans la continuité et qui continuent de monter vers le fameux affrontement entre géants et dieux promis depuis le départ. Cette relecture des mythes nordiques à la sauce adolescente sur fond de réchauffement climatique explore une bonne idée pour Magne/Thor et son marteau. Maintenant qu’il a récupéré ses pouvoirs, le lycéen timide et mal dans sa peau des débuts a cédé la place à un jeune homme — bien trop vieux pour jouer un garçon de 18 ans, mais passons — sûr de lui, peut-être un peu trop. Il s’éloigne de ses idéaux, oublie l’environnement et se lie même d’amitié avec ses ennemis jurés. C’est une bonne idée d’explorer ce pan des super-héros souvent ignoré, même si avec un format toujours aussi court, cela joue des tours à la création de Netflix.

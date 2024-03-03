@@ -3,6 +3,7 @@ title: "*Sexify*, Netflix (saison 2)"
 date: 2023-01-18T21:19:47+01:00
 id: 100226 
 saison: [2]
+avant: https://voiretmanger.fr/sexify-koschmieder-biedronska-netflix/
 ---
 
 *Sexify* avait séduit par [sa première saison](https://voiretmanger.fr/sexify-koschmieder-biedronska-netflix/) drôle, gonflée par endroits et surtout très juste sur le manque d’attention porté au plaisir féminin par une société machiste et encore trop marquée par les principes religieux. Netflix a décidé de renouveler sa série polonaise pour une nouvelle saison et j’avais hâte de la découvrir. Sans être tout à fait aussi fraîche et novatrice que la précédente, cette suite reste plaisante et mérite le coup d’œil si vous aviez aimé la précédente. 

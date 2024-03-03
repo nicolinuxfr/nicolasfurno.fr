@@ -2,6 +2,8 @@
 title: "*Thor : Love and Thunder*, Taika Waititi"
 date: 2022-09-11T21:46:25+02:00
 id: 616037 
+saga: "Thor"
+avant: https://voiretmanger.fr/thor-ragnarok-waititi/
 ---
 
 Contre toute attente, Taika Waititi a convaincu chez Marvel avec son *[Thor: Ragnarok](https://voiretmanger.fr/thor-ragnarok-waititi/)* qui se perdait dans un humour trop lourd et surtout destructeur de tout enjeu dramatique. Je n’avais pas tellement apprécié cette interminable succession de vannes pas fines et de décors kitsch, mais j’avais manifestement tort et le réalisateur est de retour avec une suite. *Thor: Love and Thunder* se cale après *‌[Avengers: Endgame](https://voiretmanger.fr/avengers-endgame-russo/)*, mais il reste suffisamment à l’écart de l’immense saga Marvel pour être regardé sans avoir les 28 (!) films qui précèdent. Et j’étais peut-être de meilleure humeur cette fois, mais j’ai trouvé que le résultat était plus réussi, sans être parfait pour autant, loin de là.

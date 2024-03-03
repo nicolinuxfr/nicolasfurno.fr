@@ -3,6 +3,7 @@ title: "*Invasion*, Apple TV+ (saison 2)"
 date: 2023-11-04T18:35:47+01:00
 id: 127235 
 saison: [2]
+avant: https://voiretmanger.fr/invasion-kinberg-weil-apple-tv/
 ---
 
 La [première saison d’*Invasion*](https://voiretmanger.fr/invasion-kinberg-weil-apple-tv/) m’avait intéressé par sa manière de prendre le contrepied des histoires d’invasions extraterrestres. Au lieu d’adopter un point de vue global, la série Apple TV+ suivait quelques personnes aussi perdues que nous, spectateurs, sans jamais montrer l’invasion de manière frontale. Et sans apporter de réponses, avec une saison qui se terminait avec davantage de questions encore. C’est un pari risqué pour une série et il fallait bien apporter des réponses à un moment ou à un autre. Sans trop de surprise, la deuxième saison s’y attelle en apportant de nombreuses explications et en affrontant plus directement les monstres venus de l’espace. Et malheureusement sans surprise aussi, c’est bien plus banal et nettement plus décevant.

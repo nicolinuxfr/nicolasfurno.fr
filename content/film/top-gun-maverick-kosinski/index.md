@@ -2,6 +2,8 @@
 title: "*Top Gun : Maverick*, Joseph Kosinski"
 date: 2022-12-31T19:00:32+01:00
 id: 361743 
+saga: "Top Gun"
+avant: https://voiretmanger.fr/top-gun-scott/
 ---
 
 Après avoir désobéi aux ordres et détruit un prototype qui valait probablement plusieurs dizaines de millions de dollars, Maverick/Tom Cruise est convoqué par son supérieur. Les pilotes humains n’ont plus aucun avenir dans l’armée, argumente-t-il, l’avenir est aux drones. « Un jour, peut-être, mais pas aujourd’hui », répond alors notre valeureux héros. Un message que les scénaristes de *Top Gun : Maverick* semblent eux-mêmes avoir adopté, en prouvant justement dans les deux heures qui suivent que les pilotes humains n’ont pas dit leur dernier mot.

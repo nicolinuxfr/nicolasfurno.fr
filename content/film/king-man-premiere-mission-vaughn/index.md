@@ -2,6 +2,8 @@
 title: "*The King’s Man : Première Mission*, Matthew Vaughn"
 date: 2022-11-16T21:15:02+01:00
 id: 476669 
+saga: "Kingsman"
+avant: https://voiretmanger.fr/kingsman-cercle-or-vaughn/
 ---
 
 À la surprise générale, *[Kingsman : Services secrets](https://voiretmanger.fr/kingsman-services-secrets-vaughn/)* n’était pas le navet attendu à la lecture du synopsis, mais une agréable surprise dans l’ensemble, un film d’espionnage à l’ancienne, avec une bonne dose de second degré. Forcément, Hollywood n’allait pas passer à côté d’un tel succès et ce qui aurait sans doute dû rester à la bonne surprise unique s’est transformée en saga. Dès [le deuxième volet](https://voiretmanger.fr/kingsman-cercle-or-vaughn/), le niveau avait bien baissé et il ne restait surtout qu’un blockbuster bien banal. Manifestement, cela n’a pas suffi et six ans après l’original, Matthew Vaughn revient pour un nouvel épisode. Comme son nom le laisse entendre, *The King’s Man : Première Mission* est une préquelle censée raconter les débuts de cette organisation de l’ombre qui œuvre pour le bien de l’humanité dans le plus grand des secrets.

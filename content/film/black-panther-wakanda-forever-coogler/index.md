@@ -2,6 +2,8 @@
 title: "*Black Panther : Wakanda Forever*, Ryan Coogler"
 date: 2023-09-03T22:04:36+02:00
 id: 505642 
+saga: "Black Panther"
+avant: https://voiretmanger.fr/black-panther-coogler/
 ---
 
 *Black Panther : Wakanda Forever* est le trentième épisode dans l’immense univers cinématographique Marvel, mais qui compte encore ? C’est surtout la suite directe de [*Black Panther*](https://voiretmanger.fr/black-panther-coogler/), un blockbuster qui m’avait séduit par sa capacité à renouveler le genre, timidement certes, mais enfin, cela changeait un petit peu. Le décès prématuré de l’acteur principal semblait avoir remis en cause l’idée d’une suite, mais Disney a trouvé une idée, on pouvait lui faire confiance. Ryan Coogler reprend son rôle derrière les caméras, tout comme l’essentiel du casting du premier film et je dois reconnaître avoir été agréablement surpris par l’hommage réservé à Chadwick Boseman dans les premières minutes. Au lieu de lui trouver un remplaçant l’air de rien pour incarner le personnage de Black Panther ou pire encore, au lieu de le représenter par une copie numérique, Marvel a choisi d’intégrer sa mort dans l’univers et de passer à un tout nouveau Black Panther. Du moins, c’est la promesse initiale.

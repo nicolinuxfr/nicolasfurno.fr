@@ -3,6 +3,7 @@ title: "*Babylon Berlin*, Sky One (saison 4)"
 date: 2024-02-16T22:20:33+01:00
 id: 66980
 saison: [4]
+avant: "https://voiretmanger.fr/babylon-berlin-tykwer-borries-handloegten-sky-1/#3"
 ---
 
 *Babylon Berlin* poursuit son exploration de l’Allemagne de l’entre-deux guerres avec une quatrième saison qui se déroule début 1931, alors que les Nazis occupent toujours plus de place sur la scène politique, avant l’arrivée au pouvoir des fascistes. Après [trois excellentes saisons](https://voiretmanger.fr/babylon-berlin-tykwer-borries-handloegten-sky-1/), il y avait un risque de lasser, ou de perdre ce qui a fait le succès de la série allemande, un risque d’autant plus grand que la pandémie est passée par là et a retardé la sortie. Fort heureusement, Tom Tykwer, Achim von Borries et Hendrik Handloegten savent ce qu’ils font et le prouvent à nouveau avec douze épisodes dans la droite lignée des précédents. Sans jamais lasser, *Babylon Berlin* parvient à maintenir sa formule presque magique sur la durée : la grande histoire de l’Allemagne en arrière-plan, quelques enquêtes policières secondaires au premier plan, des personnages riches et crédibles et une bande-originale parfaite. J’adore et j’ai hâte de voir la saison suivante !

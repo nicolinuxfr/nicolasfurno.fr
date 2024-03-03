@@ -3,6 +3,7 @@ title: "*Foundation*, Apple TV+ (saison 2)"
 date: 2023-09-23T22:40:27+02:00
 id: 93740 
 saison: [2]
+avant: https://voiretmanger.fr/foundation-goyer-friedman-apple-tv/
 ---
 
 Adapter fidèlement *Fondation* n’était pas une bonne idée et c’est ainsi que [la première saison de *Foundation*](https://voiretmanger.fr/foundation-goyer-friedman-apple-tv/) inventait sa propre histoire au milieu de l’univers imaginé par Isaac Asimov. Je n’ai aucun problème avec cette approche, les romans originaux étant de toute manière trop abstraits ou décharnés pour former une bonne série. En revanche, la richesse incroyable de l’univers déployé par la création d’Apple TV+ était quelque peu gâchée par la myriade d’histoires secondaires qui parasitaient l’arc narratif principal et qui étaient en outre mal racontées. Bonne nouvelle, cette suite évite ce travers et se concentre davantage sur la lutte entre l’Empire et Fondation… mais tombe sur un autre défaut de tant de séries qui doivent improviser à partir d’un matériau de base trop mince : la deuxième saison démarre mollement, traine la patte pendant la majorité de son parcours et se termine avec un bouquet final indigeste et lassant. 

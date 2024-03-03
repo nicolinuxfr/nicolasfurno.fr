@@ -3,6 +3,7 @@ title: "*Fargo*, FX (saison 4)"
 date: 2024-01-27T21:53:26+01:00
 id: 60622 
 saison: [4]
+avant: "https://voiretmanger.fr/fargo-hawley-fx/#3"
 ---
 
 C’est en m’intéressant à la cinquième saison de *Fargo*, diffusée actuellement, que j’ai réalisé que j’étais passé à côté de la quatrième. J’adore pourtant cette série créée par Noah Hawley et dont les trois premières saisons [m’ont enchanté](https://voiretmanger.fr/fargo-hawley-fx/) par leur manière de réinventer le [film original](https://voiretmanger.fr/fargo-coen/) des frères Coen, sans tomber dans la répétition pour autant. Pour cette saison 4, la créateur opte pour un changement encore plus radical, en déplaçant l’action non seulement dans les années 1950, aussi à Kansas City, dans le Missouri. Les onze épisodes se construisent autour de l’opposition entre deux mafias, l’italienne qui s’est imposée dans la ville dans les années 1930 et l’afro-américaine qui tente de s’imposer à son tour. Même si la ville de Fargo est citée par endroits et même s’il y a quelques connexions logiques avec le reste de l’univers de la série, cela reste un changement majeur et ce n’est pas forcément une bonne idée, j’ai trouvé.

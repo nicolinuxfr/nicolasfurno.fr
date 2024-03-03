@@ -3,6 +3,7 @@ title: "*Loki*, Disney+ (saison 2)"
 date: 2023-11-21T21:05:39+01:00
 id: 84958 
 saison: [2]
+avant: https://voiretmanger.fr/loki-waldron-disney/
 ---
 
 Dans la myriade de longs-métrages et séries qui composent le Marvel Cinematic Universe, la [première saison de *Loki*](https://voiretmanger.fr/loki-waldron-disney/) m’avait surpris par son originalité et sa bonne gestion du multiverse, des voyages temporels et de tous les paradoxes liés. Elle était aussi assez frustrante, en se terminant pile quand les choses intéressantes commençaient à poindre leur nez. Fort heureusement, Disney avait une deuxième saison de prévue pour continuer sur cette lancée. De fait, *Loki* reprend dans la foulée et se concentre autour du personnage de Kang que l’on avait découvert dans la saison précédente et croisé à nouveau dans le bien médiocre *[Ant-Man et la Guêpe : Quantumania](https://nicolasfurno.fr/film/ant-man-guepe-quantumania-reed/)*. Du moins, c’est ce que l’on veut nous faire croire et même si Celui Qui Demeure est bien présent ici ou là tout au long des six nouveaux épisodes, il n’est pas si important que prévu. Le scénario se concentre en réalité davantage sur Loki et la poignée de personnages secondaires importants autour de lui, ce qui est une excellente nouvelle. En sortant de l’immense machine du MCU, *Loki* peut respirer autour de ses personnages et offre une très bonne saison avec une fin étonnamment satisfaisante. 

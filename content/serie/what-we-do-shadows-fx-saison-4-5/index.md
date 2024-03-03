@@ -3,6 +3,7 @@ title: "*What We Do in the Shadows*, FX (saisons 4 et 5)"
 date: 2023-10-08T21:30:12+02:00
 id: 83631 
 saison: [4,5]
+avant: https://voiretmanger.fr/what-we-do-shadows-clement-fx/#3
 ---
 
 Inspirée du [film qui porte le même nom](https://voiretmanger.fr/vampires-toute-intimite-waititi-clement/) (du moins en version originale), *What We Do in the Shadows* est parvenue à étendre l’univers imaginé par Taika Waititi et Jemaine Clement sans perdre en saveur. Les [trois premières saisons](https://voiretmanger.fr/what-we-do-shadows-clement-fx/) m’avaient enchanté par leur humour délicieux et des personnages hauts en couleur qui formaient un ensemble drôle et touchant. La troisième saison tombait un petit peu dans la redite, alors on sent que les scénaristes ont décidé de tout faire pour renouveler la série dans la suite. La quatrième puis la cinquième réinventent à chaque fois la situation en imposant des changements radicaux : la disparition de Colin Robinson, puis la transformation de Guillermo fournissent les inspirations nécessaires pour étendre la série de FX sans perdre l’esprit original, mais sans retomber dans la répétition.

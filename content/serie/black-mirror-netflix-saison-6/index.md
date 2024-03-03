@@ -3,6 +3,7 @@ title: "*Black Mirror*, Netflix (saison 6)"
 date: 2023-08-20T22:02:24+02:00
 id: 42009 
 saison: [6]
+avant: https://voiretmanger.fr/black-mirror-brooker-channel-4/#5
 ---
 
 Je n’aurais pas parié sur l’arrivée d’une sixième saison de *Black Mirror*. Non pas que la série d’anthologie créée par Charlie Brooker il y a douze ans de cela était devenue insupportable, les [cinq saisons précédentes](https://voiretmanger.fr/black-mirror-brooker-channel-4/) étaient toutes intéressantes à leur manière. Mais cela faisait quelques années depuis la diffusion de la précédente saison et le risque de se répéter était bien réel. Ce retour se fait néanmoins avec un angle différent : les écrans noirs qui ont donné leur nom à la série ne sont plus au centre des enjeux, pas plus que la science-fiction d’ailleurs. *Black Mirror* ose suivre des chemins différents, avec des épisodes qui se déroulent dans le passé et l’exploration de genres différents. Ce n’est pas toujours réussi, mais ces cinq nouveaux épisodes sont intéressants et méritent sûrement un petit peu de votre temps.

@@ -3,6 +3,7 @@ title: "*The Boys*, Amazon (saison 3)"
 date: 2022-08-03T21:46:24+02:00
 id: 76479 
 saison: [3]
+avant: https://voiretmanger.fr/boys-kripke-prime-video/#2
 ---
 
 *The Boys* continue son exploration de tout ce qu’il y a de pire aux États-Unis à travers cet excellent point de départ. Imaginez une bande de super-héros, mais dirigée par l’entreprise qui représente le pire du capitalisme, et ces êtres quasiment invincibles agissent par pur égoïsme et sans aucun sens de l’intérêt commun. Les [deux premières saisons](https://voiretmanger.fr/boys-kripke-prime-video/) avaient été l’occasion d’imposer une série étonnamment violente, visuellement et moralement, et la troisième saison reste dans cette droite lignée. Eric Kripke fait avancer son histoire en introduisant un nouveau personnage et surtout en enfonçant le Protecteur toujours plus loin dans la désinformation de masse.

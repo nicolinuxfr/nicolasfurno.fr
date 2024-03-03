@@ -3,6 +3,7 @@ title: "*Your Honor*, Showtime (saison 2)"
 date: 2023-04-26T21:45:58+02:00
 id: 86430 
 saison: [2]
+avant: https://voiretmanger.fr/your-honor-moffat-showtime/
 ---
 
 Adaptée d’une série israélienne, la [première saison de *Your Honor*](https://voiretmanger.fr/your-honor-moffat-showtime/) m’avait séduit par sa relecture efficace de thèmes pas bien originaux, mais correctement menés dans l’ensemble malgré quelques ficelles grossières. Je ne m’attendais pas réellement à ce qu’il y ait une suite, même si la fin assez outrancière l’appelait sans doute. De fait, Showtime n’a pas résisté et voici dix nouveaux épisodes. Adam n’étant plus avez nous, les scénaristes s’éloignent du drame initial tout en construisant une suite avec les mêmes personnages. Cette saison débute alors que Michael est en prison suite aux révélations qu’il a faites concernant son implication dans le procès de Carlo Baxter, mais il ressort à la demande d’une procureur qui cherche à monter un dossier contre les mafieux. On reprend les mêmes et on recommence ? Ce serait injuste de le dire, mais on retrouve les mêmes points forts et faiblesses que dans la première saison. De fait, après un ou deux épisodes un petit peu creux, la Nouvelle-Orléans de Peter Moffat se remet bien en place et la deuxième saison de *Your Honor* est plaisante à regarder. Malgré encore une fois quelques facilités de scénario.

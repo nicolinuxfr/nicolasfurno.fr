@@ -2,6 +2,8 @@
 title: "*Spider-Man : Across the Spider-Verse*, Joaquim Dos Santos, Justin K. Thompson et Kemp Powers"
 date: 2023-12-17T22:09:04+01:00
 id: 569094 
+saga: "Spider-Man"
+avant: https://voiretmanger.fr/spider-man-new-generation-ramsey-persichetti-rothman/
 ---
 
 Spider-Man est passé si souvent par la case cinéma que la lassitude était inévitable. Enfin, ça c’était avant [*Spider-Man: New Generation*](https://voiretmanger.fr/spider-man-new-generation-ramsey-persichetti-rothman/), formidable film d’animation qui a donné un grand coup de pied dans le personnage et dépoussiéré une histoire vue et revue. Le succès étant au rendez-vous, une suite a été mise en route, une suite devenue un double film et *Spider-Man : Across the Spider-Verse* en constitue la première partie. C’est peut-être d’ailleurs son plus gros défaut, alors autant en parler d’entrée de jeu. Si vous aimez les histoires qui ont une vraie fin, alors ne regardez pas ce film, du moins pas tant que la suite sera sortie, ce qui n’arrivera manifestement pas avant 2025. Le long-métrage a beau largement dépasser les 2 heures, il n’est que la moitié d’un tout et quand le final nous laisse en attente à la toute fin, il est un petit peu frustrant, il faut bien le dire.

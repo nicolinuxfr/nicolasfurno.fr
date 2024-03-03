@@ -3,6 +3,7 @@ title: "*Alice in Borderland*, Netflix (saison 2)"
 date: 2022-12-28T21:15:59+01:00
 id: 110316 
 saison: [2]
+avant: https://voiretmanger.fr/alice-borderland-sato-netflix/
 ---
 
 J’avais bien apprécié le début de [la première saison d’*Alice in Borderland*](https://voiretmanger.fr/alice-borderland-sato-netflix/) et même si la fin de de cette adaptation d’un manga japonais m’avait laissé sur ma faim, j’étais prêt à donner une chance supplémentaire à Shinsuke Satō. Grossière erreur. Alors que les épisodes initiaux étaient tous bien rythmés et il n’y avait pas trop de temps morts, ces huit nouveaux épisodes semblent au contraire participer à un concours des récits les plus lents et vides. Cela commence plutôt bien pourtant, avec quelques jeux bien trouvés pour pimenter les premiers épisodes, mais plus on avance dans la série et moins elle a de choses à dire. Paradoxalement, ses épisodes s’allongent jusqu’au final qui est d’une longueur à la limite du supportable, tout en offrant une conclusion somme toute assez banale à l’ensemble.
