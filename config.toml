@@ -43,9 +43,6 @@ enableGitInfo = true
   title = 'Le blog de Nicolas Furno'
 
 
-[social]
-  twitter = 'nicolasfurno'
-
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
