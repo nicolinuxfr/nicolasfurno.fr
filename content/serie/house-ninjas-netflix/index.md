@@ -1,0 +1,10 @@
+---
+title: "*House of Ninjas*, Netflix"
+date: 2024-03-04T21:39:28+01:00
+id: 210098 
+saison: [1]
+---
+
+Alors que les personnages insistent tous pour qu’on parle d’eux comme des « *shinobis* » et non des simples ninjas, la série portée par Netflix porte le nom honni. Cela aurait peut-être pu suffire à nous alerter, même si j’ai lancé *House of Ninjas* sans en avoir conscience et avec un avis plutôt optimiste à la fin du pilote. L’épisode m’a agréablement surpris par l’aura de mystère qui entourait cette relecture modernisée des histoires de ninjas. J’appréciais aussi les choix musicaux à contrecourant de ce que l’on attendrait, avec une ambiance par endroits digne d’un film noir. En bref, j’étais plutôt convaincu et malheureusement, le premier épisode est peut-être le meilleur. En tout cas, le niveau descend régulièrement dans les sept suivants avec sans doute une propension assez malheureuse à se prendre beaucoup trop au sérieux.
+
+Si encore c’était du sérieux intéressant. Dave Boyle imagine une histoire d’un banal confondant que je ne voudrais pas divulgâcher, même si honnêtement, il n’y a pas grand-chose à gâcher. C’est dommage, car ~~John Lennon~~ le grand méchant était lui aussi assez intéressant tant qu’on ne connaissait pas ses vraies motivations à base de conquête du monde et d’ombre qui doit effacer la lumière (🥱). De la même manière, tout l’arc autour du frère disparu il y a six ans est si téléphonée que je l’avais compris dès les premiers épisodes et les scénaristes n’ont rien fait pour essayer de me surprendre. Plus le temps passait et plus j’étais pressé d’en finir, avec un dernier épisode qui m’a bien paru deux fois plus long que les précédents. La fin ouverte est un appel assez évident pour une suite et les algorithmes netflixiens décideront si *House of Ninjas* pourra avoir une suite. Le cas échéant, ce sera sans moi.
