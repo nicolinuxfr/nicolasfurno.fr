@@ -29,12 +29,16 @@
     ],
     "shortcuts": [
         {
-          "name": "Recherche",
-          "url": "/recherche"
+          "name": "Accueil",
+          "url": "/"
         },
         {
           "name": "Archives",
           "url": "/archives"
+        },
+        {
+          "name": "Recherche",
+          "url": "/recherche"
         }
       ]
   }
