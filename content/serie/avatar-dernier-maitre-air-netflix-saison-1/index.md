@@ -1,0 +1,13 @@
+---
+title: "*Avatar : Le dernier maître de l’air*, Netflix (saison 1)"
+date: 2024-03-16T22:26:19+01:00
+id: 82452 
+saison: [1]
+---
+
+Je ne connaissais la série animée que de nom, alors c’est avec une curiosité polie que j’ai abordé la relecture en images réelles proposée par Netflix. *Avatar : Le dernier maître de l’air* visait les enfants sur ‌Nickelodeon et même si la nouvelle version gagne un petit peu en maturité en abandonnant l'animation, la série reste assez enfantine. On y suit les périples d’un jeune de 12 ans appelé à sauver le monde d’une guerre menée par la nation de feu contre les trois autres éléments, l’eau, la terre et l’air dont le héros est le dernier représentant. Autant dire qu’il ne faut pas s’attendre à un cours de géopolitique avancé avec de telles prémices, on est ici dans un univers assez manichéen, en tout cas au départ. Les maîtres du feu sont les méchants et Aang va les combattre, aidé par deux jeunes venus de la tribu de l’eau. Bien qu’américaine, la série originale comme son adaptation repose entièrement sur un univers asiatique au sens large et il faut saluer l’effort d’Albert Kim sur ce point. Pas d’acteurs blancs pour interpréter les personnages, le casting fait appel à des acteurs souvent nord-américains bien entendu, mais avec des origines qui les rapprochent des pays visés par les créateurs. 
+
+Si *Avatar : Le dernier maître de l’air* n’est clairement pas un *anime* japonais et si l’influence américaine est visible partout, j’ai trouvé cet univers vaguement asiatique plutôt convaincant. Netflix a mis les moyens nécessaires pour le reconstituer avec succès et l’ensemble tient bien la route sur le plan technique. Côté scénario, c’est assez banal et j’ai vite deviné ce qui allait se passer, même si je dois confesser que je ne m’attendais pas à une évolution aussi lente pour le personnage d’Ahans. La série a été renouvelée pour deux autres saisons, suivant en cela la version originale, et on comprend pourquoi à la fin de celle-ci. Non pas qu’il ne se passe rien, les huit épisodes sont d’ailleurs assez riches en rebondissements, c’est juste que bon nombre d’intrigues secondaires ne font pas avancer la principale. D’ailleurs, on tombe parfois un petit peu dans la répétition, notamment sur la course-poursuite entre Aang et Zuko, un aspect qui passait sans doute mieux avec le format du dessin animé. 
+
+Malgré ces quelques défauts et à ma grande surprise, j’ai plutôt apprécié *Avatar : Le dernier maître de l’air*. Sans aller jusqu’à écrire que c’est la série de l’année, ni même du mois, je m’attendais à bien pire et je pense être au rendez-vous pour la suite. En espérant qu’Aang commence enfin par apprendre les deux autres éléments, il serait temps…
+
