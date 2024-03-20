@@ -1,0 +1,13 @@
+---
+title: "*Rick et Morty*, Adult Swim (saisons 6 et 7) »
+date: 2024-03-20T21:29:35+01:00
+id: 60625 
+saison: [6,7]
+avant: https://voiretmanger.fr/rick-morty-harmon-roiland-adult-swim/
+---
+
+Les saisons passent et je suis toujours plus épaté par l’inventivité de *Rick et Morty*, qui parvient à tester absolument toutes les idées de la science-fiction à partir d’un point de départ toujours aussi minuscule. Après [cinq saisons](https://voiretmanger.fr/rick-morty-harmon-roiland-adult-swim/) d’une richesse assez folle, la crainte était de tomber dans une routine et de répéter des idées déjà vues. Rien de tel et la sixième saison va peut-être même encore plus loin, avec des concepts poussés encore une fois à leur extrême, aussi gigantesques que le multiverse et aussi ridicules que cette question : que se passe-t-il si un sabre laser est pointé vers le cœur de la planète ? La série est toutefois perturbée dans sa septième saison par le départ forcé de Justin Roiland, co-créateur et surtout voix de Rick, Morty et tant d’autres personnages secondaires. 
+
+Forcément, avec un changement aussi fondamental dans cette série, on est plus attentif à tous les changements qui peuvent survenir. Sur le plan technique, les deux acteurs qui prennent la relève sont impressionnants et la transition se fait avec une douceur que je n’aurais jamais imaginée. C’est surtout bluffant pour Morty, un petit peu moins pour Rick qui était sans doute plus complexe à imiter. Le nouvel acteur n’essaie même pas de reproduire certains éléments typiques, comme les rots, mais enfin, il se débrouille remarquablement bien. Pour autant, j’ai trouvé cette septième saison un petit peu plus faible. Pas à cause du changement de casting, peut-être plus du côté de l’écriture. Même s’il y a quelques bonnes idées ici ou là, mention spéciale aux spaghettis macabres, et même si l’ensemble reste divertissant, la baisse de régime m’a semblé assez nette. 
+
+La série a été renouvelée pour plusieurs saisons et les scénaristes disent avoir de nombreuses idées pour les remplir. J’espère qu’elles seront bonnes et peut-être qu’elles pourraient laisser davantage de place à d’autres personnages ou bien tenter de toutes nouvelles idées. Même si elle porte leur nom, *Rick et Morty* pourrait bien s’éloigner du duo de personnages pour s’intéresser à d’autres aspects de cet univers si délicieusement absurde. Quoi qu’il en soit, je serai au rendez-vous pour découvrir la suite.
