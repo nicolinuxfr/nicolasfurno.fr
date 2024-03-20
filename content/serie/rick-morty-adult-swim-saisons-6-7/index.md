@@ -1,5 +1,5 @@
 ---
-title: "*Rick et Morty*, Adult Swim (saisons 6 et 7) »
+title: "*Rick et Morty*, Adult Swim (saisons 6 et 7)"
 date: 2024-03-20T21:29:35+01:00
 id: 60625 
 saison: [6,7]
