@@ -14,9 +14,9 @@ Le thème est *open-source* et peut-être réutilisé librement. En revanche, to
 
 ## Changer les clés MapKit JS
 
-**Expiration : 25 mars 2024**
+**Expiration : 24 mars 2025**
 
-- Récupérer la clé privée : https://developer.apple.com/account/resources/authkeys/list
+- Générer une nouvelle clé privée MapKit.JS et la télécharger : https://developer.apple.com/account/resources/authkeys/list
 - Générer les nouvelles clés publiques : https://maps.developer.apple.com/token-maker
 - Générer une sans restriction de domaine pour les tests et l'utiliser dans le fichier `.envrc`
 - Générer une autre avec le domaine du blog et modifier les secrets GitHub : https://github.com/nicolinuxfr/nicolasfurno.fr/settings/secrets/actions
