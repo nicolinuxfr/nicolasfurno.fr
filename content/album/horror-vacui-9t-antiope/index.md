@@ -1,0 +1,10 @@
+---
+title: "*Horror Vacui*, 9T Antiope"
+date: 2024-05-18T22:00:12+02:00
+id: 1728760747 
+pays: "ir"
+---
+
+Découvert suite à une [recommandation sur Mastodon](https://piaille.fr/@Lambdachro/112265754226990521), *Horror Vacui* est un album bien difficile à ranger dans une catégorie. Peut-être que le plus simple est d’évoquer une analogie et c’est à SQÜRL, le duo formé notamment par Jim Jarmush, que j’ai d’abord pensé. On retrouve aussi chez 9T Antiope cette approche minimaliste qui donne une musique pourtant si riche, avec une orientation vers l’orient qui est somme toute logique pour ce duo d’Iraniens qui travaille depuis Paris. L’excellente bande-originale du non moins excellent [*Only Lovers Left Alive*](https://voiretmanger.fr/only-lovers-left-alive-jarmusch/) pourrait vous donner une vague idée de ce qui vous attend, même si les neuf titres de l’album ont leur propre identité bien marquée et une magnifique mélancolie.
+
+*Horror Vacui* est décrit [par ses créateurs](https://9tantiope.bandcamp.com/album/horror-vacui) comme un album conceptuel autour d’une grande maison entourée de mystères. Je dois reconnaître qu’à part pour la pochette, je n’avais pas du tout reconnu cette thématique d’ensemble et que le concept m’est passé au-dessus. Ce n’est pas grave, car la musique se suffit à elle-même et après une vingtaine d’écoutes, je ne m’en lasse toujours pas. Nima Aghiani compose un univers sonore qui se construit autour de deux instruments seulement : une mandoline et un violon. Enfin, il serait plus juste de dire qu’il y a trois instruments principaux, tant la voix de Sara Bigdeli Shamloo en est un central dans chaque titre. Elle chante généralement en anglais, même s’il y a quelques traces ici ou là d’iranien, notamment dans le morceau qui a donné son nom à l’album. Le duo prouve que l’on n’a pas besoin d’un grand orchestre ou d’un ordinateur pour faire surgir tout un univers sonore riche. *Horror Vacui* me surprend encore par la complexité et la beauté qui sortent d’un dispositif apparemment aussi simple. Un véritable coup de cœur. 
