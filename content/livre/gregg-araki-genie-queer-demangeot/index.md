@@ -2,7 +2,7 @@
 title: "*Gregg Araki, le génie queer*, Fabien Demangeot"
 date: 2024-04-23T21:55:05+02:00
 id: XMLvEAAAQBAJ
-pays: "France"
+pays: "fr"
 ---
 
 Je pensais connaître la carrière de Gregg Araki, l’essai de Fabien Demangeot a bien démontré que j’étais loin du compte. *Gregg Araki, le génie queer* analyse toute la filmographie du cinéaste américain, de ses premiers films indépendants réalisés sans le sou jusqu’à sa série récente et même sa participation plus anonyme en tant que réalisateur d’épisodes d’autres séries. À l’image de son [autre essai sur David Cronenberg](https://voiretmanger.fr/transgression-david-cronenberg-demangeot/) publié chez le même éditeur, ce nouvel ouvrage est très synthétique et offre une vision globale de toute une carrière, dressant ses grandes thématiques, analysant les idées fortes derrière chaque œuvre et l’ensemble. Même si ce n’est pas toujours évident avec Gregg Araki, dont le parcours est nettement plus varié que je l’imaginais. Il faut dire que j’ai finalement vu assez peu de ses films et surtout les plus récents, qui sont manifestement bien éloignés des premiers, plus radicaux tant sur la forme que le fond.
