@@ -1,0 +1,11 @@
+---
+title: "*Bros*, Nicholas Stoller"
+date: 2024-06-09T18:11:41+02:00
+id: 614939 
+---
+
+Comédie romantique dans la sous-catégorie « je hais l’amour et je vais tomber amoureux », *Bros* reprend tous les clichés du genre, avec une version gay. Le film n’a malheureusement eu aucun succès lors de sa sortie, ce que je trouve assez injuste. Certes, Nicholas Stoller ne signe pas un chef d’œuvre et cette énième comédie romantique ne renouvelle en aucun cas le genre. Si vous n’êtes pas trop allergique à la romance, le résultat est impeccable pour deux heures divertissantes sans se prendre la tête. C’est bien interprété, c’est assez amusant et même si la représentativité laisse un petit peu à désirer, cela fait du bien de regarder une œuvre LGBTQ+ écrite et interprétée par des personnalités ouvertement queer, le tout sans langue de bois et avec une vision franche et sans détour de la sexualité.
+
+J’ai l’impression qu’un résumé ne servirait à rien, tant vous connaissez forcement l’intrigue. Bobby est un quarantenaire new-yorkais (forcément) désabusé qui n’a jamais connu en l’amour et pire, qui ne croit pas en l’amour, surtout pas entre hommes. Un beau jour, il rencontre Aaron et c’est le coup de foudre à son insu. Alors qu’Aaron est lui aussi désabusé et se contente d’enchaîner les plans à plusieurs, les deux tombent irrémédiablement amoureux et même s’ils s’énervent régulièrement… je ne vais pas vous raconter la fin, mais enfin, vous avez compris. Je préfère de manière générale les histoires innovantes, je ne vais pas le cacher. Toutefois, un classique ne fait jamais de mal de temps en temps, surtout quand il est revisité d’une manière qui me parle plus, comme c’est le cas avec *Bros*. Non pas que je m’identifie à ces deux hommes bien fichus — on ne peut pas dire que le casting fasse évoluer les clichés de ce côté… —, il n’empêche que la vision de l’homosexualité est amusante et assez juste. Billy Eichner, qui co-signe aussi le scénario, et Luke Macfarlane sont tous deux excellents et leur alchimie fonctionne bien à l’écran. 
+
+Bref, c’est une comédie romantique tout ce qu’il y a de plus comédie romantique, certes. Cela n’empêche pas *Bros* d’être plaisant et j’ai passé un bon moment. Je recommande. 
