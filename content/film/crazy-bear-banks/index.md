@@ -1,0 +1,9 @@
+---
+title: "*Crazy Bear*, Elizabeth Banks"
+date: 2024-06-22T17:42:20+02:00
+id: 804150 
+---
+
+*Crazy Bear* n’a pas seulement la palme de la pire traduction française (le titre original, *Cocaine Bear*, méritait bien un autre titre en anglais qui joue sur la stigmatisation de la folie), le long-métrage a sans doute le pitch le plus frappé de l’année 2023. Prenez un ours, donnez-lui quelques centaines de kilos de cocaïne, ajoutez quelques passants malheureux et vous obtenez un film d’horreur déjanté, aussi gore qu’absurde. Plus étonnant encore, la réalisation d’Elizabeth Banks s’inspire d’un fait divers, puisqu’un ours noir a bien trouvé de la cocaïne dans un parc naturel américain au milieu des années 1980. L’histoire vraie est toutefois nettement moins riche que celle imaginée pour le cinéma, où l’ours drogué est le prétexte à une série de morts aussi gores qu’absurdes, avec une petite touche qui évoque les frères Coen. 
+
+L’ensemble est intriguant, à défaut d’être toujours convaincant. *Crazy Bear* a l’avantage de ne pas être trop long en dépassant à peine l’heure et demi, si bien qu’on ne s’ennuie jamais. Je crois qu’il aurait gagné à réduire le nombre de personnages, pour leur accorder un petit peu plus de substances. Les morts ont parfois tendance à s’enchaîner sans que l’on y prête trop attention, parce qu’on n’a jamais le temps de s’attacher tellement aux personnages. Malgré ces quelques défauts, Elizabeth Banks signe un film d’horreur teinté d’une comédie noire finalement assez rare et à condition de tolérer le gore marqué, c’est un divertissement un petit peu idiot, mais assez efficace. J’ai été agréablement surpris par le traitement réservé à l’ours, loin du monstre caricatural qu’on aurait pu en attendre. 
