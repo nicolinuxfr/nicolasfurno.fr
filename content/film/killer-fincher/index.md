@@ -1,0 +1,9 @@
+---
+title: "*The Killer*, David Fincher"
+date: 2024-06-30T16:36:33+02:00
+id: 800158 
+---
+
+Pour son dernier long-métrage, David Fincher adapte une bande dessinée française. *The Killer* suit un tueur à gage qui, pour la première fois de sa carrière, rate sa cible à Paris et qui doit ensuite affronter les conséquences habituelles quand ce cas de figure survient, à savoir un nettoyage systématique de toutes les personnes impliquées. Le scénario ne cherche pas l’originalité en suivant une progression chronologique parfaitement logique, où le héros sans nom découvre qu’on s’en est pris à sa compagne et remonte méthodiquement la chaîne de commande pour s’assurer que personne ne pourrait le menacer. Ce manque d’originalité n’est pas un problème en soi néanmoins et le réalisateur met son talent au service d’une histoire parfaitement racontée, avec une ambiance délicieusement « fincherienne », photographie verdâtre et bande-originale de Trent Reznor et Atticus Ross en tête.
+
+Après deux heures, *The Killer* ne me laissera pas un souvenir impérissable. Le projet doit énormément à Michael Fassbender, qui est présent tout du long et le seul personnage digne d’intérêt, tous les autres autour de lui n’étant que de passage et n’ont pas le temps d’établir la moindre psychologie… même la si géniale Tilda Swinton peine à exister. Fort heureusement, l’acteur est excellent dans ce rôle et même si son mantra répété à chaque mort est peut-être un poil lourd, la voix off fonctionnait plutôt bien. Le talent de David Fincher fait le reste et l’ensemble forme un divertissement parfaitement mené, à défaut d’être aussi mémorable que ses productions antérieures. J’ai apprécié les tournages réalisés dans les véritables villes à chaque fois, au lieu des studios trop souvent exploités pour cela. C’est du cinéma classique et solide, de temps en temps, cela ne fait pas de mal. 
