@@ -54,6 +54,7 @@ html, body {
 	-moz-osx-font-smoothing: grayscale;
 	text-rendering: optimizeLegibility;
     color: var(--couleur-texte);
+    font: -apple-system-body;
 }
 
 @media (prefers-color-scheme: dark){
@@ -178,6 +179,10 @@ h1 {
 
     h1 {
         font-size: 4vw;
+    }
+
+    body {
+        font-size: 1.3rem;
     }
 
     .articles {
