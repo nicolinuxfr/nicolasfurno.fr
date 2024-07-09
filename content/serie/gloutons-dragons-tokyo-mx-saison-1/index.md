@@ -1,0 +1,10 @@
+---
+title: "*Gloutons & Dragons*, Tokyo MX (saison 1)"
+date: 2024-07-09T21:49:20+02:00
+id: 207784 
+saison: [1]
+---
+
+*Gloutons & Dragons* promettait un étonnant mélange entre heroïc-fantasy et… la cuisine, alors forcément que j’allais tenter l’expérience. Cette adaptation d’un manga sorti il y a une dizaine d’années pour la chaîne japonaise Tokyo MX a été diffusée par Netflix dans le reste du monde et c’est une expérience originale, indéniablement. J’ignorais tout de l’œuvre originale et j’ai découvert cette version animée avec un œil neuf et sans trop savoir à quoi m’attendre. En tout cas, certainement pas à ce mélange étonnant où des recettes de monstres cuisinés de multiples manières viennent agrémenter ce qui est par ailleurs une histoire assez banale à base d’exploration d’un donjon, de pièges à éviter et de dragon à affronter. 
+
+Ce mélange fonctionne étonnamment bien cela dit et participe à l’ambiance assez légère de la série. *Gloutons & Dragons* est portée par un humour teinté d’absurde qui ne m’a pas déplu et une forme de désinvolture qui évite de tomber dans le piège de l’aventure qui se prend trop au sérieux. C’est aidé par les règles de cet univers, où l’on ne meurt jamais réellement et où tout est possible, y compris le plus incroyable. Les personnages ont droit à une psychologie assez travaillée et même s’il faut rester sur des relations assez typées, pour ne pas dire des archétypes — la vision des femmes est assez navrante, notamment —, le groupe de personnages principaux fonctionne plutôt bien. Je ne m’attendais pas à un traitement aussi homoérotique autour du personnage de Senshi, sans jamais au-delà des allusions visuelles n’exagérons rien, mais c’était malgré tout appréciable. La première saison et ses 24 épisodes nous a emmené dans des directions insoupçonnées et ils étaient tous très divertissants. La série ayant été renouvelée pour une deuxième saison, j’espère qu’elle tiendra le rythme et saura se renouveler, même si l’imagination débordante de l’auteur n’est plus à prouver. 
