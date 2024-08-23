@@ -1,8 +1,10 @@
 ---
-title: "*Good Trouble*, Freeform (saisons 1 à 4)"
+title: "*Good Trouble*, Freeform"
 date: 2024-08-21T21:45:17+02:00
 id: 80006 
 saison: [1,4]
+aliases:
+- /serie/good-trouble-freeform-saison-1-4/
 ---
 
 Malgré ses défauts, j’avais beaucoup aimé [*The Fosters*](https://nicolasfurno.fr/serie/fosters-abc-family/), au point de ne pas vouloir quitter tout de suite cette famille si attachante. Cela tombe bien, *Good Trouble* est un spin-off qui se concentre sur deux personnages, Callie et Mariana, pendant leurs premières années au travail. Elles décident de vivre en colocation et se retrouvent à « La Coterie », une sorte de communauté de colocataires placée au-dessus d’un ancien théâtre. L’idée des créateurs est assez transparente : former une nouvelle famille choisie autour des deux personnages, après celle constituée dans *The Fosters*. Un concept intrigant et qui fonctionne assez bien… du moins, tant que l’on s’intéresse aux personnages. C’est la limite de cette nouvelle série, je trouve que la galerie de personnages a du mal à tenir sur la durée. Peut-être parce qu’il y en a trop d’un coup, il est difficile de leur accorder autant d’attention à tous. Sûrement aussi parce que la recette s’use un petit peu au fil des années et que la quête constante du drame finit par fatiguer. Certaines intrigues sont intéressantes, même si *Good Trouble* a tendance à s’égarer en cours de route. Par exemple, les carrières professionnelles des deux héroïnes sont vite de simples excuses pour faire avancer l’histoire, souvent de manière caricaturale d’ailleurs. Plusieurs personnages ne semblent exister que pour créer des péripéties et sans forcément une bonne idée derrière. 
