@@ -2,7 +2,7 @@
 title: "*Black Panther : Wakanda Forever*, Ryan Coogler"
 date: 2023-09-03T22:04:36+02:00
 id: 505642 
-saga: "Black Panther"
+sagas: "Black Panther"
 avant: https://voiretmanger.fr/black-panther-coogler/
 ---
 

@@ -2,7 +2,7 @@
 title: "*Top Gun : Maverick*, Joseph Kosinski"
 date: 2022-12-31T19:00:32+01:00
 id: 361743 
-saga: "Top Gun"
+sagas: "Top Gun"
 avant: https://voiretmanger.fr/top-gun-scott/
 ---
 

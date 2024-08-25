@@ -2,7 +2,7 @@
 title: "*Glass Onion : Une histoire à couteaux tirés*, Rian Johnson"
 date: 2022-12-24T18:45:56+01:00
 id: 661374 
-saga: "À couteaux tirés"
+sagas: "À couteaux tirés"
 avant: https://voiretmanger.fr/couteaux-tires-johnson/
 ---
 

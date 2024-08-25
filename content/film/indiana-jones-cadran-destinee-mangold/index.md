@@ -2,7 +2,7 @@
 title: "*Indiana Jones et le Cadran de la destinée*, James Mangold"
 date: 2024-01-06T18:48:12+01:00
 id: 335977 
-saga: "Indiana Jones"
+sagas: "Indiana Jones"
 avant: https://voiretmanger.fr/indiana-jones-royaume-crane-cristal-spielberg/
 ---
 

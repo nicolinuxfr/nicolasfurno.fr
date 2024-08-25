@@ -2,7 +2,7 @@
 title: "*Les Gardiens de la Galaxie : Volume 3*, James Gunn"
 date: 2023-12-31T19:09:41+01:00
 id: 447365 
-saga: "Les Gardiens de la Galaxie"
+sagas: "Les Gardiens de la Galaxie"
 avant: https://voiretmanger.fr/gardiens-galaxie-2-gunn/
 ---
 

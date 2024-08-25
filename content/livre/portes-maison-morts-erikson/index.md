@@ -3,8 +3,10 @@ title: "*Les Portes de la Maison des Morts*, Steven Erikson"
 date: 2024-01-09T21:30:10+01:00
 id: a3tgDwAAQBAJ
 pays: "ca"
-saga: "Le Livre des Martyrs"
-avant: "/livre/jardins-lune-erikson/"
+sagas: "Le Livre des Martyrs"
+sagas_weight: 2
+avant: /livre/jardins-lune-erikson/
+apres: /livre/souvenirs-glace-erikson/
 ---
 
 J’avais lu [*Les Jardins de la Lune*](https://nicolasfurno.fr/livre/jardins-lune-erikson/) avec une attitude ambivalente. D’un côté, la profondeur de l’univers heroïc-fantasy sorti de l’imaginaire de Steven Erikson force le respect et m’a bluffé à plusieurs reprises. De l’autre, son style qui cherche presque volontairement à embrouiller le lecteur en multipliant les personnages et références sans les expliciter, m’avait agacé au point de me faire envisager un arrêt en cours de route. L’univers m’avait cependant suffisamment convaincu pour que je termine non seulement le premier volume de la saga, mais aussi que je poursuivre. *Le Livre des Martyrs* continue ainsi avec *La Porte de la Maison des Morts*, un deuxième roman encore plus long — on frôle les 900 pages dans la version publiée par Lena — et pas moins complexe. Le romancier ne simplifie toujours pas le travail de son lecteur et quelques passages inutilement obscurs m’ont à nouveau agacé, toutefois je dois dire que je commence à comprendre l’attrait de la saga.

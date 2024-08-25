@@ -2,7 +2,7 @@
 title: "*Thor : Love and Thunder*, Taika Waititi"
 date: 2022-09-11T21:46:25+02:00
 id: 616037 
-saga: "Thor"
+sagas: "Thor"
 avant: https://voiretmanger.fr/thor-ragnarok-waititi/
 ---
 

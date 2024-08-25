@@ -2,7 +2,7 @@
 title: "*OSS 117 : Alerte rouge en Afrique noire*, Nicolas Bedos"
 date: 2022-04-02T17:53:51+02:00
 id: 604563 
-saga: "OSS 117"
+sagas: "OSS 117"
 avant: https://voiretmanger.fr/oss-117-hazanavicius/
 ---
 

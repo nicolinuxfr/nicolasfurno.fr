@@ -34,6 +34,7 @@ enableGitInfo = true
   home = ["HTML", "RSS", "JSON"]
 
 [taxonomies]
+  saga = 'sagas'
 
 [permalinks]
   pages = '/:filename/'

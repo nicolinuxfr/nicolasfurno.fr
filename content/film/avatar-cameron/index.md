@@ -2,7 +2,8 @@
 title: "*Avatar*, James Cameron"
 date: 2023-06-18T21:40:42+02:00
 id: 19995 
-saga: "Avatar"
+sagas: "Avatar"
+sagas_weight: 1
 apres: /film/avatar-voie-eau-cameron/
 ---
 

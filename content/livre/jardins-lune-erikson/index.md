@@ -3,8 +3,9 @@ title: "*Les Jardins de la Lune*, Steven Erikson"
 date: 2023-04-24T21:30:44+02:00
 id: veRPDwAAQBAJ
 pays: "ca"
-saga: "Le Livre des Martyrs"
-apres: "/livre/portes-maison-morts-erikson/"
+sagas: "Le Livre des Martyrs"
+sagas_weight: 1
+apres: /livre/portes-maison-morts-erikson/
 ---
 
 Si un auteur prévient en préambule qu’il faut s’accrocher et que la suite n’est pas facile à comprendre, est-ce une raison suffisante pour tout excuser ? Ce préambule qui ouvre *Les Jardins de la Lune*, premier tome de l’immense série *Le Livre des Martyrs* qui impressionne du haut de ses dix tomes, est quelque chose d’assez étonnant d’ailleurs. Steven Erikson semble prêt à décourager tous ses lecteurs en prévenant qu’il ne fera aucun compromis en nous balançant au milieu d’un univers riche et complexe. En lisant cela, j’ai oscillé entre l’admiration pour son franc-parler et une once d’énervement pour son élitisme. Et puis, cela ressemblait à une carte un peu trop facile à jouer à ce stade : si je ne comprends rien, ce n’est pas l’auteur qui a mal fait son boulot, c’est moi qui suis stupide, au fond. 

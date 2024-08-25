@@ -3,7 +3,7 @@ title: "*La Mort immortelle*, Liu Cixin"
 date: 2022-01-25
 id: nmtuDwAAQBAJ
 pays: "cn"
-saga: "Le Problème à trois corps"
+sagas: "Le Problème à trois corps"
 avant: https://voiretmanger.fr/foret-sombre-liu/
 ---
 

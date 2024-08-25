@@ -3,7 +3,7 @@ title: "*Le Seigneur des Empereurs*, Guy Gavriel Kay"
 date: 2023-10-16T20:55:51+02:00
 id: o5EdEAAAQBAJ
 pays: "ca"
-saga: "La Mosaïque de Sarance"
+sagas: "La Mosaïque de Sarance"
 avant: "/livre/voile-vers-sarance-kay/"
 ---
 

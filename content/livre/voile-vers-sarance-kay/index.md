@@ -3,7 +3,7 @@ title: "*Voile vers Sarance*, Guy Gavriel Kay"
 date: 2023-08-31T17:44:36+02:00
 id: XwDKDwAAQBAJ
 pays: "ca"
-saga: "La Mosaïque de Sarance"
+sagas: "La Mosaïque de Sarance"
 après: "/livre/seigneur-empereurs-kay/"
 ---
 

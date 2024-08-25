@@ -2,7 +2,7 @@
 title: "*Mission impossible : Dead Reckoning, partie 1*, Christopher McQuarrie"
 date: 2024-01-13T17:45:09+01:00
 id: 575264 
-saga: "Mission impossible"
+sagas: "Mission impossible"
 avant: "https://voiretmanger.fr/mission-impossible-fallout-mcquarrie/"
 ---
 

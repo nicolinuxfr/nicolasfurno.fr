@@ -2,7 +2,8 @@
 title: "*Avatar : La Voie de l'eau*, James Cameron"
 date: 2023-06-25T18:42:45+02:00
 id: 76600 
-saga: "Avatar"
+sagas: "Avatar"
+sagas_weight: 2
 avant: /film/avatar-cameron/
 ---
 

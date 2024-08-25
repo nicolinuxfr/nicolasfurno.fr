@@ -2,7 +2,7 @@
 title: "*Spider-Man : Across the Spider-Verse*, Joaquim Dos Santos, Justin K. Thompson et Kemp Powers"
 date: 2023-12-17T22:09:04+01:00
 id: 569094 
-saga: "Spider-Man"
+sagas: "Spider-Man"
 avant: https://voiretmanger.fr/spider-man-new-generation-ramsey-persichetti-rothman/
 ---
 
