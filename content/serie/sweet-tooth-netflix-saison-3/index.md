@@ -1,0 +1,10 @@
+---
+title: "*Sweet Tooth*, Netflix (saison 3)"
+date: 2024-08-28T21:55:14+02:00
+id: 103768 
+saison: [3]
+---
+
+Les [deux premières saisons](/serie/sweet-tooth-netflix/) m’avaient séduit juste assez pour donner envie de voir la suite, et fin, de *Sweet Tooth* malgré des défauts évidents. Je ne m’attendais pas à ce qu’ils soient corrigés dans la troisième et de fait, le mélange bizarre entre conte pour enfants et dystopie bien adulte reste la base des huit dernières épisodes. Jusqu’au bout, Jim Mickle semble hésiter entre les deux et oscille dans un mouvement étrange entre l’horreur et le mignon parfois un brin gênant. Un autre défaut s’est malheureusement ajouté, avec un rythme bien mal maîtrisé. Les premiers épisodes sont très corrects, l’action avance bien jusqu’au cœur de la saison où tout semble s’arrêter d’un coup, pour ne reprendre qu’à la toute fin. Un final explosif qui semblait presque citer *Indiana Jones*, un autre choix étrange en passant. Quant aux hybrides, ils sont nettement moins nombreux ici et les scénaristes ont gardé les deux meilleurs, tout en ajoutant des loups qui tombent dans la case des peluches bizarres.  
+
+Malgré tous ces défauts, *Sweet Tooth* se termine de manière assez satisfaisante. J’ai eu très peur à un moment que le sous-texte autour du réchauffement climatique que j’avais décelé dans les premières saisons soit discrètement mis de côté, ce n’est fort heureusement pas le cas. Le scénario suit sa trajectoire naturelle jusqu’au bout et se termine de manière fort mignonne, je n’en dirai pas plus. Avant cela, le voyage n’est pas toujours aussi réussi que je l’aurais souhaité, avec des péripéties quand même bien convenues, du manichéisme bien manichéen et des facilités de scénario si énormes que cela devient vite lassant. Encore une fois, je crois que *Sweet Tooth* souffre surtout de son entre-deux et de son manque de choix entre deux options assez différentes. C’est aussi ce qui fait son originalité, en un sens. Et puis, il faut saluer le travail du jeune Christian Convery, qui est vraiment excellent dans le rôle titre. On n’en dira pas autant de tout le casting, mais c’est un sans faute pour lui. 
