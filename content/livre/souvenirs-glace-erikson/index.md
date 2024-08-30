@@ -1,6 +1,6 @@
 ---
 title: "*Les Souvenirs de la Glace*, Steven Erikson"
-date: 2024-08-25T18:09:45+02:00
+date: 2024-08-30T14:25:45+02:00
 id: uPWDDwAAQBAJ
 pays: "ca"
 sagas: "Le Livre des Martyrs"
