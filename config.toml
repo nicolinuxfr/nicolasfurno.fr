@@ -3,15 +3,11 @@ languageCode = 'fr'
 defaultContentLanguage = "fr"
 title = 'Le blog de Nicolas Furno'
 theme = 'nicolasfurno'
-paginate = 12
+[pagination]
+  pagerSize = 12
 copyright = "© Nicolas Furno"
 timeZone = "Europe/Paris"
 enableGitInfo = true
-
-
-[author]
-  name = "Nicolas Furno"
-  email = "nicolasfurno@gmail.com"
 
 [menu]
 [[menu.main]]
@@ -43,6 +39,9 @@ enableGitInfo = true
   description = 'Critiques de films, de séries, d’albums, de livres… et tout ce que je veux écrire.'
   title = 'Le blog de Nicolas Furno'
 
+  [params.author]
+    name = "Nicolas Furno"
+    email = "nicolasfurno@gmail.com"
 
 [markup]
   [markup.goldmark]
