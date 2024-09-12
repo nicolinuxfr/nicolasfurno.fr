@@ -4,7 +4,7 @@ date: 2023-08-31T17:44:36+02:00
 id: XwDKDwAAQBAJ
 pays: "ca"
 sagas: "La Mosaïque de Sarance"
-après: "/livre/seigneur-empereurs-kay/"
+sagas_weight: 1
 ---
 
 Plus jeune, j’avais dévoré une partie de l’œuvre de Guy Gavriel Kay, entre *fantasy* et romans historiques. Lui qui s’est formé avec Tolkien — il a participé à l’édition du *Silmarion* — ne part jamais dans des récits très portés sur la magie et le fantastique, mais il les infuse par petites touches tout en offrant une plongée toujours parfaitement documentée dans un contexte historique qui varie d’une saga à l’autre. Je n’avais pas tout lu néanmoins et c’est avec une vraie curiosité que j’ai ouvert bien des années plus tard *Voile vers Sarance*. Ce roman constitue le premier volet de *La mosaïque sarantine*, que l’on pourrait qualifier de fresque byzantine qui se déroule dans un univers parallèle à l’empire Byzantin du VI<sup>e</sup> siècle. Comme son titre le suggère, on avance ici vers Sarance, l’équivalent de Constantinople, et le roman se concentre sur le parcours de Crispin, mosaïste de Batiare (notre Italie) appelé par l’Empereur pour travailler sur un immense projet. 

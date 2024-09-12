@@ -5,7 +5,6 @@ id: uPWDDwAAQBAJ
 pays: "ca"
 sagas: "Le Livre des Martyrs"
 sagas_weight: 3
-avant: /livre/portes-maison-morts-erikson/
 ---
 
 Plus la saga avance et plus les tomes semblent s’allonger. Les deux premiers volets du *Livre des Martyrs* n’étaient déjà pas particulièrement courts et il étaient en outre si inutilement compliqués, surtout [le premier](/livre/jardins-lune-erikson/), que j’avais été tenté à plusieurs reprises d’abandonner en cours de route. J’avais tenu bon, parce que l’univers est d’une richesse rare et parce que Steven Erikson a des idées que je n’avais jamais lues ailleurs, ce qui n’est pas rien dans le monde si encombré de l’heroïc-fantasy. Fort heureusement, l’auteur semble prendre en confiance en lui, suffisamment pour éliminer progressivement un style gratuitement obscur. Le [deuxième tome](/livre/jardins-lune-erikson/) était déjà plus simple à suivre malgré quelques épisodes obscurs. C’est nettement mieux avec *Les Souvenirs de la Glace*, un troisième volume nettement plus long et aussi nettement plus simple.
