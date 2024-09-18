@@ -1,0 +1,13 @@
+---
+title: "*Yumi et le peintre de cauchemars*, Brandon Sanderson"
+date: 2024-09-18T21:43:04+02:00
+id: 6g_IEAAAQBAJ
+pays: "us"
+---
+
+Après avoir découvert Brandon Sanderson avec [*Tress de la mer Émeraude*](/livre/tress-mer-emeraude-sanderson/), j’ai poursuivi mon exploration avec l’un des quatre romans secrets écrits pendant la pandémie de Covid et publiés en même temps. Un choix qui m’a peut-être joué des tours initialement : *Yumi et le peintre de cauchemars* se déroule dans le même univers *Cosmere* et il reprend de nombreuses idées déjà croisées dans l’autre roman. Le duo de jeunes amoureux, le narrateur externe sarcastique[^1], l’univers bizarre dont il faut comprendre les règles… je dois bien avouer qu’en commençant ma lecture, j’étais un peu déçu de retrouver tant de points communs. Cela étant, j’ai persévéré et je dois dire que ce roman se révèle au fil des pages comme bien plus intéressant que je l’imaginais et peut-être même meilleur que celui sur Tress. L’inventivité de l’auteur est assez époustouflante avec cette communication entre deux personnages placés dans deux univers qui sont radicalement différents tout en étant extrêmement originaux. Le monde des esprits de Yumi avec le sol toujours chaud et les plantes est aussi riche et intriguant que celui de peintre, plongé dans le noir, parcouru de fils de couleurs et attaqué par des cauchemars. C’est incroyable à quel point Brandon Sanderson peut inventer des règles nouvelles et le faire dans un univers commun qui plus, voilà qui force le respect.
+
+En lisant ce deuxième roman, je ne sais toujours pas exactement si je découvre des « Sandersonismes » ou si le style de *Yumi et le peintre de cauchemars* est similaire parce qu’il s’agit d’une même série au fond. Je trouve notamment que les commentaires du narrateur sont envahissants et me coupent de la magie de l’univers représenté ici. C’était déjà le cas avec le précédent roman et j’espère que ce n’est pas systématique chez le romancier. En tout cas, cela s’apparente presque à un manque de confiance qui me semble étonnant quand on connaît son succès et qui est surtout un artifice à mon sens superflu. J’ai hâte d’en apprendre plus sur ce Cosmere dont les règles semblent particulièrement farfelues, c’est un compliment, et je compte bien poursuivre mon exploration de l’œuvre de Brandon Sanderson. En attendant, je dois bien constater que l’histoire de Yumi et du peintre m’a passionné et même touché, notamment sur la fin. Mais je ne veux pas trop en dire, tout l’intérêt de la lecture tient dans la découverte de cette incroyable histoire. 
+
+
+[^1]: Qui, *spoiler alert*, est en réalité le même personnage. 
