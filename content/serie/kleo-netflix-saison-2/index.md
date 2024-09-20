@@ -1,0 +1,10 @@
+---
+title: "*Kleo*, Netflix (saison 2)"
+date: 2024-09-20T22:10:29+02:00
+id: 206010 
+saison: [2]
+---
+
+Il a fallu faire preuve de patience pour découvrir la suite de la délicieuse [première saison de *Kleo*](/serie/kleo-netflix/), qui m’avait charmé par son humour décalé et sa relecture absurde de la fin de la Guerre froide. La deuxième saison arrive enfin et même si elle a été raccourcie à six épisodes seulement, elle reste fort heureusement sur la même ligne que la précédente et reste toujours aussi foutraque que plaisante. Les scénaristes vont encore plus loin en impliquant davantage la CIA et le KGB et en imaginant une intrigue encore plus folle, où le passé de Kleo apparaît toujours plus comme étant le cœur de tous les enjeux. C’est toujours à peu près n’importe quoi et c’est très bien ainsi : je trouve que la série de Netflix s’en sort le mieux quand elle assume pleinement son statut pas trop sérieux et part dans ses délires. Ce qui n’empêche pas d’avoir des personnages qui gagnent en épaisseur et j’ai été d’ailleurs agréablement surpris par le parcours de l’héroïne. Mention spéciale aussi pour plusieurs personnages secondaires, à commencer par Thilo qui parvient à toujours surprendre — même si je regrette un peu son personnage strictement hétéro — et Sven qui est plus intéressant qu’on pouvait l’imaginer au premier abord.
+
+*Kleo* ne remportera pas davantage de prix dans un concours sérieux de thriller d’espionnage, ce n’est pas l’idée et la série créée par Hanno Hackfort, Richard Kropf et Bob Konrad n’en a vraiment pas besoin. Elle a trouvé son propre ton et reste très plaisante, bien que la fin de cette saison aurait sans doute mérité un petit peu plus de temps, j’imagine que Netflix a tranché pour réduire à six épisodes. Ce qui m’inquiète pour la suite : le dernier épisode se termine sur une petite surprise qui appelle une saison supplémentaire, mais est-ce que *Kleo* sera autorisée à poursuivre ? Quoi qu’il en soit, je recommande d’ici là chaudement les deux premières saisons. 
