@@ -4,7 +4,6 @@ date: 2023-06-25T18:42:45+02:00
 id: 76600 
 sagas: "Avatar"
 sagas_weight: 2
-avant: /film/avatar-cameron/
 ---
 
 Treize ans, c’est le temps qu’il a fallu à James Cameron pour donner une suite à [*Avatar*](https://nicolasfurno.fr/film/avatar-cameron/) et lancer ce qui s’apparente d’emblée à l’une des plus ambitieuses sagas cinématographiques. Cinq fils sont [déjà prévus](https://fr.wikipedia.org/wiki/Avatar_(série_de_films)) d’ici 2031 et il semble bien que le cinéaste ait décidé d’en faire l’œuvre de sa vie. Après avoir revu le premier épisode, j’étais encore plus sceptique que dans les salles sur la capacité de cet univers à accueillir une vraie saga sur la durée et malheureusement, *Avatar : La Voie de l’eau* m’a convaincu… que j’avais raison. James Cameron se fait plaisir avec trois heures d’un Pandora plus magnifique que jamais, mais ses spectateurs s’ennuient ferme face à une histoire qui non seulement banale, mais surtout terriblement rétrograde. Quelle déception.

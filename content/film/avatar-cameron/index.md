@@ -4,7 +4,6 @@ date: 2023-06-18T21:40:42+02:00
 id: 19995 
 sagas: "Avatar"
 sagas_weight: 1
-apres: /film/avatar-voie-eau-cameron/
 ---
 
 Puisqu’il s’est écoulé treize ans entre la sortie initiale d’*Avatar* et sa première suite et puisque je ne l’avais pas revu depuis des années, ce qui va peut-être devenir la grande saga de James Cameron méritait bien d’être reprise depuis le début. De ma vision sur grand écran, je [gardais en mémoire](https://voiretmanger.fr/avatar-cameron/) un univers visuellement époustouflant et une histoire fort banale. Revoir *Avatar* en 2023, c’est d’abord réaliser que le film a pris un gros coup de vieux sur le plan technique. Ce qui ressemblait alors à un univers entièrement créé à l’ordinateur particulièrement convaincant n’est plus aujourd’hui qu’un jeu vidéo ou un Pixar d’il y a quelques années. J’ai été frappé sur la version 4K que l’on a désormais à disposition à quel point Pandora est statique. Les feuilles sont immobiles sur les arbres, sauf si l’action le demande explicitement. Les nuages sont statiques et l’eau évolue de manière simpliste. Pire, les personnages principaux ressemblent à des marionettes en plastique, avec des expressions faciales correctes, mais un réalisme défaillant notamment sur la peau.
