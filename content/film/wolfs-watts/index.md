@@ -1,0 +1,9 @@
+---
+title: "*Wolfs*, Jon Watts"
+date: 2024-09-29T16:34:13+02:00
+id: 877817 
+---
+
+La réunion entre George Clooney et Brad Pitt attire forcement l’attention sur *Wolfs*, peut-être davantage que le nom de Jon Watts, le réalisateur s’étant surtout fait connaître jusque-là [chez Marvel](https://nicolasfurno.fr/film/spider-man-no-way-home-watts/). Le long-métrage finalement distribué directement sur Apple TV+ alors qu’il devait sortir en salles, tant mieux pour moi, s’avère une bonne surprise. Sans révolutionner quoi que ce soit, il joue sur la complicité entre le deux acteurs principaux et introduit suffisamment d’auto-dérision pour rester léger jusqu’au bout et ne pas trop se prendre au sérieux. Et même si l’intrigue est au fond assez banale dans la catégorie des films de « fixeurs », je l’ai trouvé bien menée et avec suffisamment d’idées pour renouveler l’intérêt tout au long du projet. Il faut dire aussi que *Wolfs* a le bon sens de rester court, si bien que la nuit d’imprévus qu’il décrit ne devient jamais lassante et reste au contraire un bon divertissement jusqu’au bout. 
+
+Avant même la sortie de ce premier film, Apple a apparemment proposé à Jon Watts de signer une suite. Je comprends mieux pourquoi à la fin de celui-ci, même si j’ai du mal à voir si cela pourrait fonctionner. L’alchimie entre les deux acteurs principaux est indéniable, mais leur duo fonctionne avant tout parce qu’ils refusent de travailler ensemble et surtout de réaliser qu’ils sont bien plus proches qu’ils ne veulent bien l’admettre. Le fait qu’ils réalisent progressivement cette évidence est l’un des éléments les plus amusants dans *Wolfs* et une suite perdrait forcément cela. En attendant de voir si le réalisateur revient avec un deuxième film, je peux recommander celui-ci. C’est un divertissement classique sans grande prétention, ce qui ne l’empêche pas d’être amusant et bien exécuté. L’occupation idéale pour un dimanche pluvieux, en somme. 
