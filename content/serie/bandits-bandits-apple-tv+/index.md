@@ -1,0 +1,14 @@
+---
+title: "*Bandits, bandits*, Apple TV+"
+date: 2024-10-07T21:29:26+02:00
+id: 114924 
+saison: [1]
+---
+
+*Bandits, bandits* est l’adaptation du film du même nom créé par Terry Gilliam au début des années 1980. On y retrouve la même idée d’un jeune garçon qui se trouve embarqué dans une histoire improbable de voyage temporel et de lutte entre le bien et le mal, dans une version modernisée qui m’a surtout intriguée par l’implication de Taika Waititi et Jemaine Clement. Je me disais qu’un mix entre l’absurde des Monty Python et le talent du duo responsable de [*Vampires en toute intimité*](https://voiretmanger.fr/vampires-toute-intimite-waititi-clement/) pouvait donner quelque chose de grand. La série d’Apple TV+ n’atteint hélas pas les sommets que j’envisageais mentalement avant de lancer le pilote, ce qui ne veut pas dire qu’elle est mauvaise pour autant. 
+
+Plus bon enfant que l’original, cette nouvelle version de *Bandits, bandits* adopte le même style de bric et de broc, pas par manque de moyens cette fois. Taika Waititi et Jemaine Clement optent pour des décors de carton-pâte et des costumes résolument kitsch pour créer une ambiance particulière, résolument rétro et c’est un clin d’œil assez évident vers le film qu’ils adaptent. Ils modifient des aspects importants de l’original tout en effectuant d’autres rappels ailleurs, à l’image des personnes de petite taille qui ne sont pas les bandits principaux tout en débarquant plus tard dans l’intrigue. Malgré tout, la série n’essaie pas de reproduire le même plan de Terry Gilliam, elle visite ainsi des lieux et époques différents. C’est assez varié et la collection de clichés est toujours amusante à suivre. Je ne vais pas le cacher, quelques blagues tombent à l’eau et tout ne fonctionne pas parfaitement, ce qui ne m’a pas empêché d’apprécier l’ensemble. C’est bon enfant[^1] et souvent drôle, avec une mention spéciale pour Lisa Kudrow qui s’en donne à cœur joie dans son rôle de meneuse de troupe qui n’assume pas. 
+
+Sans aller jusqu’à dire que *Bandits, bandits* est la meilleure série de ces derniers mois, je regrette l’annulation d’Apple TV+ à la fin de cette première saison. Peut-être que les créateurs n’auraient pas mieux fait dans la suite, néanmoins j’ai trouvé que la série s’améliorait au fil des épisodes et trouvait son rythme et j’étais curieux d’en voir plus. Tant pis, l’unique saison est sympathique et mérite un coup d’œil.
+
+[^1]: En apparence, du moins. Charline Yi et son personnage disparaissent assez brutalement au milieu de la saison et ne reviennent jamais. L’acteur s’est par la suite [plaint du comportement](https://www.hollywoodreporter.com/movies/movie-news/charlyne-yi-assault-allegations-time-bandits-set-1235901593/) inapproprié d’un autre membre du casting, ce qui pourrait justifier son départ et ce qui, à tout le moins, ruine en partie le côté bon enfant de la série. C’est dommage, iel était bon dans son rôle d’opposition à Lisa Kudrow. 
