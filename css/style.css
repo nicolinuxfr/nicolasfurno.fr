@@ -54,7 +54,6 @@ html, body {
 	-moz-osx-font-smoothing: grayscale;
 	text-rendering: optimizeLegibility;
     color: var(--couleur-texte);
-    font: -apple-system-body;
 }
 
 @media (prefers-color-scheme: dark){
@@ -181,9 +180,6 @@ h1 {
         font-size: 4vw;
     }
 
-    body {
-        font-size: 1.3rem;
-    }
 
     .articles {
         display: grid;
@@ -389,15 +385,14 @@ h1 {
     color: var(--texte);
 }
 
-.littlefoot {
-    --popover-font-family: var(--police-texte);
-    --popover-line-height: 1.2em;
-    --popover-text-color: var(--couleur-texte);
-    --popover-font-size: 0.8em;
+.footnotes{
+    font-size: 0.9em;
+    line-height: 1.3em;
 }
 
-.littlefoot p {
-    margin: 0.5em;
+.footnotes hr{
+    width: 40%;
+    margin: 2em 0 0 0;
 }
 
 @media (prefers-color-scheme: dark) {
