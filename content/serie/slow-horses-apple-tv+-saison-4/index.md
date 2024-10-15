@@ -1,0 +1,10 @@
+---
+title: "*Slow Horses*, Apple TV+ (saison 4)"
+date: 2024-10-15T21:56:49+02:00
+id: 95480 
+saison: [4]
+---
+
+*Slow Horses* poursuit son travail d’adaptation des huit romans originaux et cette quatrième saison permet ainsi de retrouver les mêmes personnages principaux dans une autre intrigue indépendante. Après une [troisième saison](/serie/slow-horses-apple-tv+-saison-3/) qui était un petit peu tombée à côté pour moi, à cause d’une trop grande place laissée à de l’action trop classique qui tranchait avec l’ambiance décalée de la série Apple TV+, bonne nouvelle : j’ai trouvé les six épisodes qui forment la saison 4 bien meilleurs. On revient aux bases, en incluant d’ailleurs le passé de River Cartwright pour une fois, et le scénario est ainsi nettement mieux ficelé et plus fidèle à l’esprit de l’ensemble. Les veaux sont comme toujours aussi désespérants que finalement efficaces, plus que les agents officiels du MI5 qui sont tous à la ramasse. Dans les grandes lignes, la série n’évolue pas de manière fondamentale, ce qui n’empêche pas la saison d’être fort agréable. L’incursion en France n’est pas totalement ridicule — pas au niveau d’*Emily in Paris*, en tout cas — et Hugo Weaving est très bien pour incarner ce personnage qui est en quelque sorte l’antithèse de Jackson Lamb, que Gary Oldman continue d’explorer avec délice et beaucoup de crasse. 
+
+La création d’Apple TV+ n’a pas besoin de plus au fond. Ce format court lui va très bien, les saisons suivantes ont d’ores et déjà été commandées et je serai naturellement au rendez-vous. *Slow Horses* n’est sans doute pas une de ces grandes séries qui impressionnent toujours un petit peu plus à chaque épisode. Néanmoins, je trouve qu’elle parvient à s’imposer au fil du temps comme une série solide et bien fichue, dont on a envie de voir la suite. Et même si chaque saison reste assez indépendante, le fil rouge permet de s’attacher à chaque personnage, ou de les détester un petit peu plus à chaque fois. Avec une mention spéciale à Roddy Ho (Christopher Chung, qui semble avoir un don naturel pour jouer les connards), qui parvient à chaque saison à faire encore pire. Respect. 
