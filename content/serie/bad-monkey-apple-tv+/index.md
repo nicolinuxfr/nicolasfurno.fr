@@ -1,0 +1,13 @@
+---
+title: "*Bad Monkey*, Apple TV+"
+date: 2024-10-29T21:05:57+01:00
+id: 130853 
+saison: [1]
+---
+
+Je ne sais pas pourquoi le singe-trop-mignon de Neville a conduit à ce titre, car il n’est certainement pas méchant et encore moins le sujet principal de *Bad Monkey*, même si on le voit régulièrement pour notre plus grand bonheur. Qu’importe, cette adaptation d’un roman de Carl Hiaasen[^1] est très amusante et mérite le détour, même si vous avez le sentiment que vous allez voir une histoire vue et revue. Ce qui la sauve du lot, c’est le ton très particulier, lié en écrasante majorité au jeu de Vince Vaughn. Le mieux, c’est encore d’essayer le premier épisode sur Apple TV+ et de juger si cela vous plait, en sachant que la suite ne sera pas différente et que persister n’est pas utile si cela ne vous plait pas. De mon côté, j’ai vite accroché à cet ex-détective qui ne lâche jamais une affaire et qui comprend vite que cet accident de pêche qui a conduit à retrouver un bras au large des Keys, tout au sud de la Floride, cachait un truc pas net. Commence une enquête déjantée sur dix épisodes qui implique un singe, donc, un couple d’arnaqueurs, la mafia russe ou encore une sorcière vaudou. 
+
+*Bad Monkey* offre une bonne dose d’absurde et des personnages hauts en couleur, tout en faisant avancer une vraie enquête. Même si, il faut bien l’avouer, sa résolution est très secondaire par rapport à tout le reste. Comme le singe sur celles de Neville, la série tient en grande partie sur les épaules d’Andrew Yancy et de son interprète. Vince Vaughn est excellent dans ce rôle de détective bavard et énervant, qui parvient pourtant à résoudre l’affaire avec une efficacité remarquable. S’il vous énerve autant que les personnages de la série, la création de Bill Lawrence sera certainement insupportable, mais cela n’a pas été mon cas. Il m’a plutôt amusé, tout comme le narrateur omniprésent et lui aussi assez agaçant dans un autre genre (même les résumés en début d’épisode méritent d’être vus grâce à lui, c’est vous dire). C’est vraiment un mélange particulier, qui plaira autant qu’il déplaira. Je trouve en tout cas que *Bad Monkey* tient admirablement sa ligne si particulière et parvient ainsi à sortir du lot avec un style bien à elle. En attendant de savoir si Apple TV+ a prévu d’autres saisons, la fin ouverte le laisse entendre et j’espère que l’on aura d’autres aventures avec Andrew Yancy. En tout cas, je serais au rendez-vous pour les suivre…
+
+
+[^1]: Qui a d’ailleurs donné un titre officiel en français des plus curieux, quelle surprise (non) : *‌ Carl Hiaasen’s Bad Monkey*. Eh bien, non.
