@@ -1,0 +1,13 @@
+---
+title: "*La Diplomate*, Netflix (saison 2)"
+date: 2024-11-06T21:19:09+01:00
+id: 203857 
+saison: [2]
+---
+
+La [première saison](/serie/diplomate-netflix/) m’avait beaucoup amusé, alors je me suis logiquement précipité sur la suite. *La Diplomate* reprend juste après la fin des événements de précédente saison, à savoir l’explosion en plein Londres qui vise un parlementaire britannique ainsi que le mari de l’ambassadrice américaine. Le résumé présenté par Netflix rappelle les grandes lignes sans entrer trop dans les détails, ce qui n’est pas bien grave. En regardant les six épisodes de cette saison, le spectateur se rappelle vite qu’il n’est pas question ici de géopolitique complexe. J’ai très vite retrouvé mes repères, les ambitions des uns, la personnalité des autres et j’ai trouvé cette suite tout aussi sympathique. Plus encore peut-être, quand la vice-présidente des États-Unis débarque dans la série : incarnée par une Allison Janney en grande forme[^1], le personnage dynamite la série et lui apporte un nouveau souffle. Le trio formé par Kate Wyler, son mari et la VP Grace Penn fonctionne très bien, entremêlant astucieusement la montée en puissance de la Russie et les manipulations incessantes des États-Unis dans les affaires d’autres pays. Je dois reconnaître être un petit peu circonspect sur la bombe finale, que j’ai trouvé un poil grosse. Il n’empêche que ces six épisodes sont tous toujours aussi divertissants et même si le format est bien trop court, Debora Cahn a su maintenir le cap et creuser ses personnages. 
+
+En particulier, j’ai trouvé le parcours de Nicol Trowbridge, le premier ministre britannique, tout à fait convaincant. Il était représenté dans la première saison comme un gamin incontrôlable, on le retrouve plus subtil ici, avec ses doutes et surtout un manque de confiance qui le rendrait presque attachant. Si Rory Kinnear a toujours une manière de jouer assez similaire, il faut bien admettre que c’est pile ce qu’il fallait au personnage. J’aurais aimé que *La Diplomate* ait davantage d’espace pour développer ces personnages, mais au moins Netflix l’avait renouvelée pour une troisième saison. En espérant que la surprise finale ne fasse pas dérailler la série…
+
+
+[^1]: Et que, pur hasard de calendrier, je venais de croiser dans [*Palm Royale*](http://localhost:1313/serie/palm-royale-apple-tv+/), où elle était aussi géniale. J’espère qu’on verra l’actrice plus souvent désormais.
