@@ -1,6 +1,6 @@
 ---
 title: "*L'Ensoleillé*, Brandon Sanderson"
-date: 2024-10-31T20:56:22+01:00
+date: 2024-11-08T11:12:22+01:00
 id: 6uraEAAAQBAJ
 pays: "us"
 ---
@@ -9,4 +9,4 @@ Je poursuis ma découverte de Brandon Sanderson avec… un troisième volume dan
 
 L’intrigue elle-même, comme chez George Miller, est assez simple au fond. Une histoire de survie d’un groupe d’individus contre un tyran qui a eu accès à deux ou trois secrets sur les mécaniques de ce monde atypique et qui en tire profit en soumettant ou tuant tous ceux qu’il croise. Autant ne pas trop en divulgâcher, *L’Ensoleillé* a quelques secrets à révéler au fil de la lecture, même si l’ensemble garde une aura de mystère qui m’a beaucoup plus. Brandon Sanderson a aussi expliqué qu’il avait imaginé ce livre avant tout pour les fans du Cosmère, l’univers qu’il a imaginé pour héberger ses livres. J’imagine qu’à cet égard, un lecteur passionné aura compris davantage d’éléments que moi. Et j’imagine qu’en poursuivant mes lectures, j’en comprendrai moi-même aussi davantage. En attendant, je ne crois pas que ce roman avait besoin de plus, il y avait là bien suffisamment pour comprendre les enjeux et s’attacher à cette petite planète bizarre ainsi qu’à ses habitants. J’ai apprécié aussi l’orientation plus science-fiction et moins fantastique que dans les deux autres romans que l’ai lus et surtout, j’ai aimé découvrir un style un petit peu différent. Le narrateur omniprésent dans *‌[Tress de la mer Émeraude](/livre/tress-mer-emeraude-sanderson/)* comme dans *[Yumi et le peintre de cauchemars](/livre/yumi-peintre-cauchemars-sanderson/)* était un petit peu lourd à la longue et j’étais satisfait de ne pas le retrouver. 
 
-Au-delà de l’histoire elle-même, si vous avez la chance de lire le roman dans l’édition collector publiée par Le Livre de Poche, cela vaut le détour. Le prix est alors assez élevé, certes, mais c’est un très bel ouvrage, avec une couverture rigide, du beau papier et des illustrations tout du long. 
+Au-delà de l’histoire elle-même, si vous avez la chance de lire le roman dans l’édition collector publiée par Le Livre de Poche, cela vaut le détour. Le prix est alors assez élevé, c'est vrai, mais c’est un très bel ouvrage, avec une couverture rigide, du beau papier et des illustrations tout du long. 
