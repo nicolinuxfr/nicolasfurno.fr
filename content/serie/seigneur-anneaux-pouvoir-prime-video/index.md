@@ -1,8 +1,10 @@
 ---
-title: "*Le Seigneur des anneaux : Les Anneaux de pouvoir*, Amazon"
+title: "*Le Seigneur des anneaux : Les Anneaux de pouvoir*, Prime Video"
 date: 2022-11-05T22:15:08+01:00
 id: 84773 
 saison: [1]
+aliases:
+- /serie/seigneur-anneaux-pouvoir-amazon/
 ---
 
 Amazon a cassé la tirelire pour s’offrir les droits sur l’univers imaginé par Tolkien et les huit épisodes qui composent la première saison de *Le Seigneur des anneaux : Les Anneaux de pouvoir* (ce titre…) permettent de juger si les centaines de millions de dollars déjà dépensés l’ont été à bon escient. Premier constat, on retrouve bien cet argent à l’écran. Le géant de la vente en ligne n’a pas lésiné sur les moyens, avec un tournage en Nouvelle-Zélande, dans les mêmes décors [popularisés par Peter Jackson](https://voiretmanger.fr/saga/le-seigneur-des-anneaux/) et qui sont devenus associés pour jamais à ce monde. Même si je trouverais à redire sur les fonds numériques notamment utilisés pour les villes, je ne vais pas faire la fine bouche : il y a pléthore de décors qui servent de fond à un grand casting doublé d’une immense foule de figurants. Visuellement, on retrouve bien l’esprit des longs-métrages et c’est une belle réussite en soi.
