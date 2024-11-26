@@ -1,0 +1,10 @@
+---
+title: "*Les Meurtres zen*, Netflix"
+date: 2024-11-26T16:10:45+01:00
+id: 252372 
+saison: [1]
+---
+
+Un avocat berlinois trouve une utilisation bien concrète des cours de pleine conscience que sa femme l’a poussé à suivre quand son principal client, un mafieux, tue son rival face à un bus rempli de collégiens en train de filmer. Voilà le point de départ de cette série allemande adaptée d’un roman à succès : *Les Meurtres zen* ne raconte pas l’histoire la plus originale qui soit, ce qui ne l’empêche pas de sortir un petit peu du lot. Plus que le dispositif qui construit l’intrigue autour des cours rappelés en parallèle et avec le personnage principal en guise de narrateur qui casse constamment le quatrième mur, j’ai trouvé que l’intrigue savait surprendre à plusieurs reprises. Je ne veux pas trop en dire, car l’intérêt est justement en grande partie dans cette découverte des péripéties toujours plus ahurissantes. L’ensemble a du mal à tenir bien longtemps quand on y pense sérieusement deux minutes, ce qui n’empêche pas ces huit épisodes d’une demi-heure environ de constituer un divertissement fort plaisant et même plutôt amusant. 
+
+Tom Schilling est très bien en avocat propre sur lui qui bascule avec une facilité déconcertante dans l’univers de la mafia, avec lequel il composait déjà il faut dire. D’ailleurs, tout le monde semble s’en accommoder dans *Les Meurtres zen*, en particulier sa femme qui semble parfaitement au courant de la source des revenus de son mari et qui n’a manifestement aucun problème de ce côté. Face à lui, les mafieux sont très mafieux comme il se doit, avec des personnages qui en font des caisses tout en restant crédibles. Côté police, j’ai bien aimé la policière qui a raison sur toute la longueur sans jamais trouver les preuves nécessaires pour avancer. Encore une fois, si tout cela n’est pas foncièrement original, c’est bien mené et c’est agréable à regarder. Je ne sais pas si Netflix prévoit une saison de plus et je ne suis pas sûr qu’elle tiendrait la distance. En attendant, ces huit premiers épisodes valent le détour si vous aimez l’humour noir. 
