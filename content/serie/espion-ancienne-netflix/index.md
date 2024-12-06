@@ -1,0 +1,10 @@
+---
+title: "*Espion à l'ancienne*, Netflix"
+date: 2024-12-06T22:10:40+01:00
+id: 245312 
+saison: [1]
+---
+
+Michael Schur revient pour une nouvelle sitcom en faisant appel à ses acteurs fétiches ? Évidemment que je suis au rendez-vous et je n’ai même pas besoin de connaître l’histoire. *Espion à l’ancienne* offre à Ted Danson l’opportunité d’incarner, eh bien oui, un espion délicieusement dépassé qui doit mener une enquête un poil absurde dans une maison de retraite de San Francisco. Il y a une enquête au cœur de cette série Netflix, même s’il faut bien l’avouer : elle n’est pas très importante, quoi que fort bien ficelée jusqu’au bout, ai-je trouvé. L’essentiel, comme dans toute bonne sitcom et particulièrement celles de Michael Schur, ce sont les personnages et c’est un carton plein de ce côté. 
+
+Le rôle a sans doute été écrit pour lui, alors Ted Danson est forcément excellent pour incarner Charles Nieuwendyk, veuf éploré et espion débutant. Autour de lui, *Espion à l’ancienne* prend le temps d’établir des portraits touchants et très justes, que ce soit pour les principaux seconds rôles ou pour les personnages plus discrets. J’ai beaucoup aimé les trois femmes autour de lui : sa fille en mal de relation sincère avec son père interprétée par Mary Elizabeth Ellis, la détective privée qui l’embauche et qui devient presque une deuxième fille adoptive (Lilah Richcreek Estrada, très bien aussi) et « Didi », la responsable de la maison de retraite qui est jouée par Stephanie Beatriz, excellente bien entendu dans ce rôle à contre courant de celui qu’elle avait dans [*Brooklyn Nine-Nine*](https://voiretmanger.fr/brooklyn-nine-nine-goor-schur-fox/). Chacune trouve naturellement sa place et a droit à une solide épaisseur psychologique par la même occasion. Michael Schur n’essaie pas de dynamiser artificiellement sa série, il se contente de poser des séquences de la vie avec sa touche d’humour habituelle, sans trop en faire. C’est toujours bien vu et les huit épisodes de la saison se dégustent avec plaisir. Une très belle série.
