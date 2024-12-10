@@ -1,0 +1,12 @@
+---
+title: "*The Penguin*, HBO"
+date: 2024-12-10T21:35:13+01:00
+id: 194764 
+saison: [1]
+---
+
+La perspective d’une suite en série du très médiocre [*The Batman*](/film/batman-reeves/) ne m’enchantait pas particulièrement, je dois bien le reconnaître. Néanmoins, les avis positifs m’ont intrigué et la marque HBO a fait le reste. Que vaut *The Penguin*, mini-série qui se concentre sur le personnage du Pingouin, méchant bien connu de l’univers de Batman ? Eh bien, c’est bien meilleur que le long-métrage de Matt Reeves, mais ça n’était pas dur et c’est même très correct. Sans aller jusqu’à écrire que l’on tient ici une grande série, il aurait fallu pour ça davantage d’originalité pour commencer, je dois reconnaître que Lauren LeFranc a bien réussi à creuser l’univers si connu pour proposer une galerie de personnages assez convaincants. Même si c’est toujours les mêmes histoires de lutte pour le contrôle de la ville par le biais de la drogue, ces histoires sont bien racontées et le casting est convaincant. 
+
+Dans le rôle principal, Colin Farrell a rempilé après avoir déjà joué le Pingouin dans le film et franchement, il est toujours aussi méconnaissable. Même en sachant que c’était lui et après pas loin de huit heures où il était forcément très présent à l’écran, j’ai toujours du mal à accepter que c’est lui sous le maquillage. Le travail réalisé de ce côté est indéniablement bluffant, car l’acteur parvient quand même à jouer pleinement, transmettant des émotions par le regard et des expressions faciales qui semblent impensables au premier abord. *The Penguin* offre en tout cas au personnage une profondeur jamais vue jusque-là, où il se limite souvent à une caricature assez grossière. Le soin à l’écriture se retrouve aussi pour Sofia Falcone, interprétée par une Cristin Milioti en grande forme qui vole régulièrement la vedette au personnage principal. C’est limite dommage que tous ces personnages travaillés et complexes soient mis au service d’une histoire aussi banale, mais il fallait sans doute travailler dans les limites imposées par l’univers. 
+
+D’ailleurs, *The Penguin* est censé servir de pont entre *The Batman* et la suite, fort originalement nommée *The Batman: Part II* et dont la sortie est prévue pour l’année prochaine. C’est ce qui justifie la présence discrète du fameux logo ailé à la toute fin et je ne suis pas sûr d’avoir tellement envie de voir ce que cela donnera. Au fond, cette série rappelle que le moins intéressant dans l’univers de Batman, c’est sans doute bien Batman lui-même.
