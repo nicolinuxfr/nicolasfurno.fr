@@ -1,0 +1,10 @@
+---
+title: "*Distant Landscapes*, Rikuto Fujimoto"
+date: 2024-12-12T21:52:54+01:00
+id: 1752744734 
+pays: "jp"
+---
+
+*Distant Landscapes* fait partie de ces découvertes par pochette interposée. J’étais intrigué par la photo en noir et blanc et cette personne devant une falaise. En écoutant [quelques extraits](https://www.youtube.com/playlist?list=PLSjc8Z5Z5KGCy9NktcoK5cSb0QqwZ8_iW), je me suis dit que ça allait me plaire et après une bonne dizaine d’écoutes, je peux le confirmer. C’est le premier album de Rikuto Fujimoto, un jeune artiste japonais qui a appris le piano très tôt et qui propose ici treize pièces où son piano dialogue avec sa voix. Pas de paroles ici, la voix de l’artiste est davantage utilisée comme un instrument à part entière, évoquant ce que l’on retrouve parfois dans le jazz. J’ai surtout pensé à ce que Nils Frahm peut proposer et on retrouve la même approche minimaliste, même s’il y a des différences évidemment. Le résultat assez difficile à décrire, mais les compositions sont aériennes et toutes en douceur et je les trouve très belles. 
+
+La description de la maison de disque [parle](https://www.fatcat.online/post/rikuto-fujimoto-distant-landscapes) d’un album construit autour du concept de la mémoire, avec d’ailleurs une technique d’enregistrement intéressante. Rikuto Fujimoto a imaginé des compositions sans les mettre sur des partitions, puis les a joué en studio uniquement de tête. *Distant Landscapes* n’est pas de l’improvisation pour autant et chaque morceau est soigneusement composé, avec une belle variété l’air de rien. J’ai apprécié l’ajout d’enregistrements sonores, à l’image du trafic de Tokyo sur « *[Intersection 1](https://youtu.be/1HNwZTwVaEw?si=rdDCdTTZpWllbcLz)* ». D’autres morceaux sont plus simples avec uniquement du piano et l’album est bien équilibré et il tient la distance. À chaque nouvelle rotation, je découvre un autre morceau ou un passage qui me plait particulièrement. Comme quoi, le hasard peut bien faire les choses et c’est une très belle découverte. 
