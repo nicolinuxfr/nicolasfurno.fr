@@ -1,0 +1,10 @@
+---
+title: "*Nobody Wants This*, Netflix"
+date: 2024-12-13T22:35:25+01:00
+id: 250923 
+saison: [1]
+---
+
+« Personne ne veut de ça » est un titre de série assurément intriguant, même si la présence de Kristen Bell au casting est indéniablement ce qui m’a convaincu de lui donner une chance. *Nobody Wants This* n’est pas ma tasse de thé *a priori*, puisqu’il s’agit d’une comédie romantique, sous-catégorie amour impossible, entre un rabbin et une femme dont le podcast sur le sexe n’est pas le plus gros problème : elle n’est pas juive. Amour et religion, il y avait tout pour écrire une comédie beauf et réac, mais heureusement, il ne s’agit pas d’une comédie française.  À la place, Erin Foster parvient à composer une histoire assez classique, certes, ce qui ne l’empêche pas d’être bien menée et qui séduit d’abord par la qualité du casting et en particulier par l’alchimie entre les deux personnages principaux. 
+
+Kristen Bell n’a plus besoin de prouver son talent depuis bien longtemps et elle est de nouveau parfaite dans le rôle de Joanne. L’actrice révèle parfaitement les failles de la femme confiante dans son podcast et qui manque au contraire totalement de confiance en soi dans la vie. Je ne sais pas si le personnage a été écrit en pensant à elle ou si elle se l’est parfaitement appropriée. Quoi qu’il en soit, le résultat est le même : elle apporte beaucoup à *Nobody Wants This*, surtout dans sa relation avec Adam Brody qui incarne Noah. L’acteur est également à son aise dans ce rôle de rabbin en apparence moderne, même s’il veut aussi prendre la tête de sa synagogue et suivre une vie très traditionnelle, où une « *[shiksa](https://fr.wikipedia.org/wiki/Shiksa)* » n’a en aucun cas sa place. Il y a bien quelques clichés un peu faciles autour du judaïsme, sans jamais tomber dans la caricature raciste. La frontière est fine, mais la série de Netflix reste toujours du bon côté et s’avère souvent très drôle. Une belle surprise en somme et je serai au rendez-vous pour la deuxième saison, d’ores et déjà commandée par le service de streaming. 
