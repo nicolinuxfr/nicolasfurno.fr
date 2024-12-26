@@ -1,7 +1,7 @@
 ---
 title: "*Tout va bien*, Disney+"
 date: 2024-01-22T17:37:57+01:00
-id: 208920
+tmdb: 208920
 ---
 
 Ne lisez pas ce qui suit si vous n’avez pas vu la série et que vous comptez le faire, je m’en voudrais de divulgâcher quoi que ce soit et il faut bien parler de la fin. Anne Vasseur, sorte de gourou psychologue qui explique dans tous ses livres et à qui veut bien l’entendre que le bonheur n’est qu’une question de volonté, a retiré les dernières pages du *Chateau de ma Mère* à l’exemplaire qu’elle donne à sa fille pour ne pas la confronter à la mort. Je me demande à quel point *Tout va bien* n’a pas subi le même traitement avec son dernier épisode, réorienté pour nous éloigner d’une fin trop tragique. 

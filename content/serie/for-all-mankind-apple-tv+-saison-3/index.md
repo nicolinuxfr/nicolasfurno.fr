@@ -1,7 +1,7 @@
 ---
 title: "*For All Mankind*, Apple TV+ (saison 3)"
 date: 2022-09-01T22:25:44+02:00
-id: 87917 
+tmdb: 87917 
 saison: [3]
 avant: https://voiretmanger.fr/for-all-mankind-moore-nedivi-wolpert-apple-tv/#2
 ---

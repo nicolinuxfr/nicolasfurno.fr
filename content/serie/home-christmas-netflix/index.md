@@ -1,7 +1,7 @@
 ---
 title: "*Home for Christmas*, Netflix"
 date: 2023-03-29T21:50:07+02:00
-id: 95612 
+tmdb: 95612 
 ---
 
 *Home for Christmas* est une comédie romantique qui n’essaie pas de réinventer le genre et qui n’a pas peur de rester dans un cadre établi. Ce qui ne veut pas dire que c’est une mauvaise série, déjà car on a toujours besoin de temps en temps d’un peu de guimauve, ensuite parce que cette création norvégienne pour Netflix, la première dans le pays, est amusante et attachante grâce à son personnage principal. Johanne, trentenaire, promet à sa famille qu’elle viendra avec un petit ami au prochain Noël… dans deux semaines. C’est le point de départ de la première saison, qui se transforme en course contre la montre pour trouver le bon candidat. La jeune femme enchaîne les expérimentations, sort avec un jeune puis un vieux, tente un *speed-dating* et se laisse même tenter par une collègue qui la drague. Sans trop en dire, le happy-end attendu dans le genre n’est pas nécessairement au rendez-vous à la fin de la première saison, mais la deuxième embraye avec six nouveaux épisodes de 30 minutes et cette fois une conclusion en bonne et due forme.

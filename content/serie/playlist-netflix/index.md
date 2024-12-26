@@ -1,7 +1,7 @@
 ---
 title: "*The Playlist*, Netflix"
 date: 2023-01-21T21:04:11+01:00
-id: 210195 
+tmdb: 210195 
 ---
 
 *The Playlist* raconte l’histoire de Spotify avec un angle original : les six épisodes de cette mini-série suédoise commandée par Netflix adoptent le point de vue d’un personnage différent. Le premier présente la création du service de streaming selon Daniel Ek, co-fondateur et visionnaire qui a envisagé un futur où toute la musique du monde pourrait être accessible légalement d’un clic. Les suivants racontent cette même histoire en suivant d’autres points de vue : celui d’un patron de l’industrie du disque en Suède, de l’avocate qui a signé les contrats avec les labels, du principal développeur qui a travaillé sur la première version du service, du partenaire financier qui a permis au projet d’exister et enfin d’une artiste fictive qui représente tous les artistes et leur relation compliquée avec Spotify. Cette décision est sans doute l’une des meilleures idées de *The Playlist*, qui se distingue ainsi de la banale reconstitution historique en introduisant un biais constant. Tout est parfait dans le récit de Daniel Ek, mais les épisodes suivants soulignent que ce n’est pas nécessairement ainsi que les choses se sont déroulées. Et plus on avance, plus la belle idée qui devait sauver le monde de la musique et même la culture dans son ensemble craquelle.

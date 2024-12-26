@@ -1,7 +1,7 @@
 ---
 title: "*La Flamme*, Canal+"
 date: 2022-08-23T22:14:58+02:00
-id: 94626 
+tmdb: 94626 
 ---
 
 Remake d’une série américaine, *La Flamme* repose entièrement sur un concept : c’est une parodie de télé-réalité dans l’esprit de *‌Bachelor, le gentleman célibataire*. Je n’ai jamais regardé un seul épisode de cette émission, mais j’ai déjà regardé d’autres télé-réalités, ce qui est suffisant pour ne pas passer à côté de cet univers si particulier. Si vous n’en avez jamais regardé, je ne suis pas sûr que vous apprécierez l’humour déployé par Jonathan Cohen, ou en tout cas, vous passerez sûrement à côté d’un bon nombre de clins d’œil parodiques. Tous les codes du genre ont été repris, le présentateur très sérieux interprété par Vincent Dedienne, le suspense en fin de chaque épisode pour éliminer une candidate, les confessions face caméra, la musique… c’est presque un clone. Pour un peu, on pourrait oublier que *La Flamme* n’est qu’une parodie, ce qui pourrait presque être son plus gros défaut. Il faut accepter ce cadre de télé-réalité quasiment au premier degré et passer outre pour pouvoir apprécier la création de Canal+.

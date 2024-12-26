@@ -1,7 +1,7 @@
 ---
 title: "*What If…?*, Disney+"
 date: 2022-06-07T20:51:21+02:00
-id: 91363 
+tmdb: 91363 
 ---
 
 Et si… Steve Rogers n’avait pas été injecté avec le serum et n’était jamais devenu Captain America ? Et si… c’est T’Challa de Wakanda qui avait été pris par les Ravageurs et était devenu Star Lord ? Et si… les Avengers étaient tous transformés en voulant la Terre d’une attaque zombie ? Ce qui est bien avec le concept de multivers, c’est que l’on peut imaginer absolument toutes les variantes, sans aucune limite. Fort de ce constat, Disney+ a créé une série d’animation qui imagine à chaque fois un univers à la fois familier de ceux que l’on a découvert dans l’immense univers cinématographique Marvel et en même temps légèrement différent. Ici, deux personnages sont inversés ; là, un fait essentiel n’a pas lieu ; ailleurs, une relation cruciale n’a pas existé. Le résultat est *What If…?* et une première saison de neuf épisodes inégaux, mais tous assez passionnants.

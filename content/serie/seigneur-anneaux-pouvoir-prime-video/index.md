@@ -1,7 +1,7 @@
 ---
 title: "*Le Seigneur des anneaux : Les Anneaux de pouvoir*, Prime Video"
 date: 2022-11-05T22:15:08+01:00
-id: 84773 
+tmdb: 84773 
 saison: [1]
 aliases:
 - /serie/seigneur-anneaux-pouvoir-amazon/

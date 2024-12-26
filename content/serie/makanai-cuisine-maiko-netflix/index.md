@@ -1,7 +1,7 @@
 ---
 title: "*Makanai : Dans la cuisine des maiko*, Netflix"
 date: 2023-02-20T21:15:16+01:00
-id: 154916
+tmdb: 154916
 ---
 
 L’univers des geishas reste entouré de mystères, avec des représentations récentes souvent faussées qui en faisaient des prostituées de luxe. On connaît assez mal au fond ces femmes de compagnie et danseuses qui perpétuent un art vieux de plusieurs siècles et *Makanai : Dans la cuisine des maiko* en offre un bon aperçu. Créée par Hirokazu Kore-eda qui réalise aussi les trois premiers épisodes, cette mini série Netflix adapte un manga et propose une plongée sans jugement dans ce monde étonnant. En suivant deux adolescentes qui espèrent devenir des [*maiko*](https://fr.wikipedia.org/wiki/Maiko_(geisha)), des apprenties geishas, les neuf épisodes dressent un portrait réaliste et tout en douceur de ce milieu extrêmement fermé. J’attendais plus de recul ou même un regard davantage critique de la part du cinéaste japonais, mais je comprends son intention et même s’il se contente de capter des moments de vie sans drame, il ne masque pas les aspects plus négatifs de ce monde. 

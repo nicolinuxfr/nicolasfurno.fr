@@ -1,7 +1,7 @@
 ---
 title: "*Shōgun*, FX (saison 1)"
 date: 2024-05-25T21:25:56+02:00
-id: 126308 
+tmdb: 126308 
 saison: [1]
 ---
 

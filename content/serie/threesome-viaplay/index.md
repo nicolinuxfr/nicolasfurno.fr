@@ -1,7 +1,7 @@
 ---
 title: "*Threesome*, Viaplay"
 date: 2022-07-20T20:39:02+02:00
-id: 130467 
+tmdb: 130467 
 ---
 
 La série suédoise *Threesome* commence, vous l’aurez deviné, par un trio. Siri (oui…) et David, en couple depuis le lycée sept ans auparavant, croisent à une fête Camille et Siri semble séduite par cette étudiante française au point de commencer à l’embrasser devant son copain, vous pouvez deviner la suite. Un point de départ intriguant pour cette création originale de Viaplay, mais qui s’avère de plus en plus décevante au fil des huit épisodes. Cette histoire tournée en 2021 avec de jeunes personnages ressemble pourtant à une leçon de morale digne du catéchisme et une célébration du couple à deux, et de préférence un garçon et une fille s’il vous plait. *Threesome* a le bon goût d’être courte, mais abstenez-vous, elle n’en vaut pas la peine. 

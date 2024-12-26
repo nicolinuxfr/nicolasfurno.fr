@@ -1,7 +1,7 @@
 ---
 title: "*Génération 56k*, Netflix"
 date: 2023-02-28T17:30:27+01:00
-id: 126304 
+tmdb: 126304 
 ---
 
 Son nom le suggère, *Génération 56k* regarde vers un passé pas si éloigné… enfin, je trahis sans doute mon âge en disant cela. Cette comédie romantique venue d’Italie suit une histoire d’amour séparée de vingt ans, en parallèle entre la fin des années 1990 et l’arrivée d’internet sur une petite île au large de Naples et le début des années 2020. Daniel et Matilda sont passés à côté quand ils avaient une dizaine d’années, ils se retrouvent devenus trentenaires et c’est le coup de foudre, mais n’est-ce pas trop tard ? La série créée par Francesco Ebbasta pour Netflix n’essaie pas de bouleverser le genre et elle devrait ravir les amateurs. Je ne dirais pas que j’ai été bouleversé, mais cette histoire d’amour assez mignonne et la petite dose de nostalgie, combinés au charme de l’Italie du sud, a plutôt bien fonctionné.

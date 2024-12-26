@@ -1,7 +1,7 @@
 ---
 title: "*#Philo : Sapere aude*, Movistar Plus+"
 date: 2022-09-21T21:40:33+02:00
-id: 95601
+tmdb: 95601
 ---
 
 Netflix propose en France *#Philo : Sapere aude*, mais pas *#Philo* dont elle est dérivée. M’en rendant compte un petit peu tard, j’étais déjà bien avancé dans la première saison et j’avais accroché au concept. Après avoir vu les deux saisons, peut-être que je regarderai les trois originales, mais les deux séries sont au fond assez indépendantes. Et cette version dérivée commandée par la chaîne espagnole Movistar Plus+[^1] s’est avérée en outre décevante, avec un tournant trop marqué sur la deuxième saison. La première s’impose avec un ton léger, évoque des étudiants en première année de philosophie qui débattent en cours de la façon la plus irréaliste qui soit et qui ont des relations amicales et amoureuses plus normales. Le personnage principal, Pol, sort d’une relation sexuelle avec son ami Bruno et il a du mal à accepter sa bisexualité. Son parcours est intéressant, avec une représentation positive de son orientation sexuelle, sans drame artificiel et sans tomber dans l’angélisme. L’ouverture de la série sur ces sujets était rafraîchissante, mais tout bascule après le huitième épisode.

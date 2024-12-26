@@ -1,7 +1,7 @@
 ---
 title: "*Abbott Elementary*, ABC"
 date: 2022-06-21T21:35:20+02:00
-id: 125935
+tmdb: 125935
 saison: [1]
 ---
 

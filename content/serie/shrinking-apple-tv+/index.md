@@ -1,7 +1,7 @@
 ---
 title: "*Shrinking*, Apple TV+"
 date: 2023-04-28T22:00:39+02:00
-id: 136311 
+tmdb: 136311 
 saison: [1]
 ---
 

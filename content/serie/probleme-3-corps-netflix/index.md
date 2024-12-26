@@ -1,7 +1,7 @@
 ---
 title: "*Le Problème à 3 corps*, Netflix"
 date: 2024-04-03T21:51:41+02:00
-id: 108545 
+tmdb: 108545 
 saison: [1]
 ---
 

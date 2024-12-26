@@ -1,7 +1,7 @@
 ---
 title: "*Loki*, Disney+ (saison 2)"
 date: 2023-11-21T21:05:39+01:00
-id: 84958 
+tmdb: 84958 
 saison: [2]
 avant: https://voiretmanger.fr/loki-waldron-disney/
 ---

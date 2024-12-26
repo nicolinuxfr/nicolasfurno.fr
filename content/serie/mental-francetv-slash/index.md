@@ -1,7 +1,7 @@
 ---
 title: "*Mental*, France.tv Slash"
 date: 2023-01-16T21:24:31+01:00
-id: 95123 
+tmdb: 95123 
 ---
 
 *Mental* appartient à cette catégorie trop rare des séries françaises qui parviennent à surprendre. Pourtant, cette création de France TV ressemble à une catastrophe annoncée si l’on s’en tient à son synopsis. Cette histoire de quelques adolescents dans un service de pédopsychiatrie pouvait indéniablement mener à un échec complet et pourtant… c’est plutôt un petit miracle. Avec son casting parfait de bout en bout et avec son scénario qui n’a pas peur d’aborder des sujets difficiles tout en infusant une salutaire dose d’humour et une bonne pincée d’émotions, *Mental* est un bijou à ne rater sous aucun prétexte.

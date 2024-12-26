@@ -1,7 +1,7 @@
 ---
 title: "*Love & Anarchy*, Netflix"
 date: 2022-07-05T21:06:37+02:00
-id: 111743 
+tmdb: 111743 
 ---
 
 *Love & Anarchy* porte bien son nom. D’un côté, cette comédie romantique reprend tous les codes du genre, avec une histoire d’amour entre Sofie, consultante qui vient moderniser un éditeur de Stockholm et Max, jeune stagiaire qui travaille dans l’entreprise quand elle arrive. De l’autre, cette romance teintée de haine est constamment dynamitée par une bonne dose de désordre, à base de défis lancés les uns après les autres et qui montent en épingle. La série suédoise portée par Netflix parvient ainsi à sortir des cadres habituels et à surprendre, surtout sur sa deuxième saison qui s’éloigne de l’humour initial et parvient à creuser ses personnages en traitant de sujets nettement plus difficiles.

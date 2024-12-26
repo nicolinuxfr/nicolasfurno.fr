@@ -1,7 +1,7 @@
 ---
 title: "*Le Cabinet de curiosités de Guillermo del Toro*, Netflix"
 date: 2023-02-01T21:05:45+01:00
-id: 83659
+tmdb: 83659
 saison: [1] 
 ---
 

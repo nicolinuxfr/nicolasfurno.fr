@@ -1,7 +1,7 @@
 ---
 title: "*Blue Eye Samurai*, Netflix (saison 1)"
 date: 2024-05-04T22:28:25+02:00
-id: 225180 
+tmdb: 225180 
 saison: [1]
 ---
 

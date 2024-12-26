@@ -1,7 +1,7 @@
 ---
 title: "*Better Things*, FX (saison 5)"
 date: 2022-06-03T21:36:46+02:00
-id: 66859 
+tmdb: 66859 
 saison: [5]
 avant: https://voiretmanger.fr/better-things-adlon-ck-fx/
 ---

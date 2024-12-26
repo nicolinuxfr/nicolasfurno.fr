@@ -1,7 +1,7 @@
 ---
 title: "*Minx*, Starz"
 date: 2023-10-28T21:59:07+02:00
-id: 118303 
+tmdb: 118303 
 saison: [1,2]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "*Inside Man*, BBC One"
 date: 2022-11-30T22:07:38+01:00
-id: 121710 
+tmdb: 121710 
 ---
 
 Pour écrire le scénario d’*Inside Man*, Steven Moffat est clairement parti d’un principe de départ : tout le monde peut devenir un meurtrier si les conditions s’y prêtent. Il a cherché la personne qui semble la plus éloignée du meurtrier pour faire sa démonstration et c’est ainsi un pasteur anglais qui doit prouver cette idée. Un postulat de départ intéressant, mais le choix du pasteur, qui est aussi un père de famille et que tout le monde semble apprécier, est un poil gros, même si je salue l’implication de David Tennant, très bien comme toujours. C’est néanmoins le plus gros défaut de cette mini-série commandée par la BBC et Netflix : elle se construit sur une base si folle et enchaîne des péripéties si dingues qu’on ne peut jamais y croire. Heureusement qu’elle est courte avec ses quatre épisodes d’une heure, car sans cela, je ne suis pas sûr que j’aurais été jusqu’au bout.

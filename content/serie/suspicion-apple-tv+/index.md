@@ -1,7 +1,7 @@
 ---
 title: "*Suspicion*, Apple TV+"
 date: 2022-04-04T21:41:21+02:00
-id: 100414 
+tmdb: 100414 
 ---
 
 Adaptée, encore une fois, d’une série israélienne, *Suspicion* est surtout bien dans ses débuts. Quand on découvre le kidnapping dans un hôtel new-yorkais de Leo Newman, le fils de la patronne de l’agence de communication la plus puissante des États-Unis et surtout quand quatre citoyens anglais sont suspectés. Ils étaient tous de passage dans cet hôtel, mais leur implication semble dingue, ils ressemblent à des gens normaux et sans histoire. Petit à petit, Rob Williams apporte toutefois la suspicion promise par le titre et on découvre qu’ils ont tous un passé trouble. Malheureusement, cette bonne base ne mène pas à une résolution aussi explosive et la série portée par Apple TV+ finit par presque ennuyer poliment. Elle a le bon goût de ne pas trop s’étirer en longueur, mais j’ai été déçu.

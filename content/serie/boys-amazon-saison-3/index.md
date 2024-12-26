@@ -1,7 +1,7 @@
 ---
 title: "*The Boys*, Amazon (saison 3)"
 date: 2022-08-03T21:46:24+02:00
-id: 76479 
+tmdb: 76479 
 saison: [3]
 avant: https://voiretmanger.fr/boys-kripke-prime-video/#2
 ---

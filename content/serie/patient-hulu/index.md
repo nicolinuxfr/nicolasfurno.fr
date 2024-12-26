@@ -1,7 +1,7 @@
 ---
 title: "*The Patient*, Hulu"
 date: 2022-12-30T21:31:40+01:00
-id: 135868
+tmdb: 135868
 ---
 
 Joel Fields et Joe Weisberg ont eu une idée originale : et si un tueur en série décidait de kidnapper son psy, de l’enfermer dans une pièce chez lui et de poursuivre ainsi une thérapie à marche forcée pour soigner son obsession de tueur ? *The Patient* construit ses dix épisodes à partir de ce point de départ et le résultat est pour le moins intense. Même si la mini-série créée pour Hulu peut avoir tendance à un moment ou deux de faire durer le suspense un poil trop longtemps, je dois reconnaître avoir été happé d’un bout à l’autre. Dès lors que Steve Carell, qui interprète le psy, se réveille prisonnier dans la pièce de son patient, sa thérapie forcée doublée d’une lutte de tous les instants pour sa survie m’a pris à la gorge et je n’ai pas arrêté avant la fin. Dont je ne dirai bien évidemment rien, il y a une vraie tension et il est préférable de regarder *The Patient* en sachant le moins possible à son sujet.

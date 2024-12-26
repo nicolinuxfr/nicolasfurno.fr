@@ -1,7 +1,7 @@
 ---
 title: "*Good Trouble*, Freeform"
 date: 2024-08-21T21:45:17+02:00
-id: 80006 
+tmdb: 80006 
 saison: [1,4]
 aliases:
 - /serie/good-trouble-freeform-saison-1-4/

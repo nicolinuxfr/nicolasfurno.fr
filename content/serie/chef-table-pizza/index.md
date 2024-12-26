@@ -1,7 +1,7 @@
 ---
 title: "*Chef's Table : Pizza*, Netflix"
 date: 2022-09-18T22:00:33+02:00
-id: 208589 
+tmdb: 208589 
 saison: [8]
 avant: https://voiretmanger.fr/chef-table-gelb-netflix/#bbq
 ---

@@ -1,7 +1,7 @@
 ---
 title: "*Why Are You Like This?*, ABC TV Plus"
 date: 2023-01-25T21:19:26+01:00
-id: 118945 
+tmdb: 118945 
 ---
 
 Penny, Mia et Austin, la vingtaine à Melbourne et une série construite autour de leur quotidien, sans aucun filtre. C’est la promesse de *Why Are You Like This?*, une série australienne sortie en 2018 qui fait la part belle aux minorités et à leur combat, du moins en apparence. Sous couvert d’un humour « trash », elle tombe dans l’excès inverse en se moquant continuellement des minorités en question. Je ne sais pas si c’était l’intention du trio de créateurs, je préfère imaginer que non, mais en l’état, leur création donne des arguments à tous ceux qui pensent combattre le « wokisme » de notre société et d’autres âneries dans le même esprit. Si encore c’était drôle, on pourrait éventuellement fermer les yeux sur l’acharnement porté contre tous ceux qui tentent de dénoncer les injustices et de défendre les opprimés. Malheureusement, à part une bonne idée ici ou là, les six épisodes d’une vingtaine de minutes patinent un petit peu, si bien que le bilan est loin d’être positif. 

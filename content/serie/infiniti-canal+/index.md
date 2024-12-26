@@ -1,7 +1,7 @@
 ---
 title: "*Infiniti*, Canal+"
 date: 2023-06-27T21:25:20+02:00
-id: 128798 
+tmdb: 128798 
 ---
 
 *Infiniti* est une belle preuve que l’on peut faire de la science-fiction ambitieuse en France. Cette série commandée par Canal+ imagine une histoire entre le Kazakhstan et la station spatiale internationale à quelques centaines de kilomètres plus haut et une intrigue sur une base policière qui évolue progressivement vers une touche de fantastique. Un choix très original qui paye : les six épisodes forment un récit riche et bien mené, même si le format aurait peut-être gagné à être légèrement rallongé, notamment sur la fin. Même si tout n’est pas parfait, j’ai beaucoup apprécié cette création originale de la chaîne française qui n’aura, malheureusement, aucune suite.

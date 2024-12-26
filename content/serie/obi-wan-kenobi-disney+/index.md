@@ -1,7 +1,7 @@
 ---
 title: "*Obi-Wan Kenobi*, Disney+"
 date: 2022-06-30T21:53:55+02:00
-id: 92830 
+tmdb: 92830 
 ---
 
 La première série pour Disney+ dans l’univers *Star Wars* faisait le pari du feuilleton à l’ancienne et [*The Mandalorian*](https://nicolasfurno.fr/serie/mandalorian-disney+-saison-2/) souffre cruellement de ce choix étrange à mon avis. Fort heureusement, ce n’est pas la seule direction suivie par le service de streaming, la preuve en est cette nouvelle série[^1] qui adopte un format beaucoup plus moderne. *Obi-Wan Kenobi* se déroule pile entre la prélogie et la trilogie initiale, au moment charnière où l’Empire est en train de fermer ses griffes sur l’univers, alors que Luke et Leia sont encore des enfants loin de se douter de leurs futurs rôles et alors qu’Anakin devenu Dark Vador cherche toujours à se venger d’Obi-Wan, son ancien maître Jedi. Un cadre familier qui permet aux scénaristes de creuser une histoire nouvelle, mais tout en tissant des ponts entre deux longs-métrages de la saga. 

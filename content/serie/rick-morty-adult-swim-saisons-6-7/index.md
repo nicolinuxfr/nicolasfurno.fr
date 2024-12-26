@@ -1,7 +1,7 @@
 ---
 title: "*Rick et Morty*, Adult Swim (saisons 6 et 7)"
 date: 2024-03-20T21:29:35+01:00
-id: 60625 
+tmdb: 60625 
 saison: [6,7]
 avant: https://voiretmanger.fr/rick-morty-harmon-roiland-adult-swim/
 ---

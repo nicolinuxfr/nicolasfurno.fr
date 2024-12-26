@@ -1,7 +1,7 @@
 ---
 title: "*Bad Sisters*, Apple TV+"
 date: 2022-11-01T21:30:06+01:00
-id: 199318 
+tmdb: 199318 
 saison: [1]
 ---
 

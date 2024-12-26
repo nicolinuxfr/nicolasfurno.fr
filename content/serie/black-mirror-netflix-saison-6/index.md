@@ -1,7 +1,7 @@
 ---
 title: "*Black Mirror*, Netflix (saison 6)"
 date: 2023-08-20T22:02:24+02:00
-id: 42009 
+tmdb: 42009 
 saison: [6]
 avant: https://voiretmanger.fr/black-mirror-brooker-channel-4/#5
 ---

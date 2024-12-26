@@ -1,7 +1,7 @@
 ---
 title: "*Agatha All Along*, Disney+"
 date: 2024-11-19T21:46:35+01:00
-id: 138501 
+tmdb: 138501 
 ---
 
 Avec toutes ses imperfections, [*WandaVision*](https://voiretmanger.fr/wandavision-schaeffer-disney/) reste indéniablement l’une séries Marvel les plus réussies, justement parce qu’elle tentait quelque chose de radicalement différent. Au milieu de la galerie de personnages secondaires, celui qui sortait le plus du lot était inévitable Agnes, alias Agatha Harkness, une dangereuse sorcière et [source d’excellents mèmes](agnes.gif) qui surnageait grâce à l’excellente prestation de Kathryn Hahn. Dans ces conditions, Disney+ n’a surpris personne en lui offrant son spin-off et c’est ainsi qu’est née *Agatha All Along*. Premier bon point, le casting ne change pas, à commencer par la présence de Jac Schaeffer côté création et jusqu’aux mêmes compositeurs qui parviennent à créer un morceau décliné à travers les neuf épisodes et que vous ne pourrez plus jamais oublier[^1]. Inutile de faire durer le suspense plus longtemps : même s’il y a quelques inégalités le long de la route, *Agatha All Along* est une réussite, sans conteste une des meilleures séries de l’immense univers cinématographique Marvel.

@@ -1,7 +1,7 @@
 ---
 title: "*Love, Victor*, Hulu (saison 3)"
 date: 2022-11-22T18:39:45+01:00
-id: 97186 
+tmdb: 97186 
 saison: [3]
 avant: https://voiretmanger.fr/love-victor-aptaker-berger-hulu/#2
 ---

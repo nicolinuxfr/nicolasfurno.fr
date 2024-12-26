@@ -1,7 +1,7 @@
 ---
 title: "*Easy*, Netflix"
 date: 2023-02-09T21:52:53+01:00
-id: 67780 
+tmdb: 67780 
 ---
 
 *Easy* adopte un format hybride assez original, quelque part entre l’anthologie et la série conventionnelle. Les premiers épisodes sont déconnectés, avec des personnages indépendants et des liens assez souples : ils se déroulent tous à Chicago et il est question à chaque fois de sexe, ou du moins de couple. Mais au fil des épisodes et même des saisons, Joe Swanberg revient avec les mêmes personnages et les fait s’entrecroiser, si bien que la création de Netflix penche de plus en plus vers la série classique. Sans perdre de vue cette touche d’anthologie, notamment sur la troisième saison où l’on a quelques épisodes entièrement déconnectés du reste, tant par le thème que les personnages. 

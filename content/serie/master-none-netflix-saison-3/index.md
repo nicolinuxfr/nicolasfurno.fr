@@ -1,7 +1,7 @@
 ---
 title: "*Master of None*, Netflix (saison 3)"
 date: 2023-01-04T21:55:57+01:00
-id: 64254 
+tmdb: 64254 
 saison: [3]
 avant: https://voiretmanger.fr/master-none-ansari-yang-netflix/#2
 ---

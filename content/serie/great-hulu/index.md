@@ -1,7 +1,7 @@
 ---
 title: "*The Great*, Hulu"
 date: 2022-03-10T20:57:30+01:00
-id: 93812 
+tmdb: 93812 
 ---
 
 « Une histoire occasionnellement vraie », promet Tony McNamara dans cette adaptation portée par Hulu de la pièce qu’il avait lui-même créé, on pourrait même dire « accidentellement ». *The Great* s’inspire de l’histoire de [Catherine II de Russie](https://fr.wikipedia.org/wiki/Catherine_II), surnommée « Catherine la Grande », mais si les grandes lignes directrices sont là, la série ne s’embarrasse en effet pas longtemps avec la réalité historique. Son époux, Pierre III de Russie, est un homme sexuellement actif quand elle débarque et leur mariage n’est pas heureux, mais la fiction imagine surtout une grande histoire d’amour entre Catherine et son amant officiel, Leo. Et si elle finit par prendre le pouvoir, elle ne tue pas son mari qui reste dans sa vie comme dans la série.

@@ -1,7 +1,7 @@
 ---
 title: "*Un meurtre au bout du monde*, FX"
 date: 2024-02-05T22:15:38+01:00
-id: 134095 
+tmdb: 134095 
 ---
 
 Avant tout, *Un meurtre au bout du monde* est la dernière série créée par Brit Marling ainsi que Zal Batmanglij et je n’avais besoin de rien de plus pour me décider. Le duo a signé [*The OA*](https://voiretmanger.fr/oa-marling-batmanglij-netflix/) et même si Netflix ne lui a pas laissé de chance, je garde encore un excellent souvenir des deux saisons, suffisamment en tout cas pour faire aveuglément confiance aux deux créateurs et regarder ce qu’ils ont à offrir sans rien à lire à son sujet. Le titre de leur nouvelle série en dit déjà bien assez, alors si vous ne l’avez pas vue et qu’une enquête autour d’un meurtre pourrait vous brancher, arrêtez votre lecture dès maintenant pour garder la surprise.

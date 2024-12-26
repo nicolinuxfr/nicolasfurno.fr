@@ -1,7 +1,7 @@
 ---
 title: "*Trinkets*, Netflix"
 date: 2023-06-06T21:45:39+02:00
-id: 89852 
+tmdb: 89852 
 ---
 
 *Trinkets* est une énième série adaptée d’un roman pour ados qui raconte le quotidien de lycéens et leurs problèmes aux États-Unis, c’est vrai. Mais il serait injuste de s’arrêter là et de ne pas lui donner une chance. Créée par Amy Andelson, Emily Meyer et surtout Kirsten "Kiwi" Smith qui était l’autrice du roman, cette série parvient à créer des personnages riches et attachants qui lui donne une vraie existence, loin du cliché des scénarios écrits par des algorithmes. La création de Netflix parvient même à sortir du lot avec un thème inattendu, puisqu’il n’est pas seulement question d’amitiés et amours entre adolescents, l’un des sujets au cœur des deux saisons est la kleptomanie. Les babioles, « *trinkets* » en version originale, collectées par la personnage principale permettent d’évoquer cette addiction moins connue et pourtant tout aussi destructrice.

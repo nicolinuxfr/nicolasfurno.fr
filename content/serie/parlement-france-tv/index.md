@@ -1,7 +1,7 @@
 ---
 title: "*Parlement*, france.tv"
 date: 2023-12-08T21:00:10+01:00
-id: 101666 
+tmdb: 101666 
 ---
 
 *Parlement* est un petit bijou, l’équivalent européen d’un [*Veep*](https://voiretmanger.fr/veep-iannucci-hbo/), une satire politique aussi drôle que déprimante sur les institutions européennes et toute leur défaillance, une comédie absurde parfaitement menée… du moins, si l’on s’en tient aux premiers dix épisodes. Tournée avec un budget ridicule, la première saison a rencontré un immense succès parfaitement légitime, si bien que france.tv a commandé une suite et transformé la satire créée par Noé Debré en une longue série puisqu’une quatrième saison est en attente. Malheureusement, l’équilibre parfait obtenu dans la première saison a été entièrement perdu dès la deuxième. Deux ans et une pandémie s’étaient écoulés entre les deux, ce qui a suffi à perdre tout ce qui faisait le succès de *Parlement*. Les personnages si bien écrits sont devenus des caricatures grossières, l’humour subtil est devenu une farce même pas drôle : je n’ai même pas réussi à terminer cette deuxième saison et j’aurais aimé qu’on me prévienne comme je le fais maintenant pour vous. 

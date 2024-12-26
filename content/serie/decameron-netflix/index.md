@@ -1,7 +1,7 @@
 ---
 title: "*Le Décaméron*, Netflix"
 date: 2024-12-17T21:11:29+01:00
-id: 250162 
+tmdb: 250162 
 ---
 
 Adaptation moderne des nouvelles du XIV<sup>e</sup> siècle écrites par Boccace, *Le Décaméron* commence sur une base d’humour noir dans un Florence infesté par la peste. J’ai d’abord pensé à ces caricatures médiévales, un sous-genre qui peut bien fonctionner, comme la deuxième saison de [*Miracle Workers*](https://voiretmanger.fr/miracle-workers-rich-tbs/) ou même plus directement *[1670](serie/1670-netflix/)*, l’ont montré. Il y a de ça, avec ces nobles ridicules qui atterrissent tous dans une villa isolée et qui décident de vivre en faisant la fête et en ignorant le monde qui brûle autour d’eux. Les deux ou trois premiers épisodes sont excellents dans cette lancée, puis les scénaristes décident qu’ils ne veulent pas seulement d’une farce absurde et que leur série doit aussi être sérieuse. Des personnages sont tués, les autres sont forcés d’évoluer et l’ensemble tient de moins en moins bien, à mon avis. Je comprends bien l’idée de creuser les psychologies et de ne pas se contenter de l’humour un peu facile des débuts. Je ne crois pas que *Le Décaméron* s’en sorte aussi bien toutefois et la série se perd peu à peu à vouloir gagner en sérieux en introduisant des menaces successives. 

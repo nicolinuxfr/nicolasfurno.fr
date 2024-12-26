@@ -1,7 +1,7 @@
 ---
 title: "*Bodies*, Netflix"
 date: 2023-12-10T21:45:38+01:00
-id: 233629 
+tmdb: 233629 
 ---
 
 *Bodies* est une série qui mérite d’être regardée avec un œil neuf, sans rien lire et en connaissant le moins possible à son sujet. Si vous aimez les histoires à reconstituer comme un puzzle, arrêtez votre lecture ici et tentez le coup, la création de Netflix vous passionnera peut-être. 

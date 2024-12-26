@@ -1,7 +1,7 @@
 ---
 title: "*The White Lotus*, HBO (saison 2)"
 date: 2022-12-23T21:27:23+01:00
-id: 111803 
+tmdb: 111803 
 saison: [2]
 ---
 

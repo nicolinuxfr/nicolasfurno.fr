@@ -1,7 +1,7 @@
 ---
 title: "*Wellmania*, Netflix"
 date: 2023-04-23T18:10:42+02:00
-id: 195841 
+tmdb: 195841 
 saison: [1]
 ---
 

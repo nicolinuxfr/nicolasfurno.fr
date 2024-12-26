@@ -1,7 +1,7 @@
 ---
 title: "*Les Gouttes de Dieu*, Apple TV+"
 date: 2023-06-07T22:11:41+02:00
-id: 218961 
+tmdb: 218961 
 ---
 
 *Les Gouttes de Dieu* est un manga japonais sur le monde… du vin. Une combinaison intrigante qui m’a tout de suite donné envie de voir cette adaptation proposée par Apple TV+, mais qui était à l’origine un projet de France Télévision. Ce qui explique plusieurs choix importants et pas seulement la présence d’une large gamme de produits sans pomme[^1] : de manière plus profonde, la version télévisée créée par Quoc Dang Tran est nippo-française, là où le manga original était strictement japonaise. Le concept de base est toujours le même : un affrontement entre deux personnes pour obtenir l’héritage d’un œnologue légendaire et notamment son immense cave de plus de 80 000 bouteilles et 150 millions de dollars. Dans la série, Issei est un élève d’Alexandre Léger et il affronte Camille Léger, la fille du maître dans une série de trois épreuves successives. La première consiste à identifier un vin dégusté à l’aveugle, ce qui est assez classique dans le monde de l’œnologie. La suite se corse toutefois avec un tableau qui est censé évoquer un tableau et surtout, cet incroyable duel devient de plus en plus personnel pour les deux candidats.

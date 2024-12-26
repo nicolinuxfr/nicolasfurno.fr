@@ -1,7 +1,7 @@
 ---
 title: "*Young Sheldon*, CBS"
 date: 2023-08-12T21:26:17+02:00
-id: 71728 
+tmdb: 71728 
 saison: [1,6]
 ---
 

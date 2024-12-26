@@ -1,7 +1,7 @@
 ---
 title: "*Loot*, Apple TV+"
 date: 2022-08-13T21:40:22+02:00
-id: 197449 
+tmdb: 197449 
 ---
 
 Rares sont les œuvres de fiction qui s’éloignent autant de leur idée de départ : *Loot* promet le récit de contrition d’une milliardaire qui se reconvertit dans la charité, mais la série d’Apple TV+ fait en réalité l’apologie ahurissante d’un mode de vie déconnecté et si nocif à l’heure du réchauffement climatique. Sous couvert de la comédie, la première saison enchaîne les séquences embarrassantes où une milliardaire détruit la planète pour son plaisir et ses caprices, le tout avec un premier degré gênant. Je ne comprends pas comment Maya Rudolph a pu se laisser entraîner dans cette farce grotesque et ce n’est pas parce que l’ultime épisode tente de redresser le tir que cela corrige tout ce qui précède. Navrant.

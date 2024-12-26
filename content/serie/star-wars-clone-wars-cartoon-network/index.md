@@ -1,7 +1,7 @@
 ---
 title: "*Star Wars : The Clone Wars*, Cartoon Network"
 date: 2024-11-20T22:13:36+01:00
-id: 4194 
+tmdb: 4194 
 ---
 
 C’est George Lucas en personne qui l’a voulu : une série d’animation pour faire le lien entre les [*Episode II*](https://voiretmanger.fr/star-wars-episode-2-attaque-clones-lucas/) et [*Episode III*](https://voiretmanger.fr/star-wars-episode-3-revanche-sith-lucas/) de la prélogie. Il faut dire que les deux films sont séparés par une énorme ellipse, une longue période pendant laquelle Anakin passe de l’adolescent à l’homme adulte, du côté clair à l’obscur de la Force. Que s’est-il passé entre les deux ? La guerre des clones, un conflit qui s’étend à toute la galaxie et qui finit par grignoter petit à petit les défenses du jeune homme. C’est assez logique dès lors de consacrer de la place à cette période, même si le créateur de l’univers de science-fiction le plus connu a de grandes ambitions et ne compte pas s’arrêter à l’histoire d’Anakin.  *Star Wars : The Clone Wars* s’attache à décrire la guerre avec de multiples angles, y compris celui que la saga au cinéma n’avait jamais pris le temps d’aborder : les clones eux-mêmes. C’est sans doute sa meilleure idée, du moins au départ : on n’avait jusque-là jamais vu les clones dans leur quotidien, avec ou sans casque, lors des entraînements et au cœur des champs de bataille, où ils meurent par millier et dans l’indifférence générale. Cette humanisation, que l’on retrouve dans la [troisième trilogie](https://voiretmanger.fr/star-wars-episode-7-reveil-force-abrams/), est une excellente piste, même si elle conduit au plus gros défaut de cette série : la répétition.

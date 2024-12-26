@@ -1,7 +1,7 @@
 ---
 title: "*She-Hulk : Avocate*, Disney+"
 date: 2022-10-18T21:31:15+02:00
-id: 92783 
+tmdb: 92783 
 ---
 
 Sortir des salles obscures et des blockbusters formatés par les contraintes du cinéma a fait beaucoup de bien à l’univers cinématographique Marvel. Depuis les premières séries diffusées sur Disney+, comme *‌[WandaVision](https://voiretmanger.fr/wandavision-schaeffer-disney/)* ou [*Loki*](https://voiretmanger.fr/loki-waldron-disney/), sortir des sentiers battus est toujours une option et c’est souvent celle qui donne les meilleurs résultats. *She-Hulk : Avocate* le prouve à nouveau, avec une comédie judiciaire qui n’a de cesse de commenter le quatrième mur au point d’en faire le principal moteur de son intrigue. Portée par la pétillante Tatiana Maslany que j’avais tant appréciée dans [*Orphan Black*](https://voiretmanger.fr/orphan-black-manson-fawcett-space/), la première saison est suffisamment courte[^1] pour ne pas trop étirer son concept et maintenir l’intérêt du spectateur. En ne se prenant par trop au sérieux et en jouant la carte méta jusqu’à son extrême, la série Disney+ créée par Jessica Gao est fun et légère, un délice.

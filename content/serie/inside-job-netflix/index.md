@@ -1,7 +1,7 @@
 ---
 title: "*Inside Job*, Netflix"
 date: 2023-08-25T22:12:39+02:00
-id: 97727 
+tmdb: 97727 
 ---
 
 Le concept de départ pour *Inside Job*, c’est que toutes les théories du complot qui circulent sur internet, même les plus absurdes, sont vraies. La série d’animation de Netflix imagine une entreprise nommée Cognito, Inc est responsable de masquer la vérité sur les lézards qui dirigent secrètement le monde, sur les champignons qui logent dans le cœur de la planète et évidemment sur la société secrète qui dirige tout en arrière-plan. Ses employés doivent ainsi à la fois masquer la vérité et effacer toutes les traces qu’elle pourrait laisser derrière elle et inventer des contre-vérités pour aveugler le public. Créée par Shion Takeuchi qui s’est faite connaître pour son travail sur *Gravity Falls*, cette série d’animation résolument pour les adultes manie l’humour noir avec un talent certain. Même si elle ne réussit pas tout, elle est drôle et incisive sur notre société et aurait mérité davantage d’amour de la part du service de streaming, qui l’a lâchement abandonné après une seule saison.

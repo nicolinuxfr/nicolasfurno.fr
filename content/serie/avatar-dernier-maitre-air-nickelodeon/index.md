@@ -1,7 +1,7 @@
 ---
 title: "*Avatar : Le dernier maître de l'air*, Nickelodeon"
 date: 2024-05-13T19:00:12+02:00
-id: 246 
+tmdb: 246 
 ---
 
 Je ne connaissais la série animée que de nom quand j’ai regardé [son adaptation pour Netflix](https://nicolasfurno.fr/serie/avatar-dernier-maitre-air-netflix-saison-1/) et comme je l’ai appréciée à mon grand étonnement, j’ai décidé de donner une chance à l’originale. *Avatar : Le dernier maître de l'air* a eu un succès fou lors de sa diffusion originale au milieu des années 2000 et elle reste culte, pas seulement pour les enfants comme je pouvais le croire initialement. De fait, après avoir regardé ses trois saisons et la soixantaine d’épisodes qui les composent, je comprends mieux pourquoi. Même si la création de Nickelodeon vise un public jeune, des adultes peuvent aussi très bien y trouver leur compte, même si la simplicité de certaines bases et intrigues n’en sera sans doute plus qu’apparente. Même si la géopolitique simpliste de l’univers reste bien présente, j’ai aussi été étonné par la profondeur de l’ensemble, qui est bien plus riche que je l’imaginais au départ. De même, la noirceur de l’intrigue est bien réelle et même s’il n’y a quasiment aucune mort, la cruauté n’en est pas moins réelle et intense par endroits.

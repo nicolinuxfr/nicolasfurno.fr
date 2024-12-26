@@ -1,7 +1,7 @@
 ---
 title: "*The Bear*, Hulu (saison 2)"
 date: 2023-09-07T21:20:38+02:00
-id: 136315 
+tmdb: 136315 
 saison: [2]
 ---
 

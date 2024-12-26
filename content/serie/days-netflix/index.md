@@ -1,7 +1,7 @@
 ---
 title: "*The Days*, Netflix"
 date: 2023-06-11T22:05:31+02:00
-id: 216228 
+tmdb: 216228 
 ---
 
 *The Days*, c’est [*Chernobyl*](https://voiretmanger.fr/chernobyl-mazin-hbo/) version Fukushima. Cette série pour Netflix se penche sur [l’accident de la centrale nucléaire de Fukushima](https://fr.wikipedia.org/wiki/Accident_nucléaire_de_Fukushima) qui a eu lieu après le tsunami du 11 mars 2011. Quasiment heure par heure, en tout cas jour par jour, les huit épisodes détaillent au mieux le déroulé de l’incident, à partir du séisme d’une magnitude de 9,1 jusqu’à la stabilisation des quatre réacteurs nucléaires, sauvant in-extremis le monde d’une catastrophe bien plus grave qu’à Tchernobyl. Par rapport à la centrale nucléaire soviétique, toute la lumière n’a pas encore été faite sur l’accident japonais, mais on a une idée générale assez précise. Jun Masumoto a construit sa série sur trois livres, dont celui écrit par Masao Yoshida, le directeur de la centrale qui est parvenu à garder le contrôle pendant plusieurs jours éreintants. C’est aussi lui, ou plutôt son personnage interprété par Koji Yakusho, qui est aussi le héros de cette version adaptée pour la fiction, même si elle reste assez fidèle aux faits tels qu’on les connaît.

@@ -1,7 +1,7 @@
 ---
 title: "*Smiley*, Netflix"
 date: 2022-12-16T21:25:50+01:00
-id: 214609 
+tmdb: 214609 
 ---
 
 Lassé de s’être fait à nouveau des illusions à son sujet, Álex pense laisser un message énervé sur le répondeur du mec rencontré sur Grindr, mais il se trompe de numéro et le laisse à Bruno, architecte, lui aussi gay et célibataire. Amusé, il décide de rappeller Álex et même de le rencontrer. Les deux hommes réalisent alors qu’ils n’ont rien en commun et qu’ils s’agacent immédiatement, ce qui ne les empêchent de tomber amoureux dans la foulée. Voilà le point de départ de *Smiley*, une comédie romantique d’un banal qui serait affligeant si le couple était hétérosexuel. Ou même si 	Guillem Clua n’avait pas le bon sens de ne pas prendre sa série, adaptée d’une pièce de théâtre, trop au sérieux. Grâce à une touche de légèreté et une autre d’humour, cette création Netflix reste dans l’ensemble du côté plus fun, malgré son avalanche de clichés et de guimauve.

@@ -1,7 +1,7 @@
 ---
 title: "*Des gens bien ordinaires*, Canal+"
 date: 2023-10-18T21:23:34+02:00
-id: 202277 
+tmdb: 202277 
 ---
 
 Je crois que j’ai particulièrement apprécié *Des gens bien ordinaires* parce que je n’avais rien lu à son sujet en amont. Alors, si vous n’avez pas vu cette création originale Canal+, je vous recommande d’arrêter votre lecture, de la regarder en entier ce qui ira vite étant donné son format atypique — huit épisodes de maximum 15 minutes — et de revenir ensuite. L’effet de surprise n’est pas déterminant, mais il participe à mon sens du succès de la série créée par Ovidie.

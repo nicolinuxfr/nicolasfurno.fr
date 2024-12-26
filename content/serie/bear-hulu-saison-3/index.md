@@ -1,7 +1,7 @@
 ---
 title: "*The Bear*, Hulu (saison 3)"
 date: 2024-08-20T21:40:02+02:00
-id: 136315 
+tmdb: 136315 
 saison: [3]
 ---
 

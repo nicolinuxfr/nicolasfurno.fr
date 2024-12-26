@@ -1,7 +1,7 @@
 ---
 title: "*Planète Cunk*, BBC"
 date: 2023-02-16T21:53:01+01:00
-id: 219881 
+tmdb: 219881 
 ---
 
 *Planète Cunk* est un faux documentaire qui se présente comme un vrai, produit par la BBC, avec le style très sérieux qui accompagne le genre. Mais cette série de Charlie Brooker, devenu si célèbre pour [*Black Mirror*](https://voiretmanger.fr/black-mirror-brooker-channel-4/), est une parodie centrée autour d’une stupide et vaguement complotiste génialement interprétée par Diane Morgan. Elle présente l’histoire de l’humanité, depuis les peintures rupestres des cavernes jusqu’aux smartphones, avec un point de vue toujours anachronique et moqueur, et des questions systématiquement gênantes face à des experts. Et pas des acteurs, d’ailleurs : une des idées géniales de *Planète Cunk* est de faire intervenir de vrais scientifiques ou experts des domaines concernés. On imagine bien qu’ils étaient informés de la supercherie, et de toute manière ils s’en seraient aperçus dès la première question débile de la présentatrice, mais ils jouent le jeu et répondent avec autant de sérieux que possible. C’est là tout le délice de cet humour si *british*, composé d’une bonne dose d’absurde et un sens aiguisé de l’ironie 

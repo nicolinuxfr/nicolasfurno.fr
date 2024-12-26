@@ -1,7 +1,7 @@
 ---
 title: "*Foundation*, Apple TV+ (saison 2)"
 date: 2023-09-23T22:40:27+02:00
-id: 93740 
+tmdb: 93740 
 saison: [2]
 avant: https://voiretmanger.fr/foundation-goyer-friedman-apple-tv/
 ---

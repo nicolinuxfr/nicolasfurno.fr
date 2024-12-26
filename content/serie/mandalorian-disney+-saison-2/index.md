@@ -1,7 +1,7 @@
 ---
 title: "*The Mandalorian*, Disney+ (saison 2)"
 date: 2022-06-12T13:50:52+02:00
-id: 82856 
+tmdb: 82856 
 saison: [2]
 avant: https://voiretmanger.fr/mandalorian-favreau-disney/
 ---

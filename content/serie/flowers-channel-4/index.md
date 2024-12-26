@@ -1,7 +1,7 @@
 ---
 title: "*Flowers*, Channel 4"
 date: 2023-03-17T21:25:36+01:00
-id: 66230 
+tmdb: 66230 
 ---
 
 Comme toute série britannique, on s’attend à une bonne dose d’absurde et à une pincée de délire. Difficile toutefois d’imaginer pleinement à quoi s’attendre en lançant *Flowers*, une série écrite, dirigée et interprétée par Will Sharpe pour Channel 4. Sur le papier, cette famille britannique excentrique qui accueille un dessinateur japonais ressemble à une comédie assez conventionnelle et pourrait même servir de base à une sitcom banale avec son format d’une demi-heure. Sauf que le premier épisode débute avec une tentative de suicide de la part de Maurice, le père de famille qui est aussi auteur de livres pour enfants, profondément déprimé et incapable de retrouver l’inspiration. Ce point de départ déjà bien sombre est loin d’être la fin toutefois, avec une série qui plonge de plus en plus dans la folie et la dépression, tout particulièrement sur sa deuxième saison qui semble repousser les limites à chaque épisode. *Flowers* va loin, si loin que l’on s’y perd un peu, mais je suis content de l’avoir vu malgré tout. Au bout du compte, cette création de Channel 4 parle de la dépression avec une justesse rare et même si ses touches d’humour n’effacent pas une tristesse absolue, elle est particulièrement touchante. 

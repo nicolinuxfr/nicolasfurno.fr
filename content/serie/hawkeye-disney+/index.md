@@ -1,7 +1,7 @@
 ---
 title: '*Hawkeye*, Disney+'
 date: 2022-02-07
-id: 88329
+tmdb: 88329
 ---
 
 *Hawkeye* s’ajoute à l’immense immensité de l’univers Marvel, avec une série pour Disney+ qui accorde un petit peu de place à des personnages secondaires. Après [*Loki*](https://voiretmanger.fr/loki-waldron-disney/) ou bien encore [*Falcon et le Soldat de l’Hiver*](https://voiretmanger.fr/falcon-soldat-hiver-spellman-disney/), *Hawkeye* fait de la place au personnage du même nom, croisé à plusieurs reprises dans la saga, mais qui n’a jamais tenu le rôle principal. Non pas qu’il le tienne beaucoup plus ici, à dire vrai, puisqu’il est censé passer le flambeau à une nouvelle génération. Ces six épisodes forment une assez brève mini-série qui aurait gagné à se rapprocher encore davantage de la durée d’un long-métrage. Disney+ ne radine pas avec un budget de 150 millions de dollars, mais pour remplir six épisodes de 40 à 60 minutes l’un[^1], il faut forcément meubler. Et les scénaristes ont ainsi rempli au maximum, avec des intrigues secondaires pas toujours dignes d’intérêt et quelques scènes de dialogue franchement longues.

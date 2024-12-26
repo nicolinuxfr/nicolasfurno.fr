@@ -1,7 +1,7 @@
 ---
 title: "*Bandits, bandits*, Apple TV+"
 date: 2024-10-07T21:29:26+02:00
-id: 114924 
+tmdb: 114924 
 saison: [1]
 ---
 

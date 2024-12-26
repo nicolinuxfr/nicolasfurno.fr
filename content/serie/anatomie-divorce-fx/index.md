@@ -1,7 +1,7 @@
 ---
 title: "*Anatomie d’un divorce*, FX"
 date: 2023-03-14T20:45:28+01:00
-id: 156401 
+tmdb: 156401 
 ---
 
 Taffy Brodesser-Akner adapte son propre essai éponyme dans cette mini-série diffusée par FX. *Anatomie d’un divorce* tente d’entrer dans les profondeurs d’un divorce, pour comprendre comment un couple avec deux enfants peut en arriver à cette extrémité. Une belle idée, avec cet angle original : l’histoire est racontée à travers les yeux non pas de Toby ou Rachel qui se séparent, mais de ceux de Libby, l’une des meilleures amies de Toby. Ancienne journaliste devenue mère au foyer, elle s’interroge elle aussi sur sa vie dans la banlieue cossue de New York et elle termine en écrivant un livre sur le sujet : il n’est pas difficile d’y voir la version fictive de la créatrice de la série. Ce point de vue décalé tout en restant subjectif est intéressant, du moins sur le papier. Dans les faits, j’ai trouvé que la série ne l’exploitait pas pleinement, avec des débuts prometteurs et une fin qui m’a semblé bâclée, surtout du côté de Rachel, qui aurait bénéficié d’un meilleur traitement.

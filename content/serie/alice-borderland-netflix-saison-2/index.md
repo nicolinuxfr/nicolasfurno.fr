@@ -1,7 +1,7 @@
 ---
 title: "*Alice in Borderland*, Netflix (saison 2)"
 date: 2022-12-28T21:15:59+01:00
-id: 110316 
+tmdb: 110316 
 saison: [2]
 avant: https://voiretmanger.fr/alice-borderland-sato-netflix/
 ---

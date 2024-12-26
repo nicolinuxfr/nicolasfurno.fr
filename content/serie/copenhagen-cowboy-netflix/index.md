@@ -1,7 +1,7 @@
 ---
 title: "*Copenhagen Cowboy*, Netflix"
 date: 2023-01-13T21:49:48+01:00
-id: 206510 
+tmdb: 206510 
 ---
 
 Depuis [*Drive*](https://voiretmanger.fr/drive-winding-refn/), Nicolas Winding Refn a eu le temps de peaufiner sa formule. L’image toujours soignée, l’ambiance mystérieuse, les néons hyper colorés, la musique de Cliff Martinez… le cinéaste danois ne dévie pas tellement pour cette série Netflix. *Copenhagen Cowboy* n’est pas qu’une répétition de ses films précédentes néanmoins et le cinéaste parvient à déployer une histoire intrigante sur la toxicité masculine et la survie d’une femme au milieu de gangsters et autres bourgeois vampires. C’est surtout très mystérieux, avec une augmentation constante du grain de folie qui évoque inévitablement le travail de David Lynch. La photographie est splendide, les jeux sur les couleurs particulièrement réussis, mais il faut aussi reconnaître que l’on ne sait jamais où l’on va et, surtout vers la fin, que l’ensemble paraît un petit peu vain. Mais joli.

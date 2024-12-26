@@ -1,7 +1,7 @@
 ---
 title: "*Le Seigneur des anneaux : Les Anneaux de pouvoir*, Prime Video (saison 2)"
 date: 2024-11-15T22:30:00+01:00
-id: 84773 
+tmdb: 84773 
 saison: [2]
 ---
 

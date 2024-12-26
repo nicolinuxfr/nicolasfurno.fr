@@ -1,7 +1,7 @@
 ---
 title: "*Ragnarök*, Netflix (saison 3)"
 date: 2023-08-30T10:45:50+02:00
-id: 91557 
+tmdb: 91557 
 saison: [3]
 avant: https://voiretmanger.fr/ragnarok-price-netflix/#2
 ---

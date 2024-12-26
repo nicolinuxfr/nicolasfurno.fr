@@ -1,7 +1,7 @@
 ---
 title: "*Planète Préhistorique*, Apple TV+"
 date: 2022-07-01T21:06:12+02:00
-id: 95171 
+tmdb: 95171 
 ---
 
 Le concept derrière *Planète Préhistorique* est simple : c’est un documentaire animal, mais à l’ère préhistorique. Le style est rigoureusement le même que des centaines de documentaires similaires et le choix de David Attenborough pour la narration renforce cette proximité. Le scientifique a déjà narré des dizaines (centaines ?) de documentaires et son style est reconnaissable entre tous. Si vous aviez regardé le documentaire [*Notre Planète*](https://voiretmanger.fr/notre-planete-fothergill-scholey-netflix/) diffusé par Netflix il y a quelques années, par exemple, vous serez en terrain connu. On retrouve le même découpage géographique, avec des épisodes thématiques qui traitent l’un des côtes, l’autre des forêts, le troisième des déserts. Au sein de chaque épisode, on retrouve encore la même narration, avec des séquences dédiées à un ou deux animaux, des passages sur la reproduction, d’autres sur l’alimentation et par moment des anecdotes croustillantes. Même les travers du genre, comme les séquences d’action rythmées par Hans Zimmer qui pourraient difficilement être plus caricaturales, sont conservés.

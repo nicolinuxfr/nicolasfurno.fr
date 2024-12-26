@@ -1,7 +1,7 @@
 ---
 title: "*Good Omens*, Prime Video (saison 2)"
 date: 2023-08-24T21:26:02+02:00
-id: 71915 
+tmdb: 71915 
 saison: [2]
 avant: https://voiretmanger.fr/good-omens-gaiman-prime-video/
 ---

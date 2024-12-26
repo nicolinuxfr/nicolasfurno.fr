@@ -1,7 +1,7 @@
 ---
 title: "*Feel Good*, Channel 4"
 date: 2023-03-06T21:00:59+01:00
-id: 99610 
+tmdb: 99610 
 ---
 
 *Feel Good* s’ajoute à la liste toujours plus longues des séries créées, écrites et interprétées par une même personne, souvent à partir de sa propre vie. En l’occurrence, c’est Mae Martin qui joue une version fictive d’iel-même, mais largement basée sur sa propre histoire et avec son propre nom. Dans la série, le comédien joue une comédienne qui vient aussi du Canada, mais qui vit au Royaume-Uni, qui a aussi des problèmes d’addiction à la drogue et qui a également une relation compliquée avec ses parents. La série composée de deux saisons se concentre sur la relation entre Mae et Georges, une autre fille contrairement à ce que l’on pourrait croire. Une relation compliquée par le passé qui revient constamment hanter Mae et par la bisexualité difficilement acceptée de Georges. Voilà le cadre des douze épisodes, dont la dynamique et l’humour reposent principalement sur le style de Mae Martin. J’ai rarement rigolé franchement, d’autant que les sujets traités sont sérieux, surtout dans la deuxième saison qui s’attache davantage au passé traumatique de l’artiste. Ce qui ne veut pas dire que la série créée à l’origine pour Channel 4 est ratée, bien au contraire.

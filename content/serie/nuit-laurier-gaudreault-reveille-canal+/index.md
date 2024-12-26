@@ -1,7 +1,7 @@
 ---
 title: "*La nuit où Laurier Gaudreault s'est réveillé*, Canal+"
 date: 2023-02-11T21:40:27+01:00
-id: 113732 
+tmdb: 113732 
 ---
 
 Pour la première fois, Xavier Dolan passe derrière la caméra pour le petit écran. C’est la première fois que le réalisateur canadien crée une série et fidèle à son habitude, le prodige ne s’est pas contenté de poser son nom et de diriger un épisode en passant. *La nuit où Laurier Gaudreault s'est réveillé* a été écrite, réalisée, montée et même jouée par Xavier Dolan, qui reprend un grand nombre de casquettes et s’implique à fond, comme pour ses longs-métrages. Les fans, dont l’auteur de ces lignes, ne seront pas dépaysés : ces cinq épisodes qui tournent tous autour d’une heure sont indéniablement ses créations, avec ses tics stylistiques, la musique prépondérante[^1] et même le choix des sujets. Ce n’est aucunement une critique de ma part, bien au contraire même. En apportant tout son savoir faire dans cette série, le cinéaste propose presque plus un long-métrage de plus de cinq heures et c’est très bien ainsi. Tenue par une tension constante, *La nuit où Laurier Gaudreault s'est réveillé* est une excellente série que vous auriez tort de bouder.

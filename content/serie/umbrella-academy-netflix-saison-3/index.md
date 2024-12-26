@@ -1,7 +1,7 @@
 ---
 title: "*Umbrella Academy*, Netflix (saison 3)"
 date: 2022-06-27T21:47:39+02:00
-id: 75006 
+tmdb: 75006 
 saison: [3]
 avant: https://voiretmanger.fr/umbrella-academy-blackman-netflix/#2
 ---

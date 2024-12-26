@@ -1,7 +1,7 @@
 ---
 title: "*Mythic Quest*, Apple TV+ (saison 3)"
 date: 2023-01-20T21:45:47+01:00
-id: 94951
+tmdb: 94951
 saison: [3]
 avant: https://voiretmanger.fr/mythic-quest-festin-corbeau-mcelhenney-day-ganz-apple-tv/#2
 ---

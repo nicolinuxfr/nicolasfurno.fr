@@ -1,7 +1,7 @@
 ---
 title: "*La Voix du lac*, Apple TV+"
 date: 2024-10-01T21:38:16+02:00
-id: 120549 
+tmdb: 120549 
 ---
 
 Attiré tout d’abord par la présence de Natalie Portman au casting, *La Voix du lac* m’a finalement enchanté. Cette minisérie sur Apple TV+ adapte un roman du même nom et si l’on met de côté son titre français — pourquoi est-ce que la femme du lac du titre original ne convenait pas au juste ? —, c’est un thriller bien mené, assez original et aussi très percutant sur le racisme et le sexisme des années 1960. Maddie Schwarz, incarnée par une Natalie Portman en grande forme, décide un beau jour de quitter son mari et le confort de sa maison toute équipée pour prendre son indépendance et vivre dans un petit appartement miteux du quartier noir de Baltimore. Elle se met en tête de travailler dans le journal du coin où on la met au service du courrier des lecteurs, alors qu’elle a une ambition bien plus grande : écrire des histoires qui comptent, en commençant par élucider deux meurtres qui se sont déroulés à quelques semaines d’intervalle. 

@@ -1,7 +1,7 @@
 ---
 title: "*The Expanse*, Prime Video (saison 6)"
 date: 2022-12-06T21:45:54+01:00
-id: 63639 
+tmdb: 63639 
 saison: [6]
 avant: https://voiretmanger.fr/expanse-fergus-ostby-syfy/#5
 ---

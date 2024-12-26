@@ -1,7 +1,7 @@
 ---
 title: "*Palm Royale*, Apple TV+"
 date: 2024-11-02T22:10:32+01:00
-id: 157367 
+tmdb: 157367 
 saison: [1]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "*Ginny & Georgia*, Netflix"
 date: 2023-03-02T21:50:35+01:00
-id: 117581 
+tmdb: 117581 
 ---
 
 *Ginny & Georgia* ressemble au premier abord à un remake de *[Gilmore Girls](https://voiretmanger.fr/gilmore-girls-sherman-palladino-wb/)*. La même dynamique construite autour d’un duo mère/fille, les mêmes voix off pour exprimer les pensées des deux personnages principaux, le même cadre d’une petite ville de la côte est américaine[^1], le même bar/restaurant au cœur de toutes les intrigues, le même petit ami ténébreux… c’est un hommage appuyé, disons. Mais après tout, la série originale est culte et je l’avais trouvé plaisante, bien que datée, si bien qu’une version plus moderne, avec une plus grande diversité raciale et sexuelle, semblait plutôt séduisante. Et puis, le point de départ est identique, mais la série créée par Sarah Lampert pour Netflix trouve sa propre voie, avec une once de thriller pour ajouter un petit peu de variété à l’ensemble. 

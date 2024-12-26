@@ -1,7 +1,7 @@
 ---
 title: "*Pachinko*, Apple TV+ (saison 2)"
 date: 2024-10-21T21:43:28+02:00
-id: 110382 
+tmdb: 110382 
 saison: [2]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "*Derry Girls*, Channel 4 (saison 3)"
 date: 2022-12-26T21:35:27+01:00
-id: 76148 
+tmdb: 76148 
 saison: [3]
 avant: https://voiretmanger.fr/derry-girls-mcgee-channel-4/#2
 ---

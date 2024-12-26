@@ -1,7 +1,7 @@
 ---
 title: "*The Bear*, Hulu"
 date: 2022-12-21T22:05:07+01:00
-id: 136315 
+tmdb: 136315 
 saison: [1]
 ---
 

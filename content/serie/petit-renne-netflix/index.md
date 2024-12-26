@@ -1,7 +1,7 @@
 ---
 title: "*Mon petit renne*, Netflix"
 date: 2024-05-21T22:22:43+02:00
-id: 241259 
+tmdb: 241259 
 ---
 
 Quelle série aussi surprenante que prenante. *Mon petit renne* débute comme une comédie noire assez classique sur un comédien de stand-up qui est en réalité surtout un barman et qui rencontre une femme qui finit par le harceler. Bien que sombres, les premiers épisodes restent dans la légèreté d’ensemble, si bien que l’on pourrait croire qu’il s’agit d’une comédie. Grave erreur, qui n’en est que plus apparente au fur et à mesure que la mini-série avance. Richard Gadd interprète sa propre histoire, faite de débuts difficiles dans le stand-up, de viol, d’homosexualité honteuse et refoulée et en effet d’un harcèlement qui s’est étalé sur plusieurs années. En sept épisodes d’une bonne demi-heure, il raconte son histoire sans prendre de pinces et sans prévenir, si bien que le spectacle peut être éprouvant par moments. C’est d’une intensité rare, c’est déstabilisant, c’est poignant et c’est déprimant. Si cela ne vous effraie pas, c’est aussi une série à ne surtout pas rater.

@@ -1,7 +1,7 @@
 ---
 title: "*La Chute de la maison Usher*, Netflix"
 date: 2023-10-31T21:00:01+01:00
-id: 157065 
+tmdb: 157065 
 ---
 
 Le nom de la dernière mini-série de Mike Flanagan pour Netflix[^1] ne laisse aucune place au doute : les nouvelles fantastiques d’Edgar Allan Poe planent au-dessus de *La Chute de la maison Usher*. Néanmoins, la nouvelle éponyme est loin d’être la seule source d’inspiration, loin de là. Les huit épisodes qui composent la série forment une sorte de [*best-of* de Poe](https://fr.wikipedia.org/wiki/La_Chute_de_la_maison_Usher_(mini-série)#Références_à_l'œuvre_de_Poe), avec des dizaines d’inspirations directes et de références ou clins d’œil plus ou moins appuyés. La nouvelle de base sert de cadre général, avec les jumeaux Roderick et Madeline Usher et leur malediction qui se termine par la chute très littérale de leur maison, comme le titre l’indiquait bien. Mais c’est toute l’œuvre de l’écrivain et poète américain qui infuse chaque épisode : il y a des citations assez longues du poème [*Le Corbeau*](https://fr.wikipedia.org/wiki/Le_Corbeau_(poème)), les noms propres piochent dans une nouvelle ou dans l’autre et des épisodes entiers sont inspirés par les nouvelles de Poe. Connaître ces inspirations n’est aucunement indispensable pour profiter de la série, mais cela peut être un bonus sympathique qui, pour ma part, m’a rappelé l’album de rock progressif *‌Tales of Mystery and Imagination* du groupe The Alan Parsons Project, dont le concept s’inspirait lui aussi des nouvelles et poèmes de Poe.

@@ -1,7 +1,7 @@
 ---
 title: "*The Crowded Room*, Apple TV+"
 date: 2023-09-02T22:34:13+02:00
-id: 123192 
+tmdb: 123192 
 ---
 
 Il y a des œuvres qui s’apprécient autant si on a une idée même vague du sujet général et il y en a d’autres qui nécessitent au contraire d’en savoir le moins possible pour mieux en profiter. *The Crowded Room* appartient indéniablement à cette deuxième catégorie, alors si vous ne l’avez pas vue, je vous conseille d’arrêter ici votre lecture et de revenir plus tard à la suite.

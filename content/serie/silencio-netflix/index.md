@@ -1,7 +1,7 @@
 ---
 title: "*El Silencio*, Netflix"
 date: 2023-06-02T21:55:42+02:00
-id: 221291 
+tmdb: 221291 
 ---
 
 *El Silencio* promet beaucoup dans le premier épisode. Cette nouvelle série espagnole pour Netflix imagine la remise en liberté de Sergio, après six ans en détention pour le meurtre de ses deux parents quand il était encore mineur. Pendant cette durée, il n’a jamais rien dit, n’a jamais expliqué ou justifié ses actes pendant l’enquête puis le procès. Il a été condamné sur la base des preuves physiques, mais sans certitude réelle quant à sa culpabilité. Six ans plus tard donc, une psychiatre obtient les autorisations pour une mission un peu folle : des caméras sont installées dans l’appartement familial où Sergio revient habiter et une équipe surveille en permanence ses moindres faits et gestes. Avec l’espoir de déterminer s’il représente une menace pour la société et, peut-être, l’innocenter. 

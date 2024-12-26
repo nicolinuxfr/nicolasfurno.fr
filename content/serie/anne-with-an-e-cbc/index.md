@@ -1,7 +1,7 @@
 ---
 title: "*Anne with an E*, CBC"
 date: 2023-04-11T21:10:51+02:00
-id: 70785 
+tmdb: 70785 
 ---
 
 Je dois confesser avoir découvert *Anne de Green Gables* en regardant cette énième adaptation pour CBC. Le roman publié en 1908 par Lucy Maud Montgomery est pourtant un classique qui a largement dépassé les frontières canadiennes, puisqu’il a été vendu d’après [sa fiche *Wikipédia*](https://fr.wikipedia.org/wiki/Anne…_la_maison_aux_pignons_verts) à plus de cinquante millions d’exemplaires, ce qui en ferait l’un des livres les plus vendus au monde, rien que ça. J’ai ainsi découvert la série créée pour la télévision canadienne et diffusée par chez nous sur Netflix en toute innocence, sans avoir la moindre idée de ce qui m’attendait. *Anne with an E* m’a rappelé la délicieuse [*Downton Abbey*](https://voiretmanger.fr/downton-abbey-fellowes-itv1/), mais en version canadienne. On est quasiment à la même époque, la reconstitution historique est aussi soignée et surtout, tous les personnages sont riches et attachants, avec une bienveillance générale qui fait du bien de temps en temps. Un vrai bonheur, malheureusement écourté avec une troisième saison qui offre une conclusion bien trop prématurée à l’adaptation développée par Moira Walley-Beckett. Ce défaut mis à part, comment ne pas tomber amoureux d’Anne et de tout Avonlea ? Un coup de cœur.

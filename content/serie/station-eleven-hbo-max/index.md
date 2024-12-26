@@ -1,7 +1,7 @@
 ---
 title: "*Station Eleven*, HBO Max"
 date: 2024-01-07T18:25:56+01:00
-id: 90972 
+tmdb: 90972 
 ---
 
 *Station Eleven* débute sur une pandémie qui commence en 2020. J’ai naturellement pensé à notre pandémie de Covid, avant de découvrir que la création de HBO Max a interrompu son tournage lancé au tout début de cette même année, précisément à cause des confinements. Adaptation d’un roman publié en 2014, cette mini-série de dix épisodes n’avait en réalité rien à voir avec la Covid-19 et ce n’est qu’une étrange coïncidence temporelle. Ce qui tombe remarquablement bien d’un côté, tant la maladie décrite dans cette fiction ressemble à la réalité, à un détail majeur près. Alors que notre Covid ressemblait à une grosse grippe rarement mortelle, celle de *Station Eleven* est si mortelle que la population disparaît presque entièrement en l’espace de quelques jours. Vingt ans plus tard, on se retrouve dans un univers post-apocalyptique où quelques centaines de survivants tentent d’imaginer une nouvelle société, un décor à la fois familier et assez original.

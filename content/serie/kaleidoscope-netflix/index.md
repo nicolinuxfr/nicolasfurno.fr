@@ -1,7 +1,7 @@
 ---
 title: "*Kaleidoscope*, Netflix"
 date: 2023-01-09T21:00:21+01:00
-id: 156902 
+tmdb: 156902 
 ---
 
 *Kaleidoscope* décrit un casse bien banal qui serait entièrement sans intérêt s’il n’y avait pas eu cette bonne idée. Puisque la série est diffusée sur Netflix d’un bloc, les expérimentations sont possibles : pourquoi ne pas imaginer une série qui peut se regarder dans n’importe quel sens ? Huit épisodes[^1] qui ne sont pas numérotés, mais associés à une couleur et vous pouvez les regarder presque comme vous le voulez. Normalement, l’épisode « Blanc » est pensé pour être regardé en dernier, mais ce n’est même pas une obligation. Netflix devrait vous proposer un ordre qui n’est pas le même pour tout le monde, vous pouvez le suivre ou bien piocher au hasard dans la liste. C’est comme vous le sentez et vous devriez petit à petit reconstituer le puzzle et comprendre tout ce qui s’est passé.

@@ -1,7 +1,7 @@
 ---
 title: "*Miss Marvel*, Disney+"
 date: 2022-07-28T21:28:35+02:00
-id: 92782 
+tmdb: 92782 
 ---
 
 On connaissait [*Captain Marvel*](https://voiretmanger.fr/captain-marvel-boden-fleck/), voici *Miss Marvel*. Et non, ce n’est pas la fille de, ni une préquelle, c’est bien un tout nouveau personnage du toujours plus gigantesque univers cinématographique Marvel que l’on a l’occasion de découvrir dans cette nouvelle série Disney+. On commence à avoir bien l’habitude des introductions de super-héros depuis [*Iron Man*](https://voiretmanger.fr/iron-man-favreau/) il y a bientôt une quinzaine d’années de cela et on ne peut pas dire que Bisha K. Ali dévie de manière significative de la ligne directrice, même si elle tente une vision méta plutôt réussie par ailleurs, où l’héroïne est tout d’abord elle-même une fan absolue des super-héros et notamment de Captain Marvel. Passée cette introduction amusante, vous serez en terrain connu : découverte d’un artefact qui donne à notre adolescente des super-pouvoirs et un combat fondateur qui lui permet de passer de Kamala Khan à Miss Marvel.

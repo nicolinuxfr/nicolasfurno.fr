@@ -1,7 +1,7 @@
 ---
 title: "*Stranger Things*, Netflix (saison 4)"
 date: 2022-07-09T22:19:06+02:00
-id: 66732 
+tmdb: 66732 
 saison: [4]
 avant: https://voiretmanger.fr/stranger-things-duffer-netflix/#3
 ---

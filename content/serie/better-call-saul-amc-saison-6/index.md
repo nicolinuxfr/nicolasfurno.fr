@@ -1,7 +1,7 @@
 ---
 title: "*Better Call Saul*, AMC (saison 6)"
 date: 2022-08-17T21:21:55+02:00
-id: 60059 
+tmdb: 60059 
 saison: [6]
 avant: https://voiretmanger.fr/better-call-saul-gilligan-gould-amc/#5
 ---

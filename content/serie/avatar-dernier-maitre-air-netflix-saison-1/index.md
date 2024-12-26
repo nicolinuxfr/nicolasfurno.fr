@@ -1,7 +1,7 @@
 ---
 title: "*Avatar : Le dernier maître de l’air*, Netflix (saison 1)"
 date: 2024-03-16T22:26:19+01:00
-id: 82452 
+tmdb: 82452 
 saison: [1]
 ---
 

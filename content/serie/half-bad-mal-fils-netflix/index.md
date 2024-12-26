@@ -1,7 +1,7 @@
 ---
 title: "*Half Bad : Mal & Fils*, Netflix"
 date: 2023-03-24T21:25:00+01:00
-id: 210235 
+tmdb: 210235 
 saison: [1]
 ---
 

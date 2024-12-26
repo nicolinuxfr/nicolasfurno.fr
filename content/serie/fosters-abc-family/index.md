@@ -1,7 +1,7 @@
 ---
 title: "*The Fosters*, ABC Family"
 date: 2024-07-03T21:54:52+02:00
-id: 46880 
+tmdb: 46880 
 ---
 
 Le maître mot est le drame. *The Fosters* semble ne vivre que pour les drames et les scénaristes n’ont pas manqué d’inspiration pour imaginer les pires drames tout au long de ses cinq saisons et 104 épisodes. ABC Family imagine une famille d’accueil centrée autour de deux femmes, Stef et Lena, qui rassemblent cinq enfants, dont quatre adoptés. La série débute lorsque Callie et Jude rejoignent la famille déjà composée de Brandon, Mariana et Jesus. Elle suit ensuite leur quotidien d’adolescents et d’adultes, en agissant comme un immense aimant à problèmes. C’est hélas l’un des signes d’une série avec un pied encore dans le passé : il ne faut surtout pas baisser le rythme pour que le spectateur revienne entre les multiples coupures pub de ces épisodes calibrés par la télévision d’antan. Les drames se multiplient, contaminent même le tournage[^1] et relancent constamment la série, qui n’avait pourtant pas besoin de plus que ses personnages attachants pour survivre.

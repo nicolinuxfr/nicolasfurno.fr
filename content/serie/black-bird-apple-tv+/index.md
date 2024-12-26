@@ -1,7 +1,7 @@
 ---
 title: "*Black Bird*, Apple TV+"
 date: 2022-08-25T22:26:29+02:00
-id: 155537 
+tmdb: 155537 
 ---
 
 Encore une histoire vraie, encore un crime à élucider… la catégorie « *true crime* » est si remplie que *Black Bird* part avec un gros désavantage. La série créée pour Apple TV+ gagne néanmoins en intérêt quand on creuse : cette histoire de trafiquant de drogue envoyé par le FBI dans une prison de sécurité maximale pour gagner la confiance d’un tueur en série soupçonné en quête d’informations est pour le moins intrigante. Suffisamment pour convaincre de se lancer, d’autant que la mini-série ne s’étale que sur six épisodes, c’est un long-métrage à peine prolongé, ce qui lui joue d’ailleurs des tours. La fin, en particulier, m’a semblé précipitée et le réalisme en pâtit. L’histoire de base est certes vraie, mais le coup du personnage clé en vacances au pire moment ressemble à une mauvaise idée des scénaristes pour provoquer une péripétie. La série créée par Dennis Lehane, surtout connu pour ses multiples romans adaptés au cinéma, essaie à mon avis d’en faire trop pour six épisodes seulement et aurait gagné soit à réduire son ampleur, soit à creuser davantage ses personnages.

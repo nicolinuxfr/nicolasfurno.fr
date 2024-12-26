@@ -1,7 +1,7 @@
 ---
 title: "*The Midnight Club*, Netflix"
 date: 2023-02-08T21:53:45+01:00
-id: 126254 
+tmdb: 126254 
 ---
 
 Une critique devenue récurrente contre Netflix est le pouvoir supposé des algorithmes, avec des séries décrites comme remplissant les cases d’un bingo qui satisferait au maximum les goûts du public. J’ai toujours trouvé cette critique absurde et trop souvent avec un arrière-goût rance, à base de représentativité forcée, mais il faut reconnaître qu’il y a des formules que l’on retrouve d’une création à l’autre. Typiquement, la bande d’adolescents ou jeunes adultes, combinée à des histoires d’horreur ou de fantômes, cela ressemble peut-être un petit peu trop à un schéma reproduit à l’infini. Et pourtant, *The Midnight Club* mérite mieux qu’un jugement rapide à partir du synopsis ou du casting. Oui, les jeunes acteurs rassemblés par Mike Flanagan et Leah Fong représentent une variété qui n’est sans doute pas un hasard, tant en termes de couleur de peau que de sexualités. Et alors ? Le plus important, c’est qu’ils aient une réelle existence et une épaisseur psychologique qui donne l’impression de les connaître et c’est, à mon sens, tout à fait le cas. J’ai d’ailleurs trouvé la série étonnamment touchante, surtout vers la fin, et je regrette la décision de Netflix de l’annuler après une seule saison.

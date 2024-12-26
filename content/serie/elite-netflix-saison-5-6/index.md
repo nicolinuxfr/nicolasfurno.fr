@@ -1,7 +1,7 @@
 ---
 title: "*Élite*, Netflix (saisons 5 et 6)"
 date: 2023-03-30T21:50:38+02:00
-id: 76669 
+tmdb: 76669 
 saison: [5,6]
 avant: https://voiretmanger.fr/elite-madrona-montero-netflix/
 ---

@@ -1,7 +1,7 @@
 ---
 title: "*Scrubs*, NBC"
 date: 2022-12-17T21:54:07+01:00
-id: 4556 
+tmdb: 4556 
 ---
 
 Les séries hospitalières ne manquent pas, ni les sitcoms dans des lieux de travail. *Scrubs* a pourtant trouvé une voie originale, essentiellement grâce à son humour et une idée en particulier : le personnage principal, l’interne en médecine J.D. Dorian, passe son temps à imaginer ce qui pourrait se passer. C’est le narrateur, on entend sa voie en permanence et régulièrement il se perd dans son propre esprit avec une pensée souvent loufoque qui est montrée à l’écran. Voilà de quoi permettre à cette série portée par NBC de se distinguer et même de lui offrir quelques moments vraiment réussis, avec les trois ou quatre premières saisons qui parviennent à faire rire. Malheureusement, la création de Bill Lawrence a du mal à se dépêtrer de ses clichés, sexistes tout particulièrement, et elle finit par vite tourner en rond. Je vous recommande d’arrêter avant nous, car dès la cinquième ou sixième saison l’humour devient trop mécanique, l’ennui s’instaure et surtout, les personnages n’évoluent plus.

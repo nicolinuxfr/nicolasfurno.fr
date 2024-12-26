@@ -1,7 +1,7 @@
 ---
 title: "*The Baby*, HBO"
 date: 2022-07-16T22:09:52+02:00
-id: 115915 
+tmdb: 115915 
 ---
 
 Imaginez l’intrigue classique d’une histoire d’horreur avec de multiples meurtres… sauf que le tueur en série est un bébé. C’est le point de départ de *The Baby*, une étonnante création de HBO et cette idée improbable donne une mini-série hilarante de huit épisodes et une trentaine de minutes chacun. Lucy Gaymer et Siân Robins-Grace n’ont pas besoin de prolonger inutilement leur idée somme toute maigre, ils déploient une histoire qui tient parfaitement sur cette durée et parviennent à maintenir l’ambiance si délicieusement bizarre jusqu’à la toute fin.

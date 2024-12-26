@@ -1,7 +1,7 @@
 ---
 title: "*Euphoria*, HBO (saison 2)"
 date: 2022-03-31T21:59:35+02:00
-id: 85552 
+tmdb: 85552 
 saison: [2]
 avant: https://voiretmanger.fr/euphoria-levinson-hbo/
 ---
