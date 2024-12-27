@@ -1,5 +1,5 @@
 baseURL = 'https://nicolasfurno.fr'
-languageCode = 'fr'
+languageCode = 'fr_FR'
 defaultContentLanguage = "fr"
 title = 'Le blog de Nicolas Furno'
 theme = 'nicolasfurno'
@@ -31,6 +31,7 @@ enableGitInfo = true
 
 [taxonomies]
   saga = 'sagas'
+  tmdb = 'tmdb'
 
 [permalinks]
   pages = '/:filename/'
