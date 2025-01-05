@@ -1,0 +1,11 @@
+---
+title: "*Tu me manques*, Netflix"
+date: 2025-01-05T20:52:55+01:00
+tmdb: 244243
+---
+
+Adaptation d’un roman de Harlan Coben, *Tu me manques* est une mini-série en cinq épisodes seulement, une sorte de long-métrage rallongé en somme. L’histoire commence très fort et j’ai beaucoup aimé les deux premiers épisodes, qui partent dans beaucoup de directions dont on sent qu’elles vont se réunir à un moment ou à un autre. Rosalind Eleazar, que j’avais déjà repérée dans [*Slow Horses*](/tmdb/95480/), est excellente dans le rôle de Kat, inspectrice qui ne s’est jamais tout à fait remise de la mort de son père suivie du départ brutal de son fiancé une dizaine d’années auparavant. Quand elle le retrouve sur une app de rencontre, elle le contacte de nouveau avec l’espoir de renouer des liens, alors qu’elle mène en parallèle une enquête sur une disparition. L’adaptation pour Netflix gère plutôt bien les deux arcs et laisse entrevoir une suite riche en rebondissements. Ce qui est bien le cas, sauf que plus la série avance et moins elle est satisfaisante.
+
+Les incohérences se multiplient, des coïncidences trop faciles, des situations un petit peu grossières. Je trouve notamment que le chef de la police a l’air beaucoup trop coupable quand il force Kat à prendre des congés, ce qui ne change de toute manière rien, puisqu’elle continue son enquête comme avant. Je trouve aussi que tous les personnages sont trop impliqués directement, comme s’il s’agissait d’une conspiration que seule l’héroïne ignorerait totalement. Surtout, je trouve la fin de *Tu me manques* extrêmement décevante. Je ne vais pas divulgâcher, mais ma première réflexion a été « tout ça pour ça ? ». J’ai eu l’impression d’avoir été trompé par des débuts explosifs, alors qu’il ne s’agissait que de trois fois rien. Même les ultimes révélations, gardées pour la toute fin de façon assez caricaturale d’ailleurs, ne méritaient pas de s’énerver autant. 
+
+C’était dans l’ensemble bien décevant, d’autant qu’à part le personnage principal, le reste du casting est assez caricatural, mention spéciale au grand méchant qui joue une version simpliste du psychopathe ami des bêtes. Heureusement que la série est courte, mais je ne vous la recommande pas malgré tout. 
