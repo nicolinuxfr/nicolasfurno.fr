@@ -1,6 +1,6 @@
 ---
 title: "*Tu me manques*, Netflix"
-date: 2025-01-05T20:52:55+01:00
+date: 2025-01-09T21:10:55+01:00
 tmdb: 244243
 ---
 
@@ -8,4 +8,4 @@ Adaptation d’un roman de Harlan Coben, *Tu me manques* est une mini-série en
 
 Les incohérences se multiplient, des coïncidences trop faciles, des situations un petit peu grossières. Je trouve notamment que le chef de la police a l’air beaucoup trop coupable quand il force Kat à prendre des congés, ce qui ne change de toute manière rien, puisqu’elle continue son enquête comme avant. Je trouve aussi que tous les personnages sont trop impliqués directement, comme s’il s’agissait d’une conspiration que seule l’héroïne ignorerait totalement. Surtout, je trouve la fin de *Tu me manques* extrêmement décevante. Je ne vais pas divulgâcher, mais ma première réflexion a été « tout ça pour ça ? ». J’ai eu l’impression d’avoir été trompé par des débuts explosifs, alors qu’il ne s’agissait que de trois fois rien. Même les ultimes révélations, gardées pour la toute fin de façon assez caricaturale d’ailleurs, ne méritaient pas de s’énerver autant. 
 
-C’était dans l’ensemble bien décevant, d’autant qu’à part le personnage principal, le reste du casting est assez caricatural, mention spéciale au grand méchant qui joue une version simpliste du psychopathe ami des bêtes. Heureusement que la série est courte, mais je ne vous la recommande pas malgré tout. 
+C’était dans l’ensemble bien décevant, d’autant qu’à part le personnage principal, le reste du casting est assez caricatural, mention spéciale au grand méchant qui joue une version simpliste du psychopathe ami des bêtes. Heureusement que la série est courte, mais ce n’est certainement pas une raison suffisante pour la recommander. 
