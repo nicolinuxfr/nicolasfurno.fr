@@ -1,5 +1,5 @@
 ---
-title: "*Squid Game*, Netflix (Saison 2)"
+title: "*Squid Game*, Netflix (saison 2)"
 date: 2025-01-22T20:43:11+01:00
 tmdb: 93405 
 saison: [2]
