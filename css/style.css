@@ -426,14 +426,6 @@ h1 {
     #single .saison:hover a {
         color: var(--texte-sombre);
     }
-    
-    .littlefoot {
-        --popover-text-color: var(--texte-sombre) !important;
-    }
-
-    .littlefoot__content {
-        --popover-background-color: var(--fond-sombre);
-    }
 }
 
 @media (min-width: 900px) {
