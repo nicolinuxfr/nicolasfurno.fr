@@ -1,0 +1,10 @@
+---
+title: "*Shrinking*, Apple TV+ (saison 2)"
+date: 2025-02-12T22:04:07+01:00
+tmdb: 136311 
+saison: [2]
+---
+
+La [première saison](/serie/shrinking-apple-tv+/) m’avait emballé par son art des mélanges, constamment entre drame et humour, et surtout par sa capacité à gérer aussi bien les deux. J’étais ravi de découvrir la suite et encore plus de constater que ces douze épisodes restent sur la lancée des dix précédents. Sans tomber dans l’angélisme niais, *Shrinking* est résolument une série *feel-good*, ce qui ne fait pas de mal par les temps qui courent. Les personnages de cette série affrontent des difficultés réelles face auxquelles il n’y a pas toujours de solutions. Pour autant, les scénaristes choisissent de garder un cap plein d’optimisme, si bien qu’on sait qu’ils s’en sortiront malgré tout. C’est une célébration de la famille qui s’est composée par tous ces personnages autour de Jimmy, une famille choisie qui est certainement l’élément le plus important pour aider le personnage principal et tous ceux qui l’entourent. C’était déjà le cas précédemment, ça l’est encore plus dans cette suite, qui s’éloigne encore davantage du cabinet de psychologie et accorde encore plus de place aux personnages secondaires. La famille s’agrandit même avec l’arrivée d’un enfant pour Brian et Charlie ou encore de la mère de Gaby, même si c’est surtout l’introduction de Louis, l’homme qui a tué la femme de Jimmy, que l’on retiendra.
+
+Son ajout bouscule les équilibres en place et provoque une nouvelle crise pour Jimmy comme pour sa fille Alice. C’est un choix intéressant, qui évite à *Shrinking* de tomber dans la répétition et lui permettant d’aborder des sujets classiques, mais néanmoins porteurs, comme le pardon. Sans trop en dire, la série d’Apple TV+ évoque grâce à cet ajout des thématiques plus sombres qui ne viennent pas casser la dynamique d’ensemble et ruiner le côté positif. Certes, tous ces personnages de Californiens jamais ennuyés par le moindre souci financier sont assez caricaturaux. Si on parvient à passer outre, je trouve que la série se tient remarquablement bien et j’ai hâte de découvrir la suite de leur histoire. 
