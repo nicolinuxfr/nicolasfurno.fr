@@ -1,12 +1,13 @@
 ---
-title: "*Chef's Table : Pizza*, Netflix"
+title: "*Chef’s Table : Pizza*, Netflix"
 date: 2022-09-18T22:00:33+02:00
 tmdb: 208589 
-saison: [8]
+saison: [1]
 avant: https://voiretmanger.fr/chef-table-gelb-netflix/#bbq
-apres: /serie/chefs-table-netflix-saison-7
+apres: /serie/chefs-table-noodles-netflix/
 aliases:
 - /serie/chef-table-pizza/
+- /serie/chef-table-pizza-netflix/
 ---
 
 Depuis 2015, David Gelb continue de dresser des portraits splendides et un poil ampoulés de chefs. [*Chef’s Table*](https://voiretmanger.fr/chef-table-gelb-netflix/) a imposé une formule unique, avec une image plus soignée que dans la moyenne des documentaires, des ralentis magnifiques et des histoires de cuisiniers et cuisinières qui font la part belle aux récits personnels, plus qu’à leur cuisine. Faisant suite à sept saisons « classiques » où des chefs de tous les horizons se succédaient face à la caméra, la création de Netflix essaie de se diversifier en s’intéressant à des thématiques précises. Après [le barbecue](https://voiretmanger.fr/chef-table-gelb-netflix/#bbq), place cette année à… la pizza ! Le plat le plus populaire au monde méritait sans doute une saison entière et les six portraits sont inégaux, comme toujours, mais je reste un grand amateur pour les pépites qui débarquent à l’improviste.
