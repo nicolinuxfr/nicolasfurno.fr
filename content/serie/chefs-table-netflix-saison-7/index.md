@@ -1,9 +1,9 @@
 ---
-title: "*Chef's Table*, Netflix (saison 7)"
+title: "*Chef’s Table*, Netflix (saison 7)"
 date: 2025-01-11T21:27:58+01:00
 tmdb: 62391 
 saison: [7]
-avant: /serie/chef-table-pizza-netflix/
+avant: /serie/chefs-table-noodles-netflix/
 ---
 
 Netflix poursuit sa série de documentaires *Chef’s Table* avec une septième saison qui revient à la formule classique, après de nombreuses saisons spécialisées, comme celle [consacrée à la pizza](/serie/chef-table-pizza/). Pas de thème ici, uniquement quatre chefs qui racontent leur histoire et donnent faim avec des plats toujours appétissants. Cette création de David Gelb fêtera bientôt son dixième anniversaire[^1] et la formule est désormais très bien établie. L’image est bien plus soignée que dans un documentaire traditionnel, il y a de nombreux plans qui évoquent le travail de Terrence Malick, la musique de Vivaldi revisitée par Max Richter pour mettre dans l’ambiance au cours du générique et des histoires qui se concentrent davantage sur l’histoire personnelle des chefs que sur la cuisine ou les difficultés à faire tourner un restaurant. J’ai toujours été grand fan de cette formule, même si je dois reconnaître qu’elle peut tourner un petit peu en rond. C’est d’ailleurs le cas des deux premiers épisodes, sympathiques à défaut d’être particulièrement novateurs. Nok Suntaranon, cheffe d’origine thaïlandaise à la tête du [Kalaya](https://kalayaphilly.com) à Philadelphie, donne envie de manger encore plus de cuisine thaï, mais c’est tout de même bien connu. Kwame Onwuachi a l’avantage d’avoir un parcours un petit peu plus intéressant, lui qui n’était pas prédisposé à se retrouver à la tête du [Tatiana](https://www.tatiananyc.com), un restaurant gastronomique de New-York où il célèbre ses origines africaines avec des plats à partager. 
