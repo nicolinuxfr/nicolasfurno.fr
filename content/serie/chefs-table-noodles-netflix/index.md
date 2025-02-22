@@ -1,6 +1,6 @@
 ---
 title: "*Chef’s Table: Noodles*, Netflix"
-date: 2025-02-16T21:46:24+01:00
+date: 2025-02-22T08:39:24+01:00
 tmdb: 270480 
 saison: [1]
 avant: /serie/chefs-table-pizza-netflix/
