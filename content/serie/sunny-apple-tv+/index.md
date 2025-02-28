@@ -1,0 +1,10 @@
+---
+title: "*Sunny*, Apple TV+"
+date: 2025-02-28T21:23:48+01:00
+tmdb: 157226 
+saison: [1]
+---
+
+L’inconvénient de ne rien vouloir lire sur les séries avant de les regarder, c’est que je ne sais jamais avant de commencer une saison si son créateur a décidé de l’annuler ou si elle a été renouvelée pour une saison de plus. D’un côté, c’est très bien ainsi, mon jugement n’est pas entaché par une annulation précoce ; d’un autre, ai-je envie de prendre du temps pour commencer une histoire sachant qu’elle n’aura pas de fin ? Malheureusement, *Sunny* n’aura jamais de suite, alors qu’elle a été prévue pour. Le dixième épisode ne devait évidemment pas être le dernier, il se termine sur une surprise qui devait relancer l’histoire dans une autre direction… qui n’aura jamais lieu. Malgré sa richesse quasiment infinie, Apple a manifestement décidé que ses créations devaient être être rentables et les annulations se sont multipliées ces derniers mois, alors que cela aurait été pourtant une belle manière de se distinguer de Netflix et de tous les autres.
+
+Bref, j’ai vu *Sunny* et je ne le regrette pas. Je savais que l’adaptation n’était pas du tout fidèle au roman, mais comme je n’ai pas lu le roman, cela ne m’a pas gêné. J’ai trouvé ce thriller comique au Japon assez fun dans l’ensemble, même si je ne sais pas trop si les yakuzas étaient bien nécessaires dans l’ensemble. L’univers de science-fiction rétro-futuriste fonctionne très bien, le robot qui donne son nom à l’ensemble est bien conçu et face à lui, Rachida Jones est parfaite dans le rôle principal d’Américaine vulgaire au Japon. Techniquement, c’est irréprochable, le scénario avance à bon pas et l’ensemble est bien rythmé, malgré quelques baisses de régime sur la fin. Katie Robbins a créé un bon divertissement, avec un petit peu de suspense, des moments très drôles, de la tristesse aussi et un questionnement sur l’intelligence artificielle et les robots qui est peut-être assez bateau, ce qui ne l’empêche pas d’être pertinent. Je n’ai pas beaucoup de critiques à faire et j’aurais aimé savoir ce qui se passe ensuite… dommage. 
