@@ -1,0 +1,10 @@
+---
+title: "*Les aventures imaginaires de Dick Turpin*, Apple TV+"
+date: 2025-03-13T21:56:45+01:00
+tmdb: 197459 
+saison: [1]
+---
+
+[Cette fois](/serie/sunny-apple-tv+/), j’ai abordé *Les aventures imaginaires de Dick Turpin* en sachant que la série avait été abandonnée après la première saison, dans des circonstances d’ailleurs [assez étranges](https://deadline.com/2025/01/the-completely-made-up-adventures-of-dick-turpin-scrapped-noel-fielding-season-2-apple-1236258328/) et alors que la suite avait été apparemment tournée en grande partie. J’étais malgré tout curieux de découvrir cette comédie britannique qu’on promettait pleine d’humour absurde que j’apprécie tant. Apple TV+ a par ailleurs opté pour un format raccourci, avec six épisodes d’une demi-heure seulement, ce qui ne demande pas un engagement trop important. Bilan : c’est une saison assez courte, qui aurait gagné à être enrichie de quelques épisodes de plus, à défaut d’avoir droit à une saison entière. L’humour décalé est clairement le point fort de la série, et j’imagine que l’on ressent pleinement toute l’implication de Noel Fielding, l’acteur principal qui laisse probablement transparaître toute sa personnalité à travers son personnage. Je dois avouer que je ne le connaissais même pas de nom et cette première rencontre m’a donné envie d’en voir plus (même si je l’avais déjà entendu dans l’excellente série d’animation [*Désenchantée*](/serie/desenchantee-netflix/) où il incarnait le bourreau Stan).
+
+Tout n’est pas parfait, il y a quelques moments creux et l’humour si particulier ne fonctionne pas toujours pleinement, certes. Néanmoins, *Les aventures imaginaires de Dick Turpin* reste une série très plaisante, résolument et délicieusement *woke*, qui revisite les mythes des bandits de grand chemin avec un excellent sens de la dérision. J’ai passé un très bon moment, si bien que je regrette l’annulation, tout en recommandant malgré tout l’expérience à tous ceux qui apprécient l’absurde anglais. 
