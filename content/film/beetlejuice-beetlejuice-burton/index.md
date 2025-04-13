@@ -1,0 +1,12 @@
+---
+title: "*Beetlejuice Beetlejuice*, Tim Burton"
+date: 2025-04-13T18:14:43+02:00
+id: 917496 
+avant: https://voiretmanger.fr/beetlejuice-burton/
+---
+
+[*Beetlejuice*](https://voiretmanger.fr/beetlejuice-burton/) avait-il vraiment besoin d’une suite ? La réponse est évidemment non et face à l’attrait des suites motivées par la nostalgie, on pouvait craindre le pire. C’est pourquoi j’ai lancé *Beetlejuice Beetlejuice* à reculons, encouragé par des avis pas si négatifs qu’escompté. De fait, Tim Burton ne se contente pas de répéter le film original et il parvient à trouver une histoire qui tient vaguement la route, tout en reproduisant l’univers mi-horrifique, mi-comique du long-métrage de la fin des années 1980. Sans aller jusqu’à dire que c’est une réussite parfaite qui mérite absolument d’être vue, j’ai trouvé l’ensemble assez divertissant et le cabotinage des acteurs principaux m’a bien amusé, c’est déjà ça. Je ne suis pas tout à fait convaincu par la fin ouverte qui appelle une suite (un troisième volet, nommé *Beetlejuice Beetlejuice Beetlejuice* est apparemment prévu), mais enfin, d’ici là, cette suite se regarde bien.
+
+On prend les mêmes et on recommence : on sent que Tim Burton a cherché à rester aussi proche du premier film en faisant appel à un casting très proche. Dans le rôle titre, Michael Keaton est fidèle au poste, encore plus dingue une fois en 4K, avec un maquillage dégoûtant qu’on ne voyait pas aussi clairement la dernière fois. Wynona Rider reprend évidemment son rôle, même si c’est sa fille, incarnée par Jenna Ortega, qui la remplace en partie ici. La plus mémorable est sans conteste Catherine O'Hara, qui occupe un rôle plus important pour notre plus grand plaisir. Les deux fantômes de la maison dans *Beetlejuice* sont les seuls qui n’ont pas été préservés, avec une excuse un peu facile pour excuser leur absence, assez illogique. Il y a aussi quelques nouveaux, avec un trio qui semble dans un concours pour l’interprétation la plus outrancière. Justin Theroux n’est pas mauvais en producteur pourri, mais il se fait écraser par Willem Dafoe et Monica Bellucci qui se font plaisir avec des rôles délicieusement absurdes, le premier comme mauvais acteur qui se prend pour un flic et la seconde comme terrifiante et agrafée absorbeuse d’âmes. Le second degré est bienvenu pour les trois acteurs, et je trouve que cela colle bien avec l’univers de bric et de broc imaginé par Tim Burton. L’utilisation du stop-motion au milieu de cet univers en 4K apporte une petite touche supplémentaire bienvenue à cet égard.
+
+ 
