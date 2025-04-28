@@ -34,7 +34,7 @@ enableGitInfo = true
   tmdb = 'tmdb'
 
 [permalinks]
-  pages = '/:filename/'
+  pages = '/:contentbasename/'
 
 [params]
   description = 'Critiques de films, de séries, d’albums, de livres… et tout ce que je veux écrire.'
