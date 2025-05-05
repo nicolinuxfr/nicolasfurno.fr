@@ -1,0 +1,15 @@
+---
+title: "*KRANK Berlin*, Apple TV+"
+date: 2025-05-05T20:46:32+02:00
+tmdb: 239362 
+saison: [1]
+---
+
+Dans la plus pure tradition des séries sur les hôpitaux, *KRANK Berlin*[^1] se distingue surtout par son côté trash assumé. La série portée par Apple TV+ et la chaîne allemande ZDFneo se déroule au cœur d’un hôpital berlinois (fictif) réputé pour être le plus encombré et le plus difficile de la ville et le pilote débute avec l’arrivée de la docteure Parker à la tête du département des urgences. Elle est accueillie par un immense chaos et l’opposition ouverte des équipes, qui voient défiler les responsables à un rythme effréné, si bien que tout le monde s’attend à ce qu’elle parte rapidement. Je ne dévoile rien en notant que ce n’est pas ce qui se passe, puisque les huit épisodes qui composent la première saison se concentrent justement sur son parcours et celui de quelques médecins, infirmiers et urgentistes qui gravitent autour des urgences. Le format est très classique et bien connu, j’ai aussi pensé à l’excellente [*Hippocrate*](https://voiretmanger.fr/hippocrate-lilti-canal/) plus proche de nous, et comme toujours, c’est à travers les personnages que l’histoire parvient à intéresser.
+
+De ce côté, c’est un carton plein. Samuel Jefferson et Viktor Jakovleski ont composé un ensemble de personnages bien écrits et parfaitement interprétés, même quand ils sont dans l’excès. C’est souvent le cas, à l’image de Ben, médecin toxicomane qui alterne entre les sorties en discothèque et ses rotations hospitalières en consommant en permanence des drogues toujours plus dures. Slavko Popadic parvient à rester sur une interprétation crédible, même si on se demande quand même comment son addiction a pu échapper à son entourage si longtemps. Dans le rôle de la nouvelle cheffe des urgences, Haley Louise Jones est elle aussi excellente et parvient à transmettre toutes ses émotions tout en entretenant une sorte de mystère sur son passé, ce qui ajoute un point positif à l’ensemble. J’ai apprécié la diversité du casting et des personnages, l’inclusion sans histoire de personnages queers ainsi que le discours politique, notamment sur le racisme de la police. Déjà que la situation n’est pas rose au sein de l’hôpital, ce contexte n’aide pas à en faire une série optimiste, c’est le moins que l’on puisse dire.
+
+*KRANK Berlin* n’hésite jamais à présenter l’hôpital ainsi que la ville d’ailleurs sous ses pires atours et il faut avoir le cœur bien accroché pour la suivre (à éviter pendant un repas…). C’est parfois exagéré, certes, mais c’est aussi ce qui fait l’originalité de la série et j’ai trouvé que cela fonctionnait bien à l’arrivée. La première saison est courte, j’espère qu’Apple TV+ et son partenaire allemand pourront lui offrir une suite. D’ici là, si la vue du sang et de la crasse au sens large ne vous effraient pas, c’est une série médicale qui vaut le détour. 
+
+
+[^1]: Qui se nomme d’ailleurs *Berlin ER* en anglais, *ER* étant le titre original de la série *Urgences*. Difficile de faire plus explicite.
