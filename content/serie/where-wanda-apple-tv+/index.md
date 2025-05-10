@@ -1,0 +1,12 @@
+---
+title: "*Where's Wanda?*, Apple TV+"
+date: 2025-05-10T21:36:00+02:00
+tmdb: 234310 
+saison: [1]
+---
+
+Jusqu’où des parents seraient prêts à aller si leur enfant disparaissait ? Chez les Klatt, il n’y a manifestement aucune limite et s’il faut placer des caméras et microphones chez tous leurs voisins pour espérer retrouver leur fille disparue depuis près de trois mois, c’est ce qu’ils font, sans l’ombre d’une hésitation. Voici le point de départ de *Where’s Wanda?*, une comédie noire venue d’Allemagne et que j’ai trouvé excellente. C’est juste ce qu’il faut déjanté, les personnages sont tous attachants et il y a une bonne dose de mystère, sans toutefois trop se prendre la tête : une vraie pépite dénichée par Apple TV+ qui a été fort heureusement renouvelée pour une deuxième saison. 
+
+C’est difficile parfois d’exprimer pourquoi une série fonctionne exactement. Ici, je crois que la clé est à chercher du côté du casting, avec notamment le duo formé par les deux parents qui fonctionne impeccablement, avec une excellente complicité sans laquelle le projet serait tombé à l’eau. Heike Makatsch comme Axel Stein sont toujours dans un registre décalé, ils en font toujours beaucoup, sans atteindre la limite du trop. Ce sont des parents tout à fait banals au départ, qui basculent dans un délire toujours plus grand au nom de la recherche de leur fille. *Where’s Wanda?* fonctionne presque uniquement grâce à eux deux, même si les personnages secondaires ne sont pas en reste. Il y a du loufoque, à la limite de la farce même pour Rüdiger (Devid Striesow, impeccable), et il y a du touchant, en particulier le frère Ole, geek un peu refermé au départ qui se révèle un élément clé dans l’enquête en même temps qu’un personnage LGBTQIA+ tout mignon (c’était le premier rôle de Leo Simon, ce qui est d’autant plus impressionnant). 
+
+Je ne sais pas ce que les scénaristes ont prévu pour la suite, mais j’ai hâte de le découvrir. Je ne suis pas spécialement inquiet, ils ont prouvé avec ces huit premiers épisodes qu’ils avaient suffisamment d’idées pour créer un univers délicieusement excentrique et crédible. Si vous aimez l’humour noir avec une petite dose d’absurde façon frères Coen, *Where’s Wanda?* vaut le détour.
