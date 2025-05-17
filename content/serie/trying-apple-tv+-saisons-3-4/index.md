@@ -1,0 +1,11 @@
+---
+title: "*Trying*, Apple TV+ (saisons 3 et 4)"
+date: 2025-05-17T22:32:10+02:00
+tmdb: 98177 
+saison: [3,4]
+avant: https://voiretmanger.fr/trying-wolton-apple-tv/#2
+---
+
+J’avais un petit peu perdu de vue *Trying*, excellente série pourtant sur le parcours d’un couple pour adopter. Rattrapons le retard avec les saisons 3 et 4, alors qu’Apple TV+ prépare déjà la suite. À la toute [fin de la deuxième](https://voiretmanger.fr/trying-wolton-apple-tv/#2), deux enfants débarquent chez Nikki et Jason et on se demande s’ils pourront les garder. C’est tout l’enjeu de la saison 3, qui se déroule directement à la suite et avec le même ton. Je l’ai trouvé excellente, avec ce mélange d’humour noir et de drames du quotidien qui a fait le succès de la création d’Andy Wolton. Ces huit épisodes offrent aussi à davantage de personnages secondaires leur chance de briller et j’ai particulièrement apprécié les rôles des grands-parents. C’est drôle et touchant en même temps, notamment l’épisode du mariage qui est un excellent exemple de ce mélange subtil entre les deux. Pour couronner le tout, les deux enfants sont tout mignons et surtout très justes, mention spéciale au petit Tyler qui s’accroche aux objets les plus insolites.
+
+Deux ans se sont écoulés entre la troisième et la quatrième saison et cela se ressent, d’autant que les scénaristes ont décidé de creuser l’écart en plaçant l’action six ans après. *Trying* change ainsi de casting pour les deux enfants, ce que j’ai d’abord trouvé dommage, même si les deux nouveaux acteurs sont très bien aussi. Le problème à mon sens, c’est que la série perd tout l’esprit des saisons précédentes et l’équilibre parfait entre drame et humour est malheureusement détruit. Cela se joue à peu de choses, mais je dirais que les personnages ne sont plus que des caricatures d’eux-mêmes. Leur écriture était jusque-là plus fine et subtile, on tombe dans les clichés faciles, le pompon étant Scott, le mari excentrique de Susan qui devient ici une blague sur le dos de l’écologie — on aurait pu s’en passer, d’ailleurs, après [*Loot*](/serie/loot-apple-tv+/), cela commence à faire beaucoup de la part d’Apple TV+ — et ce n’est pas drôle. Je ne comprends pas comment une série qui a été aussi équilibrée peut passer à un traitement aussi grossier, mais je ne suis pas si sûr de vouloir regarder la suite. Dommage.
