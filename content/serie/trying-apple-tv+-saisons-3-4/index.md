@@ -1,5 +1,5 @@
 ---
-title: "*Trying*, Apple TV+ (saisons 3 et 4)"
+title: "*Trying*, Apple TV+ (saisons 3 et 4)"
 date: 2025-05-17T22:32:10+02:00
 tmdb: 98177 
 saison: [3,4]
