@@ -344,7 +344,8 @@ h1 {
     padding-left: 0.5em;
 }
 
-#single .article blockquote em {
+#single .article blockquote em,
+#single .article em em {
     font-style: normal;
 }
 
