@@ -1,0 +1,10 @@
+---
+title: "*Les Quatre Saisons*, Netflix"
+date: 2025-06-12T22:27:05+02:00
+tmdb: 243316 
+saison: [1]
+---
+
+Le meilleur dans cette série Netflix, c’est la musique de Vivaldi qui infuse les huit épisodes. On a beau le connaître par cœur, ce concerto pour cordes reste un monument de la musique baroque et à chaque fois qu’elle se fait entendre, le niveau est haussé d’un bon cran. Entre les deux, *Les Quatre Saisons* ressemble tellement à une caricature de riches boomers que cela devient très vite lassant. J’ai cru au départ que c’était ironique et que les six personnages principaux étaient dans l’auto-dérision. Sauf qu’à force de multiplier les blagues, pas très drôles d’ailleurs, sur les jeunes-qui-nous-emmerdent-avec-la-planète, tout ça en voyageant aux quatre coins de la planète et en roulant dans des tanks comme les États-Unis savent si bien les faire, le tout en se plaignant de problèmes absolument sans intérêts et toujours liés à leur vie élitiste… j’ai fini par comprendre que la série était bien trop premier degré pour son propre bien. C’est sans parler de la caricature constante, le pompon étant les personnages gays qui sont si grossiers que l’on dépasse même le stade de la caricature. Si encore c’était drôle ! Il y a bien une ou deux idées amusantes ici ou la, de quoi esquisser un sourire de temps en temps, un petit rire parfois. 
+
+Le problème avec des bases aussi prévisibles, c’est que l’on peut tout anticiper et que l’on finit par s’ennuyer ferme. La série est composée de huit épisodes d’une demi-heure, deux par saison, et j’avais vraiment hâte qu’elle se termine. À dire vrai, je ne sais même plus bien pourquoi on n’a pas arrêté en cours de route, peut-être la promesse initiale d’une mini-série. Las, le succès a manifestement été au rendez-vous, si bien que Netflix a décidé de la convertir en série normale, en lui offrant une deuxième saison. J’ai vu *Les Quatre Saisons* d’un bout à l’autre, mais je ne vais quand même m’infliger ça une deuxième fois, alors ce sera sans moi. 
