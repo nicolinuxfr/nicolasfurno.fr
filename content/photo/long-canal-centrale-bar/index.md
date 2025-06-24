@@ -1,6 +1,6 @@
 ---
 title: "Le long du canal de la centrale de Bar"
-date: 2025-06-23T22:28:35+02:00
+date: 2025-06-24T21:54:35+02:00
 image: "IMG_9774.jpeg"
 ---
 
