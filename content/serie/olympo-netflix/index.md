@@ -1,0 +1,12 @@
+---
+title: "*Olympo*, Netflix"
+date: 2025-07-04T21:18:43+02:00
+tmdb: 259669 
+saison: [1]
+---
+
+Le nouvel [*Élite*](https://voiretmanger.fr/elite-madrona-montero-netflix/) décrit plutôt bien *Olympo*, il faut bien l’avouer. Si les créateurs sont différents, le concept de base est très proche, pour ne pas dire identique : une école espagnole élitiste, des élèves sexy joués par des acteurs canons bien trop vieux et des embrouilles à n’en plus finir. Ajoutez au mélange un style ampoulé, avec des ralentis en pagaille, ainsi qu’une petite dose de mystère et vous retrouverez bien l’ambiance de l’autre série Netflix. Est-ce une mauvaise chose ? Je ne crois pas sur le papier, mais encore faut-il tenir le niveau et si *Élite* a toujours eu un côté ridicule, les premières saisons étaient tout de même réussies. Ici, je suis nettement plus mitigé, avec huit épisodes assez caricaturaux et qui peinent pour moi à tenir toutes leurs promesses.
+
+Il faut dire qu’il n’y a pas vraiment de surprises ici, tout est téléphoné et sur des rails. On devine assez aisément quel rôle va jouer chaque personnage, on comprend rapidement qui sera le grand méchant et qui sont les gentils… si vous aimez être surpris, vous serez inévitablement déçus. J’aurais apprécié un petit peu plus de profondeur pour les personnages, au-delà de leurs attributs physiques, ce n’est pas réellement au programme. Certes, j’apprécie l’inclusivité affichée et le traitement de l’homophobie dans le monde du sport en général et dans celui du rugby en particulier est bienvenu. Il y avait cependant bien plus à faire avec ces histoires et à l’image du dopage, thème important à peine survolé ici, on a parfois le sentiment que les scénaristes ont cherché à reprendre des thématiques tendance sans vraiment chercher à les creuser. Les personnages n’ont pas droit à une psychologie très travaillée et je trouve qu’*Olympo* aurait gagné à être un petit peu plus longue, ou plutôt à favoriser davantage des sujets plus sérieux, au lieu de perdre tant de temps avec des séquences sans grand intérêt. 
+
+À l’heure des bilans, si l’ensemble reste tout de même divertissant, on est clairement dans la catégorie « vite regardé et aussi vite oublié ». J’imagine que Netflix a prévu d’autres saisons, d’autant que le succès a l’air d’être au rendez-vous, mais je ne pense pas que je m’y attarderai. 
