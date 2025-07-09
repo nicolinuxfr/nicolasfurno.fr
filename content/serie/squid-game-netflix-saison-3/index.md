@@ -1,0 +1,14 @@
+---
+title: "*Squid Game*, Netflix (saison 3)"
+date: 2025-07-09T20:56:31+02:00
+tmdb: 93405 
+saison: [3]
+---
+
+*Squid Game* a été un tel succès que Netflix a décidé de lui offrir non pas une saison supplémentaire, mais bien deux. Quelques mois après [la première partie](/serie/squid-game-netflix-saison-2/), voici la deuxième sous la forme d’une saison plus courte, six épisodes, qui vient clore l’arc narratif de cette suite et, *a priori* du moins, toute la série coréenne en même temps. Sans trop de surprise, Hwang Dong-hyeok poursuit sur sa lancée en présentant les jeux suivants, avec le même rituel que l’on connaît désormais bien : le vote suivi d’un jeu, souvent séparé sur deux épisodes pour introduire un *cliffhanger*. En parallèle, les scénaristes imaginent plusieurs intrigues secondaires pour tenter de contrer l’organisation, même si c’est clairement plus une excuse pour prolonger la série qu’une histoire réellement passionnante. C’est bien le souci, d’ailleurs : cette troisième saison a beau être la plus courte du haut de ses six épisodes, c’est aussi celle qui semble la plus longue de toute. 
+
+Quand on condense tout ce qui se déroule, *Squid Game* se termine mollement. Il y a de moins en moins de joueurs, moins d’opportunités aussi d’imaginer des interactions entre les personnages et le scénario tire en longueur toutes les scènes, parfois jusqu’au ridicule. Le temps semble parfois allongé à l’infini, avec d’interminables explications comme toujours et on s’ennuierait ferme… s’il n’y avait pas quelques éclats de génie par ailleurs. C’est vraiment la force de la création de Netflix, maintenue jusqu’au bout : l’idée d’intégrer un bébé dans l’équation est assez géniale pour renforcer la cruauté de l’ensemble et le commentaire sur l’aveuglement de notre société face à la promesse de l’argent est toujours aussi efficace. C’est ce qui fait que *Squid Game* mérite malgré tout notre attention jusqu’au bout et en dépit des défauts : quand Hwang Dong-hyeok tombe juste, c’est spectaculaire et cela compense tous les autres défauts.
+
+J’espère malgré tout que Netflix ne compte pas exploiter le filon plus avant. J’étais surpris de découvrir à la toute fin un caméo prestigieux[^1] et je ne sais pas si ce n’était qu’une manière de rappeler que les jeux se poursuivront tant qu’il y aura des ultra-riches et des gens suffisamment désespérés pour y participer. Si c’est la promesse d’un jeu du calamar américain, je ne suis pas sûr du tout que ce soit une bonne idée. En attendant d’en savoir plus, le succès de *Squid Game* est indéniablement mérité. 
+
+[^1]: Cate Blanchett, il faut le voir pour le croire…
