@@ -1,6 +1,6 @@
 ---
 title: "*Chronique Arctique*, CBC Television"
-date: 2025-07-09T20:59:57+02:00
+date: 2025-07-13T09:06:00+02:00
 tmdb: 249023 
 saison: [1]
 ---
