@@ -1,0 +1,15 @@
+---
+title: "*Du nouveau monde - Tome 2*, Yûsuke Kishi"
+date: 2025-07-30T22:25:35+02:00
+id: FIBPEQAAQBAJ
+pays: "jp"
+sagas: "Du nouveau monde"
+sagas_weight: 2
+original: "Shin sekai yori"
+---
+
+Suite des aventures de Saki et de ses amis avec le deuxième tome de ce qui est devenu une trilogie en France, même si *Du nouveau monde* n’est qu’un seul roman au Japon. Le [premier volet](/livre/nouveau-monde-tome-1-kishi/) m’avait enchanté par sa découverte progressive d’un monde très étrange, un univers de science-fiction comme j’en avais jusque-là jamais lu. Le découpage choisi par Robert Laffont nous laissait sur une grosse surprise, alors j’avais hâte de découvrir la suite. Forcément, Yûsuke Kishi ne peut plus me surprendre et à cet égard, ce deuxième tome pourrait être plus décevant, sauf quand on se rappelle que ce découpage est artificiellement français. C’est une suite dans continuité et avec une montée en puissance des enjeux, ce qui est parfaitement adapté à cette histoire où des enfants élevés dans un monde magique découvrent en réalité à quel point on leur a menti. Je crois que tout le potentiel de ce côté attend le troisième tome, qui ne sortira probablement qu’en 2026, mais en attendant, les aventures de ces jeunes devenus adolescents ici sont riches et passionnantes, surtout grâce aux idées assez folles de l’auteur concernant son univers et ses ahurissantes règles.
+
+Si ce n’est pour le tronçonnage en trois romans qui casse un peu trop le rythme à mon goût, je n’ai pas tellement de reproches à faire à *Du nouveau monde — Tome 2*. Il y a tout de même un point qui m’a chiffonné pendant ma lecture : l’auteur a imaginé un monde où les relations sexuelles sont nettement plus précoces, si bien que les enfants sont incités dès leur plus jeune âge à découvrir le corps de leurs camarades et jouer avec. J’avais apprécié l’inversion des valeurs par rapport à notre société, l’homosexualité étant la norme dans ce futur où l’on craint les nouveaux enfants. Néanmoins, j’ai été un peu gêné ici par le niveau de détails que l’on a concernant ces relations. Que ce soit entre filles, entre garçons ou mixtes, l’auteur décrit des relations très adultes alors qu’ils n’ont tous que 14 ans. Était-ce nécessaire ? On a bien compris les raisons profondes qui poussent cette société à favoriser une sexualité basée sur le pur plaisir et non la reproduction, cela suffisait sans doute. J’aurais peut-être eu un avis différent si je n’avais pas croisé entre temps [la couverture hyper sexualisée](https://kodansha.us/product/from-the-new-world-1/) du manga dérivé du roman, si bien que je me demande quelle était l’intention réelle de l’auteur derrière ces scènes explicites.
+
+Quoi qu’il en soit, je suis curieux de savoir ce qui se passe ensuite et je lirai certainement le troisième tome quand il sortira par ici. Je me demande sur quel terrain l’auteur compte nous mener, sachant que l’on a le sentiment d’approcher de plus en plus un point de retour majeur, comme un conflit ouvert. Cela reste un point fort de ce roman : *Du nouveau monde* mène ses lecteurs vers des destinations insoupçonnées. 
