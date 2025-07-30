@@ -3,8 +3,8 @@ title: "*Fourth Wing*, Rebecca Yarros"
 date: 2025-06-11T21:44:58+02:00
 id: PzfpEAAAQBAJ
 pays: "us"
-saga: "Empyrean"
-saga_weight: 1
+sagas: "Empyrean"
+sagas_weight: 1
 ---
 
 C’est la première fois, je crois, que le lis un livre rendu populaire grâce à TikTok, on n’arrête pas le progrès. Quand *Fourth Wing* a atterri sur ma pile de lecture, je dois dire que la promesse d’une « romantasy », un mélange de romance et de fantasy qui est apparemment un genre qui existe, ne m’enchantait guère. Il faut savoir alterner les [romans qui donnent la migraine](/sagas/le-livre-des-martyrs/) avec des lectures plus faciles, alors j’ai décidé de donner une chance à l’ouvre de Rebecca Yarros, le premier d’une saga naturellement. Mes premiers pas dans l’univers n’ont pas été évidents, tant j’avais l’impression de lire une compilation de tout ce que l’heroïc-fantasy a pu offrir ces dernières décennies, une sorte de *Harry Potter* avec des dragons. Je suis toutefois allé au bout, parce que le style haletant donne envie de tourner les pages et parce que, même si l’intrigue manque d’originalité à mon goût, il y a suffisamment d’idées sympathiques pour que ne me sois jamais ennuyé. Je ne sais pas encore si je poursuivrai ma lecture, ni si la série évidemment en préparation méritera mon attention, mais ce roman court et facile à lire était divertissant.

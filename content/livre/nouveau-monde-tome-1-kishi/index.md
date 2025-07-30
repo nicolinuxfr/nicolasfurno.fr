@@ -4,8 +4,8 @@ date: 2025-07-10T21:50:50+02:00
 id: B9P9EAAAQBAJ
 pays: "jp"
 original: "Shin sekai yori"
-saga: "Du nouveau monde"
-saga_weight: 1
+sagas: "Du nouveau monde"
+sagas_weight: 1
 ---
 
 Découvert au hasard d’une déambulation dans une librairie, *Du nouveau monde* n’est pas un roman récent, puisqu’il a été publié à l’origine en 2008. Il n’a été toutefois traduit en français et vendu par ici que depuis un an, alors même que le succès a conduit à plusieurs adaptations au Japon. Yûsuke Kishi est par ailleurs un auteur assez connu dans son pays, même si je dois confesser que c’est la première fois que je lisais son nom et je pensais qu’il s’agissait du premier roman d’un jeune romancier. Qu’importe, j’ai ainsi pu découvrir le tome 1 sans rien connaître du tout à son sujet, ce qui est toujours la méthode que je préfère. C’est d’autant plus valorisant quand on découvre un univers aussi étrange que celui déployé ici. *Du nouveau monde* imagine un univers post-apocalyptique qui ne ressemble à aucun autre que j’ai pu croiser jusque-là, peut-être parce qu’il est raconté du point de vue d’enfants qui n’ont absolument conscience de rien. On leur cache tout ce qui compte, les laissant dans une version idéalisée d’un univers qui a pourtant subi des dommages manifestes et le coup de génie de Yûsuke Kishi est d’en faire autant avec ses lecteurs.
