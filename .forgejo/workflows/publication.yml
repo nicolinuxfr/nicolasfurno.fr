@@ -1,0 +1,46 @@
+name: Publication GitHub Pages
+
+on:
+  push:
+    branches:
+      - main
+      
+jobs:
+  deploy:
+    runs-on: ubuntu-22.04
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          submodules: true  # Fetch Hugo themes (true OR recursive)
+          fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
+      
+      - name: Mise en cache des ressources
+        uses: actions/cache@v4
+        env:
+            cache-name: cache_ressources
+        with:
+          path: |
+            build
+            resources/_gen       
+          key: ${{ runner.os }}-build-${{ env.cache-name }}-${{ hashFiles('config', 'content', 'data', 'themes') }}
+          restore-keys: |
+            ${{ runner.os }}-build-${{ env.cache-name }}-
+            ${{ runner.os }}-build-
+            ${{ runner.os }}-
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: latest
+          # extended: true
+
+      - name: Build
+        run: hugo --minify --enableGitInfo
+        env:
+          HUGO_TMDB: ${{ secrets.HUGO_TMDB }}
+          HUGO_MAPKIT: ${{ secrets.HUGO_MAPKIT }}
+
+      - name: Deploy
+        run: |
+          la ./public/*
+          
