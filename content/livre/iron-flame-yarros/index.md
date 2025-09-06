@@ -1,0 +1,14 @@
+---
+title: "*Iron Flame*, Rebecca Yarros"
+date: 2025-09-06T21:23:07+02:00
+id: q7jvEAAAQBAJ
+pays: "us"
+sagas: "Empyrean" 
+sagas_weight: 2
+---
+
+[*Fourth Wing*](/livre/fourth-wing-yarros/) m’avait suffisamment convaincu pour que je poursuive mon exploration de la Navarre à la sauce dragons imaginée par Rebecca Yaros et puisque le deuxième tome de la saga est arrivé sur ma table de chevet, pourquoi ne pas continuer ma lecture. *Iron Flame* est dans la droite lignée du précédent volume, ce n’est pas étonnant, et maintenant que je sais que l’autrice a prévu une saga en cinq (5 !) volumes, je m’attendais à une fin aussi spectaculaire qu’ouverte. De ce côté, je n’ai indéniablement pas été déçu. Avant cela, ce deuxième roman m’a dans l’ensemble convaincu et je dirais même plus que le précédent. Malgré quelques longueurs et scènes qui m’ont paru un poil confuses sur la fin, j’ai apprécié le côté plus adulte de cette histoire qui s’éloigne du cadre scolaire, même si l’école de Basgiath est bien présente dans la première partie. Sans s’éloigner des classiques et sans réellement surprendre, la romancière a déjà réussi à me donner envie de tourner chaque page et de savoir comment l’histoire de Violet et Xaden allait évoluer, ce qui est bien le but après tout.
+
+*Iron Flame* n’a plus besoin de présenter l’univers, même si une bonne idée de la saga est que beaucoup d’éléments restent des mystères à découvrir, y compris pour les personnages. Dans ce roman, l’un des enjeux principaux est justement de comprendre comment fonctionne la magie et en particulier les pierres qui protègent l’empire contre les attaques ennemies. Pour une raison qui n’est pas tout à fait éclairée ici, les informations du passé ont largement été effacées et pour survivre, Violet doit les déchiffrer à partir de vieux manuscrits dans des langues oubliées. C’est une bonne idée, qui permet d’inclure le lecteur puisqu’il n’en sait pas plus que les personnages et qui sert aussi à faire durer un petit peu le suspense. C’est d’ailleurs une caractéristique qui m’a semblé plus forte ici que dans le premier livre : Rebecca Yarros a parfois tendance à diluer un peu[^1] et allonger l’intrigue au-delà de ce qui serait strictement nécessaire. *Iron Flame* aurait sans doute pu être plus court, ou alors l’histoire avancer davantage, mais il fallait bien en garder pour les trois romans suivants. J’ai aussi lu que le succès surprise de *Fourth Wing* a poussé l’éditeur à mettre plus de pression sur l’autrice et peut-être que cela se voit. Le troisième est sorti deux ans après, ce qui est peut-être une bonne nouvelle, je le découvrirai sûrement par la suite. 
+
+[^1]: Sans même parler des scènes de sexe, qui deviennent courantes et longues, tout en restant hélas strictement hétéronormées. D’ailleurs, la touche queer du premier roman a presque totalement disparu, dommage. 
