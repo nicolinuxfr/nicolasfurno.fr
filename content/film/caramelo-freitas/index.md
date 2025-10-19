@@ -1,0 +1,9 @@
+---
+title: "*Caramelo*, Diego Freitas"
+date: 2025-10-19T21:30:41+02:00
+id: 1277988 
+---
+
+Vous savez quoi ? Parfois, un film sans surprise, une histoire aussi mignonne que téléphonée, c’est tout ce qu’il nous faut. En ce moment, on ne manque pas de [raisons](https://mastodon.social/@nicolasf/115276594461150532) de nous remonter le moral et *Caramelo* a parfaitement assuré ce rôle. Ce long-métrage brésilien réalisé par Diego Freitas pour Netflix est à une sorte de comédie romantique où l’un des protagonistes est un chien, un récit « *feel-good* » qui donnera envie à tous ceux qui n’ont pas encore de chien de courir à la SPA du coin pour en adopter un. Même s’il est aussi question de cancer et même si la mort rode, le scénario reste majoritairement positif et la relation entre le chien Caramelo et Pedro, le maître qu’il a choisi d’adopter, est vraiment touchante. J’ai apprécié le fait que les deux noms soient cités au générique : celui de Rafael Vitti dans le rôle de l’humain et celui d’Amendoim dans celui de l’animal tout mignon aussi. Il faut dire que le vrai chien est un acteur incroyable, il parvient à déployer une large palette d’émotions et sa sincérité n’est jamais fausse. Cela peut sembler évident pour un animal, mais c’est étonnant à quel point il parvient à éclipser son collègue humain à l’écran. 
+
+Il n’y a rien de compliqué dans *Caramelo*. Il ne faut pas s’attendre à une révolution et le côté guimauve pourra en agacer plus d’un. Néanmoins, j’ai trouvé que le projet était sauvé par son honnêteté. Diego Freitas n’essaie pas de faire plus que de raconter l’histoire d’un homme qui sauve un chien errant d’une vie misérable et d’un chien qui en retour sauve son maître d’une mort probable. Ajoutez à cela une vraie comédie romantique — hétérosexuelle hélas, la perfection n’est pas de ce monde — et vous obtenez une équation parfaite pour un film plaisir. De temps en temps, on n’a pas besoin de plus. 
