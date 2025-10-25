@@ -1,0 +1,10 @@
+---
+title: "*La Diplomate*, Netflix (saison 3)"
+date: 2025-10-25T22:05:59+02:00
+tmdb: 203857 
+saison: [3]
+---
+
+La [deuxième saison](/serie/diplomate-netflix-saison-2/) se terminait sur un énorme coup de théâtre : la mort du président des États-Unis. On ne pouvait probablement rien imaginer de pire pour un thriller comme celui-ci et j’étais inquiet que cela déraille totalement *La Diplomate*. Après les huit épisodes de la saison 3, je suis rassuré : la série de Debora Cahn reste égale à elle-même. Je dirais même que c’était une bonne idée, tant le trio constitué par l’ambassadrice, son mari et la vice-présidente — devenue présidente — fonctionnait bien et il est encore plus intéressant ici, alors que le couple bat de l’aile. En même temps, regarder cette création de Netflix alors que Donald Trump est malheureusement le véritable locataire de la Maison-Blanche est assez étrange. D’un côté, on a une fiction qui imagine des situations rocambolesques à base de complots pour maintenir l’alliance entre le Royaume-Uni et les États-Unis sur fond de lutte contre la Russie et la Chine, une intrigue qui multiplie les situations invraisemblables en dépit de toute crédibilité scénaristique. De l’autre, on a la réalité qui est finalement bien pire et qui fait passer la Présidente de fiction pour la meilleure femme politique que le monde ait jamais connue. *La Diplomate* est tout à la fois incroyable, au sens premier du terme, et banale face à ce que l’on vit depuis quelques mois et je ne sais pas si c’est une position enviable. 
+
+Malgré tout, le divertissement reste plaisant et j’ai envie de savoir ce qui va arriver après, ce qui tombe bien, puisque Netflix a renouvelé sa série pour une quatrième saison. Ce n’est pas très original et certainement pas crédible, ce qui n’empêche pas ce mélange de *House of Cards*, *Homeland* et *24 heures chrono* d’être distrayant et même captivant. Le rythme est bien tenu d’un bout à l’autre et cette vision extravagante de la politique internationale offre une pause bienvenue à la réalité. Au fond, c’est peut-être pile ce qu’il nous faut en ce moment…
