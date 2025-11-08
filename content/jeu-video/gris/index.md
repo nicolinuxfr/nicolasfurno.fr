@@ -1,0 +1,10 @@
+---
+title: "*GRIS*"
+date: 2025-11-08T22:05:44+01:00
+id: 683320
+temps: 6
+---
+
+Vous êtes Gris, une jeune fille qui débute dans un monde étrange, dénué de toutes couleurs, sans savoir que faire ni même où se rendre. Les premières minutes de *GRIS* sont peut-être les meilleures, en tout cas celles qui m’ont le plus enthousiasmé. Le joueur découvre en même temps un univers et un *gameplay* et l’univers graphique est vraiment magnifique. Je connaissais le jeu de réputation et je dois reconnaître que les graphismes sont enchanteurs, tout comme l’histoire minimale et en même temps étonnement riche sur le plan émotionnel. Le studio a parfaitement su raconter ce récit onirique, cette exploration de mondes aux règles parfois absurdes et toujours magnifiques. Ma partie a duré six heures pour atteindre la fin et même si ma médiocrité dès qu’il fallait faire preuve d’adresse a ralenti mes progrès, j’ai trouvé que c’était pile la bonne longueur, ni trop, ni trop peu. 
+
+Dans cette découverte progressive, les créateurs de *GRIS* ont aussi su enrichir très progressivement les capacités de leur personnage. On commence uniquement en sachant sauter, puis on découvre de nouvelles aptitudes, alors que l’environnement s’enrichit tout aussi progressivement de couleurs. C’est très beau et une excellente manière de faire progresser le joueur tout doucement. Je regrette juste certains passages un petit peu trop « plateformesque » pour moi, notamment vers la fin. J’ai failli abandonner à un quart d’heure de la ligne d’arrivée, parce que m’étais trompé de chemin et que je devais repasser par cette section où il faut rapidement monter sur une zone qui disparaît après un certain temps… après l’avoir refait une dizaine de fois, j’ai failli jeter ma manette et lâcher le jeu en cours de route. Je suis content de ne pas l’avoir fait, la fin est très belle, mais je trouve que le jeu n’avait pas besoin d’une telle difficulté au milieu de l’aventure. Cela dit, je sais que ce genre de jeux n’est pas ma tasse de thé, alors mon avis est certainement biaisé. *GRIS* mérite amplement le détour, si vous n’avez pas déjà mené cette petite fille à travers ses rêves. 
