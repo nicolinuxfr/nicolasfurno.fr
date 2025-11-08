@@ -2,6 +2,7 @@
 title: "*Satisfactory*"
 date: 2025-04-18T21:39:12+02:00
 id: 526870
+temps: 120
 ---
 
 Vous êtes envoyé sur une planète sauvage et hostile avec comme seul objectif de collecter des ressources et créer l’immense usine qui va être nécessaire au départ d’une fusée. Ça vous rappelle quelque chose ? Sans doute parce que *Satisfactory* propose exactement le même point de départ que [*Factorio*](/jeu-video/factorio/), un jeu si similaire dans les grandes lignes que l’on pourrait se demander à quoi bon jouer à celui-ci. Vu de loin, la seule différence est technique : alors que *Factorio* est en 2D isométrique avec une vue qui surplombe l’usine, *Satisfactory* se déroule à la première personne et plonge ainsi le joueur au cœur de la planète. C’est une expérience plus viscérale, forcément, et c’est en grande partie ce qui m’a attiré  vers lui. J’avais tellement apprécié l’original, je me suis dit que ça allait me plaire de reprendre le même concept avec cet autre point de vue. J’étais néanmoins un petit peu inquiet du côté répétitif et fort heureusement, cela n’a pas été du tout le cas.

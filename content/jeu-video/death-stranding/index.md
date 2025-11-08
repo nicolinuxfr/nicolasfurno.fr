@@ -2,6 +2,7 @@
 title: "*Death Stranding*"
 date: 2024-05-24T22:00:55+02:00
 id: 1850570
+temps: 25
 ---
 
 Vous incarnez Sam Porter, une sorte de livreur dans un univers post-apocalyptique où un cataclysme a tué la majorité de la population et où d’étranges créatures entre la vie et la mort viennent menacer les derniers survivants. *Death Stranding* pourrait ressembler à un énième jeu d’action sans âme, s’il n’était pas l’œuvre de Hideo Kojima. Le travail du Japonais me fascinait depuis ma lecture de *[Hideo Kojima, aux frontières du jeu](https://nicolasfurno.fr/livre/hideo-kojima-frontieres-jeu-desbois/)* et la sortie de son dernier opus m’a donné envie d’en savoir plus. Je ne savais pas à quoi m’attendre exactement, même si je savais que ce jeu vidéo était difficile à classer, une expérience complète dans un univers d’une richesse incroyable. Les débuts étaient prometteurs et j’ai beaucoup aimé l’ambiance, les graphismes somptueux et la découverte progressive des mécaniques de jeu, même si les nombreuses cinématiques impossibles à couper — on peut arrêter le jeu, mais pas sauvegarder au milieu des cinématiques — m’agaçaient un petit peu. Malgré tout, j’ai persévéré et je pensais sincèrement que le jeu allait me plaire, une sorte de film interactif qui me rappelait aussi les jeux d’aventure, un de mes genres préférés.

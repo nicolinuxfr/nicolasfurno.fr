@@ -2,6 +2,7 @@
 title: "*Tavern Master*"
 date: 2022-12-18T18:28:28+01:00
 id: 1525700
+temps: 15
 ---
 
 Vous êtes à la tête d’une taverne médiévale, que vous allez devoir construire, puis équiper avec des tables, des chaises, un bar et bientôt une cuisine ou même des chambres d’hôtels. Vous devrez aussi embaucher des serveuses[^1] et des cuisiniers pour servir vos invités, ajouter de la décoration pour attirer plus de monde ou encore faire des recherches pour agrandir l’auberge sur plusieurs étages. Le tout, en surveillant de près les comptes : chaque jour, vous devrez gagner plus en vendant boissons et nourritures que ce que vous devrez payer en provisions, salaires et autres frais fixes. Sans compter les dangers qui vous guettent, que ce soit un incendie destructeur à l’intérieur ou des voleurs à l’extérieur…

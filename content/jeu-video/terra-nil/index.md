@@ -2,6 +2,7 @@
 title: "*Terra Nil*"
 date: 2023-11-05T11:20:01+01:00
 id: 1593030
+temps: 14
 ---
 
 Vous prenez la direction d’un espace pollué avec l’objectif de le nettoyer et de le rendre à la nature et aux animaux. La technologie humaine doit vous aider une dernière fois à y parvenir, en installant des éoliennes pour alimenter des usines qui vont nettoyer le sol, en ajoutant des dispositifs chargés de restaurer les plantes, puis en créant des écosystèmes complets, forêts, plages, zones humides et enfin en permettant aux animaux de revenir dans cet environnements délaissés. Dans l’idée, *Terra Nil* est ainsi un constructeur de villes inversé, le contraire d’un *Sim City* ou d’une des multiples variantes. Un concept qui m’avait énormément intrigué, tant [j’adore le genre original](https://nicolasfurno.fr/jeu-video/settlement-survival/), mais j’avais envie de sortir de la routine des constructions de villes. Après environ 14 heures de jeu, j’ai déjà fait le tour de ce nouveau titre et même si on est loin de la profondeur ou de la complexité d’un simulateur de villes et bien plus proche d’un puzzle, j’ai bien aimé ce petit jeu fort sympathique.

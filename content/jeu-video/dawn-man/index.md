@@ -2,6 +2,7 @@
 title: "*Dawn of Man*"
 date: 2024-09-01T21:24:34+02:00
 id: 858810
+temps: 17
 ---
 
 Vous commencez avec un petit groupe d’humains quelque part au cours du Paléolithique et vous devez les guider au mieux pour leur survie avant d’envisager de développer votre communauté à travers les temps jusqu’à l’âge de fer. Il va sans dire que *Dawn of Time* ne reproduit pas fidèlement la Préhistoire, période qui s’est déroulée sur plusieurs millions d’années, ce qui serait bien pénible à l’échelle d’un jeu vidéo. D’ailleurs, j’ai traversé toutes les époques et atteint une population de 200 personnes environ après avoir débloqué toutes les technologies prévues dans le jeu en moins de 17 heures, c’est vous dire à quel point cela défile vite. C’est logique de compresser le temps pour divertir, même si je dois dire que je m’attendais à un gameplay un petit peu plus profond ou ambitieux que cela. 

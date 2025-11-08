@@ -2,6 +2,7 @@
 title: "*Firmament*"
 date: 2023-07-23T12:08:49+02:00
 id: 754890
+temps: 13
 ---
 
 Vous débutez dans un étrange univers *steampunk* sans trop savoir où vous en êtes et ce que vous devez faire. Vous découvrirez au fil du temps votre rôle de gardien et l’outil à votre disposition pour interagir avec les différents mondes auxquels vous aurez accès, mais le plus important à retenir est que vous êtes dans un jeu d’aventures plein d’énigmes à résoudre. *Firmament* est le dernier titre de Cyan Worlds, studio de développement qui s’est fait connaître dans les années 1990 pour le mythique *Myst* et qui perpétue cette ancienne tradition du jeu vidéo des mondes à explorer et déchiffrer. La technique a bien évolué en trois décennies et ce nouveau monde n’est plus constitué d’images statiques que l’on découvre une à une, c’est un environnement en 3D qui a été créé avec un moteur de jeu moderne. C’est d’ailleurs le visuel que l’on remarque d’abord et j’ai été bluffé par les environnements imaginés pour *Firmament*. Le premier monde où l’on débarque est un paysage de montagne et de glace et j’ai pris quelques minutes à l’explorer de loin, impressionné par la profondeur de champ et la beauté de l’ensemble.

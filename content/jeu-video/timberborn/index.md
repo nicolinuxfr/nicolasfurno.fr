@@ -2,6 +2,7 @@
 title: "*Timberborn*"
 date: 2022-11-08T21:08:14+01:00
 id: 1062090
+temps: 55
 ---
 
 Vous prenez la tête d’une colonie de castors dans un monde post-apocalyptique abandonné par l’homme et vous devez former une colonie capable de survivre face aux sécheresses de plus en plus forte. *Timberborn* est un jeu de construction de ville et de gestion dans la plus grande tradition du genre, mais avec cet angle original qui lui permet de se distinguer. Vous commencez avec quelques castors et vous devrez rapidement organiser la colonie si vous ne voulez pas disparaître dès la première sècheresse. Vous devrez collecter des rondins sur les arbres alentours évidemment, mais aussi des baies sauvages et puis vous pourrez commencer à construire des bâtiments : logements pour vos pauvres bêtes, des pompes à eau, des fermes pour cultiver de la nourriture et bientôt des usines pour créer des planches, engrenages et autres objets. Après quelques heures de jeu, si vous vous débrouillez bien, vous serez à la tête de plusieurs colonies et de dizaines, voire centaines, de castors. 

@@ -3,6 +3,7 @@ title: "*Factorio*"
 date: 2022-04-11T18:45:11+02:00
 id: 427520
 image: "factorio.jpg"
+temps: 91
 ---
 
 Vous commencez seul sur une planète inconnue avec seulement quelques ressources à récupérer de votre vaisseau spatial. Votre objectif est simple : créer une fusée et quitter cette planète pour rentrer chez vous. Pour y parvenir, *Factorio* propose un large catalogue de machines et robots qui permettent de créer une usine (*factory* en version originale) gigantesque, de la collecte des matières premières à la production de toutes les pièces nécessaires à la fusée, en passant par tous les objets indispensables à votre survie dans ce milieu hostile. En effet, vous n’êtes pas seul sur cette planète et les créatures qui s’y trouvaient avant votre arrivée sont non seulement un poil violentes, elles détestent la pollution générée par votre industrie et feront tout pour vous arrêter. 

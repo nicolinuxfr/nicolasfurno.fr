@@ -2,6 +2,7 @@
 title: "*Bugsnax*"
 date: 2024-06-21T22:10:36+02:00
 id: 674140
+temps: 17
 ---
 
 Vous incarnez un journaliste qui part enquêter sur une île mystérieuse qui serait remplie de créatures étonnantes. En arrivant sur place, vous découvrez que Lizbert, qui vous a fait venir avec une vidéo, a disparu et que la communauté de « Grumpus » autour d’elle est éparpillée sur l’île, désespérée. Votre boulot va consister à les réunir tous pour retrouver Lizbert et vous découvrirez au passage que les « Bugsnax », les fameuses créatures étonnantes, sont bien réelles. C’est le début d’une étrange aventure dans cet univers de dessin animé qui m’a frappé dès le départ en partie par son originalité, surtout par sa profondeur. Le joueur n’est pas seulement balancé sur une île avec des bestioles à attraper et quelques énigmes à résoudre, il repose sur une histoire complexe et riche dès le départ. Une histoire centrée autour d’un couple lesbien pour ne rien gâcher, c’est trop rare pour ne pas le souligner. *Bugsnax* a beau avoir un aspect très cartoon et même un petit peu ridicule quand les personnages sont transformés en mangeant les créatures, il compose une galerie de personnages crédibles avec une vraie histoire derrière chacun. J’ai été surtout touché par la relation gay cette fois entre deux habitants de la petite ville au centre de l’île, mais on sent que les créateurs du jeu ont soigné tous leurs personnages et mis beaucoup d’attention dans cet univers bariolé.

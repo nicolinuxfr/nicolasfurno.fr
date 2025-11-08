@@ -2,6 +2,7 @@
 title: "*FAR: Lone Sails*"
 date: 2022-07-18T21:52:12+02:00
 id: 609320
+temps: 4
 ---
 
 Vous débutez avec un petit personnage rouge au pied d’un arbre mort dans un décor presque uniquement gris et désolé. *FAR: Lone Sails* immerse les joueurs dès la première seconde dans son univers, sans prendre le temps de le présenter et encore moins de donner un objectif. C’est une excellente idée, vous devez découvrir par vous-même ce qui se passe et ce que vous devez faire. Les contrôles sont limités : droite/gauche, sauter et prendre des objets, rien de plus. Avec si peu, vous commencez à avancer pour découvrir une maison, puis une plage et bientôt un drôle d’appareil qui vous permettra de fuir cet endroit sans vie.

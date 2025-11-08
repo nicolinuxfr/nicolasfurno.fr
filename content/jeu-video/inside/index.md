@@ -2,6 +2,7 @@
 title: "*INSIDE*"
 date: 2022-09-24T21:40:12+02:00
 id: 304430
+temps: 5
 ---
 
 Vous débutez dans une forêt sombre, sans avoir aucune idée de ce qui se passe et de votre objectif. Le point de départ d’*INSIDE* est à cet égard très similaire à celui de *[FAR: Lone Sails](https://nicolasfurno.fr/jeu-video/far-lone-sails/)*, avec la même idée que les objectifs tout comme l’univers seront expliqués en temps et en heure, au fil de la progression. C’est aussi le même gameplay de base : l’enfant que vous incarnez peut avancer ou reculer, sauter et interagir avec des objets, et c’est tout. Les premières minutes, vous serez déboussolés et vous mourrez sans doute assez vite, attrapé par un garde ou leur chien, tombé au fond d’un trou.

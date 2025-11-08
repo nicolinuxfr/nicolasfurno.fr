@@ -2,6 +2,7 @@
 title: "*Subnautica*"
 date: 2023-05-02T20:30:28+02:00
 id: 264710
+temps: 40
 ---
 
 Vous vous retrouvez dans une capsule de survie perdue au milieu d’un vaste océan, sur une lointaine planète dans la galaxie. Le point de départ de *Subnautica* est excellent par sa capacité à immerger — littéralement — le joueur dans son monde inconnu. L’histoire qui précède pose un contexte à base de vaisseau spatial qui s’est échoué sur cette planète presque entièrement aquatique, mais l’essentiel est là : le jeu vous plonge dans un océan plein de dangers, avec quasiment aucune ressource à disposition au départ. Vous n’aurez pas le choix, il faudra explorer cet océan en quête des ressources indispensables à la création de protections pour survivre plus longtemps, de véhicules permettant d’aller plus loin et bientôt de bases pour avoir une chance de survivre. Une survie qui commence par la quête de nourriture et d’eau, deux ressources qui sont fort heureusement disponibles en abondance dans la zone peu profonde où vous débutez. Vous pourrez y attraper des poissons, les uns pour les manger, les autres pour les transformer en bouteilles d’eau. Mais ce n’est pas suffisant bien entendu : il faudra aussi récolter des ressources naturelles, des minerais que l’on trouve sur les fonds marins, ainsi que des morceaux de métal issus du vaisseau spatial et aussi des plans des objets, véhicules et modules que vous pourrez construire. Le tout en essayant de retrouver des traces d’autres survivants, même si vous réalisez vite que vous êtes bien seul sur cette planète extraterrestre.

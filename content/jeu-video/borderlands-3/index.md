@@ -2,6 +2,7 @@
 title: "*Borderlands 3*"
 date: 2022-06-29T21:25:59+02:00
 id: 397540
+temps: 37
 ---
 
 Vous incarnez l’un des quatre Chasseurs de l’Arche et vous devez remplir une série de missions pour le compte des Pillards Écarlates, d’abord sur la planète désertique de Pandora, puis sur plusieurs planètes. *Borderlands 3* plonge les joueurs dans son univers d’une richesse manifeste, ce qui est logique quand on pense que c’est le quatrième volet d’une saga qui se prolonge autour d’une même histoire. N’ayant jamais joué à un seul titre de la série, j’ai été quelque peu déboussolé au début, mais ce jeu de tir à la première personne avec une dose de jeu de rôle est assez conventionnel dans son fonctionnement. Il y a des objectifs à remplir pour terminer chaque mission, on récupère des armes en cours de route et les différentes actions permettent de gagner des points qui servent à passer des niveaux et augmenter ainsi ses compétences, en choisissant parmi une multitude d’options. 

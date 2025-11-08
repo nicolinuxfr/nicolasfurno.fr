@@ -2,6 +2,7 @@
 title: "*The Stanley Parable: Ultra Deluxe*"
 date: 2022-07-08T21:29:19+02:00
 id: 1703340
+temps: 2
 ---
 
 Vous incarnez Stanley, employé n°427 d’une entreprise tout ce qu’il y a de plus banal jusqu’au jour où vous découvrez que personne n’est venu au bureau. Vous êtes tout seul face à votre ordinateur, il n’y a plus aucun collègue et vous sortez ainsi de la pièce pour comprendre@ ce qui se passe. C’est le point de départ de *The Stanley Parable* et il est très important d’arrêter immédiatement votre lecture si vous ne connaissez pas ce jeu et que vous aimez à la fois les jeux d’aventures et l’humour absurde. Le titre sorti à l’origine en 2013 doit être découvert sans rien avoir lu à son sujet, tout le plaisir venant de la surprise qui vous accompagnera dans les couloirs de bureau virtuels.

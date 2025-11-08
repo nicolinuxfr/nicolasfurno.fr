@@ -2,6 +2,7 @@
 title: "*Stray*"
 date: 2024-01-30T22:15:55+01:00
 id: 1332010
+temps: 8
 ---
 
 Vous incarnez un chat errant qui tombe par accident dans une ville souterraine et doit retrouver son chemin vers le monde extérieur à travers une série d’explorations et d’enquêtes. Vous vous êtes arrêté à chat et vous avez été immédiatement convaincu ? Bienvenue au club. Depuis que j’ai découvert l’existence de *Stray*, je rêvais d’essayer ce jeu vidéo qui semblait conçu pour moi. Après une longue attente, il est enfin sorti sur le Mac et j’ai pu l’essayer. Après huit bonnes heures de jeu, je l’ai terminé et je dois dire que je n’ai pas été déçu… même si je ne m’attendais pas à être autant frustré en même temps. 

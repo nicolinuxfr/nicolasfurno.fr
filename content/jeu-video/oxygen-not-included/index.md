@@ -2,6 +2,7 @@
 title: "*Oxygen Not Included*"
 date: 2023-01-27T22:00:32+01:00
 id: 457140
+temps: 20
 ---
 
 Vous prenez la tête d’une petite colonie de survivants dans ce qui ressemble à une cave enterrée loin de toute surface. Petit à petit, vous creusez la roche autour de vous pour récolter des matériaux et organiser votre base. Toutes les ressources essentielles à la survie de vos petits hommes doivent être collectées ou produites : de l’eau, de la nourriture et naturellement, de l’oxygène. Si tout va bien, vous gagnerez régulièrement de nouveaux occupants et votre base pourra grossir et grossir jusqu’à l’objectif ultime : atteindre la surface, construire une fusée et quitter cet horrible caillou. Du moins, c’est si vous parvenez à étendre suffisamment la colonie sans affamer, assoiffer ou étouffer tous vos petits bonshommes, ce qui est assez facile au départ et de plus en plus complexe.

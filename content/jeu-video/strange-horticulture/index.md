@@ -2,6 +2,7 @@
 title: "*Strange Horticulture*"
 date: 2023-05-15T21:38:54+02:00
 id: 1574580
+temps: 4
 ---
 
 Vous héritez d’une boutique d’herboristerie dans une petite ville fictive et votre travail est d’identifier les plantes réclamées par vos clients. Jour après jour, vous constituez une base de connaissance de toutes les plantes présentes dans la boutique, mais vous devrez aussi explorer les environs en quête de nouvelles plantes. *Strange Horticulture* est un jeu d’exploration teinté d’enquête, avec une dose de casse-tête et un chat que vous pourrez caresser à tout moment. Un jeu avec un chat qui ronronne peut-il être mauvais ? La réponse est bien évidemment non et le titre est d’ailleurs assez divertissant, même s’il est simple et plutôt court. J’ai terminé l’histoire une première fois après à peine quatre heures et encore, en prenant mon temps. Je pourrais relancer une partie pour découvrir [une des autres fins](https://steamcommunity.com/app/1574580) proposées par les développeurs, mais je n’en ressens pas le besoin pour le moment.

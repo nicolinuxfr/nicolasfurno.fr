@@ -4,6 +4,7 @@ date: 2025-07-01T21:36:16+02:00
 id: 1255560
 sagas: "Myst"
 sagas_weight: 1
+temps: 6
 ---
 
 Vous arrivez sur une petite île pleine d’appareils mystérieux et sans réelle direction sur l’univers et encore moins votre rôle, si ce n’est une brève introduction assez mystérieuse. Le tout début de *Myst* est mythique dans le monde du jeu vidéo et un excellent exemple de ce qu’un jeu d’aventures peut offrir. J’imagine que ses créateurs ont fait ce qu’ils ont pu avec les moyens à leur disposition au tout début des années 1990, mais c’est une bonne manière d’introduire le joueur dans un monde d’énigmes où il doit se débrouiller. En relançant le jeu pour la énième fois, moi qui l’avais commencé suite à ma découverte de [*Riven*](/jeu-video/riven/), puis lors de ses multiples retours, notamment [sur l’iPhone](https://www.igen.fr/app-store/myst-revient-sur-iphone-7777), je me suis fait la réflexion que cela ressemblait fort aux mondes ouverts si à la mode de nos jours. Certes, avec des moyens limités, mais avec le même principe : vous pouvez aller à peu près n’importe où, manipuler des objets étranges sans limite… et sans but aussi. Ce qui est assez déstabilisant la première fois, l’est forcément moins quand on sait où aller pour trouver les bonnes combinaisons de chaque puzzle. Reste que l’expérience est toujours aussi efficace et n’a pas tellement vieilli, surtout dans la version entièrement réinventée proposée par le studio.

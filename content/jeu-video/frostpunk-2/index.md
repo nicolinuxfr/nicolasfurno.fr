@@ -4,6 +4,7 @@ date: 2025-10-23T22:04:24+02:00
 id: 1601580
 sagas: "Frostpunk"
 sagas_weight: 2
+temps: 27
 ---
 
 Vous êtes de nouveau placé à la tête d’une colonie de survivants dans le grand froid post-apocalyptique, sauf que la dimension a changé depuis [*Frostpunk*](/jeu-video/frostpunk/). L’original était assez modeste au fond, avec de bonnes idées conceptuelles et un niveau assez difficile, avec aussi un *gameplay* qui tournait vite en rond dès que le joueur comprenait comment gérer ses différents aspects. Malgré tout, j’avais bien aimé ce titre, si bien que j’ai décidé de donner sa chance à *Frostpunk 2*. À l’heure des bilans, je suis assez mitigé. Certes, j’ai joué 27 heures avant de me dire que j’en avais assez, ce n’est finalement pas beaucoup moins que le premier volet. Toutefois, j’ai été souvent frustré pendant ces 27 heures, à cause d’une difficulté que je trouve très mal dosée et de mécaniques de jeu pas toujours bien maîtrisées. Je comprends ce que les créateurs ont voulu faire, les ambitions sont ici nettement plus grandes et on se rapproche d’un jeu de gestion de ville plus traditionnel, ce que j’apprécie. C’est sur la gestion climatique et surtout politique que le bat blesse, je trouve : en voulant complexifier les enjeux, les développeurs ont créé un jeu qui m’a semblé moins divertissant que pénible, ce qui est tout de même un problème. 

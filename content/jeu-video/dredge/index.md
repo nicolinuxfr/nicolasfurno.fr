@@ -2,6 +2,7 @@
 title: "*DREDGE*"
 date: 2025-06-05T18:27:30+02:00
 id: 1562430
+temps: 16
 ---
 
 Vous pêchez le jour autour d’un paisible archipel, vous travaillez dur pour remonter à la ligne des poissons, poser des paniers à crabe et récupérer quelques pièces pour améliorer votre bateau. La nuit, ce lieu et ce travail charmants se transforment néanmoins en un véritable cauchemar : le brouillard tombe et bientôt vous croyez voir des créatures horrifiques au milieu de l’océan. Cette dualité fait tout le charme de *DREDGE*, qui oscille entre un petit jeu de gestion fort mignon et l’horreur fortement inspirée par le travail de Lovecraft. J’ai beaucoup aimé cette ambiance qui change du tout au tout et les élément de jeu d’aventure ne pouvaient que me plaire. Vous rencontrez en effet petit à petit tous les habitants du coin, ils vous donnent des missions et vous permettent progressivement de comprendre ce qui se passe en ces lieux étranges. C’est une combinaison très originale, qui m’a occupé pendant 16 bonnes heures, en prenant mon temps pour tout explorer et en prenant le soin de réaliser toutes les quêtes secondaires. 

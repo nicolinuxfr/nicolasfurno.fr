@@ -2,6 +2,7 @@
 title: "*Silence*"
 date: 2022-05-07T11:12:43+02:00
 id: 314790
+temps: 6
 ---
 
 Vous commencez par un raid aérien et deux enfants, un frère et une sœur, qui se retrouvent bloqués dans un bunker à moitié détruit par les bombes. Cette ouverture peu réjouissante donne le ton : *Silence* a beau ressembler à un conte pour enfants, il n’est pas question ici de légèreté frivole. Ce jeu d’aventures au format classique, c’est du *point and click* comme on dit, se déroule essentiellement dans un monde imaginaire nommé Silence, inventé par Noah pour sa petite sœur Renie. En tant que joueur, vous devez les guider tous les deux ainsi que Spot, une étonnante créature retrouvée en chemin, dans cet univers fantastique. 

@@ -2,6 +2,7 @@
 title: "*RAILGRADE*"
 date: 2024-11-05T21:22:19+01:00
 id: 1355090
+temps: 40
 ---
 
 Vous devez poser des rails pour relier des usines et fournir des villes ou d’autres usines en eau, électricité, charbon, plastique, verre, processeurs et bientôt fusées. *RAILGRADE* a tous les attributs du jeu de gestion, sous-rubrique ferroviaire et c’est évidemment ce qui m’a attiré lors de sa sortie sur Steam fin 2023. Comme ma bibliothèque était bien pleine, je n’ai pas lancé le jeu avant fin septembre toutefois et je dois bien avouer que le premier contact a été rude. J’ai d’abord lancé le mode bac à sable, sans réel objectif autre que de devenir immensément riche, c’est toujours l’objectif après tout de ces simulateurs de capitalisme, mais j’ai vite arrêté. Le titre créé par Minakata Dynamics me semblait à la fois obscur et simpliste, une étrange combinaison qui a bien failli me faire passer à côté. Motivé par l’envie de ne pas avoir dépensé des sous en vain, j’ai réessayé, cette fois en lançant la première mission de la campagne. Quarante heures plus tard, *RAILGRADE* s’est finalement imposé comme un excellent jeu de gestion, avec ses propres règles et un gameplay remarquablement équilibré. Comme quoi, il faut se méfier des premières impressions.

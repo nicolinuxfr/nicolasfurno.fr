@@ -2,6 +2,7 @@
 title: "*Two Point Campus*"
 date: 2024-09-25T21:41:19+02:00
 id: 1649080
+temps: 10
 ---
 
 Vous devez gérer une université dans tous ses aspects, construire les bâtiments et pièces qui accueilleront les étudiants et le personnel, recruter les bonnes personnes, satisfaire les besoins de tout le monde, sans oublier évidemment de rentabiliser toute cette petite histoire. *Two Point Campus* est un jeu de gestion qui serait affreusement conventionnel sans la touche d’humour qui fait a fait la réputation de ses concepteurs. Ici, les cours sont le plus souvent loufoques, y compris des leçons de chevalerie, pourquoi pas, et l’ambiance n’est pas trop sérieuse. C’est une bonne idée qui m’a attirée, même si hélas, cela ne m’a pas empêché d’en faire le tour trop rapidement. Après moins de dix heures de jeu, j’ai le sentiment d’avoir bien compris comment gagner chaque partie, puisque *Two Point Campus* a ceci de commun avec la majorité des jeux de gestion qu’il suffit d’être le plus gros possible pour l’emporter. Le capitalisme pour les nuls s’applique ici pleinement : construisez toujours plus, plus de salles de classe, plus de dortoirs, et vous gagnerez toujours plus, de quoi vous permettre de construire plus, etc.

@@ -4,6 +4,7 @@ date: 2024-07-11T22:05:28+02:00
 id: 1712350
 sagas: "Myst"
 sagas_weight: 2
+temps: 9
 ---
 
 Vous jouez en tant que « l’Étranger », un mystérieux personnage chargé dans une brève introduction de sauver Catherine et d’empêcher Gehn de s’échapper, mais tout ce qu’il faut savoir avec *Riven*, c’est que vous allez vous retrouver sur une île mystérieuse, au sein d’un gigantesque puzzle. Suite directe de [*Myst*](/jeu-video/myst/), ce jeu sorti en 1997 avait impressionné le jeune joueur d’une dizaine d’années, qui a découvert pour la première fois un environnement photoréaliste qui semblait impensable par rapport à la production de l’époque. Je me rappelle aussi d’énigmes tirées par les cheveux qui nécessitaient de prendre des notes dans un carnet et qui m’avaient vite découragées. Malgré tout, l’annonce d’une nouvelle version entièrement recréée avec des technologies modernes m’intriguait fortement et je me suis logiquement rué sur le nouveau *Riven* à sa sortie.

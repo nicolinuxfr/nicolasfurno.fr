@@ -2,6 +2,7 @@
 title: "*Justin Wack and the Big Time Hack*"
 date: 2024-07-31T21:38:15+02:00
 id: 1131670
+temps: 8
 ---
 
 Vous êtes Justin, Kloot et Julia. Vous voyagez à travers le temps sur quatre époques différentes. Vous devez tout à la fois réconcilier deux amoureux et sauver l’humanité face à une destruction à base de robots intelligents. *Justin Wack and the Big Time Hack* est un jeu d’aventures à l’ancienne, ce qui n’est en aucun cas une critique de ma part, bien au contraire. Inspiré des grands classiques de LucasArts, la série des *Monkey Island* en tête ou plus encore le culte *Day of the Tentacle*, son objectif est d’offrir une aventure amusante, pas trop compliquée, même si la grosse dose d’absurde vient pimenter la progression. Si vous n’avez jamais joué à ces jeux d’aventures humoristiques, vous serez peut-être un petit peu perdu face à une logique qui n’est pas toujours d’une cohérence parfaite. Il faut prendre l’habitude de tester tout et n’importe quoi, tenter des choses, par exemple en combinant même les objets les plus improbables entre eux et ainsi entrer dans l’esprit tordu des créateurs du jeu. La récompense est une série de péripéties hilarantes et quelques dialogues sans queue ni tête et toujours amusants.

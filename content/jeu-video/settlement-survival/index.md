@@ -3,6 +3,7 @@ title: "*Settlement Survival*"
 date: 2023-03-04T11:45:09+01:00
 id: 1509510
 image: "settlement-survival.jpg"
+temps: 25
 ---
 
 Vous prenez la tête d’une colonie composée d’une poignée de survivants et vous devez tout reconstruire. Des maisons pour loger les habitants, des cabanes de pèche et de chasse pour les nourrir, des camps de bûcherons pour collecter du bois, des mines pour les autres ressources précieuses. Petit à petit, *Settlement Survival* vous permet de collecter et de produire tout le nécessaire, tout en débloquant petit à petit les technologies indispensables à toute civilisation digne de ce nom. Vous devrez gérer les précieuses ressources qui sont toutes en quantité très limitée, surtout au début, à commencer par le nombre de personnes qui peuvent travailler. Par exemple, il sera essentiel au départ de maximiser le nombre de personnes dans les champs au printemps et en été, mais de les utiliser pour d’autres tâches en hiver. Et n’oubliez pas de satisfaire leurs désirs, car si vos humains ne sont pas contents, ils ne se reproduiront pas et vous n’aurez aucune chance de progresser dans le jeu. Le nombre d’habitants est un clé pour réussir, mais il ne s’agit pas non plus de croitre sans préparations, car vous vous retrouverez sinon rapidement avec une population qui meurt de soif, de faim ou de maladies.
