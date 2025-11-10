@@ -1,0 +1,10 @@
+---
+title: "*Slow Horses*, Apple TV (saison 5)"
+date: 2025-11-10T21:40:05+01:00
+tmdb: 95480 
+saison: [5]
+---
+
+La [quatrième saison](/serie/slow-horses-apple-tv+-saison-4/) était de retour au niveau des deux premières et la tendance ne s’inverse pas avec ces six nouveaux épisodes. Apple TV sort désormais une nouvelle saison tous les ans et *Slow Horses* ne semble jamais baisser de niveau, alors que les sixième et septièmes sont déjà filmées ou en cours de tournage. Quand on voit le résultat ici, cela force vraiment le respect : les veaux du MI5 parqués à l’étable sont toujours moins fonctionnels et pourtant ils continuent de sauver la situation à chaque fois. C’est à la fois toujours pareil et en même temps jamais décevant, la force probablement au matériau de base. Chaque saison est assez indépendante des autres, même s’il y a un fil rouge, et j’imagine que les scénaristes peuvent bénéficier d’une excellente base. Cela ne suffirait pas et il faut encore une fois saluer le travail des acteurs. Si Gary Oldman semble avoir désormais fusionné avec son odieux et crade personnage, je retiendrais surtout ici James Callis qui compose une impeccable tête à claques à la tête du MI5. À chaque intervention, tous les personnages autour de lui et les spectateurs lèvent tous leurs yeux au ciel à l’unisson en se demandant bien comment il a pu avoir ce poste. Une très belle représentation du privilège blanc cishet. 
+
+Si on m’avait dit en commençant *Slow Horses* que la série allait compter au moins sept saisons, j’aurais été pour le moins sceptique. Certes, avec six épisodes à chaque fois, la création d’Apple TV reste plus courte que la moyenne. Après trente épisodes toutefois, je dois dire qu’à part un écart ou deux, le niveau a été non seulement excellent, mais surtout, je suis confiant sur la suite. Même si les bases sont toujours les mêmes, les personnages et situations évoluent suffisamment pour ne jamais tomber dans la redite. Résultat, j’ai hâte de savoir ce que l’équipe de bras-cassés fera ensuite… réponse l’année prochaine !
