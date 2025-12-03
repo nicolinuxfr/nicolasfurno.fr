@@ -1,0 +1,10 @@
+---
+title: "*Espion à l'ancienne*, Netflix (saison 2)"
+date: 2025-12-03T21:24:07+01:00
+tmdb: 245312 
+saison: [2]
+---
+
+La [première saison](/serie/espion-ancienne-netflix/) m’avait beaucoup plu, alors je n’ai pas hésité quand Netflix a mis en ligne la suite. *Espion à l’ancienne* est une sitcom délicieuse et ces huit nouveaux épisodes sont dans la droite lignée des précédents. La maison de retraite n’est plus le cadre principal ici, c’est logique, alors Michael Schur imagine à la place une autre enquête, cette fois au cœur d’une université américaine. Il y a bien une intrigue en quête d’un coupable, mais cette fois encore, ce n’est pas l’essentiel, même si c’est plutôt bien mené à nouveau. Le principal, ce sont les relations entre les différents personnages et les acteurs ont l’occasion de creuser leur psychologie, tandis que la saison fait appel à un casting élargi pour l’occasion. Rien de révolutionnaire ici, ce n’est nullement nécessaire et même si la découverte des débuts a cédé la place à une forme de routine par moments, cela ne gâche en rien le plaisir de suivre ces histoires douces et amusantes à la fois.
+
+Ted Danson reste la star incontestée, l’acteur est tellement à son aise dans ce rôle de détective privé super classe, à défaut d’être très bon. C’est d’ailleurs une excellente idée d’*Espion à l’ancienne*, on n’est pas ici sur le génie qui a tout compris avant tout le monde, c’est presque le contraire et j’avais suspecté le vrai coupable très rapidement. Son véritable talent est plutôt humain, il sait bien s’entourer et parvient à mettre en confiance tous ses proches. Je trouve que c’est ce qui fonctionne le mieux aussi à l’échelle de la série. Michael Schur parvient comme toujours à faire rire, mais il va bien au-delà, comme il l’avait déjà prouvé avec [*The Good Place*](https://voiretmanger.fr/good-place-schur-nbc/). Sans aller aussi loin, cette petite série est rendue si sympathique par sa galerie de personnages et j’espère que Netflix lui permettra de poursuivre pour quelques saisons encore.
