@@ -1,0 +1,14 @@
+---
+title: "*LUX*, Rosalía"
+date: 2025-12-17T21:20:00+01:00
+id: 1848167516
+pays: "es"
+---
+
+J’ai entendu parler pour la première fois de *LUX* (bon, je l’avoue, et de Rosalìa…) dans un [excellent podcast](https://abatonsrompus.fr/77/) où le projet était présenté comme un album conceptuel autour de saintes catholiques. Si le grand fan de rock progressif que je reste a été instantanément attiré par la première partie, la deuxième m’a dissuadé de même tester l’expérience. Quelle erreur ! Suggéré à son tour par l’homme qui partage ma vie, je lui ai finalement donné une chance et dès la première écoute… quelle claque.
+
+Le concept m’échappe en grande partie, puisque les dix-huit titres sont majoritairement en espagnol, même si Rosalía y chante en pas moins de quatorze langues différentes. Ajoutez à cela l’orchestre symphonique de Londres, des chœurs et probablement une armée de personnels et vous obtenez un album d’une heure[^1] d’une ampleur insoupçonnée. *LUX* est une œuvre qui semble à la fois parfaitement cohérente et presque dingue, avec des bascules d’une ambiance à une autre radicalement différente d’un morceau au suivant, ce qui est tout à fait mon genre de musique. Par rapport au rock progressif de mon enfance, je dois saluer la concision de l’artiste, qui parvient à condenser tellement d’émotions dans des morceaux pourtant courts. « [*‌Berghain*](https://www.youtube.com/watch?v=htQBS2Ikz6c) » est un bel exemple : il dure à peine trois minutes et rassemble pourtant plusieurs mouvements et une foule d’idées qui dépasse l’entendement. J’ai toujours eu un faible pour les titres qui changent du tout au tout et avec l’orchestre pour appuyer la voix de la chanteuse, je ne pouvais qu’être séduit. La fin en douceur est peut-être moins spectaculaire, elle n’est pas moins belle pour autant. Après cette heure d’écoute, on a vraiment l’impression de sortir d’une expérience complète tellement satisfaisante.
+
+Tantôt monumental, tantôt intimiste, mélangeant tous les genres pour tracer sa propre voie, *LUX* ne cesse de surprendre d’un bout à l’autre. C’est vraiment une superbe découverte qui tourne en boucle dans mes oreilles depuis que j’ai mis la main dessus. Même si la proposition de Rosalía ne vous séduit pas sur le papier, laissez-lui une chance, vous serez peut-être vous aussi agréablement surpris. De mon côté, je ne sais pas encore si ses travaux me plairont autant, mais je compte bien essayer. 
+
+[^1]: Uniquement la version sur CD d’ailleurs, pas celle pour streaming qui est privée de trois morceaux. Juste, pourquoi ? Le CD est le format physique limité sur la durée, par le streaming, en théorie. Quelque chose m’échappe, mais en tout cas, ne vous trompez pas si vous voulez écouter l’œuvre en entier.
