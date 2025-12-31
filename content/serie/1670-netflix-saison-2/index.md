@@ -1,0 +1,10 @@
+---
+title: "*1670*, Netflix (saison 2)"
+date: 2025-12-31T21:51:41+01:00
+tmdb: 236450 
+saison: [2]
+---
+
+Grand amateur d’absurde, la [première saison](/serie/1670-netflix/) de *1670* m’avait enchanté et c’est tout naturellement que j’ai poursuivi l’expérience. Huit nouveaux épisodes constituent cette saison 2 et ils ne m’ont pas déçu. La série polonaise de Netflix maintient sa même ligne, avec un faux-documentaire bourré d’anachronismes sur un village polonais du XVII<sup>e</sup> siècle, tout en offrant aux personnages davantage de place pour exister. C’est ce que j’ai le plus apprécié je crois dans cette suite, on ne reste pas à la farce facile, il y a de vrais arcs narratifs et des évolutions intéressantes pour la majorité des personnages. Même si Jan Paweł, le père de famille et chef du village, reste aussi idiot qu’avant et évolue assez peu, ce n’est pas le cas de ses enfants ou de sa femme. Les parcours féminins sont particulièrement réussis, ce qui est certainement approprié dans cette série qui fait de l’anachronisme une de ses briques fondamentales. 
+
+*1670* sort aussi davantage du village de base et ouvre son univers à d’autres lieux et cultures. Le premier épisode de la saison, du tourisme au Moyen-Orient, est une vraie réussite, tout comme l’épisode à Varsovie dans un tout autre genre. On sent que les créateurs ont pris plus de liberté, ils évoquent des thèmes plus variés et osent davantage d’idées, en particulier dans le dernier épisode, assez bluffant. La fin très ouverte promet une expansion encore plus grande et si cela aurait pu m’inquiéter ailleurs, je suis ici plutôt confiant. La série de Netflix a largement eu l’occasion de prouver ses mérites et je suis très curieux de voir ce que *1670* peut proposer, après avoir explosé ses fondations dans cette saison. Elle pourrait se perdre en effet, mais je crois que ses auteurs ont une bonne idée en tête et qu’ils maintiendront le cap. Vivement la suite pour le découvrir. 
