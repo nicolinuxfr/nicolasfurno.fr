@@ -1,0 +1,11 @@
+---
+title: "*On a vu pire*, Netflix"
+date: 2026-01-22T21:49:37+01:00
+tmdb: 237983 
+---
+
+*On a vu pire*… comme le titre français de cette série Netflix mexicaine ? La version originale, *‌Ojitos de huevo*, que l’on pourrait traduire par « yeux mignons d’œuf » est bien plus poétique tout en donnant une indication sur son sujet. Sur deux saisons et seize épisodes d’une demi-heure, cette création de Santiago Limón suit les aventures d’Alexis, aveugle de naissance qui décide un beau jour de se lancer dans une carrière de stand-up à Mexico. Il est interprété par un acteur aveugle nommé Alexis Arroyo et il est très vite évident que c’est largement autobiographique. C’est aussi une série drôle et touchante à la fois et je la recommande si vous aimez l’humour noir.
+
+Alexis Arroyo a certainement enjolivé la situation, son vécu transparaît évidemment à travers le projet et le jeune acteur parvient bien à nous faire vivre son quotidien difficile, sans jamais tomber dans le larmoyant. Au fond, *On a vu pire* porte un joli message d’espoir, avec des personnages handicapés qui parviennent toujours à s’en sortir face à l’adversité. C’est aussi une comédie bien rythmée, ce que j’ai apprécié, qui joue sur plusieurs registres. Il y a des gags visuels, d’innombrables blagues autour du handicap notamment du personnage principal et une grosse dose d’auto-dérision. Sans aller jusqu’à parler d’œuvre politique, la dénonciation de l’utilisation des personnes en situation de handicap pour se donner bonne conscience est un fil rouge peut-être assez évident, ce qui ne l’empêche pas d’être bien trouvé et surtout bien mené. 
+
+Au bout du compte, *On a vu pire* est une série qui m’a séduite et que j’ai regardée avec plaisir. Ce n’est pas l’œuvre la plus originale qui soit, certes, mais ses personnages sont attachants et l’humour est constant, sans étouffer une dose d’émotion notamment sur la fin. Mon seul regret est l’absence de développement amoureux pour le personnage de Charly, malgré une esquisse dans la première saison. C’est dommage de ne pas lui avoir accordé plus de place.  
