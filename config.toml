@@ -50,6 +50,6 @@ enableGitInfo = true
       unsafe = true
 
 [caches]
-  [caches.getjson]
+  [caches.getresource]
     dir = ':resourceDir/_gen/'
     maxAge = "536h"
