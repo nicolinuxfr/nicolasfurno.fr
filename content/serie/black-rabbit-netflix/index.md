@@ -1,6 +1,6 @@
 ---
 title: "*Black Rabbit*, Netflix"
-date: 2026-02-22T21:22:14+01:00
+date: 2026-02-24T21:19:14+01:00
 tmdb: 249039 
 ---
 
