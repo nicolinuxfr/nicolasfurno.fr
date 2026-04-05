@@ -1,5 +1,5 @@
 ---
-title: « f »
+title: "*Une bataille après l'autre*, Paul Thomas Anderson"
 date: 2026-04-05T18:32:35+02:00
 id: 1054867 
 ---
