@@ -1,5 +1,5 @@
 baseURL = 'https://nicolasfurno.fr'
-languageCode = 'fr_FR'
+locale = 'fr_FR'
 defaultContentLanguage = "fr"
 title = 'Le blog de Nicolas Furno'
 theme = 'nicolasfurno'
