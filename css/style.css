@@ -297,6 +297,7 @@ h1 {
     font-size: 1.6em;
     line-height: 1.2em;
     font-variant-ligatures: common-ligatures discretionary-ligatures;
+    hyphens: auto;
 }
 
 #single .title em,
@@ -454,6 +455,7 @@ h1 {
     #single-photo .title {
         margin: 1vw auto;
         font-size: 3.5vw;
+        hyphens: none;
     }
 
     #single .content {
