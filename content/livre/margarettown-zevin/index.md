@@ -1,0 +1,10 @@
+---
+title: "*Margarettown*, Gabrielle Zevin"
+date: 2026-05-23T21:55:33+02:00
+id: bySNEQAAQBAJ
+pays: "us"
+---
+
+J’avais tant aimé [*Demain, et demain, et demain*](/livre/demain-demain-demain-zevin/) qu’en tombant dans une librairie sur *Margarettown*, je me suis laissé tenter. C’est le premier roman de Gabrielle Zevin, publié en 2005 à l’origine même s’il était encore inédit en France jusque-là. L’éditeur a repris la même idée pour la couverture, tissant un lien évident entre les deux livres, quand bien même ils n’ont pas grand-chose à voir. La maîtrise de l’autrice, notamment dans l’écriture soignée des personnages, n’est pas encore tout à fait au point et même si j’ai apprécié ma lecture, je ne peux pas dire que j’ai été emporté de la même manière qu’avec son œuvre la plus récente. Même s’il y a de bonnes idées, l’ensemble m’a semblé un petit peu brouillon et j’ai lu les quasiment 250 pages sans déplaisir, mais sans véritable passion non plus. 
+
+Le dispositif mis en œuvre, ce récit raconté par un père mourant à destination de sa fille, m’a semblé assez lourd par endroits. En même temps, il était nécessaire pour ce qui est à mon sens l’une des meilleures idées de Gabrielle Zevin : une touche de fantastique autour de l’identité de Margaret. Pendant une partie du roman, le lecteur ne sait plus trop s’il a affaire à une simple romance, une mystérieuse histoire sur une faille temporelle ou le récit d’un homme instable, voire mythomane. Ce flou est une excellente idée et *Margarettown* l’entretient jusqu’au bout, une bonne chose. Il y a d’autres pistes suivies par la romancière qui sont plus, comme dire, étonnantes. J’ai trouvé toute le partie dans le ventre assez ridicule et globalement, la fin n’est pas bien maîtrisée. Je ne veux pas être trop sévère non plus, la lecture est restée plaisante et Gabrielle Zevin ne manque pas d’imagination, ce qui doit être salué même si tout n’a pas fonctionné aussi bien qu’espéré pour moi. On sent que c’est un premier essai et c’est aussi intéressant de pouvoir évaluer le chemin parcouru en quelques années. 
