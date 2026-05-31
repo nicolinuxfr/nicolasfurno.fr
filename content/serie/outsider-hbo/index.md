@@ -1,0 +1,13 @@
+---
+title: "*The Outsider*, HBO"
+date: 2026-05-31T22:28:33+02:00
+tmdb: 84661 
+saison: [1]
+---
+
+
+*The Outsider* débute comme un thriller des plus classiques, même s’il est extrêmement bien fait. Les deux premiers épisodes en particulier sont une belle leçon de mise en scène et de direction d’acteurs, malgré un agaçant penchant pour tout assombrir. Associé à la compression bien trop extrême de HBO, la série est par endroits illisible, mais ce n’est pas la faute de ses concepteurs au fond et si l’on arrive à ignorer ce défaut bien trop commun à l’époque, on tient là indéniablement un excellent début. C’est intense, très prenant et l’énigme posée par ce meurtre qui paraît évidemment commis par un suspect qui dispose en même temps d’un alibi en béton est passionnante et bien menée. Ce qui est encore plus intéressant, je trouve, c’est ce qui vient après. La suite enfonce les policiers dans une bouillasse de preuves contradictoires de plus en plus profonde, avant de basculer vers le fantastique.
+
+La bascule se fait d’abord très lentement, avec des touches de doute qui s’installent dans un épisode ou deux, puis brutalement sur la fin. Le rythme est très bien géré et *The Outsiders* ne respecte même pas celui du roman original, ce qui est intéressant. Après avoir regardé les dix épisodes, j’ai souvent lu des critiques sur la lenteur de l’ensemble ou l’impression de voir un film étalé pour tenir sur une saison entière. *Binge-watching* oblige, ma perception est sans doute différente. On avance au même rythme que les personnages, dans le brouillard complet, et cette lenteur est selon moi un facteur clé dans la réussite de l’ensemble. Si la narration avançait plus vite, la révélation sur la nature du coupable aurait sans doute été ridicule. Ici, tout passe bien, parce que les personnages sont tout aussi sceptiques et ont besoin de temps pour comprendre. *‌The Outsider* prend le parti de suivre cette évolution au plus près, ce qui rend l’argumentation bien plus convaincante. J’étais très inquiet que la fin soit médiocre après de tels débuts, mais même cet aspect souvent compliqué dans les séries fantastiques est bien géré. 
+
+D’ailleurs, je suis ravi pour une fois que HBO n’ait pas souhaité prolongé la série. Je ne sais pas trop quelle idée avaient les producteurs, alors que les dix épisodes que l’on a forment un tout cohérent qui se suffit amplement à lui-même. Tout développement aurait inévitablement trop expliqué, trop dévoilé et on serait tombé dans le ridicule à nouveau. En l’état, si *The Outsider* souffre peut-être de quelques défauts, surtout stylistiques, je trouve l’ensemble vraiment brillant. Chaudement recommandé ! 
