@@ -185,7 +185,14 @@ h1 {
         display: grid;
         grid-template-columns: repeat(2, 1fr);
         grid-gap: 0.5em;
-        margin:5vw 0;
+        margin: 5vw 0 2vw 0;
+    }
+
+    @supports (display: grid-lanes) {
+        .articles {
+            display: grid-lanes;
+            flow-tolerance: 3em;
+        }
     }
 
     .articles .item {
