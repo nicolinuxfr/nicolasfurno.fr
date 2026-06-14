@@ -1,0 +1,11 @@
+---
+title: "*Ladies First*, Thea Sharrock"
+date: 2026-06-14T17:51:55+02:00
+id: 1368881 
+---
+
+Pour être honnête, je n’aurais sûrement pas regardé *Ladies First* sans le casting associé et surtout la présence notable de Rosamund Pike et Fiona Shaw en tête d’affiche. On ne peut jamais *trop* regarder Fiona Shaw, alors fort de ce constat plein de bon sens, j’ai donné une chance au long-métrage signé Thea Sharrock, même si j’avais le sentiment de pouvoir écrire la fin rien qu’en lisant le pitch. J’ignorais alors que cette histoire qui inverse les rôles entre hommes et femmes dans notre société machiste était inspirée par un film français sorti il y a quelques années. Peut-être que cela m’aurait découragé, ce qui aurait été dommage, puisque le résultat m’a davantage plu que je l’imaginais. 
+
+Ne me faites pas dire ce que je ne dis pas. *Ladies First* est si prévisible que l’on peut effectivement deviner ce qui va se passer d’un bout à l’autre dès la toute première scène. Les scénaristes n’essaient jamais de surprendre, je ne sais pas s’il faut saluer cette prévisibilité, mais en tout cas, je n’ai jamais été étonné une seule fois. Le type odieusement macho qui se prend un coup sur la tête et découvre un monde inversé, où les hommes sont traités comme des objets sexuels et les femmes occupent tout l’espace et ont le pouvoir mène à une comédie avec quelques idées amusantes, mais une intrigue qui se déroule exactement comme vous l’imaginez, jusqu’à l’inversion finale. Cela dit, Sacha Baron Cohen compose un macho délicieusement odieux et il n’est pas mauvais pour cabotiner dans le monde inversé. Et puis, les publicités à l’envers imaginées pour *Ladies First* peuvent être amusantes, même s’il est toujours difficile de ne pas penser aux placements marketing, d’ailleurs souvent assez grossiers. 
+
+Est-ce que le film porté par Netflix fait avancer le débat sur notre société masculiniste ? Non, évidemment pas, mais ce n’est pas son objectif non plus. Si l’on peut évidemment le regretter, Thea Sharrock se contente ici de signer une simple comédie. On peut au moins avoir le plaisir de voir Rosamund Pike se régaler dans son rôle de dirigeante toute puissante dans le monde inversé. Et Fiona Shaw, bien sûr. 
