@@ -1,0 +1,86 @@
+/* CSS-Only Page Transitions using View Transitions API */
+
+/* Enable view transitions for same-origin cross-document navigations */
+@view-transition {
+  navigation: auto;
+}
+
+/* 
+  Scope all transition names to Chromium-based browsers only (via .supports-view-transitions class).
+  This avoids applying layout/paint containment to elements in Safari/Firefox which would break their layout.
+*/
+
+.header {
+  view-transition-name: site-header;
+}
+
+.footer {
+  view-transition-name: site-footer;
+}
+
+#content {
+  view-transition-name: main-content;
+}
+
+/* Dynamic hero image transition mapped from inline CSS variable */
+.image img {
+  view-transition-name: var(--vt-name);
+}
+
+/* Prevent black backdrop flash during transition and match user themes */
+::view-transition {
+  background-color: transparent;
+}
+
+/* Disable browser default root slide-up/fade animations */
+::view-transition-group(root),
+::view-transition-old(root),
+::view-transition-new(root) {
+  animation: none !important;
+}
+
+::view-transition-group(root) {
+  background-color: transparent;
+}
+
+/* Disable size/position morph animation on the main content container to prevent sliding/stretching */
+::view-transition-group(main-content) {
+  animation: none !important;
+}
+
+/* Lengthen and smooth out all morph transitions (like the hero images) */
+::view-transition-group(*) {
+  animation-duration: 0.5s;
+  animation-timing-function: cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+/* --- KEYFRAMES --- */
+
+/* Core fade animations */
+@keyframes fade-out {
+  from {
+    opacity: 1;
+  }
+  to {
+    opacity: 0;
+  }
+}
+
+@keyframes fade-in {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+/* --- TRANSITIONS MAPS --- */
+
+/* All pages (including menu and search): smooth, quick crossfade for a polished app-like feel */
+::view-transition-old(main-content) {
+  animation: fade-out 0.15s ease-out both;
+}
+::view-transition-new(main-content) {
+  animation: fade-in 0.25s ease-in both;
+}
