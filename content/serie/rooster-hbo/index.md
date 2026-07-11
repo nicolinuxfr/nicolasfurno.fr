@@ -1,0 +1,11 @@
+---
+title: "*Rooster*, HBO"
+date: 2026-07-11T21:56:56+02:00
+tmdb: 254953 
+saison: [1]
+---
+
+La dernière série de Bill Lawrence — qui s’est fait connaître pour le fort moyen [*Scrubs*](/serie/scrubs-nbc/) même si son nom est associé à de meilleures séries récentes, [*Shrinking*](/serie/shrinking-apple-tv+/) en tête — imagine un auteur à succès de romans de gare donner un cours d’écriture dans une prestigieuse université. Le point de départ de *Rooster* est intéressant, même si ce n’est pas vraiment le sujet en réalité. Comme souvent, il est surtout question ici des personnages eux-mêmes et de leurs interactions, bien plus que du rapport entre les études académiques de haut niveau et l’écriture populaire. La série portée par HBO s’approche d’une sitcom de lieu de travail, même si elle n’en reprend pas les codes, en particulier esthétique. C’est quelque chose qui surprend dès le premier épisode, la photographie est extrêmement contrastée et assez sombre, ce qui donne à la première saison un ton assez original et qui m’a bien plu, passée la surprise initiale. D’ailleurs, de manière générale, ces dix épisodes m’ont finalement convaincu, alors que je partais plutôt sceptique.
+
+Il faut dire que les débuts sont assez rudes. Forcément, un créateur plus tout jeune qui essaie de représenter des étudiants, le côté « ok boomer » est assez pénible et j’ai vraiment cru arrêter très rapidement. Néanmoins, *Rooster* s’éloigne vite des clichés faciles, une leçon apprise de l’échec de *Scrubs* de ce côté peut-être, et on apprend rapidement à découvrir des personnages riches et donc intéressants. Dans le rôle principal, Steve Carrell est égal à lui-même et vraiment bon, on ne peut pas le nier. Autour de lui, la création HBO réunit un casting convaincant, tant dans le personnel enseignant que les étudiants. J’ai beaucoup aimé le parcours de Tommy (Maximo Salas), assez convenu dans l’idée, mais très bien réalisé. Katie, interprétée par Charly Clive, est également très juste dans sa relation compliquée avec ses parents et son (ex-)mari. C’est là que Bill Lawrence marque des points et finit par séduire, à tel point que je ne suis pas contre poursuivre l’expérience avec la saison 2, d’ores et déjà prévue. 
+
