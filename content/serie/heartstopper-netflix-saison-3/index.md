@@ -4,6 +4,7 @@ date: 2024-10-11T21:25:01+02:00
 tmdb: 124834 
 saison: [3]
 apres: /film/heartstopper-forever-westmoreland/
+texte_apres: "Critique du film suivant"
 ---
 
 Carton-plein pour *Heartstopper*, qui parvient pour une raison ou une autre à hausser encore le ton et à faire encore mieux avec cette troisième saison. Elle est toujours aussi courte avec ses huit épisodes de 30 minutes et avec un an de plus, les acteurs ont toujours plus de mal à être crédibles en jeunes de 15 ou 16 ans. Voilà pour les critiques, pour tout le reste, c’est mignon tout plein et avec un nouveau défi relevé avec brio par Alice Oseman : parler de troubles psychologiques sans tomber dans les clichés faciles. Sans surprise, elle le fait aussi bien qu’en parlant de sexualité ou de genre : avec précision, parfaitement renseignée et sans sortir la carte d’une guérison miraculeuse après deux passages chez le psy.

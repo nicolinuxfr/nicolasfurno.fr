@@ -3,6 +3,7 @@ title: "*Heartstopper Forever*, Wash Westmoreland"
 date: 2026-07-19T19:03:29+02:00
 id: 1468683
 avant: /serie/heartstopper-netflix-saison-3/
+texte_avant: "Critique de la saison précédente"
 ---
 
 Après [trois excellentes saisons](/tmdb/124834/), l’avenir de la série *Heartstopper* semblait soudainement compromis. N’écoutant que les chiffres d’audience, Netflix considérait une annulation et avec un casting qui s’éloignait rapidement de l’âge des personnages, on pouvait de plus en plus craindre ce scénario. Fort heureusement, Alice Oseman, probablement bien aidée par les fans, a réussi à convaincre l’entreprise américaine d’offrir une fin satisfaisante à l’histoire de Nick et Charlie. Pas une quatrième saison, hélas, mais un long-métrage de quasiment deux heures, une demi-saison en quelque sorte. Bonne nouvelle, *Heartstopper Forever* ne perd pas la magie, maintenue depuis le début, et c’est une fin toute mignonne et fort sympathique pour tous ces personnages que l’on a appris à connaître depuis 2022. Même si on voit les coupes franches, notamment à travers arcs secondaires sacrifiés par le scénario, l’essentiel est là. Les deux héros ont droit à une belle conclusion à leur histoire d’amour et l’ensemble forme une très belle comédie romantique, pleine d’espoir, sans ignorer les difficultés. 
