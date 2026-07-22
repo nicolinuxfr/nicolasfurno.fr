@@ -1,0 +1,10 @@
+---
+title: "*Knokke Off*, VRT Max (saison 3)"
+date: 2026-07-22T21:14:33+02:00
+tmdb: 203616 
+saison: [3]
+---
+
+*Knokke Off* se conclut avec une troisième saison dans la lignée des deux précédentes, ce qui est une bonne chose. Les adolescents grandissent et deviennent des adultes, alors cette conclusion de la série diffusée sur Netflix dans nos contrées propose une sorte de passage des flambeaux. Elle introduit quelques nouveaux personnages avec l’arrivée en ville de la famille Vermeer, ajoutant un quatrième élément au trio original avec l’arrivée de Juliette. La [deuxième saison](/serie/knokke-off-vrt-max-saison-2/) se terminait sur une nouvelle mort, répétant un schéma déjà vu dans [la première](/serie/knokke-off-vrt-max/), mais fort heureusement, les scénaristes conservent la trame policière, sans se concentrer dessus. On se concentre comme toujours sur les personnages principaux, entre dilemme moral pour Daan, guérison pour Louise et prise en charge de l’entreprise familiale pour Alexandre. 
+
+Anthony Van Biervliet dépeint toujours aussi bien cette société entièrement pourrie par l’argent. Dans l’un des épisodes, un rally organisé par la ville est l’occasion d’une débauche d’argent et de comportements odieux, avec des gens qui s’ennuient et cherchent à se divertir en se moquant des autres. *Knokke Off* est fondamentalement vide, il n’y a rien d’important dans cet univers, à tel point que des familles peuvent s’échanger des millions d’euros sans que rien ne change. Dans cette saison, certains personnages commencent d’ailleurs à en prendre conscience et même si les scénaristes gèrent cette évolution de manière un peu maladroite parfois (le Népal, sérieusement ?), j’ai trouvé que c’était une évolution intéressante de la série. Au bout du compte, c’est surtout les personnages qui sont intéressants et à cet égard, la création de VRT Max est une réussite. Louise reste un point fort jusqu’au bout, Juliette était intéressante, mais je retiendrais surtout la terrifiante Viviane De Muynck qui joue Jacqueline. Quelle performance et quelle présence écrasante à l’écran ! Elle justifie presque à elle seule de voir la série. 
