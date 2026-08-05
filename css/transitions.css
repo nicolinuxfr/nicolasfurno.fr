@@ -5,10 +5,7 @@
   navigation: auto;
 }
 
-/* 
-  Scope all transition names to Chromium-based browsers only (via .supports-view-transitions class).
-  This avoids applying layout/paint containment to elements in Safari/Firefox which would break their layout.
-*/
+/* Browsers without View Transitions ignore these declarations and keep normal navigation. */
 
 .header {
   view-transition-name: site-header;
@@ -77,10 +74,18 @@
 
 /* --- TRANSITIONS MAPS --- */
 
-/* All pages (including menu and search): smooth, quick crossfade for a polished app-like feel */
+/* Keep both halves of the crossfade synchronized so the page background never shows through. */
 ::view-transition-old(main-content) {
-  animation: fade-out 0.15s ease-out both;
+  animation: fade-out 0.2s ease-in-out both;
 }
 ::view-transition-new(main-content) {
-  animation: fade-in 0.25s ease-in both;
+  animation: fade-in 0.2s ease-in-out both;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  ::view-transition-group(*),
+  ::view-transition-old(*),
+  ::view-transition-new(*) {
+    animation-duration: 0s !important;
+  }
 }
