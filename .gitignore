@@ -1,7 +1,7 @@
 /public/
 /resources/_gen/
+/node_modules/
 .env
 .envrc
 .hugo_build.lock
 .DS_Store
-static/_pagefind
