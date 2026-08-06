@@ -28,6 +28,8 @@ enableGitInfo = true
 
 [outputs]
   home = ["HTML", "RSS"]
+  taxonomy = ["HTML"]
+  term = ["HTML"]
 
 [taxonomies]
   saga = 'sagas'
