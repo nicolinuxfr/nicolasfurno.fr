@@ -27,7 +27,7 @@ enableGitInfo = true
   weight = 100
 
 [outputs]
-  home = ["HTML", "RSS", "JSON"]
+  home = ["HTML", "RSS"]
 
 [taxonomies]
   saga = 'sagas'

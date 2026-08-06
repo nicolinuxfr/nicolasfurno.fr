@@ -1,0 +1,6 @@
+site: public
+output_subdir: pagefind
+exclude_selectors:
+  - ".meta-photos"
+  - ".meta-top .date"
+  - ".saison"
