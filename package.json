@@ -4,7 +4,7 @@
     "build:hugo": "hugo --cleanDestinationDir --minify --enableGitInfo",
     "index": "pagefind",
     "build": "npm run build:hugo && npm run index",
-    "preview": "npm run build:hugo && pagefind --serve"
+    "preview": "(test -x node_modules/.bin/pagefind || npm ci) && npm run build:hugo && pagefind --serve"
   },
   "devDependencies": {
     "pagefind": "1.5.2"
