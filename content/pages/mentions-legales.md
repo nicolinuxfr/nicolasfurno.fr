@@ -2,12 +2,12 @@
 title: "Mentions légales"
 ---
 
-Ce site est édité par Nicolas Furno et hébergé par la société GitHub (88 Colin P Kelly Jr St, San Francisco, CA 94107 - États-Unis).
+Ce site est édité par Nicolas Furno et hébergé par Cloudflare (101 Townsend Street, San Francisco, CA 94107, États-Unis).
 
 Tous droits réservés.
 
 ### Données personnelles
 
-GitHub peut collecter votre adresse IP et la référence des pages que vous regardez pour répondre à des obligations légales et maintenir la sécurité et l’intégrité de ses services. Pour en savoir plus, vous pouvez consulter les [déclarations de confidentialité de GitHub](https://docs.github.com/en/github/site-policy/github-privacy-statement#additional-services).
+Aucune donnée personnelle n’est directement collectée par ce site, qui n’utilise aucun outil de mesure d’audience ou de suivi publicitaire.
 
-Aucune donnée personnelle n’est directement collectée par ce site, qui n’utilise aucun outil de suivi à des fins d'analyse statistique ou de toute autre nature.
+Cloudflare peut néanmoins collecter des données techniques nécessaires à la fourniture et à la sécurisation de son service, notamment l’adresse IP, la date et l’heure de la requête, la page demandée et certaines informations relatives au navigateur ou à l’appareil utilisé. Pour en savoir plus, vous pouvez consulter la [politique de confidentialité de Cloudflare](https://www.cloudflare.com/fr-fr/privacypolicy/).
