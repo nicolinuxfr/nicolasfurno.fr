@@ -1,10 +1,10 @@
 {
   "private": true,
   "scripts": {
-    "build:hugo": "hugo --cleanDestinationDir --minify --enableGitInfo",
+    "build:hugo": "hugo --minify --enableGitInfo",
     "index": "pagefind",
     "build": "npm run build:hugo && npm run index",
-    "preview": "(test -x node_modules/.bin/pagefind || npm ci) && npm run build:hugo && pagefind --serve"
+    "preview": "(test -x node_modules/.bin/pagefind || npm ci) && hugo && pagefind && hugo server"
   },
   "devDependencies": {
     "pagefind": "1.5.2"

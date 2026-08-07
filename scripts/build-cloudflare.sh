@@ -9,7 +9,6 @@ fi
 
 echo "Building the site with Hugo..."
 hugo \
-  --cleanDestinationDir \
   --minify \
   --enableGitInfo \
   --cacheDir="$PWD/.cache/hugo"
