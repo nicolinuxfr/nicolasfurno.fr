@@ -701,6 +701,18 @@ h1 {
 
 /* Recherche */
 
+.visually-hidden {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
+    border: 0;
+}
+
 #search-input {
     font-family: var(--police-texte);
     font-size: 1.5em;
@@ -735,7 +747,14 @@ input:focus::placeholder {
 }
 
 #search-results a {
+    display: block;
     text-decoration: none;
+    border-radius: 0.2em;
+    outline-offset: 0.2em;
+}
+
+#search-results a:focus-visible {
+    outline: 2px solid var(--vert);
 }
 
 @media (max-width: 900px) {
@@ -743,6 +762,7 @@ input:focus::placeholder {
         font-size: 1em;
         margin:0.5em auto;
     }
+
 }
 
 /* Archives */
