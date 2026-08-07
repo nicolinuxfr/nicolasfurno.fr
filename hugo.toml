@@ -3,6 +3,7 @@ locale = 'fr_FR'
 defaultContentLanguage = "fr"
 title = 'Le blog de Nicolas Furno'
 theme = 'nicolasfurno'
+resourceDir = '.cache/resources'
 [pagination]
   pagerSize = 12
 copyright = "© Nicolas Furno"
