@@ -713,16 +713,155 @@ h1 {
     border: 0;
 }
 
+#search-input-container {
+    position: sticky;
+    z-index: 10;
+    top: 0;
+    padding: 1em 0;
+    background: rgba(255, 255, 255, 0.94);
+    backdrop-filter: blur(0.4em);
+}
+
+.page-recherche #content {
+    position: relative;
+    z-index: 1;
+}
+
 #search-input {
     font-family: var(--police-texte);
     font-size: 1.5em;
     width: 100%;
     text-align: center;
-    margin:1em auto;
+    margin: 0 auto;
     font-weight: 600;
     border-color: var(--vert);
     border-style:solid;
     padding: 0.1em;
+}
+
+@media (prefers-color-scheme: dark) {
+    #search-input-container {
+        background: rgba(13, 26, 8, 0.94);
+    }
+}
+
+#search-filters {
+    display: flex;
+    position: fixed;
+    z-index: 100;
+    right: 1em;
+    bottom: max(4.25rem, calc(env(safe-area-inset-bottom) + 1rem), var(--search-footer-clearance, 0px));
+    left: 1em;
+    align-items: center;
+    width: max-content;
+    max-width: calc(100% - 2em);
+    gap: 0.35em;
+    margin: 0 auto;
+    padding: 0.35em 0.65em;
+    overflow-x: auto;
+    scrollbar-width: none;
+    border-radius: 1.5em;
+    background: rgba(255, 255, 255, 0.94);
+    box-shadow: 0 0.15em 0.8em rgba(0, 0, 0, 0.12);
+    font-family: var(--police-meta);
+    font-size: 0.72em;
+    white-space: nowrap;
+    backdrop-filter: blur(0.4em);
+}
+
+#search-filters[hidden] {
+    display: none;
+}
+
+#search-filters:not([hidden]) + #search-results {
+    padding-bottom: 4em;
+}
+
+#search-filters::-webkit-scrollbar {
+    display: none;
+}
+
+@media (prefers-color-scheme: dark) {
+    #search-filters {
+        background: rgba(13, 26, 8, 0.94);
+        box-shadow: 0 0.15em 0.8em rgba(0, 0, 0, 0.35);
+    }
+}
+
+#search-categories {
+    display: flex;
+    gap: 0.35em;
+}
+
+.search-filter {
+    display: inline-flex;
+    flex: 0 0 auto;
+    align-items: center;
+    gap: 0.25em;
+    min-height: 2em;
+    padding: 0.15em 0.55em;
+    border: 0;
+    border-radius: 1em;
+    background: transparent;
+    color: var(--couleur-texte);
+    font: inherit;
+    cursor: pointer;
+}
+
+.search-filter[hidden] {
+    display: none;
+}
+
+.search-filter:hover,
+.search-filter:focus-visible {
+    color: var(--vert);
+}
+
+.search-filter.active {
+    font-weight: 700;
+    color: var(--vert);
+}
+
+.search-filter:focus-visible {
+    outline: 2px solid var(--vert);
+    outline-offset: 1px;
+}
+
+#search-sort {
+    color: var(--couleur-texte);
+    border-right: 1px solid currentColor;
+    border-radius: 0;
+    padding-left: 0;
+    padding-right: 0.7em;
+}
+
+.sort-arrows {
+    width: 1.65em;
+    height: 1.65em;
+    fill: none;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+}
+
+.sort-arrow {
+    stroke: currentColor;
+    stroke-width: 1.5;
+    transition: stroke 0.15s ease;
+}
+
+#search-sort:hover .sort-arrow {
+    stroke: var(--vert);
+}
+
+#search-sort[data-sort="newest"] .sort-newest,
+#search-sort[data-sort="oldest"] .sort-oldest {
+    stroke: var(--vert);
+    stroke-width: 3;
+}
+
+.search-filter-count {
+    opacity: 0.6;
+    font-variant-numeric: tabular-nums;
 }
 
 input:focus::placeholder {
@@ -736,10 +875,43 @@ input:focus::placeholder {
     font-weight: 500;
     margin: 0 1em;
     padding: 0;
+    scroll-margin-top: var(--search-input-height, 4em);
 }
 
 #search-results li {
     margin: 0.5em 0;
+}
+
+#search-results .search-results-year {
+    position: sticky;
+    z-index: 9;
+    top: var(--search-input-height, 4em);
+    padding: 0 0px 0.1em 0;
+    background: rgba(255, 255, 255, 0.85);
+    backdrop-filter: blur(0.8em);
+}
+
+#search-results li:has(+ .search-results-year) {
+    margin-bottom: 0;
+}
+
+#search-results .search-results-year + li {
+    margin-top: 0;
+}
+
+.search-results-year h2 {
+    margin: 0;
+    padding: 0;
+    color: var(--vert);
+    font-family: var(--police-meta);
+    font-size: 0.75em;
+    line-height: 1;
+}
+
+@media (prefers-color-scheme: dark) {
+    #search-results .search-results-year {
+        background: rgba(13, 26, 8, 0.94);
+    }
 }
 
 #search-results em {
@@ -758,9 +930,12 @@ input:focus::placeholder {
 }
 
 @media (max-width: 900px) {
+    #search-input-container {
+        padding: 0.5em 0;
+    }
+
     #search-input {
         font-size: 1em;
-        margin:0.5em auto;
     }
 
 }
