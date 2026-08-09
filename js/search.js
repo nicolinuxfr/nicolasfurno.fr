@@ -33,6 +33,25 @@ function focusResult(link) {
     link.scrollIntoView({ block: "center", inline: "nearest" });
 }
 
+function normalizeSearchTerm(term) {
+    return term.replace(/(^|\s)(?:[cdjlmnst]|qu)['’](?=\p{L})/giu, "$1");
+}
+
+async function searchPagefind(term) {
+    const normalizedTerm = normalizeSearchTerm(term);
+    const terms = new Set([term, normalizedTerm]);
+    if (/^\p{L}+$/u.test(normalizedTerm)) terms.add(`l’${normalizedTerm}`);
+
+    const searches = await Promise.all([...terms].map((searchTerm) => pagefind.search(searchTerm)));
+    const results = new Map();
+    searches.forEach((search) => {
+        search.results.forEach((result) => {
+            if (!results.has(result.id)) results.set(result.id, result);
+        });
+    });
+    return [...results.values()];
+}
+
 new ResizeObserver(() => {
     document.documentElement.style.setProperty("--search-input-height", `${searchInputContainer.offsetHeight}px`);
 }).observe(searchInputContainer);
@@ -54,10 +73,10 @@ async function searchExec(term) {
             return;
     }
 
-    const results = await pagefind.search(term);
+    const results = await searchPagefind(term);
     if (currentSearch !== searchNumber) return;
 
-        currentResults = await Promise.all(results.results.map(async (result, relevance) => {
+        currentResults = await Promise.all(results.map(async (result, relevance) => {
             const data = await result.data();
         return {
             data,
