@@ -750,7 +750,7 @@ h1 {
     position: fixed;
     z-index: 100;
     right: 1em;
-    bottom: max(4.25rem, calc(env(safe-area-inset-bottom) + 1rem), var(--search-footer-clearance, 0px));
+    bottom: max(4.25rem, calc(env(safe-area-inset-bottom) + 1rem));
     left: 1em;
     align-items: center;
     width: max-content;

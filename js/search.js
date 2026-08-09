@@ -6,7 +6,6 @@ const searchResults = document.getElementById("search-results");
 const searchFilters = document.getElementById("search-filters");
 const searchSort = document.getElementById("search-sort");
 const searchCategories = document.getElementById("search-categories");
-const footer = document.querySelector(".footer");
 const searchTerm = new URL(document.location).searchParams.get("s");
 let searchNumber = 0;
 let currentResults = [];
@@ -38,16 +37,6 @@ new ResizeObserver(() => {
     document.documentElement.style.setProperty("--search-input-height", `${searchInputContainer.offsetHeight}px`);
 }).observe(searchInputContainer);
 
-function updateFilterPosition() {
-    const footerTop = footer?.getBoundingClientRect().top ?? window.innerHeight;
-    const clearance = Math.max(0, window.innerHeight - footerTop + 16);
-    document.documentElement.style.setProperty("--search-footer-clearance", `${clearance}px`);
-}
-
-document.addEventListener("scroll", updateFilterPosition, { passive: true });
-window.addEventListener("resize", updateFilterPosition);
-updateFilterPosition();
-
 async function searchExec(term) {
     term = term.trim();
     updateSearchURL(term);
@@ -56,7 +45,6 @@ async function searchExec(term) {
 
     const currentSearch = ++searchNumber;
     searchResults.replaceChildren();
-    requestAnimationFrame(updateFilterPosition);
 
         if (!term) {
             currentResults = [];
@@ -124,7 +112,6 @@ function renderResults() {
     });
 
     searchResults.replaceChildren(...items);
-    requestAnimationFrame(updateFilterPosition);
 }
 
 function updateFilters() {
