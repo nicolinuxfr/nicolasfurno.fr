@@ -1,0 +1,12 @@
+---
+title: "*Shrinking*, Apple TV (saison 3)"
+date: 2026-08-12T21:50:16+02:00
+tmdb: 136311 
+saison: [3]
+---
+
+*Shrinking* se poursuit, avec onze (oui) épisodes dans la droite lignée des deux saisons précédentes. Malgré le trou de deux ans entre la [deuxième saison](/serie/shrinking-apple-tv+-saison-2/) et celle-ci, ses créateurs ont su garder l’esprit général et ils développent tous leurs personnages une fois de plus. Pas de gros bouleversements ici, les scénaristes ne se forcent pas à introduire systématiquement du nouveau et ce n’est pas plus mal. Malgré tout, la création d’Apple TV parvient à rester intéressante, avec cette manière si particulière d’alterner entre la comédie légère et le drame beaucoup plus sérieux. J’ai particulièrement été touché cette fois par le traitement réservé à Parkinson, dont souffre Paul comme on l’a découvert dans la saison précédente. Si Harrison Ford n’en souffre pas lui-même, l’acteur met son talent à profit pour représenter au mieux la maladie et il excelle dans ce rôle, comme toujours. Faire une petite place à Michael J. Fox, devenu le visage de Parkinson à Hollywood, était une belle idée qui a sûrement contribué à la manière positive, mais réaliste, de traiter le sujet.
+
+Autour de lui, la petite famille de *Shrinking* évolue tranquillement, avec comme thème le départ du foyer. La fille de Jimmy, qui est censée avoir 18 ans même si Lukita Maxwell a du mal à les faire dans ces épisodes, va partir à l’université. Ses voisins partent en voyage en Europe, son protégé qu’il héberge dans la maison près de sa piscine depuis la première saison va mieux et songe à partir… et Jimmy s’apprête à devoir vivre seul et oser rencontrer d’autres personnes pour sortir enfin de son deuil. C’est le gros fil rouge de cette troisième saison et sans trop en dire, j’ai trouvé la fin très réussie. Pourquoi alors renouveler la série pour une suite ? J’ai vraiment peur que ce soit la saison de trop, même si *Shrinking* a prouvé jusque-là qu’elle pouvait tenir la distance, alors pourquoi pas. Peut-être que Gaby pourra nous sortir de cette bulle d’ultra-riches avec leurs problèmes sans conséquence, ça ne ferait pas de mal. D’ici là, ces onze nouveaux épisodes ont été un délice et ce genre d’ambiance fondamentalement optimiste et insouciante, malgré les difficultés, fait du bien en 2026. 
+
+*Fuck Parkinson !*
