@@ -4,6 +4,12 @@ defaultContentLanguage = "fr"
 title = 'Le blog de Nicolas Furno'
 theme = 'nicolasfurno'
 resourceDir = '.cache/resources'
+
+[imaging]
+  resampleFilter = 'Lanczos'
+  [imaging.jpeg]
+    quality = 85
+
 [pagination]
   pagerSize = 12
 copyright = "© Nicolas Furno"
