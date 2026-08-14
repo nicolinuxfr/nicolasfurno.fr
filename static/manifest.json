@@ -1,13 +1,16 @@
 {
     "name": "Le blog de Nicolas Furno",
     "short_name": "Nicolas Furno",
-    "start_url": ".",
+    "id": "/",
+    "start_url": "/",
+    "scope": "/",
     "display": "standalone",
     "background_color": "#487b00",
+    "theme_color": "#487b00",
     "description": "Mon blog personnel.",
     "icons": [
       {
-        "src": "images/favicon.ico",
+        "src": "/img/favicon.ico",
         "sizes": "32x32",
         "type": "image/x-icon"
       },
@@ -34,12 +37,11 @@
         },
         {
           "name": "Archives",
-          "url": "/archives"
+          "url": "/archives/"
         },
         {
           "name": "Recherche",
-          "url": "/recherche"
+          "url": "/recherche/"
         }
       ]
   }
-  

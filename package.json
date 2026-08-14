@@ -1,6 +1,8 @@
 {
   "private": true,
   "scripts": {
+    "clean": "rm -rf public",
+    "prebuild": "npm run clean",
     "build:hugo": "hugo --minify --enableGitInfo",
     "index": "pagefind",
     "build": "npm run build:hugo && npm run index",
