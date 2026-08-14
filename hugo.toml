@@ -7,6 +7,8 @@ resourceDir = '.cache/resources'
 
 [imaging]
   resampleFilter = 'Lanczos'
+  [imaging.meta]
+    fields = ['! *{Exif,Exposure[MPB],Contrast,Resolution,Sharp,JPEG,Metering,Sensing,Saturation,ColorSpace,Flash,WhiteBalance}*']
   [imaging.jpeg]
     quality = 85
 
