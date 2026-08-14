@@ -7,11 +7,19 @@ if [ "$(git rev-parse --is-shallow-repository)" = "true" ]; then
   git fetch --unshallow --filter=blob:none
 fi
 
+if [ ! -f "$PWD/hugo.toml" ] || [ ! -f "$PWD/package.json" ]; then
+  echo "Run this script from the project root." >&2
+  exit 1
+fi
+
+PUBLIC_DIR="$PWD/public"
+echo "Removing the previous generated site..."
+rm -rf -- "$PUBLIC_DIR"
+
 echo "Building the site with Hugo..."
 hugo \
   --minify \
   --enableGitInfo \
-  --cleanDestinationDir \
   --cacheDir="$PWD/.cache/hugo"
 
 JPEGTRAN_BIN="$(command -v jpegtran || true)"
