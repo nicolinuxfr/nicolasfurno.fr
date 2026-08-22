@@ -1,0 +1,82 @@
+{
+  "adult": false,
+  "backdrop_path": "/bwsGEeiEnKqsZ9vm3G82as8xUu7.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comédie"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/81770502",
+  "id": 1418582,
+  "imdb_id": "tt40001699",
+  "origin_country": [
+    "BR"
+  ],
+  "original_language": "pt",
+  "original_title": "Quinze Dias",
+  "overview": "Les projets de vacances d'un adolescent peu sûr de lui sont chamboulés par une visiteuse inattendue : sa voisine et amour secret d'école, qui va passer deux semaines à dormir chez lui. Les journées qui promettaient calme, tranquillité et marathons de séries épiques finissent par apporter un tourbillon d'émotions et de problèmes non résolus.",
+  "popularity": 45.5649,
+  "poster_path": "/3F1SkTYPzPBwcv33V3ryeNK8ZlE.jpg",
+  "production_companies": [
+    {
+      "id": 2429,
+      "logo_path": "/s0p6DEF7H9yooJFjKhN4lFpTiVk.png",
+      "name": "Conspiração Filmes",
+      "origin_country": "BR"
+    },
+    {
+      "id": 11547,
+      "logo_path": "/kyOeH5CwsaILcJItafIMAM4KElB.png",
+      "name": "Agência Nacional do Cinema - ANCINE",
+      "origin_country": "BR"
+    },
+    {
+      "id": 197334,
+      "logo_path": "/poEQXm0Ej4xjSYWDf93xBbo8Gco.png",
+      "name": "Banco Regional de Desenvolvimento do Extremo Sul",
+      "origin_country": "BR"
+    },
+    {
+      "id": 181087,
+      "logo_path": "/1doJ1Sg6VVCietnJZC7Da38Uk1e.png",
+      "name": "Fundo Setorial do Audiovisual",
+      "origin_country": "BR"
+    },
+    {
+      "id": 129173,
+      "logo_path": "/rWVSRKmwaCk83jF3I9OuvlwT8HL.png",
+      "name": "Ministério da Cultura/Governo Federal",
+      "origin_country": "BR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BR",
+      "name": "Brazil"
+    }
+  ],
+  "release_date": "2026-06-18",
+  "revenue": 0,
+  "runtime": 101,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Quinze Dias",
+  "video": false,
+  "vote_average": 7.333,
+  "vote_count": 24
+}
