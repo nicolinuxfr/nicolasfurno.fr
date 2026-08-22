@@ -11,26 +11,38 @@ book_cover() {
   isbn=$(print -r -- "$meta" | jq -r '.isbn13 // empty')
   query=${isbn:+isbn:$isbn}
   [[ -n $query ]] || query=$(print -r -- "$meta" | jq -r '"intitle:" + .title')
-  response=$(/usr/bin/curl --silent --location --retry 2 --retry-all-errors --retry-delay 1 \
+  print 'Recherche de la couverture…'
+  response=$(/usr/bin/curl --silent --location --connect-timeout 4 --max-time 12 \
+    --retry 1 --retry-all-errors --retry-delay 1 --retry-max-time 15 \
     --get 'https://www.googleapis.com/books/v1/volumes' --data-urlencode "q=$query" \
     --data-urlencode maxResults=1 ${key:+--data-urlencode "key=$key"} \
     --write-out $'\n%{http_code}' 2>/dev/null || true)
   http_status=${response##*$'\n'}
   response=${response%$'\n'*}
   if [[ $http_status != 200 ]]; then
-    [[ $http_status == 429 ]] && print -u2 'Couverture non récupérée : quota Google Books atteint.'
+    if [[ $http_status == 429 ]]; then
+      print -u2 'Couverture non récupérée : quota Google Books atteint.'
+    else
+      print -u2 'Couverture non récupérée : Google Books ne répond pas.'
+    fi
     return 0
   fi
   cover=$(print -r -- "$response" | jq -r '.items[0].volumeInfo.imageLinks.extraLarge // .items[0].volumeInfo.imageLinks.large // .items[0].volumeInfo.imageLinks.medium // .items[0].volumeInfo.imageLinks.thumbnail // empty' 2>/dev/null || true)
   [[ -n $cover ]] || return 0
-  /usr/bin/curl --fail --silent --show-error --location --remove-on-error "$cover" --output "$target/$image" 2>/dev/null || return 0
+  cover=${cover/#http:/https:}
+  print 'Téléchargement de la couverture…'
+  if ! /usr/bin/curl --fail --silent --show-error --location --remove-on-error \
+    --connect-timeout 4 --max-time 20 --retry 1 --retry-all-errors --retry-delay 1 \
+    --retry-max-time 24 "$cover" --output "$target/$image" 2>/dev/null; then
+    print -u2 'Couverture non récupérée : téléchargement indisponible.'
+  fi
 }
 
 book_image_search() {
   local meta=$1 query encoded
   query=$(print -r -- "$meta" | jq -r '[.title, ((.authors // []) | join(" ")), .publisher] | map(select(. != null and . != "")) | join(" ")')
   encoded=$(print -rn -- "$query" | jq -sRr @uri)
-  if "$article_gum_bin" confirm --default=false 'Aucune couverture trouvée. Ouvrir une recherche d’images ?' 2>/dev/null; then
+  if "$article_gum_bin" confirm --default=false 'Aucune couverture trouvée. Ouvrir une recherche d’images ?'; then
     /usr/bin/open "https://kagi.com/images?q=$encoded&no_ai=1&size=wallpaper"
   fi
 }
