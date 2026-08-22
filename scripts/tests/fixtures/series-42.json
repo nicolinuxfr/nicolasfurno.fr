@@ -1,0 +1,19 @@
+{
+  "id": 42,
+  "name": "Série de test",
+  "original_name": "Test Show",
+  "first_air_date": "2024-01-02",
+  "last_air_date": "2025-02-01",
+  "number_of_episodes": 4,
+  "episode_run_time": [42],
+  "origin_country": ["FR"],
+  "genres": [{"id": 18, "name": "Drame"}],
+  "created_by": [],
+  "poster_path": "/poster.jpg",
+  "networks": [{"id": 1, "name": "Test TV"}],
+  "seasons": [
+    {"season_number": 0, "episode_count": 1, "name": "Épisodes spéciaux", "air_date": "2023-12-01"},
+    {"season_number": 1, "episode_count": 2, "name": "Saison 1", "air_date": "2024-01-02"},
+    {"season_number": 2, "episode_count": 2, "name": "Saison 2", "air_date": "2025-01-02"}
+  ]
+}

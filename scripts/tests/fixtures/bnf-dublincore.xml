@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<srw:searchRetrieveResponse xmlns:srw="http://www.loc.gov/zing/srw/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <srw:records><srw:record><srw:recordData>
+    <dc:title>Fourth wing / Rebecca Yarros</dc:title>
+    <dc:creator>Yarros, Rebecca. Auteur du texte</dc:creator>
+    <dc:publisher>Hugo roman (Paris)</dc:publisher><dc:date>2024</dc:date>
+    <dc:identifier>ISBN 9782755673135</dc:identifier>
+  </srw:recordData><srw:recordIdentifier>ark:/12148/cb474194687</srw:recordIdentifier></srw:record></srw:records>
+</srw:searchRetrieveResponse>

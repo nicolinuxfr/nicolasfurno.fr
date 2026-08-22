@@ -1,0 +1,16 @@
+{
+  "_id": "season-one",
+  "id": 421,
+  "name": "Saison 1",
+  "season_number": 1,
+  "air_date": "2024-01-02",
+  "poster_path": "/season-poster.jpg",
+  "episodes": [
+    {"id": 1, "episode_number": 1, "runtime": 42},
+    {"id": 2, "episode_number": 2, "runtime": 45}
+  ],
+  "aggregate_credits": {
+    "cast": [{"id": 100, "name": "Actrice Test", "order": 0}],
+    "crew": []
+  }
+}

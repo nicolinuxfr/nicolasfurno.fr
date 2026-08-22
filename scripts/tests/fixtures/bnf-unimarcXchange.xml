@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<srw:searchRetrieveResponse xmlns:srw="http://www.loc.gov/zing/srw/">
+  <srw:records><srw:record><srw:recordData>
+    <mxc:record xmlns:mxc="info:lc/xmlns/marcxchange-v2" format="UNIMARC" id="ark:/12148/cb474194687">
+      <mxc:datafield tag="010"><mxc:subfield code="a">978-2-7556-7313-5</mxc:subfield></mxc:datafield>
+      <mxc:datafield tag="101"><mxc:subfield code="a">fre</mxc:subfield><mxc:subfield code="c">eng</mxc:subfield></mxc:datafield>
+      <mxc:datafield tag="200"><mxc:subfield code="a">Fourth wing</mxc:subfield></mxc:datafield>
+      <mxc:datafield tag="214"><mxc:subfield code="c">Hugo roman</mxc:subfield><mxc:subfield code="d">DL 2024</mxc:subfield></mxc:datafield>
+      <mxc:datafield tag="215"><mxc:subfield code="a">1 vol. (619 p.)</mxc:subfield></mxc:datafield>
+      <mxc:datafield tag="225"><mxc:subfield code="a">Romantasy</mxc:subfield></mxc:datafield>
+      <mxc:datafield tag="454"><mxc:subfield code="t">Fourth wing</mxc:subfield></mxc:datafield>
+      <mxc:datafield tag="700"><mxc:subfield code="a">Yarros</mxc:subfield><mxc:subfield code="b">Rebecca</mxc:subfield><mxc:subfield code="4">070</mxc:subfield></mxc:datafield>
+      <mxc:datafield tag="702"><mxc:subfield code="a">Forestier</mxc:subfield><mxc:subfield code="b">Karine</mxc:subfield><mxc:subfield code="4">730</mxc:subfield></mxc:datafield>
+    </mxc:record>
+  </srw:recordData></srw:record></srw:records>
+</srw:searchRetrieveResponse>

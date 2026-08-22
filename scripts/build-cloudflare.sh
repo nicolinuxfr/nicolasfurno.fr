@@ -23,4 +23,4 @@ hugo \
   --cacheDir="$PWD/.cache/hugo"
 
 echo "Building the Pagefind search index..."
-npx pagefind
+npx --no-install pagefind
