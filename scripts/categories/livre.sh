@@ -7,7 +7,7 @@ source "$lib_dir/article.sh"
 article_require_tools
 
 book_cover() {
-  local meta=$1 target=$2 image=$3 isbn query response status cover key=${HUGO_GOOGLE_BOOKS:-}
+  local meta=$1 target=$2 image=$3 isbn query response http_status cover key=${HUGO_GOOGLE_BOOKS:-}
   isbn=$(print -r -- "$meta" | jq -r '.isbn13 // empty')
   query=${isbn:+isbn:$isbn}
   [[ -n $query ]] || query=$(print -r -- "$meta" | jq -r '"intitle:" + .title')
@@ -15,10 +15,10 @@ book_cover() {
     --get 'https://www.googleapis.com/books/v1/volumes' --data-urlencode "q=$query" \
     --data-urlencode maxResults=1 ${key:+--data-urlencode "key=$key"} \
     --write-out $'\n%{http_code}' 2>/dev/null || true)
-  status=${response##*$'\n'}
+  http_status=${response##*$'\n'}
   response=${response%$'\n'*}
-  if [[ $status != 200 ]]; then
-    [[ $status == 429 ]] && print -u2 'Couverture non récupérée : quota Google Books atteint.'
+  if [[ $http_status != 200 ]]; then
+    [[ $http_status == 429 ]] && print -u2 'Couverture non récupérée : quota Google Books atteint.'
     return 0
   fi
   cover=$(print -r -- "$response" | jq -r '.items[0].volumeInfo.imageLinks.extraLarge // .items[0].volumeInfo.imageLinks.large // .items[0].volumeInfo.imageLinks.medium // .items[0].volumeInfo.imageLinks.thumbnail // empty' 2>/dev/null || true)

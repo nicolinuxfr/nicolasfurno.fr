@@ -83,12 +83,12 @@ series_generate() {
 
   stage=$(/usr/bin/mktemp -d "${TMPDIR:-/tmp}/nicolasfurno-series.XXXXXX")
   cleanup_series_generation() {
-    local status=$?
+    local exit_status=$?
     /bin/rm -rf -- "$stage"
-    if (( status != 0 )) && $created && [[ -d $target ]]; then
+    if (( exit_status != 0 )) && $created && [[ -d $target ]]; then
       /bin/rm -rf -- "$target"
     fi
-    exit $status
+    exit $exit_status
   }
   trap cleanup_series_generation EXIT INT TERM
 
