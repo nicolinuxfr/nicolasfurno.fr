@@ -1,10 +1,13 @@
 {
-    "authors": [
-        "Virgile Rendt"
-    ],
-    "publishedDate": "2024",
-    "title": "L’orgue d’Éros",
-    "publisher": "Autopublié",
-    "pageCount": 293,
-    "language": "fr"
+  "authors": [
+    "Virgile Rendt"
+  ],
+  "bnfArk": "ark:/12148/cb47504725j",
+  "bnfId": "cb47504725j",
+  "isbn13": "9782957764112",
+  "language": "fre",
+  "pageCount": 293,
+  "publishedDate": "2024",
+  "publisher": "Virgile Rendt",
+  "title": "L'orgue d'Éros"
 }

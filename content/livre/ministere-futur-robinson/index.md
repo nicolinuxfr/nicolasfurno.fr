@@ -1,7 +1,7 @@
 ---
 title: "*Le Ministère du futur*, Kim Stanley Robinson"
 date: 2026-06-24T22:29:23+02:00
-id: yQjUEAAAQBAJ
+id: cb475805292
 pays: "us"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "*Le voyage de Shuna*, Hayao Miyazaki"
 date: 2023-12-27T22:27:04+01:00
-id: u8RD0AEACAAJ
+id: cb473553737
 pays: "jpn"
 ---
 

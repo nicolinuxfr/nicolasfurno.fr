@@ -1,7 +1,7 @@
 ---
 title: "*Le Seigneur des Empereurs*, Guy Gavriel Kay"
 date: 2023-10-16T20:55:51+02:00
-id: o5EdEAAAQBAJ
+id: cb470692410
 pays: "ca"
 sagas: "La Mosaïque de Sarance"
 sagas_weight: 2

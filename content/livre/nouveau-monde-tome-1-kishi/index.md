@@ -1,7 +1,7 @@
 ---
 title: "*Du nouveau monde - Tome 1*, Yūsuke Kishi"
 date: 2025-07-10T21:50:50+02:00
-id: B9P9EAAAQBAJ
+id: cb475451896
 pays: "jp"
 original: "Shin sekai yori"
 sagas: "Du nouveau monde"

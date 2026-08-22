@@ -1,7 +1,7 @@
 ---
 title: "*Le Héros des siècles*, Brandon Sanderson"
 date: 2026-03-15T22:08:06+01:00
-id: XAwuEQAAQBAJ
+id: cb43648695v
 pays: "us"
 sagas: "Fils-des-Brumes"
 sagas_weight: 3

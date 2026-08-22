@@ -1,7 +1,7 @@
 ---
 title: "*Steve Jobs in Exile*, Geoffrey Cain"
 date: 2026-07-16T22:35:06+02:00
-id: osKNEQAAQBAJ
+id: isbn:9781837731930
 pays: "us"
 ---
 
@@ -10,5 +10,4 @@ Cinquantième anniversaire oblige, les publications sur Apple n’ont pas manqu�
 Autant dire que le bilan n’est pas très reluisant pour Steve Jobs et sa nouvelle entreprise. Difficile pour autant de parler réellement d’échecs, quand on sait que NeXTSTEP, le système d’exploitation maison, a finalement sauvé Apple en permettant de créer Mac OS X au début des années 2000, puis en servant de base à iPhone OS pour son premier smartphone. J’aurais aimé que Geoffrey Cain explore davantage cet aspect-là de l’histoire, en plongeant plus profondément dans les fondations de ce système si novateur. Néanmoins, *Steve Jobs in Exile* a déjà beaucoup à raconter et l’auteur s’intéresse surtout à son personnage historique et son parcours. De ce point de vue, c’est indéniablement une réussite. Il a obtenu des interviews avec énormément de personnes directement impliquées, en particulier les premiers employés de NeXT qui ont pu raconter l’enfer mené par leur patron. Les co-fondateurs venus avec lui d’Apple ont tous abandonné le navire un par un, ce qui en dit long sur sa gestion toxique. C’est aussi un récit amusant des délires autour du premier ordinateur, conçu d’une manière si sophistiquée, équipée de composants si novateurs qu’il coûtait deux à trois fois plus cher que promis et ne fonctionnait pas vraiment au départ. Un vrai désastre, même si ce cube noir a marqué l’histoire, notamment en participant à la création du web… un événement auquel ni NeXT, ni surtout Steve Jobs, n’ont contribué. De la même manière, le succès éclatant de Pixar en parallèle des difficultés de NeXT est un rappel assez cruel : l’entreprise a réussi à éblouir le monde avec [*Toy Story*](https://voiretmanger.fr/toy-story-lasseter/) précisément parce que le CEO était absent. Il a financé le studio pendant des années sans s’impliquer, alors qu’il voulait tout gérer jusqu’à la teinte précise de noir pour le cube, ruinant tout espoir de succès pour NeXT. 
 
 Ma [carrière professionnelle](https://www.macg.co) m’a amené à lire énormément sur Steve Jobs et j’ai encore énormément appris en lisant le livre de Geoffrey Cain. L’auteur a eu accès à d’excellentes informations, qu’il a compilées en un récit agréable à lire. Si vous maîtrisez l’anglais et que le sujet vous intéresse, je recommande sans hésiter. 
-
 

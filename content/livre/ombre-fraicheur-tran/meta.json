@@ -1,1 +1,17 @@
-{"infoLink":"https:\/\/play.google.com\/store\/books\/details?id=zAWP0QEACAAJ&source=gbs_api","dimensions":{"width":"14.30 cm","thickness":"2.40 cm","height":"20.60 cm"},"readingModes":{"image":false,"text":false},"contentVersion":"preview-1.0.0","canonicalVolumeLink":"https:\/\/play.google.com\/store\/books\/details?id=zAWP0QEACAAJ","authors":["Quynh Tran"],"publishedDate":"2025-08-21","title":"Ombre et Fraîcheur","publisher":"Le Castor Astral","industryIdentifiers":[{"type":"ISBN_13","identifier":"9791027803897"}],"printedPageCount":296,"printType":"BOOK","pageCount":296,"maturityRating":"NOT_MATURE","allowAnonLogging":false,"language":"fr","previewLink":"http:\/\/books.google.fr\/books?id=zAWP0QEACAAJ&hl=&source=gbs_api","panelizationSummary":{"containsImageBubbles":false,"containsEpubBubbles":false}}
+{
+  "authors": [
+    "Quynh Tran"
+  ],
+  "bnfArk": "ark:/12148/cb48687195r",
+  "bnfId": "cb48687195r",
+  "collection": "Grand format roman",
+  "isbn13": "9791027803897",
+  "language": "fre",
+  "pageCount": 291,
+  "publishedDate": "2025",
+  "publisher": "Le Castor astral",
+  "title": "Ombre et fraîcheur",
+  "translators": [
+    "Françoise Sule"
+  ]
+}

@@ -1,7 +1,7 @@
 ---
 title: "*Les Osseleurs*, Steven Erikson"
 date: 2025-05-20T22:06:40+02:00
-id: kN_7DwAAQBAJ
+id: cb46786866r
 pays: "ca"
 sagas: "Le Livre des Martyrs"
 sagas_weight: 6

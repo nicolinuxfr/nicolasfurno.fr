@@ -1,7 +1,7 @@
 ---
 title: "*Vic Chesnutt, le calme et la fureur*, Thierry Jourdain"
 date: 2024-06-12T22:14:19+02:00
-id: KNEJEQAAQBAJ
+id: cb47573742b
 pays: "fr"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "*Du nouveau monde - Tome 2*, Yūsuke Kishi"
 date: 2025-07-30T22:25:35+02:00
-id: FIBPEQAAQBAJ
+id: cb48549905n
 pays: "jp"
 sagas: "Du nouveau monde"
 sagas_weight: 2
