@@ -32,7 +32,6 @@ image_urls=(
 )
 for image_url in "${image_urls[@]}"; do
   if /usr/bin/curl --fail --silent --show-error --location --remove-on-error "$image_url" --output "$image_path"; then
-    article_set_frontmatter "$file" image "$image"
     break
   fi
 done

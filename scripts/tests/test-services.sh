@@ -11,7 +11,7 @@ trap '/bin/rm -rf -- "$temporary"' EXIT INT TERM
 print -r -- '{"items":[{"id":"book-1","volumeInfo":{"title":"Livre test","authors":["Auteur Test"],"publisher":"Maison Test","publishedDate":"2025"}}]}' > "$temporary/google/googlebooks.json"
 print -r -- '{"volumeInfo":{"title":"Livre test","authors":["Auteur Test"],"publisher":"Maison Test","publishedDate":"2025-04-01","pageCount":240,"industryIdentifiers":[{"type":"ISBN_13","identifier":"9780000000000"}]}}' > "$temporary/google/googlebooks-record.json"
 print -r -- '{"search":[{"id":"Q999","label":"Nom approchant"},{"id":"Q100","label":"Personne Test"}]}' > "$temporary/wikidata/search.json"
-print -r -- '{"entities":{"Q100":{"claims":{"P27":[{"mainsnak":{"datavalue":{"value":{"id":"Q200"}}}}],"P31":[{"mainsnak":{"datavalue":{"value":{"id":"Q5"}}}}],"P734":[{"mainsnak":{"datavalue":{"value":{"id":"Q300"}}}}]}}}}' > "$temporary/wikidata/entity-Q100.json"
+print -r -- '{"entities":{"Q100":{"labels":{"fr":{"language":"fr","value":"Personne Test"}},"claims":{"P27":[{"mainsnak":{"datavalue":{"value":{"id":"Q200"}}}}],"P31":[{"mainsnak":{"datavalue":{"value":{"id":"Q5"}}}}],"P734":[{"mainsnak":{"datavalue":{"value":{"id":"Q300"}}}}]}}}}' > "$temporary/wikidata/entity-Q100.json"
 print -r -- '{"entities":{"Q200":{"claims":{"P297":[{"mainsnak":{"datavalue":{"value":"FR"}}}]}},"Q300":{"labels":{"fr":{"value":"Test"}}}}}' > "$temporary/wikidata/related.json"
 export BNF_FIXTURE_DIR=$fixtures
 export OPENLIBRARY_FIXTURE_DIR=$fixtures
@@ -66,7 +66,7 @@ print -r -- '{"search":[{"id":"Q100","label":"Homonyme"},{"id":"Q101","label":"H
 print -r -- '{"search":[{"id":"Q999","label":"Nom approchant"},{"id":"Q100","label":"Personne Test"}]}' > "$temporary/wikidata/search.json"
 profile=$("$scripts_dir/services/wikidata.sh" profile Q100)
 print -r -- "$profile" | jq -e '
-  .country == "fr" and .human == true and .surname == "Test"' >/dev/null
+  .name == "Personne Test" and .country == "fr" and .human == true and .surname == "Test"' >/dev/null
 
 movie_rows=$("$scripts_dir/services/tmdb-movie.sh" search test)
 print -r -- "$movie_rows" | /usr/bin/awk -F '\t' 'NF != 2 || $1 !~ /^[0-9]+$/ { exit 1 }'
@@ -74,6 +74,9 @@ movie_id=${movie_rows%%$'\t'*}
 movie=$("$scripts_dir/services/tmdb-movie.sh" movie "$movie_id")
 print -r -- "$movie" | jq -e --argjson id "$movie_id" '
   .id == $id and (.title | length > 0) and (.credits.crew | type == "array")' >/dev/null
+person=$("$scripts_dir/services/tmdb-movie.sh" person-profile 2)
+print -r -- "$person" | jq -e '
+  .wikidata_id == "Q100" and .western_name == "Keishi Ohtomo"' >/dev/null
 
 tv_rows=$("$scripts_dir/services/tmdb-tv.sh" search test)
 print -r -- "$tv_rows" | /usr/bin/awk -F '\t' 'NF != 2 || $1 !~ /^[0-9]+$/ { exit 1 }'

@@ -16,21 +16,27 @@ id=${choice%%$'\t'*}
 article_check_existing film id "$id"
 data=$("$services_dir/tmdb-movie.sh" movie "$id")
 name=$(print -r -- "$data" | jq -er '.title')
-directors=$(print -r -- "$data" | jq -r '[.credits.crew[] | select(.job == "Director") | .name] | join(", ")')
-title="*$name*${directors:+, $directors}"
+director_names=()
 director_slugs=()
 while IFS=$'\t' read -r director_id director_name; do
   [[ -n $director_name ]] || continue
-  wikidata_id=$("$services_dir/tmdb-movie.sh" person-wikidata "$director_id" 2>/dev/null || true)
+  person_profile=$("$services_dir/tmdb-movie.sh" person-profile "$director_id" 2>/dev/null || true)
+  wikidata_id=$(print -r -- "$person_profile" | jq -r '.wikidata_id // empty')
+  western_name=$(print -r -- "$person_profile" | jq -r '.western_name // empty')
   surname=''
   if [[ -n $wikidata_id ]]; then
     profile=$("$services_dir/wikidata.sh" profile "$wikidata_id" 2>/dev/null || true)
+    wikidata_name=$(print -r -- "$profile" | jq -r '.name // empty')
+    western_name=${wikidata_name:-$western_name}
     surname=$(print -r -- "$profile" | jq -r '.surname // empty')
   fi
+  director_names+=("${western_name:-$director_name}")
   # Certains profils TMDB n’ont pas d’identifiant Wikidata. Dans ce cas,
   # conservons tout de même le nom de famille, plutôt que le nom complet.
-  director_slugs+=("${surname:-$(article_surnames "$director_name")}")
+  director_slugs+=("${surname:-$(article_surnames "${western_name:-$director_name}")}")
 done < <(print -r -- "$data" | jq -r '.credits.crew[] | select(.job == "Director") | [.id, .name] | @tsv')
+directors=$(people_join_names "${director_names[@]}")
+title="*$name*${directors:+, $directors}"
 director_slugs=$(article_join "${director_slugs[@]}")
 slug_title="*$name*${director_slugs:+, $director_slugs}"
 slug=$(article_slug "$(print -rn -- "$slug_title" | "$lib_dir/slugify.pl" propose)") || article_cancel
@@ -42,6 +48,5 @@ poster=$(print -r -- "$data" | jq -r '.poster_path // empty')
 if [[ -n $poster ]]; then
   image="$(print -rn -- "$name" | "$lib_dir/slugify.pl" propose).${poster:e:l}"
   "$services_dir/tmdb-movie.sh" image "$poster" "$target/$image" || print -u2 'Avertissement : affiche TMDB indisponible.'
-  [[ -f $target/$image ]] && article_set_frontmatter "$file" image "$image"
 fi
 article_open "$file"

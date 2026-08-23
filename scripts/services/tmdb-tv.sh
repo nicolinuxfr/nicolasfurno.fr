@@ -4,6 +4,7 @@ set -euo pipefail
 
 script_dir=${0:A:h}
 repo_root=${script_dir:h:h}
+source "$script_dir/../lib/tmdb.sh"
 api_base=${TMDB_API_BASE_URL:-https://api.themoviedb.org/3}
 image_base=${TMDB_IMAGE_BASE_URL:-https://image.tmdb.org/t/p/original}
 fixture_dir=${TMDB_FIXTURE_DIR:-}
@@ -65,7 +66,7 @@ request() {
   command=(/usr/bin/curl --fail-with-body --silent --show-error --retry 3 --retry-all-errors
     --get "$api_base/$endpoint"
     --header 'accept: application/json'
-    --data-urlencode 'language=fr-FR')
+    --data-urlencode "language=${TMDB_LANGUAGE:-fr-FR}")
   if [[ "$token" == eyJ* ]]; then
     command+=(--header "Authorization: Bearer $token")
   else
@@ -93,29 +94,7 @@ case "$command" in
   search)
     query=${1:-}
     [[ -n "$query" ]] || die "La recherche TMDB est vide."
-    response=$(request search search/tv "query=$query" 'include_adult=false' 'page=1')
-
-    # TMDB ne rapproche pas toujours un pluriel de son singulier : une
-    # recherche de « dragons » omet notamment « House of the Dragon ».
-    singular_query=$(print -r -- "$query" | /usr/bin/sed -E 's/([[:alpha:]]{3,})s([[:space:]]*)$/\1\2/I')
-    if [[ "$singular_query" != "$query" ]]; then
-      singular_response=$(request search search/tv "query=$singular_query" 'include_adult=false' 'page=1')
-      response=$(
-        jq -cn \
-          --argjson plural "$response" \
-          --argjson singular "$singular_response" '
-            ([range(0; ([($plural.results | length), ($singular.results | length)] | max)) as $index
-              | $plural.results[$index], $singular.results[$index]]
-             | map(select(. != null))) as $interleaved
-            | reduce $interleaved[] as $result
-                ({results: [], seen: {}};
-                 ($result.id | tostring) as $id
-                 | if .seen[$id] then .
-                   else .results += [$result] | .seen[$id] = true
-                   end)
-            | {results: .results}'
-      )
-    fi
+    response=$(tmdb_search_response search search/tv "$query" 'include_adult=false' 'page=1')
 
     count=$(print -r -- "$response" | jq '.results | length')
     if (( count == 0 )); then
@@ -134,7 +113,9 @@ case "$command" in
   series)
     id=${1:-}
     validate_id "$id"
-    request "series-$id" "tv/$id" | canonical_json
+    localized=$(request "series-$id" "tv/$id")
+    western=$(TMDB_LANGUAGE=en-US request "series-$id" "tv/$id")
+    people_westernize_tmdb "$localized" "$western" | canonical_json
     ;;
 
   season-options)
@@ -157,7 +138,9 @@ case "$command" in
     number=${2:-}
     validate_id "$id"
     [[ $number == <-> && $number -gt 0 ]] || die "Numéro de saison invalide : $number"
-    request "season-$id-$number" "tv/$id/season/$number" 'append_to_response=aggregate_credits' \
+    localized=$(request "season-$id-$number" "tv/$id/season/$number" 'append_to_response=aggregate_credits')
+    western=$(TMDB_LANGUAGE=en-US request "season-$id-$number" "tv/$id/season/$number" 'append_to_response=aggregate_credits')
+    people_westernize_tmdb "$localized" "$western" \
       | jq -e --argjson expected "$number" '
           select(.season_number == $expected)
           | select(.episodes | type == "array")
@@ -168,7 +151,9 @@ case "$command" in
   aggregate-credits)
     id=${1:-}
     validate_id "$id"
-    request "aggregate-$id" "tv/$id/aggregate_credits" \
+    localized=$(request "aggregate-$id" "tv/$id/aggregate_credits")
+    western=$(TMDB_LANGUAGE=en-US request "aggregate-$id" "tv/$id/aggregate_credits")
+    people_westernize_tmdb "$localized" "$western" \
       | jq -e 'select(.cast | type == "array")' \
       | canonical_json
     ;;

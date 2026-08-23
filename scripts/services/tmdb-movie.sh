@@ -3,6 +3,7 @@ set -euo pipefail
 
 script_dir=${0:A:h}
 repo_root=${script_dir:h:h}
+source "$script_dir/../lib/tmdb.sh"
 api_base=${TMDB_API_BASE_URL:-https://api.themoviedb.org/3}
 image_base=${TMDB_IMAGE_BASE_URL:-https://image.tmdb.org/t/p/original}
 fixture_dir=${TMDB_MOVIE_FIXTURE_DIR:-}
@@ -21,7 +22,7 @@ request() {
   local key=$1 endpoint=$2; shift 2
   [[ -n $fixture_dir && -f $fixture_dir/$key.json ]] && { /bin/cat "$fixture_dir/$key.json"; return; }
   local value; value=$(token)
-  local -a command=(/usr/bin/curl --fail-with-body --silent --show-error --retry 3 --retry-all-errors --get "$api_base/$endpoint" --header 'accept: application/json' --data-urlencode 'language=fr-FR')
+  local -a command=(/usr/bin/curl --fail-with-body --silent --show-error --retry 3 --retry-all-errors --get "$api_base/$endpoint" --header 'accept: application/json' --data-urlencode "language=${TMDB_LANGUAGE:-fr-FR}")
   [[ $value == eyJ* ]] && command+=(--header "Authorization: Bearer $value") || command+=(--data-urlencode "api_key=$value")
   local parameter; for parameter in "$@"; do command+=(--data-urlencode "$parameter"); done
   "${command[@]}"
@@ -29,7 +30,7 @@ request() {
 case ${1:-} in
   search)
     query=${2:-}; [[ -n $query ]] || die 'La recherche TMDB est vide.'
-    request search-movie search/movie "query=$query" 'include_adult=false' | jq -r --arg query "$query" '
+    tmdb_search_response search-movie search/movie "$query" 'include_adult=false' | jq -r --arg query "$query" '
       .results
       | (map(select((.title | ascii_downcase) == ($query | ascii_downcase)))
          + map(select((.title | ascii_downcase) != ($query | ascii_downcase))))[]
@@ -39,16 +40,29 @@ case ${1:-} in
     ;;
   movie)
     id=${2:-}; [[ $id == <-> ]] || die 'Identifiant TMDB invalide.'
-    request "movie-$id" "movie/$id" 'append_to_response=credits' | jq -cS .
+    localized=$(request "movie-$id" "movie/$id" 'append_to_response=credits')
+    western=$(TMDB_LANGUAGE=en-US request "movie-$id" "movie/$id" 'append_to_response=credits')
+    people_westernize_tmdb "$localized" "$western" | jq -cS .
     ;;
-  person-wikidata)
+  person-profile)
     id=${2:-}; [[ $id == <-> ]] || die 'Identifiant TMDB invalide.'
-    request "person-$id-external-ids" "person/$id/external_ids" | jq -r '.wikidata_id // empty'
+    request "person-$id" "person/$id" 'append_to_response=external_ids' | jq -c '
+      {
+        wikidata_id: (.external_ids.wikidata_id // ""),
+        western_name: (
+          [.also_known_as[]?, .name]
+          | map(select(
+              test("\\p{Latin}")
+              and (test("[\\p{Han}\\p{Hiragana}\\p{Katakana}\\p{Cyrillic}\\p{Arabic}]") | not)
+            ))
+          | .[0] // ""
+        )
+      }'
     ;;
   image)
     path=${2:-}; destination=${3:-}; [[ -n $path && -n $destination ]] || die "Usage: ${0:t} image CHEMIN SORTIE"
     if [[ -n $fixture_dir ]]; then /bin/cp "$fixture_dir/image-${path:t}" "$destination"
     else /usr/bin/curl --fail --silent --show-error --retry 3 --retry-all-errors --remove-on-error "$image_base/${path#/}" --output "$destination"; fi
     ;;
-  *) die "Usage: ${0:t} search REQUÊTE | movie ID | person-wikidata ID | image CHEMIN SORTIE" ;;
+  *) die "Usage: ${0:t} search REQUÊTE | movie ID | person-profile ID | image CHEMIN SORTIE" ;;
 esac

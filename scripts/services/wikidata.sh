@@ -7,14 +7,15 @@ command=${1:-}
 base=${WIKIDATA_API_BASE_URL:-https://www.wikidata.org/w/api.php}
 fixture_dir=${WIKIDATA_FIXTURE_DIR:-}
 
-entity_claims() {
+entity_profile() {
   if [[ -n $fixture_dir && -f "$fixture_dir/entity-$1.json" ]]; then
     /bin/cat "$fixture_dir/entity-$1.json"
     return
   fi
   /usr/bin/curl --fail --silent --show-error --get "$base" \
     --data-urlencode action=wbgetentities --data-urlencode format=json \
-    --data-urlencode props=claims --data-urlencode "ids=$1"
+    --data-urlencode props='claims|labels' --data-urlencode languages='fr|en|mul' \
+    --data-urlencode "ids=$1"
 }
 
 entity_labels_and_claims() {
@@ -44,7 +45,7 @@ case $command in
     ;;
   profile)
     id=${2:-}; [[ $id == Q<-> ]] || exit 0
-    entity=$(entity_claims "$id")
+    entity=$(entity_profile "$id")
     country_id=$(print -r -- "$entity" | jq -r '.entities[] | (.claims.P27 // .claims.P495 // []) | .[0].mainsnak.datavalue.value.id // empty')
     surname_id=$(print -r -- "$entity" | jq -r '.entities[] | .claims.P734[0].mainsnak.datavalue.value.id // empty')
     related_ids=$(print -rl -- "$country_id" "$surname_id" | /usr/bin/awk 'NF { printf "%s%s", separator, $0; separator = "|" } END { print "" }')
@@ -53,6 +54,7 @@ case $command in
     result=$(print -r -- "$entity" "$related" | jq -sc --arg country "$country_id" --arg surname "$surname_id" '
       .[0] as $entity | .[1] as $related |
       {
+        name: ([ $entity.entities[] | (.labels.fr.value // .labels.en.value // .labels.mul.value // "") ][0]),
         country: (if $country == "" then "" else ($related.entities[$country].claims.P297[0].mainsnak.datavalue.value // "" | ascii_downcase) end),
         human: ([ $entity.entities[] | .claims.P31[]?.mainsnak.datavalue.value.id ] | index("Q5") != null),
         surname: (if $surname == "" then "" else ($related.entities[$surname].labels.fr.value // $related.entities[$surname].labels.en.value // "") end)

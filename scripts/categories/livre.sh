@@ -131,21 +131,26 @@ article_check_existing livre id "$id"
 meta=$(book_enrich_with_google "$meta")
 book_is_complete "$meta" || article_die 'Les catalogues ne fournissent pas une fiche complète pour cette édition.'
 name=$(print -r -- "$meta" | jq -er '.title')
-authors=$(print -r -- "$meta" | jq -r '(.authors // []) | join(", ")')
-title="*$name*${authors:+, $authors}"
+author_names=()
 author_slugs=()
 country=''
 while IFS= read -r author; do
   [[ -n $author ]] || continue
   entity_id=$("$services_dir/wikidata.sh" match "$author" 2>/dev/null || true)
+  display_name=$author
   surname=''
   if [[ -n $entity_id ]]; then
     profile=$("$services_dir/wikidata.sh" profile "$entity_id" 2>/dev/null || true)
+    wikidata_name=$(print -r -- "$profile" | jq -r '.name // empty')
+    display_name=${wikidata_name:-$display_name}
     surname=$(print -r -- "$profile" | jq -r '.surname // empty')
     [[ -z $country ]] && country=$(print -r -- "$profile" | jq -r '.country // empty')
   fi
-  author_slugs+=("${surname:-$author}")
+  author_names+=("$display_name")
+  author_slugs+=("${surname:-$display_name}")
 done < <(print -r -- "$meta" | jq -r '.authors[]?')
+authors=$(people_join_names "${author_names[@]}")
+title="*$name*${authors:+, $authors}"
 author_slugs=$(article_join "${author_slugs[@]}")
 slug_title="*$name*${author_slugs:+, $author_slugs}"
 slug=$(article_slug "$(print -rn -- "$slug_title" | "$lib_dir/slugify.pl" propose)") || article_cancel
@@ -154,6 +159,5 @@ file=$(article_create livre "$slug" "$title" $'id: '"$id"$'\n')
 target=${file:h}; print -r -- "$meta" | jq -S . > "$target/meta.json"
 image="$(print -rn -- "$name" | "$lib_dir/slugify.pl" propose).jpg"
 book_cover "$meta" "$target" "$image"
-[[ -f $target/$image ]] && article_set_frontmatter "$file" image "$image"
 [[ -f $target/$image ]] || book_image_search "$meta"
 article_open "$file"

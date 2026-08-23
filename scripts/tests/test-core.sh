@@ -40,6 +40,35 @@ article_set_frontmatter "$created" image 'image test.jpg'
 /usr/bin/grep -q '^image: "image test.jpg"$' "$created"
 [[ $(article_surnames 'Prénom Nom, Autre Personne') == 'Nom, Personne' ]]
 [[ $(article_join alpha beta gamma) == 'alpha, beta, gamma' ]]
+[[ $(people_name 'John Francis Daley') == $'John Francis\u00a0Daley' ]]
+[[ $(people_name 'Guillermo del Toro') == $'Guillermo del\u00a0Toro' ]]
+[[ $(people_join_names 'Jane Campion') == $'Jane\u00a0Campion' ]]
+[[ $(people_join_names 'Daniel Scheinert' 'Daniel Kwan') == $'Daniel\u00a0Scheinert et Daniel\u00a0Kwan' ]]
+[[ $(people_join_names 'Joaquim Dos Santos' 'Justin K. Thompson' 'Kemp Powers') == $'Joaquim Dos\u00a0Santos, Justin K.\u00a0Thompson et Kemp\u00a0Powers' ]]
+[[ $(people_split_credits 'Rodolphe Burger, Sofiane Saidi & Mehdi Haddab') == $'Rodolphe Burger\nSofiane Saidi\nMehdi Haddab' ]]
+westernized=$(people_westernize_tmdb \
+  '{"created_by":[{"id":1,"name":"大友啓史","original_name":"大友啓史"}],"networks":[{"id":1,"name":"日本"}]}' \
+  '{"created_by":[{"id":1,"name":"Keishi Otomo","original_name":"大友啓史"}],"networks":[{"id":1,"name":"Japan"}]}')
+[[ $(print -r -- "$westernized" | jq -r '.created_by[0].name') == 'Keishi Otomo' ]]
+[[ $(print -r -- "$westernized" | jq -r '.networks[0].name') == '日本' ]]
+
+source "$scripts_dir/lib/tmdb.sh"
+[[ $(tmdb_singular_query '10dances') == '10dance' ]]
+[[ $(tmdb_singular_query '10 Dance') == '10 Dance' ]]
+merged=$(tmdb_merge_search_results \
+  '{"page":1,"results":[{"id":1},{"id":2}]}' \
+  '{"page":1,"results":[{"id":1},{"id":3}]}')
+[[ $(print -r -- "$merged" | jq -c '[.results[].id]') == '[1,2,3]' ]]
+request() {
+  case $3 in
+    query=10dances) print -r -- '{"page":1,"results":[]}' ;;
+    query=10dance) print -r -- '{"page":1,"results":[{"id":1400032}]}' ;;
+    *) return 1 ;;
+  esac
+}
+fallback=$(tmdb_search_response test search/movie 10dances)
+unfunction request
+[[ $(print -r -- "$fallback" | jq -r '.results[0].id') == 1400032 ]]
 
 malformed="$project/malformed.md"
 print -r -- 'sans front matter' > "$malformed"

@@ -23,17 +23,31 @@ lookup=$(/usr/bin/curl --fail --silent --show-error "https://itunes.apple.com/lo
 meta=$(print -r -- "$lookup" | jq -cS '.results[0]')
 name=$(print -r -- "$meta" | jq -er '.collectionName')
 artist=$(print -r -- "$meta" | jq -er '.artistName')
-title="*$name*, $artist"
 country=''
-artist_slug=$artist
-entity_id=$("$services_dir/wikidata.sh" match "$artist" 2>/dev/null || true)
-if [[ -n $entity_id ]]; then
-  profile=$("$services_dir/wikidata.sh" profile "$entity_id" 2>/dev/null || true)
-  country=$(print -r -- "$profile" | jq -r '.country // empty')
-  human=$(print -r -- "$profile" | jq -r '.human // false')
-  surname=$(print -r -- "$profile" | jq -r '.surname // empty')
-  [[ $human == true && -n $surname ]] && artist_slug=$surname
-fi
+artists=("${(@f)$(people_split_credits "$artist")}")
+artist_names=()
+artist_slugs=()
+for artist_name in "${artists[@]}"; do
+  display_name=$artist_name
+  artist_slug=$artist_name
+  human=false
+  entity_id=$("$services_dir/wikidata.sh" match "$artist_name" 2>/dev/null || true)
+  if [[ -n $entity_id ]]; then
+    profile=$("$services_dir/wikidata.sh" profile "$entity_id" 2>/dev/null || true)
+    [[ -z $country ]] && country=$(print -r -- "$profile" | jq -r '.country // empty')
+    human=$(print -r -- "$profile" | jq -r '.human // false')
+    wikidata_name=$(print -r -- "$profile" | jq -r '.name // empty')
+    surname=$(print -r -- "$profile" | jq -r '.surname // empty')
+    display_name=${wikidata_name:-$display_name}
+    [[ $human == true && -n $surname ]] && artist_slug=$surname
+  fi
+  [[ $human == true || ${#artists} -gt 1 ]] && display_name=$(people_name "$display_name")
+  artist_names+=("$display_name")
+  artist_slugs+=("$artist_slug")
+done
+artist_title=$(people_join "${artist_names[@]}")
+title="*$name*, $artist_title"
+artist_slug=$(article_join "${artist_slugs[@]}")
 slug_title="*$name*, $artist_slug"
 slug=$(article_slug "$(print -rn -- "$slug_title" | "$lib_dir/slugify.pl" propose)") || article_cancel
 file=$(article_create album "$slug" "$title" $'id: '"$id"$'\n')
@@ -46,6 +60,5 @@ if [[ -n $art ]]; then
     fallback=$(print -r -- "$meta" | jq -r '.artworkUrl100 // empty')
     /usr/bin/curl --fail --silent --show-error --location --remove-on-error "$fallback" --output "$target/$image" || print -u2 'Avertissement : couverture indisponible.'
   fi
-  [[ -f $target/$image ]] && article_set_frontmatter "$file" image "$image"
 fi
 article_open "$file"
