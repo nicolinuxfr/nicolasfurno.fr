@@ -1,5 +1,7 @@
 #!/bin/zsh
 set -euo pipefail
+script_dir=${0:A:h}
+source "$script_dir/../lib/network.sh"
 
 google_request() {
   local fixture=${GOOGLEBOOKS_FIXTURE_DIR:-} key=${HUGO_GOOGLE_BOOKS:-}
@@ -7,7 +9,7 @@ google_request() {
     /bin/cat "$fixture/googlebooks.json"
     return
   fi
-  /usr/bin/curl --fail --silent --show-error --retry 2 --retry-all-errors --retry-delay 1 \
+  network_curl --fail --silent --show-error --retry 2 --retry-all-errors --retry-delay 1 \
     --get 'https://www.googleapis.com/books/v1/volumes' \
     --data-urlencode "q=$1" --data-urlencode maxResults=20 ${key:+--data-urlencode "key=$key"}
 }
@@ -18,7 +20,7 @@ google_record_request() {
     /bin/cat "$fixture/googlebooks-record.json"
     return
   fi
-  /usr/bin/curl --fail --silent --show-error --retry 2 --retry-all-errors --retry-delay 1 \
+  network_curl --fail --silent --show-error --retry 2 --retry-all-errors --retry-delay 1 \
     "https://www.googleapis.com/books/v1/volumes/$id" ${key:+--get --data-urlencode "key=$key"}
 }
 

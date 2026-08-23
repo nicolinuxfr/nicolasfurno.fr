@@ -1,5 +1,7 @@
 #!/bin/zsh
 set -euo pipefail
+script_dir=${0:A:h}
+source "$script_dir/../lib/network.sh"
 
 # Client minimal du SRU BnF. Les sorties sont volontairement normalisées afin
 # que le reste du site ne dépende pas du vocabulaire UNIMARC.
@@ -10,7 +12,7 @@ bnf_request() {
     /bin/cat "$fixture/bnf-${schema}.xml"
     return
   fi
-  /usr/bin/curl --fail --silent --show-error --retry 2 --retry-all-errors --retry-delay 1 \
+  network_curl --fail --silent --show-error --retry 2 --retry-all-errors --retry-delay 1 \
     --get 'https://catalogue.bnf.fr/api/SRU' \
     --data-urlencode 'version=1.2' \
     --data-urlencode 'operation=searchRetrieve' \

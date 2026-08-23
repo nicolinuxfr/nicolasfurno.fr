@@ -1,9 +1,10 @@
 #!/bin/zsh
 
+# Gestion interne des dépendances requises par scripts/new.sh.
 set -euo pipefail
 
 script_dir=${0:A:h}
-repo_root=${script_dir:h}
+repo_root=${script_dir:h:h}
 check_only=false
 
 case ${1:-} in
@@ -66,7 +67,7 @@ print 'Outils macOS : OK'
 
 if [[ ! -x "$repo_root/node_modules/.bin/pagefind" ]]; then
   if $check_only; then
-    print -u2 'Pagefind est absent. Lancer scripts/install.sh pour installer les dépendances npm.'
+    print -u2 'Pagefind est absent.'
     exit 1
   fi
   npm_bin=${commands[npm]:-}

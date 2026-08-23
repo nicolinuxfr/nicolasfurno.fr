@@ -3,7 +3,7 @@
 set -euo pipefail
 
 script_dir=${0:A:h}
-installer="$script_dir/install.sh"
+installer="$script_dir/lib/dependencies.sh"
 
 if ! dependency_report=$("$installer" --check 2>&1); then
   print -r -- "$dependency_report"

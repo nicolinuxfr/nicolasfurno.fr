@@ -7,6 +7,7 @@ article_library_dir=${${(%):-%N}:A:h}
 article_script_dir=${article_library_dir:h}
 article_repo_root=${ARTICLE_ROOT:-$article_script_dir:h}
 source "$article_library_dir/people.sh"
+source "$article_library_dir/network.sh"
 article_gum_bin=${GUM_BIN:-${commands[gum]:-}}
 article_fzf_bin=${FZF_BIN:-${commands[fzf]:-}}
 article_jq_bin=${commands[jq]:-}
@@ -20,7 +21,7 @@ article_cancel() {
 
 article_require_tools() {
   [[ -n $article_gum_bin && -n $article_fzf_bin && -n $article_jq_bin ]] || \
-    article_die 'Des outils sont manquants. Lancer : scripts/install.sh'
+    article_die 'Des outils sont manquants. Lancer scripts/new.sh pour proposer leur installation.'
 }
 
 article_slug() {

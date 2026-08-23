@@ -7,7 +7,7 @@ source "$lib_dir/article.sh"
 article_require_tools
 query=$("$article_gum_bin" input --header 'Quel album ?' --width 60) || article_cancel
 [[ -n $query ]] || article_die 'Le titre est obligatoire.'
-search=$(/usr/bin/curl --fail --silent --show-error --get 'https://itunes.apple.com/search' --data-urlencode "term=$query" --data-urlencode country=FR --data-urlencode media=music --data-urlencode entity=album --data-urlencode lang=fr_fr)
+search=$(network_curl --fail --silent --show-error --get 'https://itunes.apple.com/search' --data-urlencode "term=$query" --data-urlencode country=FR --data-urlencode media=music --data-urlencode entity=album --data-urlencode lang=fr_fr)
 rows=$(print -r -- "$search" | jq -r '
   .results[]
   | (.releaseDate // "")[:4] as $year
@@ -19,7 +19,7 @@ choice=$(print -r -- "$rows" | article_pick_row 'Quel album ?') || exit 0
 id=${choice%%$'\t'*}
 [[ -n $id ]] || exit 0
 article_check_existing album id "$id"
-lookup=$(/usr/bin/curl --fail --silent --show-error "https://itunes.apple.com/lookup?country=FR&lang=fr_fr&id=$id")
+lookup=$(network_curl --fail --silent --show-error "https://itunes.apple.com/lookup?country=FR&lang=fr_fr&id=$id")
 meta=$(print -r -- "$lookup" | jq -cS '.results[0]')
 name=$(print -r -- "$meta" | jq -er '.collectionName')
 artist=$(print -r -- "$meta" | jq -er '.artistName')
@@ -56,9 +56,9 @@ target=${file:h}; print -r -- "$meta" > "$target/meta.json"
 art=$(print -r -- "$meta" | jq -r '.artworkUrl100 // empty' | /usr/bin/sed 's/100x100bb/3000x3000bb/')
 if [[ -n $art ]]; then
   image="$(print -rn -- "$name" | "$lib_dir/slugify.pl" propose).jpg"
-  if ! /usr/bin/curl --fail --silent --show-error --location --remove-on-error "$art" --output "$target/$image"; then
+  if ! network_curl --fail --silent --show-error --location --remove-on-error "$art" --output "$target/$image"; then
     fallback=$(print -r -- "$meta" | jq -r '.artworkUrl100 // empty')
-    /usr/bin/curl --fail --silent --show-error --location --remove-on-error "$fallback" --output "$target/$image" || print -u2 'Avertissement : couverture indisponible.'
+    network_curl --fail --silent --show-error --location --remove-on-error "$fallback" --output "$target/$image" || print -u2 'Avertissement : couverture indisponible.'
   fi
 fi
 article_open "$file"

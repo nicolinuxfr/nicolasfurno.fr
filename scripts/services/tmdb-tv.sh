@@ -5,6 +5,7 @@ set -euo pipefail
 script_dir=${0:A:h}
 repo_root=${script_dir:h:h}
 source "$script_dir/../lib/tmdb.sh"
+source "$script_dir/../lib/network.sh"
 api_base=${TMDB_API_BASE_URL:-https://api.themoviedb.org/3}
 image_base=${TMDB_IMAGE_BASE_URL:-https://image.tmdb.org/t/p/original}
 fixture_dir=${TMDB_FIXTURE_DIR:-}
@@ -34,22 +35,6 @@ fixture_path() {
   print -r -- "$fixture_dir/$key.json"
 }
 
-run_curl() {
-  local error_file output exit_code
-  error_file=$(/usr/bin/mktemp "${TMPDIR:-/tmp}/nicolasfurno-curl.XXXXXX")
-
-  if output=$("$@" 2>"$error_file"); then
-    exit_code=0
-  else
-    exit_code=$?
-    /bin/cat "$error_file" >&2
-  fi
-  /bin/rm -f -- "$error_file"
-
-  (( exit_code == 0 )) || return "$exit_code"
-  print -rn -- "$output"
-}
-
 request() {
   local key=$1
   local endpoint=$2
@@ -63,7 +48,7 @@ request() {
   local token
   token=$(read_token)
   local -a command
-  command=(/usr/bin/curl --fail-with-body --silent --show-error --retry 3 --retry-all-errors
+  command=(--fail-with-body --silent --show-error --retry 3 --retry-all-errors
     --get "$api_base/$endpoint"
     --header 'accept: application/json'
     --data-urlencode "language=${TMDB_LANGUAGE:-fr-FR}")
@@ -76,7 +61,7 @@ request() {
   for parameter in "$@"; do
     command+=(--data-urlencode "$parameter")
   done
-  run_curl "${command[@]}"
+  network_curl "${command[@]}"
 }
 
 canonical_json() {
@@ -187,7 +172,7 @@ case "$command" in
       [[ -f "$fixture" ]] || die "Image de test absente : $fixture"
       /bin/cp "$fixture" "$output_path"
     else
-      run_curl /usr/bin/curl --fail --silent --show-error --retry 3 --retry-all-errors --remove-on-error \
+      network_curl --fail --silent --show-error --retry 3 --retry-all-errors --remove-on-error \
         "$image_base/$remote_path" --output "$output_path"
     fi
     ;;

@@ -1,5 +1,7 @@
 #!/bin/zsh
 set -euo pipefail
+script_dir=${0:A:h}
+source "$script_dir/../lib/network.sh"
 
 ol_request() {
   local fixture_name=$1 fixture=${OPENLIBRARY_FIXTURE_DIR:-}
@@ -8,7 +10,7 @@ ol_request() {
     /bin/cat "$fixture/$fixture_name"
     return
   fi
-  /usr/bin/curl --fail --silent --show-error --retry 2 --retry-all-errors --retry-delay 1 "$@"
+  network_curl --fail --silent --show-error --retry 2 --retry-all-errors --retry-delay 1 "$@"
 }
 
 case ${1:-} in

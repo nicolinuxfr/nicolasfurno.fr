@@ -4,6 +4,7 @@ set -euo pipefail
 script_dir=${0:A:h}
 repo_root=${script_dir:h:h}
 source "$script_dir/../lib/tmdb.sh"
+source "$script_dir/../lib/network.sh"
 api_base=${TMDB_API_BASE_URL:-https://api.themoviedb.org/3}
 image_base=${TMDB_IMAGE_BASE_URL:-https://image.tmdb.org/t/p/original}
 fixture_dir=${TMDB_MOVIE_FIXTURE_DIR:-}
@@ -22,10 +23,10 @@ request() {
   local key=$1 endpoint=$2; shift 2
   [[ -n $fixture_dir && -f $fixture_dir/$key.json ]] && { /bin/cat "$fixture_dir/$key.json"; return; }
   local value; value=$(token)
-  local -a command=(/usr/bin/curl --fail-with-body --silent --show-error --retry 3 --retry-all-errors --get "$api_base/$endpoint" --header 'accept: application/json' --data-urlencode "language=${TMDB_LANGUAGE:-fr-FR}")
+  local -a command=(--fail-with-body --silent --show-error --retry 3 --retry-all-errors --get "$api_base/$endpoint" --header 'accept: application/json' --data-urlencode "language=${TMDB_LANGUAGE:-fr-FR}")
   [[ $value == eyJ* ]] && command+=(--header "Authorization: Bearer $value") || command+=(--data-urlencode "api_key=$value")
   local parameter; for parameter in "$@"; do command+=(--data-urlencode "$parameter"); done
-  "${command[@]}"
+  network_curl "${command[@]}"
 }
 case ${1:-} in
   search)
@@ -62,7 +63,7 @@ case ${1:-} in
   image)
     path=${2:-}; destination=${3:-}; [[ -n $path && -n $destination ]] || die "Usage: ${0:t} image CHEMIN SORTIE"
     if [[ -n $fixture_dir ]]; then /bin/cp "$fixture_dir/image-${path:t}" "$destination"
-    else /usr/bin/curl --fail --silent --show-error --retry 3 --retry-all-errors --remove-on-error "$image_base/${path#/}" --output "$destination"; fi
+    else network_curl --fail --silent --show-error --retry 3 --retry-all-errors --remove-on-error "$image_base/${path#/}" --output "$destination"; fi
     ;;
   *) die "Usage: ${0:t} search REQUÊTE | movie ID | person-profile ID | image CHEMIN SORTIE" ;;
 esac

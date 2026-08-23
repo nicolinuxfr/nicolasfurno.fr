@@ -12,7 +12,7 @@ book_cover() {
   query=${isbn:+isbn:$isbn}
   [[ -n $query ]] || query=$(print -r -- "$meta" | jq -r '"intitle:" + .title')
   print 'Recherche de la couverture…'
-  response=$(/usr/bin/curl --silent --location --connect-timeout 4 --max-time 12 \
+  response=$(network_curl --silent --location --connect-timeout 4 --max-time 12 \
     --retry 1 --retry-all-errors --retry-delay 1 --retry-max-time 15 \
     --get 'https://www.googleapis.com/books/v1/volumes' --data-urlencode "q=$query" \
     --data-urlencode maxResults=1 ${key:+--data-urlencode "key=$key"} \
@@ -31,7 +31,7 @@ book_cover() {
   [[ -n $cover ]] || return 0
   cover=${cover/#http:/https:}
   print 'Téléchargement de la couverture…'
-  if ! /usr/bin/curl --fail --silent --show-error --location --remove-on-error \
+  if ! network_curl --fail --silent --show-error --location --remove-on-error \
     --connect-timeout 4 --max-time 20 --retry 1 --retry-all-errors --retry-delay 1 \
     --retry-max-time 24 "$cover" --output "$target/$image" 2>/dev/null; then
     print -u2 'Couverture non récupérée : téléchargement indisponible.'
