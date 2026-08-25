@@ -1,5 +1,5 @@
 ---
-title: "*Onyx storm*, Rebecca Yarros"
+title: "*Onyx Storm*, Rebecca Yarros"
 date: 2026-08-25T22:30:22+02:00
 id: cb48546914w
 pays: "us"
