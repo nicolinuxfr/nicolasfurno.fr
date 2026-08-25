@@ -68,6 +68,17 @@ request() {
 }
 fallback=$(tmdb_search_response test search/movie 10dances)
 unfunction request
+
+source "$scripts_dir/lib/book.sh"
+resolved=$(print -r -- '{"primary":{"title":"Onyx storm","authors":["Rebecca Yarros"],"language":"fre","originalLanguage":"eng"},"candidates":[{"source":"googlebooks","title":"Onyx Storm","authors":["Rebecca Yarros"]},{"source":"openlibrary","title":"Onyx Storm","authors":["Rebecca Yarros"]}]}' | book_resolve_display_title)
+[[ $(print -r -- "$resolved" | jq -r '.title') == 'Onyx Storm' ]]
+[[ $(print -r -- "$resolved" | jq -r '.ambiguous') == false ]]
+resolved=$(print -r -- '{"primary":{"title":"Le mage du Kremlin","authors":["Giuliano da Empoli"],"language":"fre","originalLanguage":"fre"},"candidates":[{"source":"googlebooks","title":"Le Mage du Kremlin","authors":["Giuliano da Empoli"]},{"source":"openlibrary","title":"Le Mage Du Kremlin","authors":["Giuliano da Empoli"]}]}' | book_resolve_display_title)
+[[ $(print -r -- "$resolved" | jq -r '.title') == 'Le mage du Kremlin' ]]
+resolved=$(print -r -- '{"primary":{"title":"La femme de ménage","authors":["Freida McFadden"],"language":"fre","originalLanguage":"eng"},"candidates":[{"source":"googlebooks","title":"The Housemaid","authors":["Freida McFadden"]},{"source":"openlibrary","title":"The Housemaid","authors":["Freida McFadden"]}]}' | book_resolve_display_title)
+[[ $(print -r -- "$resolved" | jq -r '.title') == 'La femme de ménage' ]]
+resolved=$(print -r -- '{"primary":{"title":"Never let me go","authors":["Kazuo Ishiguro"],"language":"fre","originalLanguage":"eng"},"candidates":[{"source":"googlebooks","title":"Never Let Me Go","authors":["Kazuo Ishiguro"]},{"source":"openlibrary","title":"Never let Me Go","authors":["Kazuo Ishiguro"]}]}' | book_resolve_display_title)
+[[ $(print -r -- "$resolved" | jq -r '.ambiguous') == true ]]
 [[ $(print -r -- "$fallback" | jq -r '.results[0].id') == 1400032 ]]
 
 malformed="$project/malformed.md"

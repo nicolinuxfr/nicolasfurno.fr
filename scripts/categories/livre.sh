@@ -4,6 +4,7 @@ script_dir=${0:A:h}
 lib_dir=${script_dir:h}/lib
 services_dir=${script_dir:h}/services
 source "$lib_dir/article.sh"
+source "$lib_dir/book.sh"
 article_require_tools
 
 book_cover() {
@@ -70,6 +71,45 @@ book_enrich_with_google() {
     | if (.isbn13 // "") == "" then .isbn13 = ($fallback.isbn13 // "") else . end'
 }
 
+book_title_candidate() {
+  local service=$1 query=$2 rows id record
+  rows=$("$services_dir/$service.sh" search "$query" 2>/dev/null || true)
+  id=$(print -r -- "$rows" | /usr/bin/awk -F '\t' 'NR == 1 { print $1 }')
+  [[ -n $id ]] || return 0
+  if [[ $service == openlibrary ]]; then
+    record=$("$services_dir/$service.sh" record "$id" "$query" 2>/dev/null || true)
+  else
+    record=$("$services_dir/$service.sh" record "$id" 2>/dev/null || true)
+  fi
+  [[ -n $record ]] || return 0
+  print -r -- "$record" | jq -c --arg source "$service" \
+    'select((.title // "") != "") | {source: $source, title, authors: (.authors // [])}'
+}
+
+book_display_title() {
+  local meta=$1 query primary_source candidates=() candidate resolution choices chosen
+  query=$(print -r -- "$meta" | jq -r '[.originalTitle // .title, ((.authors // []) | join(" "))] | join(" ")')
+  primary_source=$(print -r -- "$meta" | jq -r '.catalogSource // "bnf"')
+  if [[ $primary_source != googlebooks ]]; then
+    candidate=$(book_title_candidate googlebooks "$query")
+    [[ -z $candidate ]] || candidates+=("$candidate")
+  fi
+  if [[ $primary_source != openlibrary ]]; then
+    candidate=$(book_title_candidate openlibrary "$query")
+    [[ -z $candidate ]] || candidates+=("$candidate")
+  fi
+  resolution=$(jq -nc --argjson primary "$meta" --argjson candidates \
+    "$(print -r -- "${candidates[@]}" | jq -sc .)" '{primary: $primary, candidates: $candidates}' \
+    | book_resolve_display_title)
+  if [[ $(print -r -- "$resolution" | jq -r '.ambiguous') == true ]]; then
+    choices=$(print -r -- "$resolution" | jq -r '.candidates | unique_by(.title)[] | [.title, (.title + " — " + .source)] | @tsv')
+    chosen=$(print -r -- "$choices" | article_pick_row 'Quelle graphie du titre conserver ?') || article_cancel
+    print -r -- "${chosen%%$'\t'*}"
+  else
+    print -r -- "$resolution" | jq -r '.title'
+  fi
+}
+
 query=$("$article_gum_bin" input --header 'Quel livre ?' --width 60) || article_cancel
 [[ -n $query ]] || article_die 'Le titre est obligatoire.'
 rows=$("$services_dir/bnf.sh" search "$query" 2>/dev/null || true)
@@ -130,7 +170,8 @@ fi
 article_check_existing livre id "$id"
 meta=$(book_enrich_with_google "$meta")
 book_is_complete "$meta" || article_die 'Les catalogues ne fournissent pas une fiche complète pour cette édition.'
-name=$(print -r -- "$meta" | jq -er '.title')
+name=$(book_display_title "$meta")
+meta=$(print -r -- "$meta" | jq -cS --arg displayTitle "$name" '. + {displayTitle: $displayTitle}')
 author_names=()
 author_slugs=()
 country=''
