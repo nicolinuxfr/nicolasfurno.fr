@@ -1,0 +1,13 @@
+---
+title: "*Onyx storm*, Rebecca Yarros"
+date: 2026-08-25T22:30:22+02:00
+id: cb48546914w
+pays: "us"
+sagas: "Empyrean"
+sagas_weight: 3
+---
+
+En attaquant le troisième volet de la [saga *Empyrean*](/sagas/empyrean/), je me suis apparemment auto-convaincu qu’il s’agissait d’une trilogie et qu’on allait enfin découvrir la fin avec ce roman. À la fin d’*Onyx Storm*, face à un énorme *cliffhanger* taillé sur mesure pour relancer l’intérêt des lecteurs avant la suite. De fait, Rebecca Yaros a prévu cinq volumes, il en reste ainsi deux et celui-ci ne contient pas la grande bataille finale, juste de multiples péripéties pour y mener, probablement dans le dernier livre. D’ici là, on retrouve nos protagonistes habituels, en particulier Violet et Xaden, ainsi que les nombreux personnages secondaires découverts auparavant. N’allez pas croire que c’est le retour au train-train quotidien, l’école ~~des sorciers~~ de Basgiath n’est plus qu’un décor parmi d’autres au sein de cette guerre à l’échelle du continent et l’écrivaine a su introduire plusieurs idées nouvelles pour éviter les répétitions. Chaque épisode creuse l’univers et après avoir appris un petit peu mieux comment la magie fonctionnait, on commence (timidement) à en savoir plus sur Andarna, l’étonnante dragonne qui s’est associée à Violet. Malgré tout, je suis resté assez frustré par le peu de réponses apportées de ce côté et j’espère que l’autrice a de nombreuses idées pour la suite, pas juste qu’elle gagne du temps avec l’espoir de trouver ces idées qui lui manquent encore… 
+
+Cela étant, *Onyx Storm* m’a davantage plu que je pourrais le laisser entendre jusque-là. Ses 600 pages défilent à toute allure et le lecteur est happé par une action soutenue, entrecoupée de pauses qui en révèlent toujours un petit peu plus sur ce monde. On voyage plus ici, avec des décors différents et des peuples aux coutumes étranges, ce qui n’est pas déplaisant. Il y a bien quelques longueurs encore, dont ces scènes de sexe toujours aussi détaillées et assez ennuyeuses, même si je dois admettre que j’aurais été sans doute plus intéressé si elles n’étaient pas si hétéronormées. Je suis un poil sceptique sur le manichéisme de l’arc narratif de Xaden, mais il faudra attendre le quatrième roman pour décider si Rebecca Yarros tombe dans la simplicité un peu bête, ou si elle a une bonne idée derrière la tête. D’ici là, *Onyx Storm* est le roman parfait pour une histoire pas prise de tête, ce qui fait du bien de temps en temps et tranche avec mes précédentes lectures [anxiogènes](/livre/ministere-futur-robinson/). Maintenant que j’en ai lu trois, je suis impliqué, alors j’ai hâte de découvrir la suite. 
+
