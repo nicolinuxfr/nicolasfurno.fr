@@ -1,0 +1,13 @@
+---
+title: "*House of the Dragon*, HBO (saison 3)"
+date: 2026-08-26T21:49:01+02:00
+tmdb: 94997
+saison: [3]
+---
+
+Cette fois, c’est la guerre ! Après une longue mise en place, le conflit ouvert éclate vraiment dans la troisième saison de *House of the Dragon*, sortie hélas également deux ans [après la précédente](/serie/house-dragon-hbo-saison-2/), ce qui n’est jamais l’idéal pour se remettre dans le bain. J’ai toutefois trouvé que l’on se faisait assez vite à l’univers, et le choix cette fois de se focaliser sur un nombre bien plus réduit de personnages et d’arcs narratifs aide forcément. Dans ces dix nouveaux épisodes, HBO déploie l’univers de George R.R. Martin et prépare la fin des Targaryen, qui est l’enjeu central de cette série après tout. On n’y est pas encore, même si la débâcle est de plus en plus visible au fur et à mesure des progrès. Sans trop en dire, le dernier épisode est tout à la fois spectaculaire, avec l’une des meilleures batailles épiques impliquant des dragons jusque-là à mon avis[^1], et  catastrophique pour à peu près tous les personnages. Il n’y jamais eu de manichéisme dans ce monde fictif, c’est l’un de ses plus grands points forts d’ailleurs, mais l’omniprésence de perdants est ici encore plus frappante.
+
+*House of the Dragon* illustre avec encore plus d’intensité cette idée décidément maîtresse : les dragons sont l’équivalent de nos bombes nucléaires, qui ne peuvent que causer des pertes incontrôlées. Le thème flottait déjà dans la deuxième saison, tout en restant abstrait. Il se concrétise ici sans aucun doute et ce, à deux reprises, au tout début et à la toute fin. Par deux fois, un dragon mal contrôlé est responsable de destructions massives et d’innombrables morts dans les deux camps, un choix de la part des scénaristes qui ne doit évidemment rien au hasard. Plus la création de Ryan J. Condal associé au romancier avance, et plus je réalise que c’est son point fort. L’hiver de *Game of Thrones* représentait plutôt le réchauffement climatique, les dragons sont ici des armes maudites, car incontrôlables. Ce n’est pas encore fait, mais on voit déjà très bien comment ils vont causer la perte de tous les personnages principaux, sans distinction. C’est assez fort et j’ai très hâte de voir la suite de cette chute interminable, même si j’ai très peur de devoir attendre deux ans de plus pour la saison 4. 
+
+
+[^1]: Peut-être parce que, pour une fois, elle n’est pas filmée dans le noir. D’ailleurs, de manière plus générale, j’ai apprécié la photographie de cette troisième saison, moins caricaturalement sombre que les précédentes. Cela fait du bien de voir à peu près normalement dans la majorité des séquences. 
