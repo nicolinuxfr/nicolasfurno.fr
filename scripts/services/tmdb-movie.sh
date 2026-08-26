@@ -45,6 +45,10 @@ case ${1:-} in
     western=$(TMDB_LANGUAGE=en-US request "movie-$id" "movie/$id" 'append_to_response=credits')
     people_westernize_tmdb "$localized" "$western" | jq -cS .
     ;;
+  collection)
+    id=${2:-}; [[ $id == <-> ]] || die 'Identifiant de collection TMDB invalide.'
+    request "collection-$id" "collection/$id" | jq -cS .
+    ;;
   person-profile)
     id=${2:-}; [[ $id == <-> ]] || die 'Identifiant TMDB invalide.'
     request "person-$id" "person/$id" 'append_to_response=external_ids' | jq -c '
@@ -65,5 +69,5 @@ case ${1:-} in
     if [[ -n $fixture_dir ]]; then /bin/cp "$fixture_dir/image-${path:t}" "$destination"
     else network_curl --fail --silent --show-error --retry 3 --retry-all-errors --remove-on-error "$image_base/${path#/}" --output "$destination"; fi
     ;;
-  *) die "Usage: ${0:t} search REQUÊTE | movie ID | person-profile ID | image CHEMIN SORTIE" ;;
+  *) die "Usage: ${0:t} search REQUÊTE | movie ID | collection ID | person-profile ID | image CHEMIN SORTIE" ;;
 esac

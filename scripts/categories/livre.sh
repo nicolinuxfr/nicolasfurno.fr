@@ -5,6 +5,7 @@ lib_dir=${script_dir:h}/lib
 services_dir=${script_dir:h}/services
 source "$lib_dir/article.sh"
 source "$lib_dir/book.sh"
+source "$lib_dir/saga.sh"
 article_require_tools
 
 book_cover() {
@@ -83,21 +84,13 @@ book_title_candidate() {
   fi
   [[ -n $record ]] || return 0
   print -r -- "$record" | jq -c --arg source "$service" \
-    'select((.title // "") != "") | {source: $source, title, authors: (.authors // [])}'
+    'select((.title // "") != "") | {source: $source, title, authors: (.authors // []), series: (.series // [])}'
 }
 
 book_display_title() {
-  local meta=$1 query primary_source candidates=() candidate resolution choices chosen
-  query=$(print -r -- "$meta" | jq -r '[.originalTitle // .title, ((.authors // []) | join(" "))] | join(" ")')
-  primary_source=$(print -r -- "$meta" | jq -r '.catalogSource // "bnf"')
-  if [[ $primary_source != googlebooks ]]; then
-    candidate=$(book_title_candidate googlebooks "$query")
-    [[ -z $candidate ]] || candidates+=("$candidate")
-  fi
-  if [[ $primary_source != openlibrary ]]; then
-    candidate=$(book_title_candidate openlibrary "$query")
-    [[ -z $candidate ]] || candidates+=("$candidate")
-  fi
+  local meta=$1 google_candidate=${2:-} openlibrary_candidate=${3:-} candidates=() resolution choices chosen
+  [[ -z $google_candidate ]] || candidates+=("$google_candidate")
+  [[ -z $openlibrary_candidate ]] || candidates+=("$openlibrary_candidate")
   resolution=$(jq -nc --argjson primary "$meta" --argjson candidates \
     "$(print -r -- "${candidates[@]}" | jq -sc .)" '{primary: $primary, candidates: $candidates}' \
     | book_resolve_display_title)
@@ -108,6 +101,35 @@ book_display_title() {
   else
     print -r -- "$resolution" | jq -r '.title'
   fi
+}
+
+book_saga_frontmatter() {
+  local meta=$1 candidate=${2:-} series existing collection weight name
+  series=$(print -r -- "$meta" | jq -r '(.series // [])[0] // empty')
+  if [[ -z $series && -n $candidate ]]; then
+    if print -r -- "$candidate" | jq -e --argjson primary "$meta" '
+      [(.authors // [])[] | ascii_downcase] as $candidateAuthors
+      | any(($primary.authors // [])[]; (. | ascii_downcase) as $author | $candidateAuthors | index($author))' >/dev/null 2>&1; then
+      series=$(print -r -- "$candidate" | jq -r '(.series // [])[0] // empty' 2>/dev/null || true)
+    fi
+  fi
+  [[ -n $series ]] || return 0
+  existing=$(saga_existing_by_name "$series")
+  if [[ -z $existing ]]; then
+    collection=$(print -r -- "$meta" | jq -r '.collection // empty')
+    [[ -z $collection ]] || existing=$(saga_existing_by_name "$collection")
+  fi
+  if [[ -n $existing ]]; then
+    name=$existing
+  else
+    name=$(print -rn -- "$series" | /usr/bin/perl -CS -Mutf8 -pe '
+      s/\s*[-:]?\s*(?:saga|series)\s*$//i;
+      s/\s*[,(:#-]?\s*(?:book|volume|vol\.?|tome)?\s*#?\d+\s*\)?\s*$//i;
+      s/^The\s+//i;
+    ')
+  fi
+  weight=$(saga_weight_from_text "$series")
+  saga_frontmatter "$name" "$weight" true
 }
 
 query=$("$article_gum_bin" input --header 'Quel livre ?' --width 60) || article_cancel
@@ -170,7 +192,13 @@ fi
 article_check_existing livre id "$id"
 meta=$(book_enrich_with_google "$meta")
 book_is_complete "$meta" || article_die 'Les catalogues ne fournissent pas une fiche complète pour cette édition.'
-name=$(book_display_title "$meta")
+lookup=$(print -r -- "$meta" | jq -r '[.originalTitle // .title, ((.authors // []) | join(" "))] | join(" ")')
+primary_source=$(print -r -- "$meta" | jq -r '.catalogSource // "bnf"')
+google_candidate=''
+openlibrary_candidate=''
+[[ $primary_source == googlebooks ]] || google_candidate=$(book_title_candidate googlebooks "$lookup")
+[[ $primary_source == openlibrary ]] || openlibrary_candidate=$(book_title_candidate openlibrary "$lookup")
+name=$(book_display_title "$meta" "$google_candidate" "$openlibrary_candidate")
 meta=$(print -r -- "$meta" | jq -cS --arg displayTitle "$name" '. + {displayTitle: $displayTitle}')
 author_names=()
 author_slugs=()
@@ -195,7 +223,10 @@ title="*$name*${authors:+, $authors}"
 author_slugs=$(article_join "${author_slugs[@]}")
 slug_title="*$name*${author_slugs:+, $author_slugs}"
 slug=$(article_slug "$(print -rn -- "$slug_title" | "$lib_dir/slugify.pl" propose)") || article_cancel
-file=$(article_create livre "$slug" "$title" $'id: '"$id"$'\n')
+saga_meta=$(book_saga_frontmatter "$meta" "$openlibrary_candidate")
+extra=$'id: '"$id"$'\n'
+[[ -z $saga_meta ]] || extra+="$saga_meta"$'\n'
+file=$(article_create livre "$slug" "$title" "$extra")
 [[ -n $country ]] && article_set_frontmatter "$file" pays "${(L)country}"
 target=${file:h}; print -r -- "$meta" | jq -S . > "$target/meta.json"
 image="$(print -rn -- "$name" | "$lib_dir/slugify.pl" propose).jpg"

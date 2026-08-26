@@ -1,0 +1,8 @@
+{
+  "id": 77,
+  "name": "Saga de test - Saga",
+  "parts": [
+    {"id": 98, "title": "Premier film", "release_date": "2023-01-01"},
+    {"id": 99, "title": "Film de test", "release_date": "2025-01-01"}
+  ]
+}

@@ -45,6 +45,7 @@ print -r -- "$ol_meta" | jq -e --arg id "$ol_id" '
   and .openLibraryId == $id
   and (.title | length > 0)
   and (.authors | type == "array" and length > 0)
+  and .series == ["Steve Jobs in Exile #1"]
   and (.isbn13 | test("^[0-9]{13}$"))' >/dev/null
 
 google_rows=$("$scripts_dir/services/googlebooks.sh" search test)
@@ -74,6 +75,8 @@ movie_id=${movie_rows%%$'\t'*}
 movie=$("$scripts_dir/services/tmdb-movie.sh" movie "$movie_id")
 print -r -- "$movie" | jq -e --argjson id "$movie_id" '
   .id == $id and (.title | length > 0) and (.credits.crew | type == "array")' >/dev/null
+collection=$("$scripts_dir/services/tmdb-movie.sh" collection 77)
+print -r -- "$collection" | jq -e '.id == 77 and [.parts[].id] == [98, 99]' >/dev/null
 person=$("$scripts_dir/services/tmdb-movie.sh" person-profile 2)
 print -r -- "$person" | jq -e '
   .wikidata_id == "Q100" and .western_name == "Keishi Ohtomo"' >/dev/null

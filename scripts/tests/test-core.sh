@@ -79,6 +79,14 @@ resolved=$(print -r -- '{"primary":{"title":"La femme de ménage","authors":["Fr
 [[ $(print -r -- "$resolved" | jq -r '.title') == 'La femme de ménage' ]]
 resolved=$(print -r -- '{"primary":{"title":"Never let me go","authors":["Kazuo Ishiguro"],"language":"fre","originalLanguage":"eng"},"candidates":[{"source":"googlebooks","title":"Never Let Me Go","authors":["Kazuo Ishiguro"]},{"source":"openlibrary","title":"Never let Me Go","authors":["Kazuo Ishiguro"]}]}' | book_resolve_display_title)
 [[ $(print -r -- "$resolved" | jq -r '.ambiguous') == true ]]
+source "$scripts_dir/lib/saga.sh"
+saga_article=$(article_create test 'saga-test' 'Saga test' $'id: 44\nsagas: "Empyrean"\nsagas_weight: 2\n')
+[[ $(saga_existing_by_name 'The Empyrean #3') == Empyrean ]]
+[[ $(saga_weight_from_text 'The Empyrean #3') == 3 ]]
+[[ $(saga_frontmatter Empyrean 3) == $'sagas: "Empyrean"\nsagas_weight: 3' ]]
+[[ $(saga_frontmatter Empyrean '' true) == $'sagas: "Empyrean"\nsagas_weight:' ]]
+[[ $(saga_frontmatter '' '' true) == $'sagas: ""\nsagas_weight:' ]]
+[[ -z $(saga_frontmatter '' '') ]]
 [[ $(print -r -- "$fallback" | jq -r '.results[0].id') == 1400032 ]]
 
 malformed="$project/malformed.md"

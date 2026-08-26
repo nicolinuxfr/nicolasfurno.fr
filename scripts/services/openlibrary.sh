@@ -18,7 +18,7 @@ case ${1:-} in
     shift
     ol_request openlibrary-search.json --get 'https://openlibrary.org/search.json' \
       --data-urlencode "q=$*" --data-urlencode 'limit=20' \
-      --data-urlencode 'fields=key,title,author_name,publisher,first_publish_year,number_of_pages_median,isbn' | jq -r '
+      --data-urlencode 'fields=key,title,author_name,publisher,first_publish_year,number_of_pages_median,isbn,series' | jq -r '
       .docs[]?
       | select(.key? and .title?)
       | (.key | sub("^/works/"; "")) as $id
@@ -35,14 +35,15 @@ case ${1:-} in
     # identifie durablement l’œuvre (OL…W), pas nécessairement l’édition choisie.
     ol_request openlibrary-search.json --get 'https://openlibrary.org/search.json' \
       --data-urlencode "q=$query" --data-urlencode 'limit=20' \
-      --data-urlencode 'fields=key,title,author_name,publisher,first_publish_year,number_of_pages_median,isbn' | jq -cS --arg id "$id" '
+      --data-urlencode 'fields=key,title,author_name,publisher,first_publish_year,number_of_pages_median,isbn,series' | jq -cS --arg id "$id" '
       .docs[]? | select(.key == "/works/" + $id) | {
         openLibraryId: $id, catalogSource: "openlibrary",
         title, authors: (.author_name // []),
         publisher: ((.publisher // [])[0] // ""),
         publishedDate: ((.first_publish_year // "") | tostring),
         pageCount: (.number_of_pages_median // 0),
-        isbn13: ((.isbn // [] | map(select(length == 13)) | .[0]) // "")
+        isbn13: ((.isbn // [] | map(select(length == 13)) | .[0]) // ""),
+        series: (.series // [])
       } | with_entries(select(.value != "" and .value != 0 and .value != []))'
     ;;
   *) print -u2 'Usage : openlibrary.sh search <requête> | record <ol:OL…W>'; exit 2 ;;
