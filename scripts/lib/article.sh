@@ -26,6 +26,10 @@ article_require_tools() {
 
 article_slug() {
   local suggested=$1 slug=''
+  if [[ -n ${ARTICLE_PREPARE_LOG:-} ]]; then
+    print -r -- "$suggested" > "$ARTICLE_PREPARE_LOG"
+    return 1
+  fi
   while [[ -z $slug ]]; do
     slug=$("$article_gum_bin" input --header 'Changer le slug ?' --value "$suggested" --width 80) || return 1
     [[ -n $slug ]] && slug=$(print -rn -- "$slug" | "$article_library_dir/slugify.pl" sanitize)
@@ -33,11 +37,20 @@ article_slug() {
   print -r -- "$slug"
 }
 
-article_open() { /usr/bin/open "${1:h}" }
+article_open() {
+  local file=$1
+  if [[ -n ${ARTICLE_RESULT_LOG:-} ]]; then
+    print -r -- $'created\t'"$file" >> "$ARTICLE_RESULT_LOG"
+  fi
+  [[ ${ARTICLE_NO_OPEN:-false} == true ]] || /usr/bin/open "${file:h}"
+}
 
 article_offer_existing() {
   local index_file=$1 reason=${2:-'Un article correspondant existe déjà :'}
   local target=${index_file:h}
+  if [[ -n ${ARTICLE_RESULT_LOG:-} ]]; then
+    print -r -- $'existing\t'"$index_file" >> "$ARTICLE_RESULT_LOG"
+  fi
   print
   "$article_gum_bin" style --bold --foreground 214 'Article déjà présent'
   print -r -- "$reason"
@@ -98,6 +111,7 @@ article_find_existing() {
 }
 
 article_check_existing() {
+  [[ ${ARTICLE_SKIP_EXISTING:-false} == true ]] && return 0
   local existing
   existing=$(article_find_existing "$@")
   [[ -z $existing ]] || article_offer_existing "$existing"

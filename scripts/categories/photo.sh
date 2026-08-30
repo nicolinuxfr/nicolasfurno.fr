@@ -8,7 +8,10 @@ article_require_tools
 title=$("$article_gum_bin" input --header 'Quel titre ?' --width 80) || article_cancel
 [[ -n $title ]] || article_die 'Le titre est obligatoire.'
 slug=$(article_slug "$(print -rn -- "$title" | "$lib_dir/slugify.pl" propose)") || article_cancel
-files=$(/usr/bin/osascript <<'APPLESCRIPT'
+if [[ -n ${ARTICLE_PHOTO_FILES:-} ]]; then
+  files=$ARTICLE_PHOTO_FILES
+else
+  files=$(/usr/bin/osascript <<'APPLESCRIPT'
 set chosenFiles to choose file with prompt "Choisir les photos à importer" with multiple selections allowed
 set output to ""
 repeat with chosenFile in chosenFiles
@@ -17,6 +20,7 @@ end repeat
 return output
 APPLESCRIPT
 ) || exit 0
+fi
 sources=("${(@f)files}")
 (( ${#sources} > 0 )) || article_die 'Aucune photo sélectionnée.'
 typeset -a names

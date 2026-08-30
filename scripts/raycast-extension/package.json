@@ -1,0 +1,45 @@
+{
+  "$schema": "https://www.raycast.com/schemas/extension.json",
+  "name": "nicolasfurno-articles",
+  "title": "Scripts nicolasfurno.fr",
+  "description": "Scripts pour mon blog personnel.",
+  "icon": "icon.png",
+  "author": "nicolinux",
+  "license": "MIT",
+  "commands": [
+    {
+      "name": "new-article",
+      "title": "Créer un article",
+      "description": "Créer un nouvel article",
+      "mode": "view"
+    }
+  ],
+  "preferences": [
+    {
+      "name": "projectRoot",
+      "title": "Projet Hugo",
+      "description": "Chemin absolu du dépôt Hugo",
+      "type": "textfield",
+      "default": "/Users/nicolas/Developer/perso/nicolasfurno.fr",
+      "required": true
+    }
+  ],
+  "scripts": {
+    "build": "ray build -e dist",
+    "dev": "ray develop",
+    "lint": "ray lint",
+    "test": "vitest run"
+  },
+  "dependencies": {
+    "@raycast/api": "2.1.2"
+  },
+  "devDependencies": {
+    "@raycast/eslint-config": "^2.2.0",
+    "@types/node": "^24.0.0",
+    "@types/react": "^19.0.0",
+    "eslint": "^10.9.1",
+    "prettier": "^3.9.6",
+    "typescript": "^5.9.0",
+    "vitest": "^3.2.0"
+  }
+}

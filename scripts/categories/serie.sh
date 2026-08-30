@@ -7,7 +7,7 @@ lib_dir=${script_dir:h}/lib
 services_dir=${script_dir:h}/services
 script_path=${0:A}
 script_name=${0:t}
-repo_root=${script_dir:h:h}
+repo_root=${ARTICLE_ROOT:-${script_dir:h:h}}
 source "$lib_dir/article.sh"
 
 series_title() {
@@ -45,6 +45,7 @@ series_compact_seasons() {
 
 series_generate() {
   local output_root=$repo_root id='' network='' requested_slug='' selection=''
+  local requested_name=''
   local skip_image=false minimum_width=${TMDB_MIN_POSTER_WIDTH:-1000}
   local whole=false season_start=0 season_end=0
   local slug target stage created=false name image_basename title season_line title_json
@@ -55,11 +56,12 @@ series_generate() {
     case "$1" in
       --id) id=${2:-}; shift 2 ;;
       --network) network=${2:-}; shift 2 ;;
+      --name) requested_name=${2:-}; shift 2 ;;
       --slug) requested_slug=${2:-}; shift 2 ;;
       --seasons) selection=${2:-}; shift 2 ;;
       --root) output_root=${2:-}; shift 2 ;;
       --no-image) skip_image=true; shift ;;
-      *) article_die "Usage : $script_name generate --id ID --network DIFFUSEUR --slug SLUG --seasons all|N|N-M [--root DOSSIER] [--no-image]" ;;
+      *) article_die "Usage : $script_name generate --id ID --network DIFFUSEUR --name TITRE --slug SLUG --seasons all|N|N-M [--root DOSSIER] [--no-image]" ;;
     esac
   done
 
@@ -93,7 +95,7 @@ series_generate() {
   trap cleanup_series_generation EXIT INT TERM
 
   "$services_dir/tmdb-tv.sh" series "$id" > "$stage/meta.json"
-  name=$(jq -er '.name | select(type == "string" and length > 0)' "$stage/meta.json")
+  name=${requested_name:-$(jq -er '.name | select(type == "string" and length > 0)' "$stage/meta.json")}
   image_basename=$(print -rn -- "$name" | "$lib_dir/slugify.pl" propose)
 
   if $whole; then
@@ -233,13 +235,15 @@ while true; do
   fi
   [[ -n "$selected" ]] || article_cancel
   id=${selected%%$'\t'*}
+  search_name=${selected#*$'\t'}
+  search_name=$(print -r -- "$search_name" | /usr/bin/perl -CS -Mutf8 -pe 's/\s+\(\d{4}\)\s*$//')
   [[ $id == new-search ]] && continue
   [[ -n "$id" ]] || article_die "Impossible de retrouver l’identifiant TMDB de « $selected »."
   break
 done
 
 metadata=$("$services_dir/tmdb-tv.sh" series "$id")
-name=$(print -r -- "$metadata" | jq -er '.name | select(type == "string" and length > 0)')
+name=${search_name:-$(print -r -- "$metadata" | jq -er '.name | select(type == "string" and length > 0)')}
 network=$(print -r -- "$metadata" | jq -er '.networks[0].name | select(type == "string" and length > 0)') \
   || article_die "Aucun diffuseur TMDB n'est disponible pour « $name »."
 series_type=$(print -r -- "$metadata" | jq -r '.type // empty')
@@ -311,6 +315,7 @@ index_file=$(
   "$script_path" generate \
     --id "$id" \
     --network "$network" \
+    --name "$name" \
     --slug "$slug" \
     --seasons "$season_selection"
 )

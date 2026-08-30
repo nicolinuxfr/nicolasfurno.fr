@@ -24,27 +24,11 @@ fi
 source "$script_dir/lib/article.sh"
 article_require_tools
 
-typeset -a rows
-for directory in "$article_repo_root"/content/*(/N); do
-  section=${directory:t}
-  [[ $section != pages && $section != .* ]] || continue
-  indexes=("$directory"/*/index.md(N))
-  [[ -f "$directory/_index.md" || ${#indexes} -gt 0 ]] || continue
-  case $section in
-    serie) label='Séries' ;;
-    film) label='Films' ;;
-    album) label='Albums' ;;
-    livre) label='Livres' ;;
-    jeu-video) label='Jeux vidéo' ;;
-    photo) label='Photos' ;;
-    spectacle) label='Spectacles' ;;
-    *) label=${section//-/ } ;;
-  esac
-  rows+=("${#indexes}"$'\t'"$section"$'\t'"$label")
-done
-(( ${#rows} > 0 )) || article_die 'Aucune section Hugo publiable trouvée.'
+categories=$(print '{}' | ARTICLE_ROOT="$article_repo_root" "$script_dir/article-cli.sh" categories | jq -er '.data[] | [.id, .label] | @tsv') \
+  || article_die 'Impossible de charger les catégories.'
+[[ -n $categories ]] || article_die 'Aucune section Hugo publiable trouvée.'
 
-selected=$(print -rl -- $rows | /usr/bin/sort -rn -k1,1 | /usr/bin/awk -F '\t' '{ print $2 "\t" $3 }' | "$article_fzf_bin" --delimiter $'\t' --with-nth 2 --header 'Quelle catégorie ?' --prompt 'Filtrer > ' --height 15 --layout reverse --border --no-sort) || exit 0
+selected=$(print -r -- "$categories" | "$article_fzf_bin" --delimiter $'\t' --with-nth 2 --header 'Quelle catégorie ?' --prompt 'Filtrer > ' --height 15 --layout reverse --border --no-sort) || exit 0
 [[ -n $selected ]] || exit 0
 section=${selected%%$'\t'*}
 

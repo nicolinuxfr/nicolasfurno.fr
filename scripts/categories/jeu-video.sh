@@ -14,12 +14,13 @@ rows=$(print -r -- "$search" | jq -r '.[] | [.appid, .name] | @tsv')
 choice=$(print -r -- "$rows" | article_pick_row 'Quel jeu ?') || exit 0
 [[ -n $choice ]] || exit 0
 id=${choice%%$'\t'*}
+search_name=${choice#*$'\t'}
 [[ -n $id ]] || exit 0
 article_check_existing jeu-video id "$id"
 details=$(network_curl --fail --silent --show-error "https://store.steampowered.com/api/appdetails?lang=fr&appids=$id")
 success=$(print -r -- "$details" | jq -r --arg id "$id" '.[$id].success')
 [[ $success == true ]] || article_die 'Steam ne fournit pas les métadonnées de ce jeu.'
-name=$(print -r -- "$details" | jq -er --arg id "$id" '.[$id].data.name')
+name=${search_name:-$(print -r -- "$details" | jq -er --arg id "$id" '.[$id].data.name')}
 saga_candidate=$(print -r -- "$details" | jq -r --arg id "$id" '.[$id].data.franchises[0].name // empty')
 saga_weight=$(saga_weight_from_text "$name")
 if [[ -z $saga_candidate && -n $saga_weight ]]; then
