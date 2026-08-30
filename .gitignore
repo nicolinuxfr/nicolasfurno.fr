@@ -1,7 +1,7 @@
 /public/
 /.cache/
 /resources/_gen/
-/node_modules/
+node_modules/
 .env
 .envrc
 .hugo_build.lock
