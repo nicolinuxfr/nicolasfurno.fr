@@ -48,7 +48,7 @@ series_generate() {
   local requested_name=''
   local skip_image=false minimum_width=${TMDB_MIN_POSTER_WIDTH:-1000}
   local whole=false season_start=0 season_end=0
-  local slug target stage created=false name image_basename title season_line title_json
+  local slug target stage created=false name image_basename title season_line title_json metadata_tmp
   local number season_file poster_path extension candidate width image_saved
   local -a season_files season_numbers poster_paths attempted_paths
 
@@ -96,6 +96,9 @@ series_generate() {
 
   "$services_dir/tmdb-tv.sh" series "$id" > "$stage/meta.json"
   name=${requested_name:-$(jq -er '.name | select(type == "string" and length > 0)' "$stage/meta.json")}
+  metadata_tmp="$stage/meta-with-editorial-name.json"
+  jq --compact-output --sort-keys --arg name "$name" '.name = $name' "$stage/meta.json" > "$metadata_tmp"
+  /bin/mv -- "$metadata_tmp" "$stage/meta.json"
   image_basename=$(print -rn -- "$name" | "$lib_dir/slugify.pl" propose)
 
   if $whole; then

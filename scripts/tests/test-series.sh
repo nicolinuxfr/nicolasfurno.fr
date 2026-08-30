@@ -22,10 +22,11 @@ export HUGO_TMDB=test
 
 whole=$(
   "$scripts_dir/categories/serie.sh" generate --root "$project" --id 42 --network 'Test TV' \
-    --slug 'serie-entiere-test' --seasons all
+    --name 'Titre français choisi' --slug 'serie-entiere-test' --seasons all
 )
 [[ -f "$whole" && -f "${whole:h}/meta.json" && -f "${whole:h}/cast.json" && -f "${whole:h}/seasons.json" ]]
-[[ -f "${whole:h}/serie-test.jpg" ]]
+[[ -f "${whole:h}/titre-francais-choisi.jpg" ]]
+jq -e '.name == "Titre français choisi" and .original_name == "Test Show"' "${whole:h}/meta.json" >/dev/null
 jq -e '[.[].season_number] == [1,2]' "${whole:h}/seasons.json" >/dev/null
 jq -e '
   all(.[ ];
