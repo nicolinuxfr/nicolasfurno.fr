@@ -1,6 +1,7 @@
 import { execFile } from "node:child_process";
 import { access } from "node:fs/promises";
 import { constants } from "node:fs";
+import { homedir } from "node:os";
 import path from "node:path";
 
 export type Envelope<T> =
@@ -14,6 +15,14 @@ export class BackendError extends Error {
   ) {
     super(message);
   }
+}
+
+export function normalizeProjectRoot(root: string): string {
+  const value = root.trim().replace(/^(["'])(.*)\1$/, "$2");
+  if (value === "~") return homedir();
+  if (value.startsWith("~/")) return path.join(homedir(), value.slice(2));
+  if (path.isAbsolute(value)) return path.normalize(value);
+  return path.resolve(homedir(), value);
 }
 
 export function parseEnvelope<T>(stdout: string): T {
@@ -60,8 +69,9 @@ export async function runBackend<T>(
   request: object = {},
   signal?: AbortSignal,
 ): Promise<T> {
-  await validateRoot(root);
-  const executable = path.join(root, "scripts", "article-cli.sh");
+  const projectRoot = normalizeProjectRoot(root);
+  await validateRoot(projectRoot);
+  const executable = path.join(projectRoot, "scripts", "article-cli.sh");
   const executablePath = [
     "/opt/homebrew/bin",
     "/usr/local/bin",
@@ -74,8 +84,12 @@ export async function runBackend<T>(
       "/bin/zsh",
       [executable, operation],
       {
-        cwd: root,
-        env: { ...process.env, ARTICLE_ROOT: root, PATH: executablePath },
+        cwd: projectRoot,
+        env: {
+          ...process.env,
+          ARTICLE_ROOT: projectRoot,
+          PATH: executablePath,
+        },
         maxBuffer: 10 * 1024 * 1024,
       },
       (error, stdout) => {
