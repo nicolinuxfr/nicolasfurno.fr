@@ -1,6 +1,6 @@
 ---
 title: "*Le Délicieux Professeur V.*, Netflix"
-date: 2026-08-30T21:52:20+02:00
+date: 2026-09-01T08:44:20+02:00
 tmdb: 285739
 ---
 
