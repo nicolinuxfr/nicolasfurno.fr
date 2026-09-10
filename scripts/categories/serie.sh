@@ -289,12 +289,9 @@ title=$(series_title "$name" "$network" "$season_selection")
 base_title=$(series_title "$name" "$network" all)
 base_slug=$(print -rn -- "$base_title" | "$lib_dir/slugify.pl" propose)
 case "$season_selection" in
-  all|1)
-    suggested_slug=$base_slug
-    ;;
-  <->|<->-<->)
-    suggested_slug="${base_slug}-saison-${season_selection}"
-    ;;
+  all|1) suggested_slug=$base_slug ;;
+  <->) suggested_slug="${base_slug}-saison-${season_selection}" ;;
+  <->-<->) suggested_slug="${base_slug}-saisons-${season_selection}" ;;
 esac
 
 slug=''

@@ -19,6 +19,11 @@ import path from "node:path";
 import { useEffect, useMemo, useRef, useState } from "react";
 import { BackendError, runBackend } from "./backend";
 import { formatDisplayValue } from "./format";
+import {
+  normalizeSeasonSelection,
+  prepareSeriesSelection,
+  seasonRequestValue,
+} from "./series";
 
 type Preferences = { projectRoot: string };
 type Category = { id: string; label: string; count: number };
@@ -211,7 +216,13 @@ function SearchList({ root, category }: { root: string; category: Category }) {
         preparationController.current.signal,
       );
       toast.hide();
-      push(<CreateForm root={root} prepared={prepared} query={query} />);
+      push(
+        prepared.category === "serie" && prepared.seasons.length > 0 ? (
+          <SeasonForm root={root} prepared={prepared} query={query} />
+        ) : (
+          <CreateForm root={root} prepared={prepared} query={query} />
+        ),
+      );
     } catch (reason) {
       toast.style = Toast.Style.Failure;
       toast.title = "Préparation impossible";
@@ -268,6 +279,69 @@ function SearchList({ root, category }: { root: string; category: Category }) {
         ))
       )}
     </List>
+  );
+}
+
+function SeasonForm({
+  root,
+  prepared,
+  query,
+}: {
+  root: string;
+  prepared: Prepared;
+  query?: string;
+}) {
+  const { push } = useNavigation();
+  const [error, setError] = useState<string>();
+
+  return (
+    <Form
+      actions={
+        <ActionPanel>
+          <Action.SubmitForm
+            title="Continuer"
+            icon={Icon.ArrowRight}
+            onSubmit={(values: { seasons: string[] }) => {
+              try {
+                const seasons = normalizeSeasonSelection(values.seasons);
+                setError(undefined);
+                push(
+                  <CreateForm
+                    root={root}
+                    prepared={prepareSeriesSelection(prepared, seasons)}
+                    query={query}
+                    seasons={seasonRequestValue(seasons)}
+                  />,
+                );
+              } catch (reason) {
+                setError(errorMessage(reason));
+              }
+            }}
+          />
+        </ActionPanel>
+      }
+    >
+      <Form.Description
+        title="Série"
+        text={prepared.label.replaceAll("*", "")}
+      />
+      <Form.TagPicker
+        id="seasons"
+        title="Saisons"
+        defaultValue={["all"]}
+        error={error}
+        onChange={() => setError(undefined)}
+      >
+        <Form.TagPicker.Item value="all" title="Toutes les saisons" />
+        {prepared.seasons.map((season) => (
+          <Form.TagPicker.Item
+            key={season.value}
+            value={season.value}
+            title={season.label}
+          />
+        ))}
+      </Form.TagPicker>
+    </Form>
   );
 }
 
@@ -334,12 +408,14 @@ function CreateForm({
   query,
   title,
   files = [],
+  seasons = "all",
 }: {
   root: string;
   prepared: Prepared;
   query?: string;
   title?: string;
   files?: string[];
+  seasons?: string;
 }) {
   const { push } = useNavigation();
   const [slugError, setSlugError] = useState<string>();
@@ -350,7 +426,6 @@ function CreateForm({
   const create = async (values: {
     slug: string;
     hours?: string;
-    seasons?: string[];
     header?: string;
     displayTitle?: string;
   }) => {
@@ -365,10 +440,6 @@ function CreateForm({
       });
       return;
     }
-    const seasons =
-      values.seasons?.includes("all") || !values.seasons?.length
-        ? "all"
-        : values.seasons.sort((a, b) => Number(a) - Number(b)).join(",");
     const payload: CreationPayload = {
       category: prepared.category,
       id: prepared.id,
@@ -416,18 +487,6 @@ function CreateForm({
       />
       {prepared.category === "jeu-video" ? (
         <Form.TextField id="hours" title="Temps de jeu" placeholder="0" />
-      ) : null}
-      {prepared.category === "serie" && prepared.seasons.length > 0 ? (
-        <Form.TagPicker id="seasons" title="Saisons" defaultValue={["all"]}>
-          <Form.TagPicker.Item value="all" title="Toutes les saisons" />
-          {prepared.seasons.map((season) => (
-            <Form.TagPicker.Item
-              key={season.value}
-              value={season.value}
-              title={season.label}
-            />
-          ))}
-        </Form.TagPicker>
       ) : null}
       {prepared.category === "livre" ? (
         <Form.TextField
