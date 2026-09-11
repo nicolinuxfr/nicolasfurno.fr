@@ -125,6 +125,16 @@ case "$command" in
     [[ $number == <-> && $number -gt 0 ]] || die "Numéro de saison invalide : $number"
     localized=$(request "season-$id-$number" "tv/$id/season/$number" 'append_to_response=aggregate_credits')
     western=$(TMDB_LANGUAGE=en-US request "season-$id-$number" "tv/$id/season/$number" 'append_to_response=aggregate_credits')
+    if ! print -r -- "$localized" | jq -e '.aggregate_credits.cast | type == "array"' >/dev/null; then
+      localized_credits=$(request "season-credits-$id-$number" "tv/$id/season/$number/credits")
+      localized=$(jq -cn --argjson season "$localized" --argjson credits "$localized_credits" \
+        '$season + {aggregate_credits: $credits}')
+    fi
+    if ! print -r -- "$western" | jq -e '.aggregate_credits.cast | type == "array"' >/dev/null; then
+      western_credits=$(TMDB_LANGUAGE=en-US request "season-credits-$id-$number" "tv/$id/season/$number/credits")
+      western=$(jq -cn --argjson season "$western" --argjson credits "$western_credits" \
+        '$season + {aggregate_credits: $credits}')
+    fi
     people_westernize_tmdb "$localized" "$western" \
       | jq -e --argjson expected "$number" '
           select(.season_number == $expected)
@@ -136,8 +146,10 @@ case "$command" in
   aggregate-credits)
     id=${1:-}
     validate_id "$id"
-    localized=$(request "aggregate-$id" "tv/$id/aggregate_credits")
-    western=$(TMDB_LANGUAGE=en-US request "aggregate-$id" "tv/$id/aggregate_credits")
+    localized=$(request "aggregate-$id" "tv/$id/aggregate_credits" 2>/dev/null) \
+      || localized=$(request "credits-$id" "tv/$id/credits")
+    western=$(TMDB_LANGUAGE=en-US request "aggregate-$id" "tv/$id/aggregate_credits" 2>/dev/null) \
+      || western=$(TMDB_LANGUAGE=en-US request "credits-$id" "tv/$id/credits")
     people_westernize_tmdb "$localized" "$western" \
       | jq -e 'select(.cast | type == "array")' \
       | canonical_json
