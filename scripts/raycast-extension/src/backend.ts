@@ -88,6 +88,8 @@ export async function runBackend<T>(
         env: {
           ...process.env,
           ARTICLE_ROOT: projectRoot,
+          LANG: "C",
+          LC_ALL: "C",
           PATH: executablePath,
         },
         maxBuffer: 10 * 1024 * 1024,
