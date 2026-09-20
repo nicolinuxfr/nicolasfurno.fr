@@ -3,10 +3,12 @@
   "scripts": {
     "clean": "rm -rf public",
     "prebuild": "npm run clean",
-    "build:hugo": "hugo --minify --enableGitInfo",
+    "discover": "node scripts/discovery.mjs",
+    "test:discovery": "node --test scripts/tests/discovery.test.mjs",
+    "build:hugo": "npm run discover && hugo --minify --enableGitInfo",
     "index": "pagefind",
     "build": "npm run build:hugo && npm run index",
-    "preview": "(test -x node_modules/.bin/pagefind || npm ci) && hugo && pagefind && hugo server"
+    "preview": "(test -x node_modules/.bin/pagefind || npm ci) && npm run discover && hugo && pagefind && hugo server"
   },
   "devDependencies": {
     "pagefind": "1.5.2"

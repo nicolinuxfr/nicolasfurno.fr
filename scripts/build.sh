@@ -17,6 +17,7 @@ echo "Removing the previous generated site..."
 rm -rf -- "$PUBLIC_DIR"
 
 echo "Building the site with Hugo..."
+node scripts/discovery.mjs
 hugo \
   --minify \
   --enableGitInfo \

@@ -4,6 +4,22 @@ defaultContentLanguage = "fr"
 title = 'Le blog de Nicolas Furno'
 theme = 'nicolasfurno'
 resourceDir = '.cache/resources'
+copyright = "© Nicolas Furno"
+timeZone = "Europe/Paris"
+enableGitInfo = true
+
+[[module.mounts]]
+  source = 'content'
+  target = 'content'
+[[module.mounts]]
+  source = '.cache/discovery/content'
+  target = 'content'
+[[module.mounts]]
+  source = 'data'
+  target = 'data'
+[[module.mounts]]
+  source = '.cache/discovery/data'
+  target = 'data'
 
 [imaging]
   resampleFilter = 'Lanczos'
@@ -14,9 +30,6 @@ resourceDir = '.cache/resources'
 
 [pagination]
   pagerSize = 12
-copyright = "© Nicolas Furno"
-timeZone = "Europe/Paris"
-enableGitInfo = true
 
 [menu]
 [[menu.main]]
