@@ -1,0 +1,10 @@
+---
+title: "*1670*, Netflix (saison 3)"
+date: 2026-09-24T21:24:40+02:00
+tmdb: 236450
+saison: [3]
+---
+
+Quel délice, vraiment ! Depuis [le début](/serie/1670-netflix/), *1670* m’enchante, avec sa bonne dose d’absurde vraiment drôle et un sérieux impressionnant dans la reconstitution historique de la Pologne totalement fictive du XVIII<sup>e</sup> siècle. La création de Netflix se poursuit avec une troisième saison directement dans la lignée des deux précédentes, et c’est une excellente nouvelle. En regardant ces huit nouveaux épisodes, je me suis fait à plusieurs reprises la réflexion que l’écriture était assez remarquable. Saison après saison, les scénaristes parviennent à renouveler l’intérêt, sans réellement changer les fondamentaux. Leur imagination débordante permet d’aborder des sujets un petit peu différents, en l’occurrence la lutte des classes qui occupe d’un coup le devant de la scène, tout en construisant un univers parfaitement cohérent. Le plus impressionnant peut-être, c’est la façon qu’ont ces personnages pourtant caricaturaux de pleinement exister. Jan Paweł est peut-être le meilleur exemple. Il reste cet inculte pétri d’idées préconçues et dénué de toute gêne, et en même temps, son personnage devient plus attachant à chaque épisode. Il faut d’ailleurs saluer le travail extraordinaire de l’acteur : je ne crois pas avoir croisé Bartłomiej Topa ailleurs, mais c’est un nom à retenir. 
+
+J’espère que Netflix permettra à *1670* de poursuivre sur ce chemin. Si je ne sais pas dans quelle direction la série pourrait aller, je fais entièrement confiance aux scénaristes pour trouver de nouvelles voies et continuer à nous faire rire avec ce faux documentaire plein d’anachronismes. En attendant, je recommande sans hésiter la série à tous ceux qui apprécient l’humour absurde. Ces trois saisons méritent amplement le détour et j’ai hâte d’en voir plus. 
