@@ -20,6 +20,9 @@ enableGitInfo = true
 [[module.mounts]]
   source = '.cache/discovery/data'
   target = 'data'
+[[module.mounts]]
+  source = '.cache/legacy-posters/assets'
+  target = 'assets'
 
 [imaging]
   resampleFilter = 'Lanczos'
