@@ -179,20 +179,20 @@ test('recherche : fiches avant les critiques, filtres et tri chronologique conse
   const context = {
     document: { createElement: element },
     searchResults: { replaceChildren(...items) { results.splice(0, results.length, ...items); } },
-    currentResults: [result('Critique', 0, undefined, 'film', 200), result('Personne', 1, 'person', undefined, 0), result('Autre critique', 2, undefined, 'film', 100)],
+    currentResults: [result('Critique', 0, undefined, 'film', 200), result('Personne', 1, 'person', undefined, 0), result('Autre critique', 2, undefined, 'film', 100), result('Série', 3, 'series', 'film', 150), result('Saga', 4, 'saga', 'film', 125)],
     activeCategory: null, sortMode: 'relevance', currentTerm: 'Personne'
   };
   vm.createContext(context);
   vm.runInContext(source.slice(source.indexOf('function personSearchPriority'), source.indexOf('async function searchPagefind')) + render, context);
   const titles = () => results.map(item => item.children[0].textContent);
   vm.runInContext('renderResults()', context);
-  assert.deepEqual(titles(), ['Personne', 'Critique', 'Autre critique']);
+  assert.deepEqual(titles(), ['Personne', 'Série', 'Saga', 'Critique', 'Autre critique']);
   context.activeCategory = 'film';
   vm.runInContext('renderResults()', context);
-  assert.deepEqual(titles(), ['Critique', 'Autre critique']);
+  assert.deepEqual(titles(), ['Série', 'Saga', 'Critique', 'Autre critique']);
   context.sortMode = 'oldest';
   vm.runInContext('renderResults()', context);
-  assert.deepEqual(titles().filter(title => !/^\d{4}$/.test(title)), ['Autre critique', 'Critique']);
+  assert.deepEqual(titles().filter(title => !/^\d{4}$/.test(title)), ['Autre critique', 'Saga', 'Série', 'Critique']);
 });
 
 
