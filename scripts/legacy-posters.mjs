@@ -64,14 +64,62 @@ async function searchedFilm(slug, currentDate) {
   return previousFilm(matching, slug, currentDate) || matching[0] || null;
 }
 
-async function savePoster(posterPath, destination) {
-  if (!/^\/[A-Za-z0-9_-]+\.(?:jpg|jpeg|png|webp)$/.test(posterPath)) {
-    throw new Error(`Chemin d'affiche TMDB invalide : ${posterPath}`);
+export function bookQuery(slug) {
+  const parts = slug.split('-');
+  return { title: parts.slice(0, -1).join(' '), author: parts.at(-1) };
+}
+
+async function bookCover(slug) {
+  const { title, author } = bookQuery(slug);
+  const url = new URL('https://openlibrary.org/search.json');
+  url.searchParams.set('title', title);
+  url.searchParams.set('author', author);
+  url.searchParams.set('limit', '10');
+  url.searchParams.set('fields', 'key,title,cover_i,isbn');
+  const response = await fetch(url);
+  if (!response.ok) throw new Error(`Open Library : HTTP ${response.status}`);
+  const results = await response.json();
+  const wanted = words(title);
+  const match = (results.docs || []).filter(item => item.cover_i).map(item => {
+    const found = words(item.title);
+    return { item, score: wanted.filter(word => found.includes(word)).length / wanted.length };
+  }).sort((a, b) => b.score - a.score)[0];
+  if (!match || match.score < 0.75) return [];
+  const covers = [`https://covers.openlibrary.org/b/id/${match.item.cover_i}-L.jpg`];
+  const isbn = match.item.isbn?.find(value => /^\d{13}$/.test(value));
+  if (isbn) {
+    const bnf = new URL('https://openapi.bnf.fr/couverture/image/image/recupererImage');
+    bnf.searchParams.set('EAN', isbn);
+    bnf.searchParams.set('couverture', '1');
+    bnf.searchParams.set('taille', 'originale');
+    covers.push(bnf.href);
   }
-  const response = await fetch(`https://image.tmdb.org/t/p/w780${posterPath}`);
-  if (!response.ok) throw new Error(`Affiche TMDB ${posterPath} : HTTP ${response.status}`);
+  return covers;
+}
+
+export function jpegDimensions(image) {
+  for (let offset = 2; offset < image.length - 9;) {
+    if (image[offset] !== 0xff) break;
+    const marker = image[offset + 1];
+    const length = image.readUInt16BE(offset + 2);
+    if ([0xc0, 0xc1, 0xc2, 0xc3].includes(marker)) {
+      return { height: image.readUInt16BE(offset + 5), width: image.readUInt16BE(offset + 7) };
+    }
+    if (length < 2) break;
+    offset += length + 2;
+  }
+  throw new Error('Dimensions JPEG introuvables');
+}
+
+async function loadImage(url) {
+  const response = await fetch(url);
+  if (!response.ok) throw new Error(`Image ${url} : HTTP ${response.status}`);
   const image = Buffer.from(await response.arrayBuffer());
-  if (image[0] !== 0xff || image[1] !== 0xd8) throw new Error(`Affiche TMDB non JPEG : ${posterPath}`);
+  if (image[0] !== 0xff || image[1] !== 0xd8) throw new Error(`Image non JPEG : ${url}`);
+  return image;
+}
+
+function writeImage(image, destination) {
   mkdirSync(dirname(destination), { recursive: true });
   const temporary = `${destination}.tmp`;
   try {
@@ -80,7 +128,18 @@ async function savePoster(posterPath, destination) {
   } finally {
     if (existsSync(temporary)) unlinkSync(temporary);
   }
-  console.log(`Affiche enregistrée : ${destination.slice(root.length)}`);
+  console.log(`Image enregistrée : ${destination.slice(root.length)}`);
+}
+
+async function saveImage(url, destination) {
+  writeImage(await loadImage(url), destination);
+}
+
+async function savePoster(posterPath, destination) {
+  if (!/^\/[A-Za-z0-9_-]+\.(?:jpg|jpeg|png|webp)$/.test(posterPath)) {
+    throw new Error(`Chemin d'affiche TMDB invalide : ${posterPath}`);
+  }
+  await saveImage(`https://image.tmdb.org/t/p/w780${posterPath}`, destination);
 }
 
 async function main() {
@@ -109,7 +168,7 @@ async function main() {
     if (existsSync(destination)) continue;
     try { await savePoster(seriesInfo.poster, destination); } catch { /* Affiche indisponible. */ }
   }
-  for (const category of ['serie', 'film']) {
+  for (const category of ['serie', 'film', 'livre']) {
     for (const folder of readdirSync(join(root, 'content', category), { withFileTypes: true })) {
       if (!folder.isDirectory()) continue;
       const directory = join(root, 'content', category, folder.name);
@@ -131,7 +190,7 @@ async function main() {
         const season = metadata.seasons?.find(item => item.season_number === 1);
         if (!season?.poster_path) throw new Error(`Aucune affiche TMDB de saison 1 : ${article}`);
         await savePoster(season.poster_path, destination);
-      } else {
+      } else if (category === 'film') {
         if (!field(source, 'sagas')) continue;
         const slug = basename(new URL(before).pathname.replace(/\/$/, ''));
         const destination = join(posterRoot, 'film', `${slug}.jpg`);
@@ -149,6 +208,18 @@ async function main() {
         if (!film) film = await searchedFilm(slug, metadata.release_date);
         if (!film) throw new Error(`Film précédent introuvable ou ambigu dans TMDB pour ${before}`);
         await savePoster(film.poster_path, destination);
+      } else {
+        if (!field(source, 'sagas')) continue;
+        const slug = basename(new URL(before).pathname.replace(/\/$/, ''));
+        const destination = join(posterRoot, 'livre', `${slug}.jpg`);
+        if (existsSync(destination)) continue;
+        const covers = await bookCover(slug);
+        const images = await Promise.allSettled(covers.map(loadImage));
+        const available = images.filter(result => result.status === 'fulfilled').map(result => result.value);
+        if (available.length) {
+          available.sort((a, b) => jpegDimensions(b).width - jpegDimensions(a).width);
+          writeImage(available[0], destination);
+        }
       }
       } catch { /* L'article reste publié sans cette affiche. */ }
     }

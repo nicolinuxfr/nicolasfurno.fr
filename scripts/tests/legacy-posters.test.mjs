@@ -1,6 +1,6 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import { previousFilm } from '../legacy-posters.mjs';
+import { bookQuery, previousFilm } from '../legacy-posters.mjs';
 
 test('retrouve le film indiqué par avant dans sa collection', () => {
   const parts = [
@@ -17,4 +17,8 @@ test('le sous-titre du film prime sur le titre commun de la saga', () => {
     { id: 2, title: 'Thor : Ragnarok', release_date: '2017-10-25', poster_path: '/ragnarok.jpg' },
   ];
   assert.equal(previousFilm(parts, 'thor-ragnarok-waititi', '2022-07-06')?.id, 2);
+});
+
+test('retrouve le titre et l’auteur d’un livre à partir du lien avant', () => {
+  assert.deepEqual(bookQuery('foret-sombre-liu'), { title: 'foret sombre', author: 'liu' });
 });
