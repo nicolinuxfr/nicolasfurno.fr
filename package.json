@@ -8,7 +8,7 @@
     "build:hugo": "npm run discover && hugo --minify --enableGitInfo",
     "index": "pagefind",
     "build": "npm run build:hugo && npm run index",
-    "preview": "(test -x node_modules/.bin/pagefind || npm ci) && npm run discover && hugo && pagefind && node scripts/preview.mjs"
+    "preview": "(test -x node_modules/.bin/pagefind || npm ci) && npm run discover && hugo && pagefind && hugo server"
   },
   "devDependencies": {
     "pagefind": "1.5.2"
