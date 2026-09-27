@@ -18,6 +18,7 @@ rm -rf -- "$PUBLIC_DIR"
 
 echo "Building the site with Hugo..."
 node scripts/discovery.mjs
+node scripts/legacy-posters.mjs
 hugo \
   --minify \
   --enableGitInfo \
