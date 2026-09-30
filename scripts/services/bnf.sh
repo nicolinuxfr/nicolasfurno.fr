@@ -33,14 +33,29 @@ xml_search_rows() {
       my @creators = $data->findnodes(q{.//*[local-name()="creator"]});
       my ($publisher) = $data->findnodes(q{.//*[local-name()="publisher"]});
       my ($date) = $data->findnodes(q{.//*[local-name()="date"]});
-      my ($isbn) = grep { $_->textContent =~ /ISBN/i } $data->findnodes(q{.//*[local-name()="identifier"]});
-      print join("\t", map { $_ // q{} } ($ark ? text($ark) : q{}, text($title), text(@creators), $publisher ? text($publisher) : q{}, $date ? text($date) : q{}, $isbn ? text($isbn) : q{})), "\n";
+      my @isbn;
+      for my $description ($data->findnodes(q{.//*[local-name()="description"]})) {
+        push @isbn, $1 if $description->textContent =~ /EAN\s+(\d{13})/;
+      }
+      if (!@isbn) {
+        my ($identifier) = grep { $_->textContent =~ /ISBN/i } $data->findnodes(q{.//*[local-name()="identifier"]});
+        push @isbn, $1 if $identifier && $identifier->textContent =~ /(\d[\d-]{11,}\d)/ && ($1 =~ s/\D//gr) =~ /^(\d{13})$/;
+      }
+      @isbn = (q{}) unless @isbn;
+      my $base_title = text($title); $base_title =~ s{\s+/\s+.*$}{};
+      for my $index (0 .. $#isbn) {
+        my $volume = @isbn > 1 ? q{, volume } . ($index + 1) : q{};
+        my $id = $ark ? text($ark) : q{};
+        $id .= q{@} . $isbn[$index] if length $isbn[$index];
+        print join("\t", map { $_ // q{} } ($id, $base_title . $volume, text(@creators), $publisher ? text($publisher) : q{}, $date ? text($date) : q{}, $isbn[$index] ? q{ISBN } . $isbn[$index] : q{})), "\n";
+      }
     }
   '
 }
 
 xml_meta() {
-  /usr/bin/perl -MXML::LibXML -MJSON::PP -Mutf8 -e '
+  local selected_isbn=${1:-}
+  BNF_SELECTED_ISBN="$selected_isbn" /usr/bin/perl -MXML::LibXML -MJSON::PP -Mutf8 -e '
     my $doc = XML::LibXML->load_xml(IO => *STDIN);
     my ($record) = $doc->findnodes(q{//*[local-name()="record" and @format="UNIMARC"]}); exit 1 unless $record;
     sub sf { my ($tag, $code) = @_; return map { $_->textContent =~ s/^\s+|\s+$//gr } $record->findnodes(qq{./*[local-name()="datafield" and \@tag="$tag"]/*[local-name()="subfield" and \@code="$code"]}); }
@@ -66,8 +81,29 @@ xml_meta() {
         my $name = field_name($field); push @authors, $name if length $name;
       }
     }
-    my $pages = one("215", "a"); $pages = $1 if $pages =~ /(\d+)\s*p/i; $pages = 0 unless $pages =~ /^\d+$/;
-    my $isbn = one("010", "a"); $isbn =~ s/\D//g;
+    my $selected_isbn = $ENV{BNF_SELECTED_ISBN} // q{}; $selected_isbn =~ s/\D//g;
+    my @isbn_fields = $record->findnodes(q{./*[local-name()="datafield" and @tag="010"]});
+    my $isbn_index = 0;
+    if (length $selected_isbn) {
+      for my $index (0 .. $#isbn_fields) {
+        my ($value) = $isbn_fields[$index]->findnodes(q{./*[local-name()="subfield" and @code="a"]});
+        my $normalized = $value ? $value->textContent : q{}; $normalized =~ s/\D//g;
+        $isbn_index = $index if $normalized eq $selected_isbn;
+      }
+    }
+    my $isbn_field = $isbn_fields[$isbn_index];
+    my ($isbn_node) = $isbn_field ? $isbn_field->findnodes(q{./*[local-name()="subfield" and @code="a"]}) : ();
+    my ($volume_node) = $isbn_field ? $isbn_field->findnodes(q{./*[local-name()="subfield" and @code="b"]}) : ();
+    my $isbn = $isbn_node ? $isbn_node->textContent : q{}; $isbn =~ s/\D//g;
+    my $volume = $volume_node ? $volume_node->textContent : q{};
+    my $pages = one("215", "a");
+    if ($pages =~ /\(([^)]+)\)/) {
+      my @counts = $1 =~ /(\d+)/g;
+      $pages = $counts[$isbn_index] // $counts[0] // 0;
+    } else {
+      $pages = $1 if $pages =~ /(\d+)\s*p/i;
+    }
+    $pages = 0 unless $pages =~ /^\d+$/;
     my $publication_tag = (one("214", "c") || one("214", "d")) ? "214" : "210";
     my $date = one($publication_tag, "d"); $date =~ /((?:19|20)\d{2})/; $date = $1 // q{};
     my @translators;
@@ -78,13 +114,24 @@ xml_meta() {
     }
     my $ark = $record->getAttribute("id") // q{};
     $ark =~ m{(cb[0-9a-z]+)$}; my $short_id = $1 // $ark;
+    # Une notice BnF peut regrouper plusieurs volumes. Dans ce cas, ISBN est
+    # identifiant public stable de edition selectionnee ; le suffixe
+    # technique utilisé par la recherche ne doit pas fuiter dans les articles.
+    $short_id = q{isbn:} . $isbn if length($selected_isbn) && length($isbn);
+    my $title = one("200", "a");
+    $title .= q{, volume } . $1 if $volume =~ /(?:vol(?:ume)?\.?)\s*(\d+)/i;
+    my $collection = one("225", "a");
+    my $collection_volume = one("225", "v");
+    my @series = length($collection) && length($collection_volume)
+      ? (join q{, }, grep { length } ($collection, $collection_volume)) : ();
     my %meta = (
       bnfId => $short_id, bnfArk => $ark,
-      title => one("200", "a"), authors => \@authors,
+      title => $title, authors => \@authors,
       publisher => one($publication_tag, "c"), publishedDate => $date,
       pageCount => 0 + $pages, isbn13 => (length($isbn) == 13 ? $isbn : q{}),
       language => one("101", "a"), originalLanguage => one("101", "c"),
-      collection => one("225", "a"), originalTitle => one("454", "t"),
+      collection => $collection, series => \@series,
+      originalTitle => one("454", "t"),
       translators => \@translators,
     );
     delete $meta{$_} for grep { !defined $meta{$_} || $meta{$_} eq q{} || (ref $meta{$_} eq q{ARRAY} && !@{$meta{$_}}) } keys %meta;
@@ -95,13 +142,24 @@ xml_meta() {
 case ${1:-} in
   search)
     shift
-    bnf_request dublincore "Title all \"$*\"" | xml_search_rows
+    # La saisie peut contenir un auteur en plus du titre (par exemple
+    # « sanderson voie des rois »). Une recherche limitée au champ titre ne
+    # trouve alors aucune notice et provoque un repli trompeur vers l'édition
+    # originale dans les catalogues internationaux.
+    bnf_request dublincore "bib.anywhere all \"$*\"" | xml_search_rows
     ;;
   record)
     [[ -n ${2:-} ]] || exit 2
-    id=$2
+    raw_id=$2
+    selected_isbn=''
+    if [[ $raw_id == *@* ]]; then
+      selected_isbn=${raw_id##*@}
+      id=${raw_id%@*}
+    else
+      id=$raw_id
+    fi
     [[ $id == ark:* ]] || id="ark:/12148/$id"
-    bnf_request unimarcXchange "bib.persistentid all \"$id\"" | xml_meta
+    bnf_request unimarcXchange "bib.persistentid all \"$id\"" | xml_meta "$selected_isbn"
     ;;
   isbn)
     [[ -n ${2:-} ]] || exit 2

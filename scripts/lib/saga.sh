@@ -7,7 +7,7 @@ saga_normalize() {
     $value = fc(NFKD($value));
     $value =~ s/\pM//g;
     $value =~ s/(?:\s*[-:]?\s*(?:saga|series|collection))\s*$//i;
-    $value =~ s/(?:\s*[,(:#-]?\s*(?:book|volume|vol\.?|tome)?\s*#?\d+\s*\)?)\s*$//i;
+    $value =~ s/(?:\s*[,(:#-]?\s*(?:book|livre|volume|vol\.?|tome)?\s*#?\d+\s*\)?)\s*$//i;
     $value =~ s/^(?:the|le|la|les)\s+//i;
     $value =~ s/[^\pL\pN]+//g;
     print $value;
@@ -59,7 +59,7 @@ saga_existing_by_tmdb_collection() {
 saga_weight_from_text() {
   print -rn -- "$1" | /usr/bin/perl -CS -Mutf8 -e '
     my $value = <STDIN> // q{};
-    if ($value =~ /(?:#|\b(?:book|volume|vol\.?|tome)\s*)(\d+)\b/i) { print $1 }
+    if ($value =~ /(?:#|\b(?:book|livre|volume|vol\.?|tome)\s*)(\d+)\b/i) { print $1 }
     elsif ($value =~ /\b(\d+)\s*$/) { print $1 }
   '
 }

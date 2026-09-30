@@ -5,6 +5,7 @@ script_dir=${0:A:h}
 repo_root=${ARTICLE_ROOT:-${script_dir:h}}
 source "$script_dir/lib/network.sh"
 source "$script_dir/lib/article.sh"
+source "$script_dir/lib/book.sh"
 source "$script_dir/lib/movie.sh"
 jq_bin=${commands[jq]:-}
 [[ -n $jq_bin ]] || { print '{"ok":false,"error":{"code":"missing_dependency","message":"jq est manquant."}}'; exit 1; }
@@ -54,6 +55,7 @@ search_rows() {
     serie) rows=$("$script_dir/services/tmdb-tv.sh" search "$query") ;;
     livre)
       rows=$("$script_dir/services/bnf.sh" search "$query" 2>/dev/null || true)
+      rows=$(print -r -- "$rows" | book_filter_catalog_rows "$query" | book_sort_catalog_rows)
       [[ -n $rows ]] || rows=$("$script_dir/services/openlibrary.sh" search "$query" 2>/dev/null || true)
       [[ -n $rows ]] || rows=$("$script_dir/services/googlebooks.sh" search "$query" 2>/dev/null || true)
       ;;
@@ -68,7 +70,22 @@ search_rows() {
       ;;
     *) rows='' ;;
   esac
-  print -r -- "$rows" | /usr/bin/awk -F '\t' 'NF >= 2 { label=$2; for(i=3;i<=NF;i++) label=label " — " $i; printf "%s\t%s\n", $1, label }' | jq -Rn '[inputs | split("\t") | {id:.[0],label:.[1]}]'
+  print -r -- "$rows" | /usr/bin/awk -F '\t' -v category="$category" 'NF >= 2 {
+    if (category == "livre") {
+      title=$2
+      author=$3; sub(/ \([0-9][^)]*\)\..*$/, "", author); sub(/\. Auteur.*$/, "", author)
+      publisher=$4; sub(/ \([^)]*\)$/, "", publisher)
+      isbn=$6; sub(/^ISBN[[:space:]]+/, "", isbn)
+      label=title
+      if ($5 != "") label=label " — " $5
+      if (isbn != "") label=label " · ISBN " isbn
+      if (publisher != "") label=label " — " publisher
+      if (author != "") label=label " — " author
+    } else {
+      label=$2; for(i=3;i<=NF;i++) label=label " — " $i
+    }
+    printf "%s\t%s\n", $1, label
+  }' | jq -Rn '[inputs | split("\t") | {id:.[0],label:.[1]}]'
 }
 
 prepare_item() {
@@ -137,7 +154,7 @@ prepare_item() {
         ;;
       livre)
         case $id in
-          cb*) metadata=$("$script_dir/services/bnf.sh" record "$id" 2>/dev/null || true) ;;
+          cb*|ark:*) metadata=$("$script_dir/services/bnf.sh" record "$id" 2>/dev/null || true) ;;
           ol:*) metadata=$("$script_dir/services/openlibrary.sh" record "$id" "$(jq -r '.query // ""' "$request_file")" 2>/dev/null || true) ;;
           *) metadata=$("$script_dir/services/googlebooks.sh" record "$id" 2>/dev/null || true) ;;
         esac

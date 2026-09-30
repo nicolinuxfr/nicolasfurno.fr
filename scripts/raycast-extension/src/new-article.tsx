@@ -7,7 +7,6 @@ import {
   Form,
   Icon,
   List,
-  LocalStorage,
   Toast,
   getPreferenceValues,
   openExtensionPreferences,
@@ -52,7 +51,7 @@ type CreationPayload = {
   seasons: string;
   files: string[];
   header?: string;
-  displayTitle?: string;
+  openImageSearch?: boolean;
 };
 
 const searchable = new Set(["film", "serie", "livre", "album", "jeu-video"]);
@@ -84,13 +83,9 @@ export default function Command() {
     Promise.all([
       runBackend(projectRoot, "check", {}, controller.signal),
       runBackend<Category[]>(projectRoot, "categories", {}, controller.signal),
-      LocalStorage.getItem("lastCategory"),
     ])
-      .then(([, loaded, last]) => {
-        const ordered = [...loaded].sort((a, b) =>
-          a.id === last ? -1 : b.id === last ? 1 : 0,
-        );
-        setCategories(ordered);
+      .then(([, loaded]) => {
+        setCategories(loaded);
       })
       .catch((reason) => {
         if (!(reason instanceof BackendError && reason.code === "cancelled")) {
@@ -117,8 +112,7 @@ export default function Command() {
               <Action
                 title="Choisir cette catégorie"
                 icon={Icon.ArrowRight}
-                onAction={async () => {
-                  await LocalStorage.setItem("lastCategory", category.id);
+                onAction={() => {
                   push(
                     searchable.has(category.id) ? (
                       <SearchList root={projectRoot} category={category} />
@@ -233,6 +227,7 @@ function SearchList({ root, category }: { root: string; category: Category }) {
   return (
     <List
       isLoading={loading}
+      isShowingDetail
       searchText={query}
       onSearchTextChange={setQuery}
       throttle={false}
@@ -266,6 +261,7 @@ function SearchList({ root, category }: { root: string; category: Category }) {
           <List.Item
             key={result.id}
             title={result.label}
+            detail={<List.Item.Detail markdown={result.label} />}
             actions={
               <ActionPanel>
                 <Action
@@ -427,7 +423,7 @@ function CreateForm({
     slug: string;
     hours?: string;
     header?: string;
-    displayTitle?: string;
+    openImageSearch?: boolean;
   }) => {
     if (!/^[a-z0-9]+(?:-[a-z0-9]+)*$/.test(values.slug)) {
       setSlugError("Utiliser uniquement minuscules, chiffres et tirets.");
@@ -451,7 +447,7 @@ function CreateForm({
       seasons,
       files,
       header: values.header,
-      displayTitle: values.displayTitle,
+      openImageSearch: values.openImageSearch,
     };
     push(<CreationView root={root} payload={payload} />);
   };
@@ -471,13 +467,6 @@ function CreateForm({
         title="Article"
         text={(prepared.label || title || "Nouvel article").replaceAll("*", "")}
       />
-      {prepared.details.map((detail) => (
-        <Form.Description
-          key={detail.label}
-          title={detail.label}
-          text={formatDisplayValue(detail.value)}
-        />
-      ))}
       <Form.TextField
         id="slug"
         title="Slug"
@@ -485,15 +474,23 @@ function CreateForm({
         error={slugError}
         onChange={() => setSlugError(undefined)}
       />
+      {prepared.details.map((detail) => (
+        <Form.Description
+          key={detail.label}
+          title={detail.label}
+          text={formatDisplayValue(detail.value)}
+        />
+      ))}
+      {prepared.category === "livre" ? (
+        <Form.Checkbox
+          id="openImageSearch"
+          title="Couverture"
+          label="Ouvrir une recherche si Google Books ne trouve aucune image"
+          defaultValue
+        />
+      ) : null}
       {prepared.category === "jeu-video" ? (
         <Form.TextField id="hours" title="Temps de jeu" placeholder="0" />
-      ) : null}
-      {prepared.category === "livre" ? (
-        <Form.TextField
-          id="displayTitle"
-          title="Titre"
-          defaultValue={prepared.label.split(" — ")[0]}
-        />
       ) : null}
       {prepared.category === "photo" ? (
         <Form.Dropdown

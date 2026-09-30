@@ -3,6 +3,29 @@
 # Résout uniquement la graphie d'un titre. La notice principale reste la source
 # bibliographique : une traduction ou une autre édition ne doit jamais la
 # remplacer silencieusement.
+book_filter_catalog_rows() {
+  local query=$1
+  BOOK_QUERY="$query" /usr/bin/perl -CS -Mutf8 -F'\t' -ane '
+    BEGIN {
+      my %stop = map { $_ => 1 } qw(avec dans des les pour sur une);
+      my $query = lc($ENV{BOOK_QUERY} // q{});
+      $query =~ s/[^\pL\pN]+/ /g;
+      @q = grep { length($_) > 2 && !$stop{$_} } split /\s+/, $query;
+    }
+    sub norm { my $s = lc shift; $s =~ s/[^\pL\pN]+/ /g; return q{ } . $s . q{ }; }
+    # Le catalogue renvoie titre, auteurs et éditeur. La requête utilisateur
+    # peut légitimement combiner ces champs ; filtrer le titre seul supprimait
+    # précisément les recherches de la forme « auteur + titre ».
+    my $record = norm(join q{ }, @F[1 .. 3]);
+    print if !@q || !grep { index($record, q{ } . $_ . q{ }) < 0 } @q;
+  '
+}
+
+book_sort_catalog_rows() {
+  # Les éditions les plus récentes d'abord, puis les volumes dans leur ordre.
+  LC_ALL=C /usr/bin/sort -t $'\t' -k5,5nr -k2,2
+}
+
 book_resolve_display_title() {
   /usr/bin/perl -CS -Mutf8 -MJSON::PP -MUnicode::Normalize -e '
     use feature q{fc};

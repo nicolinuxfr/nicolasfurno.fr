@@ -124,7 +124,7 @@ book_saga_frontmatter() {
   else
     name=$(print -rn -- "$series" | /usr/bin/perl -CS -Mutf8 -pe '
       s/\s*[-:]?\s*(?:saga|series)\s*$//i;
-      s/\s*[,(:#-]?\s*(?:book|volume|vol\.?|tome)?\s*#?\d+\s*\)?\s*$//i;
+      s/\s*[,(:#-]?\s*(?:book|livre|volume|vol\.?|tome)?\s*#?\d+\s*\)?\s*$//i;
       s/^The\s+//i;
     ')
   fi
@@ -136,19 +136,9 @@ query=$("$article_gum_bin" input --header 'Quel livre ?' --width 60) || article_
 [[ -n $query ]] || article_die 'Le titre est obligatoire.'
 rows=$("$services_dir/bnf.sh" search "$query" 2>/dev/null || true)
 catalog=bnf
-# Le SRU BnF peut renvoyer des notices partageant seulement un mot du titre.
-# Elles ne doivent pas empêcher le repli vers un catalogue d’éditions.
-rows=$(print -r -- "$rows" | BOOK_QUERY="$query" /usr/bin/perl -CS -Mutf8 -F'\t' -ane '
-  BEGIN {
-    my %stop = map { $_ => 1 } qw(avec dans des les pour sur une);
-    my $query = lc($ENV{BOOK_QUERY} // q{});
-    $query =~ s/[^\pL\pN]+/ /g;
-    @q = grep { length($_) > 2 && !$stop{$_} } split /\s+/, $query;
-  }
-  sub norm { my $s = lc shift; $s =~ s/[^\pL\pN]+/ /g; return q{ } . $s . q{ }; }
-  my $title = norm($F[1] // q{});
-  print if !@q || !grep { index($title, q{ } . $_ . q{ }) < 0 } @q;
-')
+# Le SRU BnF peut renvoyer des notices ne partageant qu'une partie de la
+# requête. Conserver toutefois les correspondances trouvées via l'auteur.
+rows=$(print -r -- "$rows" | book_filter_catalog_rows "$query" | book_sort_catalog_rows)
 if [[ -z $rows ]]; then
   rows=$("$services_dir/openlibrary.sh" search "$query" 2>/dev/null || true)
   catalog=openlibrary

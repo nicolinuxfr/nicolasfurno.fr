@@ -70,6 +70,13 @@ fallback=$(tmdb_search_response test search/movie 10dances)
 unfunction request
 
 source "$scripts_dir/lib/book.sh"
+book_rows=$'ark:/12148/cb1\tLa voie des rois : roman / Brandon Sanderson\tBrandon Sanderson\tLe Livre de poche\t2017\tISBN 978-2-253-13290-5\nark:/12148/cb2\tLe livre des radieux\tBrandon Sanderson\tLe Livre de poche\t2017\t'
+filtered=$(print -r -- "$book_rows" | book_filter_catalog_rows 'sanderson voie des rois')
+[[ $(print -r -- "$filtered" | /usr/bin/awk 'END { print NR }') == 1 ]]
+[[ $filtered == ark:/12148/cb1$'\t'* ]]
+book_rows=$'ark:2015v2\tTitre, volume 2\tAuteur\tÉditeur\t2015\tISBN 2\nark:2017v2\tTitre, volume 2\tAuteur\tÉditeur\t2017\tISBN 4\nark:2017v1\tTitre, volume 1\tAuteur\tÉditeur\t2017\tISBN 3\nark:2015v1\tTitre, volume 1\tAuteur\tÉditeur\t2015\tISBN 1'
+sorted=$(print -r -- "$book_rows" | book_sort_catalog_rows | /usr/bin/awk -F '\t' '{ print $1 }')
+[[ $sorted == $'ark:2017v1\nark:2017v2\nark:2015v1\nark:2015v2' ]]
 resolved=$(print -r -- '{"primary":{"title":"Onyx storm","authors":["Rebecca Yarros"],"language":"fre","originalLanguage":"eng"},"candidates":[{"source":"googlebooks","title":"Onyx Storm","authors":["Rebecca Yarros"]},{"source":"openlibrary","title":"Onyx Storm","authors":["Rebecca Yarros"]}]}' | book_resolve_display_title)
 [[ $(print -r -- "$resolved" | jq -r '.title') == 'Onyx Storm' ]]
 [[ $(print -r -- "$resolved" | jq -r '.ambiguous') == false ]]
@@ -83,6 +90,8 @@ source "$scripts_dir/lib/saga.sh"
 saga_article=$(article_create test 'saga-test' 'Saga test' $'id: 44\nsagas: "Empyrean"\nsagas_weight: 2\n')
 [[ $(saga_existing_by_name 'The Empyrean #3') == Empyrean ]]
 [[ $(saga_weight_from_text 'The Empyrean #3') == 3 ]]
+[[ $(saga_normalize 'Les archives de Roshar, livre 1') == archivesderoshar ]]
+[[ $(saga_weight_from_text 'Les archives de Roshar, livre 1') == 1 ]]
 [[ $(saga_frontmatter Empyrean 3) == $'sagas: "Empyrean"\nsagas_weight: 3' ]]
 [[ $(saga_frontmatter Empyrean '' true) == $'sagas: "Empyrean"\nsagas_weight:' ]]
 [[ $(saga_frontmatter '' '' true) == $'sagas: ""\nsagas_weight:' ]]
