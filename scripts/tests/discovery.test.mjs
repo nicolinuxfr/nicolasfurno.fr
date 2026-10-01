@@ -156,7 +156,7 @@ test('Échap : résultat → champ ; champ → retour ; arrivée directe → acc
   const input = { focus() { focus++; document.activeElement = this; } };
   const results = { contains: element => element === result, querySelectorAll: () => [result] };
   const document = { activeElement: result, referrer: 'https://blog.test/film/', querySelector: () => results, addEventListener: (_, fn) => callbacks.push(fn) };
-  const context = { document, URL, location: { origin: 'https://blog.test', assign: () => home++ }, history: { back: () => back++ }, searchInput: input, searchResults: results };
+  const context = { document, URL, location: { origin: 'https://blog.test', assign: () => home++ }, history: { back: () => back++ }, searchInput: input, searchResults: results, searchFilters: { contains: () => false } };
   const backScript = readFileSync(new URL('../../themes/nicolasfurno/layouts/partials/back.html', import.meta.url), 'utf8').replace(/<\/?script>/g, '');
   const search = readFileSync(new URL('../../themes/nicolasfurno/static/js/search.js', import.meta.url), 'utf8');
   const start = search.indexOf('document.addEventListener("keydown", (event) => {');
@@ -170,43 +170,28 @@ test('Échap : résultat → champ ; champ → retour ; arrivée directe → acc
 });
 
 
-test('recherche : fiches avant les critiques, filtres et tri chronologique conservés', () => {
+test('recherche : ordre Pagefind conservé et années regroupées pour le tri par date', async () => {
   const source = readFileSync(new URL('../../themes/nicolasfurno/static/js/search.js', import.meta.url), 'utf8');
-  const render = source.slice(source.indexOf('function renderResults() {'), source.indexOf('function updateFilters() {'));
+  const render = source.slice(source.indexOf('async function renderResults() {'), source.indexOf('function updateFilters() {'));
   const element = () => ({ children: [], append(child) { this.children.push(child); } });
   const results = [];
-  const result = (title, relevance, kind, category, date) => ({ data: { url: '/' + title, meta: { title, kind } }, relevance, category, date });
+  const result = (title, date) => ({ data: async () => ({ url: '/' + title, meta: { title, date } }) });
   const context = {
     document: { createElement: element },
     searchResults: { replaceChildren(...items) { results.splice(0, results.length, ...items); } },
-    currentResults: [result('Critique', 0, undefined, 'film', 200), result('Personne', 1, 'person', undefined, 0), result('Autre critique', 2, undefined, 'film', 100), result('Série', 3, 'series', 'film', 150), result('Saga', 4, 'saga', 'film', 125)],
-    activeCategory: null, sortMode: 'relevance', currentTerm: 'Personne'
+    searchMore: {}, renderNumber: 0, visibleLimit: 50,
+    currentResults: [result('Critique', 1704067200), result('Archives', 1672531200), result('Fiche', 0)],
+    sortMode: 'relevance'
   };
   vm.createContext(context);
-  vm.runInContext(source.slice(source.indexOf('function personSearchPriority'), source.indexOf('async function searchPagefind')) + render, context);
+  vm.runInContext(render, context);
   const titles = () => results.map(item => item.children[0].textContent);
-  vm.runInContext('renderResults()', context);
-  assert.deepEqual(titles(), ['Personne', 'Série', 'Saga', 'Critique', 'Autre critique']);
-  context.activeCategory = 'film';
-  vm.runInContext('renderResults()', context);
-  assert.deepEqual(titles(), ['Série', 'Saga', 'Critique', 'Autre critique']);
-  context.sortMode = 'oldest';
-  vm.runInContext('renderResults()', context);
-  assert.deepEqual(titles().filter(title => !/^\d{4}$/.test(title)), ['Autre critique', 'Saga', 'Série', 'Critique']);
-});
-
-
-test('recherche de personne : accents, ordre des noms, préfixes et correspondance exacte', () => {
-  const source = readFileSync(new URL('../../themes/nicolasfurno/static/js/search.js', import.meta.url), 'utf8');
-  const context = vm.createContext({});
-  vm.runInContext(source.slice(source.indexOf('function personSearchPriority'), source.indexOf('async function searchPagefind')), context);
-  const score = (title, query) => context.personSearchPriority({ meta: { kind: 'person', title } }, query);
-  assert.equal(score('Wes Anderson', 'Wes Anderson'), 2);
-  assert.equal(score('Wes Anderson', 'Anderson Wes'), 1);
-  assert.equal(score('Yūsuke Kishi', 'yusuke kishi'), 2);
-  assert.equal(score('Matt Smith', 'matt smi'), 1);
-  assert.equal(score('Peter Gabriel', 'Gabriel'), 1);
-  assert.equal(score('Owen Wilson', 'Wes Anderson'), 0);
+  await vm.runInContext('renderResults()', context);
+  assert.deepEqual(titles(), ['Critique', 'Archives', 'Fiche']);
+  context.sortMode = 'newest';
+  context.currentResults = [result('Critique', 1704067200), result('Autre critique', 1704067200), result('Archives', 1672531200)];
+  await vm.runInContext('renderResults()', context);
+  assert.deepEqual(titles(), ['2024', 'Critique', 'Autre critique', '2023', 'Archives']);
 });
 
 
