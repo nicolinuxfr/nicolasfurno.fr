@@ -40,6 +40,6 @@
     "eslint": "^10.9.1",
     "prettier": "^3.9.6",
     "typescript": "^5.9.0",
-    "vitest": "^3.2.0"
+    "vitest": "^4.1.11"
   }
 }
