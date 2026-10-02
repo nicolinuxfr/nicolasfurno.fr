@@ -16,6 +16,14 @@ Dans les préférences de la commande **Nouvel Article**, renseigner le chemin a
 
 L’extension reste enregistrée dans Raycast après l’arrêt de `npm run dev`. Relancer cette commande pour développer avec le rechargement automatique.
 
+Après activation du hook Git du dépôt, un `git pull` qui modifie des fichiers sous `scripts/raycast-extension/` laissera le watcher existant recharger les fichiers, ou en démarrera un en arrière-plan s’il n’est pas actif. Active le hook une fois dans chaque clone avec :
+
+```sh
+git config core.hooksPath .githooks
+```
+
+Le journal du watcher en arrière-plan se trouve dans le répertoire temporaire système sous `nicolasfurno-raycast-extension.log`.
+
 ## Validation
 
 ```sh

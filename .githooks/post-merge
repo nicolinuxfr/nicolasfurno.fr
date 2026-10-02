@@ -1,0 +1,29 @@
+#!/bin/sh
+
+set -eu
+
+repo_root=$(git rev-parse --show-toplevel)
+extension_dir="$repo_root/scripts/raycast-extension"
+previous_head=$(git rev-parse -q --verify ORIG_HEAD 2>/dev/null || true)
+
+if [ -n "$previous_head" ]; then
+	if git diff --quiet "$previous_head" HEAD -- scripts/raycast-extension; then
+		exit 0
+	fi
+else
+	if git diff-tree --quiet --root HEAD -- scripts/raycast-extension; then
+		exit 0
+	fi
+fi
+
+printf '%s\n' 'Raycast extension changed in this merge.'
+
+# The dev watcher reloads changes on its own when it is already running.
+if pgrep -f "$extension_dir/node_modules/@raycast/api/bin/run.js develop" >/dev/null 2>&1; then
+	printf '%s\n' 'The Raycast development watcher is already running; it will reload the extension.'
+	exit 0
+fi
+
+log_file="${TMPDIR:-/tmp}/nicolasfurno-raycast-extension.log"
+nohup npm --prefix "$extension_dir" run dev >"$log_file" 2>&1 </dev/null &
+printf 'Started the Raycast development watcher in the background. Log: %s\n' "$log_file"
