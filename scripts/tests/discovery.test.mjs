@@ -170,28 +170,69 @@ test('Échap : résultat → champ ; champ → retour ; arrivée directe → acc
 });
 
 
-test('recherche : ordre Pagefind conservé et années regroupées pour le tri par date', async () => {
-  const source = readFileSync(new URL('../../themes/nicolasfurno/static/js/search.js', import.meta.url), 'utf8');
-  const render = source.slice(source.indexOf('async function renderResults() {'), source.indexOf('function updateFilters() {'));
-  const element = () => ({ children: [], append(child) { this.children.push(child); } });
+const searchSource = () => readFileSync(new URL('../../themes/nicolasfurno/static/js/search.js', import.meta.url), 'utf8');
+const titleHelpers = source => source.slice(source.indexOf('const titleEntities'), source.indexOf('function focusResult(link)'));
+const renderSource = source => source.slice(source.indexOf('async function renderResults() {'), source.indexOf('function updateFilters() {'));
+
+const MARKER = 'Critère de recherche';
+const nodeText = node => typeof node === 'string' ? node : node.textContent;
+
+const searchElement = (tag = 'div') => ({
+  tag, children: [],
+  append(...nodes) { this.children.push(...nodes.flatMap(node => node.tag === '#fragment' ? node.children : [node])); },
+  setAttribute(name, value) { this[name] = value; },
+  getAttribute(name) { return this[name]; },
+  get textContent() { return this.children.map(nodeText).join(''); },
+  set textContent(value) { this.children = [String(value)]; }
+});
+const searchDocument = { createElement: searchElement, createDocumentFragment: () => searchElement('#fragment') };
+const searchResult = (url, title, date) => ({ data: async () => ({ url, meta: { title, date } }) });
+
+const loadSearch = (context, code) => { vm.createContext(context); vm.runInContext(code, context); };
+const renderRows = async context => {
   const results = [];
-  const result = (title, date) => ({ data: async () => ({ url: '/' + title, meta: { title, date } }) });
+  context.searchResults = { replaceChildren(...items) { results.splice(0, results.length, ...items); } };
+  await vm.runInContext('renderResults()', context);
+  return results;
+};
+// Une ligne est soit un regroupement par année (<h2>), soit un résultat : on garde l’année ou l’URL.
+const rowsIn = results => results.map(item => item.children[0].tag === 'h2' ? item.children[0].textContent : item.children[0].href);
+const titleIn = item => item.children[0].children.filter(node => nodeText(node) !== MARKER).map(nodeText).join('');
+const emphasisIn = item => item.children[0].children.filter(node => typeof node !== 'string' && ['em', 'strong'].includes(node.tag)).map(nodeText);
+
+test('recherche : ordre Pagefind conservé et années regroupées pour le tri par date', async () => {
+  const code = `${titleHelpers(searchSource())}\n${renderSource(searchSource())}`;
   const context = {
-    document: { createElement: element },
-    searchResults: { replaceChildren(...items) { results.splice(0, results.length, ...items); } },
-    searchMore: {}, renderNumber: 0, visibleLimit: 50,
-    currentResults: [result('Critique', 1704067200), result('Archives', 1672531200), result('Fiche', 0)],
-    sortMode: 'relevance'
+    document: searchDocument, searchMore: {}, renderNumber: 0, visibleLimit: 50, sortMode: 'relevance',
+    currentResults: [searchResult('/a/', 'Critique', 1704067200), searchResult('/b/', 'Archives', 1672531200), searchResult('/c/', 'Fiche', 0)]
   };
-  vm.createContext(context);
-  vm.runInContext(render, context);
-  const titles = () => results.map(item => item.children[0].textContent);
-  await vm.runInContext('renderResults()', context);
-  assert.deepEqual(titles(), ['Critique', 'Archives', 'Fiche']);
+  loadSearch(context, code);
+  assert.deepEqual(rowsIn(await renderRows(context)), ['/a/', '/b/', '/c/']);
   context.sortMode = 'newest';
-  context.currentResults = [result('Critique', 1704067200), result('Autre critique', 1704067200), result('Archives', 1672531200)];
-  await vm.runInContext('renderResults()', context);
-  assert.deepEqual(titles(), ['2024', 'Critique', 'Autre critique', '2023', 'Archives']);
+  context.currentResults = [searchResult('/a/', 'Critique', 1704067200), searchResult('/d/', 'Autre critique', 1704067200), searchResult('/b/', 'Archives', 1672531200)];
+  assert.deepEqual(rowsIn(await renderRows(context)), ['2024', '/a/', '/d/', '2023', '/b/']);
+});
+
+test('recherche : les italiques des deux blogs sont conservées, le reste du balisage est neutre', async () => {
+  const code = `${titleHelpers(searchSource())}\n${renderSource(searchSource())}`;
+  const context = {
+    document: searchDocument, searchMore: {}, renderNumber: 0, visibleLimit: 50, sortMode: 'relevance',
+    currentResults: [
+      searchResult('/blog/', '🎬 <em>10DANCE</em>, Keishi Ōtomo'),
+      searchResult('/archives/', '📺 <em>Elvis &amp; Nixon</em>, Liza Johnson'),
+      searchResult('/injection/', '🎭 <script>alert(1)</script> Clifton Collins Jr.')
+    ]
+  };
+  loadSearch(context, code);
+  const results = await renderRows(context);
+  assert.deepEqual(results.map(titleIn), [
+    '🎬 10DANCE, Keishi Ōtomo',
+    '📺 Elvis & Nixon, Liza Johnson',
+    '🎭 <script>alert(1)</script> Clifton Collins Jr.'
+  ]);
+  assert.deepEqual(emphasisIn(results[0]), ['10DANCE']);
+  assert.deepEqual(emphasisIn(results[1]), ['Elvis & Nixon']);
+  assert.deepEqual(emphasisIn(results[2]), []);
 });
 
 

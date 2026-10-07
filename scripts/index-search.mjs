@@ -12,6 +12,12 @@ function checked(result, operation) {
     return result;
 }
 
+// Les titres des archives gardent leur italique d’origine, la recherche
+// plein texte ne doit pas pour autant matcher les balises.
+function plainText(title) {
+    return title.replace(/<\/?em>/g, '').replace(/&amp;/g, '&').replace(/&lt;/g, '<').replace(/&gt;/g, '>').replace(/&quot;/g, '"');
+}
+
 async function main() {
     const articles = JSON.parse(readFileSync(join(root, 'data/voiretmanger.json'), 'utf8'));
     if (!existsSync(join(publicDir, 'index.html'))) throw new Error(`Compiler Hugo avant l’indexation : ${publicDir}`);
@@ -24,7 +30,7 @@ async function main() {
         for (const article of articles) {
             checked(await index.addCustomRecord({
                 url: new URL(article.url, "https://voiretmanger.fr").href,
-                content: article.title,
+                content: plainText(article.title),
                 language: 'fr',
                 meta: {
                     title: `${emojis[article.category]} ${article.title}`,
