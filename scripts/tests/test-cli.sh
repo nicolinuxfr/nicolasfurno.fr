@@ -28,6 +28,8 @@ response=$(print '{"category":"serie","id":"42","label":"Série de test (2024)"}
 [[ $(print -r -- "$response" | jq -r '.data.suggestedSlug') == serie-test-test-tv ]]
 [[ $(print -r -- "$response" | jq -r '.data.details[] | select(.label == "Diffuseur") | .value') == 'Test TV' ]]
 [[ $(print -r -- "$response" | jq -r '.data.seasons | length') == 2 ]]
+[[ $(print -r -- "$response" | jq -r '.data.seasons[1].year') == '2025' ]]
+[[ $(print -r -- "$response" | jq -r '.data.seasons[1].episodes') == '2' ]]
 
 response=$(print '{"category":"serie","id":"42","label":"Titre français (2024)"}' | \
   HUGO_TMDB=test TMDB_FIXTURE_DIR="$test_dir/fixtures" ARTICLE_ROOT="$project" "$scripts_dir/article-cli.sh" prepare)

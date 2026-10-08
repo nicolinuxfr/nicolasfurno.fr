@@ -32,7 +32,7 @@ type Prepared = {
   id: string;
   label: string;
   suggestedSlug: string;
-  seasons: { value: string; label: string }[];
+  seasons: { value: string; label: string; year?: string; episodes?: number }[];
   details: { label: string; value: string }[];
 };
 type CreationResult = {

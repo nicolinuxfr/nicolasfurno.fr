@@ -111,7 +111,17 @@ prepare_item() {
           {label:"Format",value:((.number_of_episodes // 0 | tostring) + " épisodes" + (if (.episode_run_time[0] // 0) > 0 then " · " + (.episode_run_time[0] | tostring) + " min" else "" end))}
         ] | map(select(.value != ""))')
         if [[ $type != Miniseries && $count -gt 1 ]]; then
-          seasons=$("$script_dir/services/tmdb-tv.sh" season-options "$id" | jq -Rn '[inputs | split("\t") | {value:.[0],label:.[1]}]')
+          seasons=$(
+            "$script_dir/services/tmdb-tv.sh" season-options "$id" | jq -Rsc --argjson meta "$metadata" '
+              (($meta.seasons // []) | map({
+                key: (.season_number | tostring),
+                value: { year: ((.air_date // "")[:4]), episodes: (.episode_count // 0) }
+              }) | from_entries) as $map
+              | [ splits("\n") | select(length > 0) | split("\t")
+                  | { value: .[0], label: .[1],
+                    year: ($map[.[0]].year // ""),
+                    episodes: ($map[.[0]].episodes // 0) } ]'
+          )
         fi
         ;;
       film)
