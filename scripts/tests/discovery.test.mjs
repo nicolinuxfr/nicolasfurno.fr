@@ -158,7 +158,7 @@ test('Échap : résultat → champ ; champ → retour ; arrivée directe → acc
   const document = { activeElement: result, referrer: 'https://blog.test/film/', querySelector: () => results, addEventListener: (_, fn) => callbacks.push(fn) };
   const context = { document, URL, location: { origin: 'https://blog.test', assign: () => home++ }, history: { back: () => back++ }, searchInput: input, searchResults: results, searchFilters: { contains: () => false } };
   const backScript = readFileSync(new URL('../../themes/nicolasfurno/layouts/partials/back.html', import.meta.url), 'utf8').replace(/<\/?script>/g, '');
-  const search = readFileSync(new URL('../../themes/nicolasfurno/static/js/search.js', import.meta.url), 'utf8');
+  const search = readFileSync(new URL('../../themes/nicolasfurno/assets/js/search.js', import.meta.url), 'utf8');
   const start = search.indexOf('document.addEventListener("keydown", (event) => {');
   const end = search.indexOf('\n});', start) + 4;
   vm.runInNewContext(backScript, context);
@@ -170,7 +170,7 @@ test('Échap : résultat → champ ; champ → retour ; arrivée directe → acc
 });
 
 
-const searchSource = () => readFileSync(new URL('../../themes/nicolasfurno/static/js/search.js', import.meta.url), 'utf8');
+const searchSource = () => readFileSync(new URL('../../themes/nicolasfurno/assets/js/search.js', import.meta.url), 'utf8');
 const titleHelpers = source => source.slice(source.indexOf('const titleEntities'), source.indexOf('function focusResult(link)'));
 const renderSource = source => source.slice(source.indexOf('async function renderResults() {'), source.indexOf('function updateFilters() {'));
 

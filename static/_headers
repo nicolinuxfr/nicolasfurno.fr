@@ -1,3 +1,5 @@
+# Le HTML doit rester frais un instant : sans max-age, le <link rel="prefetch"> posé par
+# instant.page au survol est inutilisable et le document est retéléchargé entier au clic.
 /*
   Content-Security-Policy: base-uri 'self'; frame-ancestors 'none'; object-src 'none'
   Permissions-Policy: camera=(), geolocation=(), microphone=(), payment=(), usb=()
@@ -5,3 +7,14 @@
   Strict-Transport-Security: max-age=31536000
   X-Content-Type-Options: nosniff
   X-Frame-Options: DENY
+  Cache-Control: public, max-age=300, stale-while-revalidate=3600
+
+# CSS et JS sont fingerprintés par Hugo : leur URL change avec leur contenu.
+# Le « ! Cache-Control » retire celle du bloc ci-dessus, sinon Cloudflare joint les deux.
+/css/*
+  ! Cache-Control
+  Cache-Control: public, max-age=31536000, immutable
+
+/js/*
+  ! Cache-Control
+  Cache-Control: public, max-age=31536000, immutable
