@@ -21,6 +21,9 @@ enableGitInfo = true
   source = '.cache/discovery/data'
   target = 'data'
 [[module.mounts]]
+  source = 'assets'
+  target = 'assets'
+[[module.mounts]]
   source = '.cache/legacy-posters/assets'
   target = 'assets'
 

@@ -1,0 +1,76 @@
+{{ $id := .Get "id" }}
+{{ $metadata := .Get "meta" }}
+{{ $genres := .Get "genres" }}
+{{ $saga := .Get "saga" }}
+{{ $temps := .Get "temps" }}
+
+<div class="meta">
+    <h3>Informations</h3>
+
+    {{ if $saga }}
+        <p><strong>Saga</strong> : <em><a href="{{ $saga.url }}" >{{ $saga.title }}</a></em></p>
+    {{ end }}
+
+    {{ with $metadata.developers }}
+        <ul>
+            <li>{{if gt (len . ) 1}}<strong>Créateurs</strong>{{else}}<strong>Créateur</strong>{{end}} : </li>
+            {{ range . }}
+                <li>{{.}}</li>
+            {{ end }}
+        </ul>
+    {{ end }}
+
+    <p><strong>Sortie</strong> : {{ index (findRE `\d{4}` $metadata.release_date.date) 0 }}</p>
+
+    {{  $compatibilite := slice }}
+    
+    {{ if $metadata.platforms.mac }}
+        {{ $compatibilite = $compatibilite | append "macOS" }}
+    {{ end }}
+
+    {{ if $metadata.platforms.windows }}
+        {{ $compatibilite = $compatibilite | append "Windows" }}
+    {{ end }}
+
+    {{ if $metadata.platforms.linux }}
+        {{ $compatibilite = $compatibilite | append "Linux" }}
+    {{ end }}
+
+    <ul>
+        <li><strong>Compatibilité</strong> : </li>
+        {{ range $compatibilite }}
+            <li>{{.}}</li>
+        {{ end }}
+    </ul>
+       
+    {{ with $metadata.genres }}
+        <ul>
+            <li>{{if gt (len . ) 1}}<strong>Genres</strong>{{else}}<strong>Genre</strong>{{end}} : </li>
+            {{ range . }}
+                {{ with (index $genres 0 .description) }}
+                    <li>{{ . }}</li>
+                {{ else }}
+                    <li>{{ .description }}</li>
+                {{ end }}
+            {{ end }}
+        </ul>
+    {{ end }}
+
+        {{ if or (in $metadata.supported_languages "Français") (in $metadata.supported_languages "French") }}
+            <p><strong>Langue : </strong>Traduit en français</p>
+        {{ else }}
+            <p><strong>Langue : </strong>Uniquement en anglais</p>
+        {{ end }}
+
+        {{ if gt (int $temps) 0 }}
+            <p><strong>Temps de jeu</strong> : {{ $temps }} heure{{ if ne (int $temps) 1 }}s{{ end }}</p>
+        {{ end }}
+
+        <p><strong>Liens</strong> : <a href="{{ $metadata.website }}">Site officiel</a> | <a href="https://store.steampowered.com/app/{{ $id }}" target="_blank" rel="noopener" data-steam-id="{{ $id }}">{{ if $metadata.is_free }}Jouer gratuitement{{ else }}Acheter{{ with $metadata.price_overview }} ({{ div .final 100.0 | lang.FormatCurrency 2 "EUR" }}){{ end }}{{ end }}</a></p>
+
+        {{ $steamPrices := resources.Get "js/steam-prices.js" | minify | fingerprint }}
+        <script type="module" src="{{ $steamPrices.RelPermalink }}"></script>
+
+
+    
+</div>
