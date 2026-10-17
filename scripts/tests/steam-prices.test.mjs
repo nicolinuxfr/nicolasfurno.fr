@@ -71,11 +71,15 @@ test("fonction Steam : cache, expiration, validation et erreurs", async (t) => {
 
 test("navigateur : actualisation automatique et conservation du prix en cas d'erreur", async () => {
   const source = await readFile(new URL("../../assets/js/steam-prices.js", import.meta.url), "utf8");
-  async function run(fetch) {
+  async function run(fetch, storage = new Map()) {
     const link = { dataset: { steamId: "620" }, textContent: "Acheter (29,99 €)" };
     const pending = [];
     vm.runInNewContext(source, {
       Intl, AbortSignal, fetch,
+      localStorage: {
+        getItem: (key) => storage.get(key) ?? null,
+        setItem: (key, value) => storage.set(key, value),
+      },
       document: { querySelectorAll: () => ({ forEach: (fn) => {
         pending.push(fn(link), fn(link));
       } }) },
@@ -93,4 +97,32 @@ test("navigateur : actualisation automatique et conservation du prix en cas d'er
   assert.equal(await run(async () => { throw new Error(); }), "Acheter (29,99 €)");
   assert.equal(await run(async () => new Response("Erreur", { status: 502 })), "Acheter (29,99 €)");
   assert.equal(await run(async () => Response.json({ final: 0, currency: "EUR", free: true })), "Jouer gratuitement");
+
+  const storage = new Map();
+  const expires = Date.now() + 3600000;
+  const key = "steam-price:fr:EUR:v1:620";
+  calls = 0;
+  const fetchPrice = async () => {
+    calls++;
+    return Response.json({ final: 619, currency: "EUR", free: false }, {
+      headers: { "X-Price-Expires": String(expires) },
+    });
+  };
+  assert.match(await run(fetchPrice, storage), /6,19/);
+  assert.equal(JSON.parse(storage.get(key)).expires, expires);
+  assert.match(await run(fetchPrice, storage), /6,19/);
+  assert.equal(calls, 1, "une nouvelle page utilise localStorage sans appel réseau");
+
+  storage.set(key, JSON.stringify({ price: { final: 99, currency: "EUR", free: false }, expires: Date.now() - 1 }));
+  assert.match(await run(fetchPrice, storage), /6,19/);
+  assert.equal(calls, 2, "une entrée expirée est renouvelée");
+  storage.set(key, "JSON invalide");
+  assert.match(await run(fetchPrice, storage), /6,19/);
+  storage.set(key, JSON.stringify({ price: { final: -1, currency: "EUR", free: false }, expires }));
+  assert.match(await run(fetchPrice, storage), /6,19/);
+
+  const blocked = { get: () => { throw new Error("Blocked"); }, set: () => { throw new Error("Full"); } };
+  assert.match(await run(fetchPrice, blocked), /6,19/);
+  storage.set(key, JSON.stringify({ price: { final: 99, currency: "EUR", free: false }, expires: Date.now() - 1 }));
+  assert.equal(await run(async () => { throw new Error(); }, storage), "Acheter (29,99 €)");
 });
