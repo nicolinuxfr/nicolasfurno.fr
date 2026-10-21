@@ -24,7 +24,12 @@ assert_slug 'The Exemple avec des mots' 'exemple-mots'
 assert_slug "L’exemple d’une élision" 'exemple-elision'
 assert_slug "Author’s Work" 'authors-work'
 assert_slug 'Série 2 TV' 'serie-2-tv'
+assert_slug "À l’est d’Éden, Netflix" 'est-eden-netflix'
+assert_slug "À l’est d’Éden" 'est-eden'
+assert_slug $'A\u0300 l’est d’Éden' 'est-eden'
+assert_slug 'A Single Letter' 'single-letter'
 assert_slug 'Le' 'le'
+assert_slug 'Y' 'y'
 assert_slug 'The slug corrigé +' 'the-slug-corrige' sanitize
 if print -rn -- '!!!' | "$slugify" >/dev/null 2>&1; then
   print -u2 'Une entrée vide après normalisation aurait dû être refusée.'

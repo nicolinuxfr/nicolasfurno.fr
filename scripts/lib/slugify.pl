@@ -48,7 +48,7 @@ for my $original (split /\s+/, $input) {
         my $letters = $original;
         $letters =~ s/\+//g;
         my $is_number_or_code = $token =~ /\d/;
-        my $is_short_acronym = $letters =~ /\A[A-Z]{1,2}\z/;
+        my $is_short_acronym = $letters =~ /\A[A-Z]{2}\z/;
         my $is_abbreviation = $token =~ /\A(?:st|mr|ms|dr|jr)\z/;
         next if length($token) <= 2
             && !$is_number_or_code
