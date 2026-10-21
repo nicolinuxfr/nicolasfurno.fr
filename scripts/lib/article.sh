@@ -117,6 +117,10 @@ article_check_existing() {
   [[ -z $existing ]] || article_offer_existing "$existing"
 }
 
+article_title() {
+  print -rn -- "$1" | /usr/bin/perl "$article_library_dir/typography.pl"
+}
+
 article_create() {
   local section=$1 slug=$2 title=$3 extra=${4:-}
   local target="$article_repo_root/content/$section/$slug"
@@ -126,7 +130,7 @@ article_create() {
   [[ ! -e $target ]] || article_die "Le dossier existe déjà mais ne contient pas d’article valide : $target"
   /bin/mkdir -p -- "$target"
   local title_json
-  title_json=$(print -rn -- "$title" | jq -Rs .)
+  title_json=$(article_title "$title" | jq -Rs .)
   TITLE_JSON=$title_json EXTRA=$extra ARTICLE_DATE="$(/bin/date -Iseconds)" /usr/bin/perl -e '
     print "---\n";
     print "title: $ENV{TITLE_JSON}\n";

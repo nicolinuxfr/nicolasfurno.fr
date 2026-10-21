@@ -12,6 +12,8 @@ source "$lib_dir/article.sh"
 
 series_title() {
   local name=$1 network=$2 selection=$3 start end
+  name=$(article_title "$name")
+  network=$(article_title "$network")
   case "$selection" in
     all|1) print -r -- "*$name*, $network" ;;
     <->)
@@ -96,6 +98,7 @@ series_generate() {
 
   "$services_dir/tmdb-tv.sh" series "$id" > "$stage/meta.json"
   name=${requested_name:-$(jq -er '.name | select(type == "string" and length > 0)' "$stage/meta.json")}
+  name=$(article_title "$name")
   metadata_tmp="$stage/meta-with-editorial-name.json"
   jq --compact-output --sort-keys --arg name "$name" '.name = $name' "$stage/meta.json" > "$metadata_tmp"
   /bin/mv -- "$metadata_tmp" "$stage/meta.json"

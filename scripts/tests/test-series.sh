@@ -22,11 +22,12 @@ export HUGO_TMDB=test
 
 whole=$(
   "$scripts_dir/categories/serie.sh" generate --root "$project" --id 42 --network 'Test TV' \
-    --name 'Titre français choisi' --slug 'serie-entiere-test' --seasons all
+    --name "L'été: le retour!" --slug 'serie-entiere-test' --seasons all
 )
 [[ -f "$whole" && -f "${whole:h}/meta.json" && -f "${whole:h}/cast.json" && -f "${whole:h}/seasons.json" ]]
-[[ -f "${whole:h}/titre-francais-choisi.jpg" ]]
-jq -e '.name == "Titre français choisi" and .original_name == "Test Show"' "${whole:h}/meta.json" >/dev/null
+[[ -f "${whole:h}/ete-retour.jpg" ]]
+jq -e '.name == "L’été : le retour !" and .original_name == "Test Show"' "${whole:h}/meta.json" >/dev/null
+[[ $(sed -n '2s/^title: //p' "$whole" | jq -r .) == '*L’été : le retour !*, Test TV' ]]
 jq -e '[.[].season_number] == [1,2]' "${whole:h}/seasons.json" >/dev/null
 jq -e '
   all(.[ ];
@@ -72,6 +73,7 @@ title=$("$scripts_dir/categories/serie.sh" title 'Série de test' 'Test TV' 1-2)
 
 first_season_title=$("$scripts_dir/categories/serie.sh" title 'Série de test' 'Test TV' 1)
 [[ "$first_season_title" == '*Série de test*, Test TV' ]]
+[[ $("$scripts_dir/categories/serie.sh" title "À l'est d'Éden" Netflix all) == '*À l’est d’Éden*, Netflix' ]]
 
 hugo_bin=${HUGO_BIN:-${commands[hugo]:-/opt/homebrew/bin/hugo}}
 "$hugo_bin" --source "$project" --destination "$project/public" --logLevel warn >/dev/null

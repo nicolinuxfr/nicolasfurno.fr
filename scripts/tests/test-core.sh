@@ -37,10 +37,20 @@ if print -rn -- '!!!' | "$slugify" >/dev/null 2>&1; then
 fi
 
 ARTICLE_ROOT=$project source "$scripts_dir/lib/article.sh"
+[[ $(article_title "*À l'est d'Éden*, Netflix") == '*À l’est d’Éden*, Netflix' ]]
+[[ $(article_title '"Bonjour" : vraiment?! Oui; enfin...') == '« Bonjour » : vraiment ?! Oui ; enfin…' ]]
+[[ $(article_title '“Bonjour” - « déjà » ( test )') == '« Bonjour » — « déjà » (test)' ]]
+[[ $(article_title '12:30, 16:9, 3.14, Jean-Luc') == '12:30, 16:9, 3.14, Jean-Luc' ]]
+typographic_title='*L’été…* : « Pourquoi ? »'
+[[ $(article_title "$typographic_title") == "$typographic_title" ]]
+for category in film album livre jeu-video photo spectacle; do
+  typographic_article=$(article_create "$category" "ponctuation-$category" '*"L’été"...*, Quel titre!')
+  [[ $(sed -n '2s/^title: //p' "$typographic_article" | jq -r .) == '*« L’été »…*, Quel titre !' ]]
+done
 created=$(article_create test 'bundle-test' 'Titre "test"' $'id: 42\n')
 article_set_frontmatter "$created" image 'image test.jpg'
 [[ -f $created ]]
-/usr/bin/grep -q '^title: "Titre \\"test\\""$' "$created"
+[[ $(sed -n '2s/^title: //p' "$created" | jq -r .) == 'Titre « test »' ]]
 /usr/bin/grep -q '^id: 42$' "$created"
 /usr/bin/grep -q '^image: "image test.jpg"$' "$created"
 [[ $(article_surnames 'Prénom Nom, Autre Personne') == 'Nom, Personne' ]]
@@ -98,6 +108,7 @@ saga_article=$(article_create test 'saga-test' 'Saga test' $'id: 44\nsagas: "Emp
 [[ $(saga_normalize 'Les archives de Roshar, livre 1') == archivesderoshar ]]
 [[ $(saga_weight_from_text 'Les archives de Roshar, livre 1') == 1 ]]
 [[ $(saga_frontmatter Empyrean 3) == $'sagas: "Empyrean"\nsagas_weight: 3' ]]
+[[ $(saga_frontmatter "L'empire: le retour!" 2) == $'sagas: "L’empire : le retour !"\nsagas_weight: 2' ]]
 [[ $(saga_frontmatter Empyrean '' true) == $'sagas: "Empyrean"\nsagas_weight:' ]]
 [[ $(saga_frontmatter '' '' true) == $'sagas: ""\nsagas_weight:' ]]
 [[ -z $(saga_frontmatter '' '') ]]

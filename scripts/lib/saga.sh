@@ -67,7 +67,7 @@ saga_weight_from_text() {
 saga_frontmatter() {
   local name=${1:-} weight=${2:-} identified=${3:-false} encoded
   [[ -n $name || $identified == true ]] || return 0
-  encoded=$(print -rn -- "$name" | jq -Rs .)
+  encoded=$(article_title "$name" | jq -Rs .)
   print -r -- "sagas: $encoded"
   if [[ $weight == <-> ]]; then
     print -r -- "sagas_weight: $weight"

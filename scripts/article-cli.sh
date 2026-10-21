@@ -188,6 +188,7 @@ prepare_item() {
     count=$(jq '.files // [] | length' "$request_file")
     (( count > 0 )) && details=$(jq -cn --arg value "$count photo$([[ $count -gt 1 ]] && print s)" '[{label:"Import",value:$value}]')
   fi
+  label=$(article_title "$label")
   [[ -n $slug ]] || slug=$(print -rn -- "$label" | "$script_dir/lib/slugify.pl" propose 2>/dev/null || true)
   jq -cn --arg category "$category" --arg id "$id" --arg label "$label" --arg suggestedSlug "$slug" --argjson seasons "$seasons" --argjson details "$details" '{category:$category,id:$id,label:$label,suggestedSlug:$suggestedSlug,seasons:$seasons,details:$details}'
 }
