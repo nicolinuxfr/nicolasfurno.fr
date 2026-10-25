@@ -107,6 +107,15 @@ saga_article=$(article_create test 'saga-test' 'Saga test' $'id: 44\nsagas: "Emp
 [[ $(saga_weight_from_text 'The Empyrean #3') == 3 ]]
 [[ $(saga_normalize 'Les archives de Roshar, livre 1') == archivesderoshar ]]
 [[ $(saga_weight_from_text 'Les archives de Roshar, livre 1') == 1 ]]
+# Le rang dépend du découpage des œuvres dans le catalogue, pas des critiques
+# présentes sur le site, ni d’une hypothèse de deux volumes pour chaque livre.
+[[ $(book_saga_weight '{"title":"Livre A, volume 1"}' 'Une saga, livre 1') == 1 ]]
+[[ $(book_saga_weight '{"title":"Livre A, volume 2"}' 'Une saga, livre 1') == 2 ]]
+[[ $(book_saga_weight '{"title":"Livre B, volume 1"}' 'Une saga, livre 2' '{"1":2}') == 3 ]]
+[[ $(book_saga_weight '{"title":"Livre B, volume 2"}' 'Une saga, livre 2' '{"1":2}') == 4 ]]
+[[ $(book_saga_weight '{"title":"Livre D","volumeNumber":1}' 'Une saga, livre 4' '{"1":2,"2":1,"3":3}') == 7 ]]
+[[ $(book_saga_weight '{"title":"Livre non découpé"}' 'Une saga, livre 3') == 3 ]]
+[[ -z $(book_saga_weight '{"title":"Livre"}' 'Une saga') ]]
 [[ $(saga_frontmatter Empyrean 3) == $'sagas: "Empyrean"\nsagas_weight: 3' ]]
 [[ $(saga_frontmatter "L'empire: le retour!" 2) == $'sagas: "L’empire : le retour !"\nsagas_weight: 2' ]]
 [[ $(saga_frontmatter Empyrean '' true) == $'sagas: "Empyrean"\nsagas_weight:' ]]

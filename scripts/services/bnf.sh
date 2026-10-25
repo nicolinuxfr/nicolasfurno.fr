@@ -7,7 +7,7 @@ source "$script_dir/../lib/network.sh"
 # que le reste du site ne dépende pas du vocabulaire UNIMARC.
 
 bnf_request() {
-  local schema=$1 query=$2 fixture=${BNF_FIXTURE_DIR:-}
+  local schema=$1 query=$2 maximum=${3:-20} fixture=${BNF_FIXTURE_DIR:-}
   if [[ -n $fixture && -f "$fixture/bnf-${schema}.xml" ]]; then
     /bin/cat "$fixture/bnf-${schema}.xml"
     return
@@ -18,7 +18,7 @@ bnf_request() {
     --data-urlencode 'operation=searchRetrieve' \
     --data-urlencode "query=$query" \
     --data-urlencode "recordSchema=$schema" \
-    --data-urlencode 'maximumRecords=20'
+    --data-urlencode "maximumRecords=$maximum"
 }
 
 xml_search_rows() {
@@ -96,7 +96,11 @@ xml_meta() {
     my ($volume_node) = $isbn_field ? $isbn_field->findnodes(q{./*[local-name()="subfield" and @code="b"]}) : ();
     my $isbn = $isbn_node ? $isbn_node->textContent : q{}; $isbn =~ s/\D//g;
     my $volume = $volume_node ? $volume_node->textContent : q{};
-    my $pages = one("215", "a");
+    my $extent = one("215", "a");
+    my ($volume_count) = $extent =~ /^(\d+)\s*vol\./;
+    my ($volume_number) = $volume =~ /(?:vol(?:ume)?\.?)\s*(\d+)/i;
+    $volume_number //= one("200", "h") =~ /^\s*(\d+)\s*$/ ? $1 : undef;
+    my $pages = $extent;
     if ($pages =~ /\(([^)]+)\)/) {
       my @counts = $1 =~ /(\d+)/g;
       $pages = $counts[$isbn_index] // $counts[0] // 0;
@@ -119,7 +123,7 @@ xml_meta() {
     # technique utilisé par la recherche ne doit pas fuiter dans les articles.
     $short_id = q{isbn:} . $isbn if length($selected_isbn) && length($isbn);
     my $title = one("200", "a");
-    $title .= q{, volume } . $1 if $volume =~ /(?:vol(?:ume)?\.?)\s*(\d+)/i;
+    $title .= q{, volume } . $volume_number if defined $volume_number;
     my $collection = one("225", "a");
     my $collection_volume = one("225", "v");
     my @series = length($collection) && length($collection_volume)
@@ -127,6 +131,8 @@ xml_meta() {
     my %meta = (
       bnfId => $short_id, bnfArk => $ark,
       title => $title, authors => \@authors,
+      volumeNumber => (defined($volume_number) ? 0 + $volume_number : undef),
+      volumeCount => (defined($volume_count) ? 0 + $volume_count : undef),
       publisher => one($publication_tag, "c"), publishedDate => $date,
       pageCount => 0 + $pages, isbn13 => (length($isbn) == 13 ? $isbn : q{}),
       language => one("101", "a"), originalLanguage => one("101", "c"),
@@ -136,6 +142,40 @@ xml_meta() {
     );
     delete $meta{$_} for grep { !defined $meta{$_} || $meta{$_} eq q{} || (ref $meta{$_} eq q{ARRAY} && !@{$meta{$_}}) } keys %meta;
     print JSON::PP->new->canonical->utf8->encode(\%meta), "\n";
+  '
+}
+
+# Décompter les volumes par livre de la saga dans le catalogue, en regroupant
+# les rééditions. Le découpage peut changer d’un livre à l’autre.
+xml_saga_volumes() {
+  BNF_SAGA_NAME="$1" BNF_SAGA_LANGUAGE="${2:-}" /usr/bin/perl -MXML::LibXML -MJSON::PP -MUnicode::Normalize -MEncode=decode -e '
+    sub norm { my $s = lc NFKD(shift // q{}); $s =~ s/\pM|[^\pL\pN]//g; return $s; }
+    my $saga = norm(decode(q{UTF-8}, $ENV{BNF_SAGA_NAME}));
+    my $language = $ENV{BNF_SAGA_LANGUAGE};
+    my $doc = XML::LibXML->load_xml(IO => *STDIN);
+    my @records = $doc->findnodes(q{//*[local-name()="record" and @format="UNIMARC"]});
+    my ($total) = $doc->findnodes(q{//*[local-name()="numberOfRecords"]});
+    # Une réponse tronquée ne permet pas de conclure sur les volumes précédents.
+    exit 1 if $total && $total->textContent > @records;
+    my %volumes;
+    for my $record (@records) {
+      my ($lang) = $record->findnodes(q{./*[local-name()="datafield" and @tag="101"]/*[local-name()="subfield" and @code="a"]});
+      next if length($language) && (!$lang || $lang->textContent ne $language);
+      my $rank;
+      for my $field ($record->findnodes(q{./*[local-name()="datafield" and @tag="225"]})) {
+        my ($name) = $field->findnodes(q{./*[local-name()="subfield" and @code="a"]});
+        my ($number) = $field->findnodes(q{./*[local-name()="subfield" and @code="v"]});
+        next unless $name && $number && norm($name->textContent) eq $saga;
+        $rank = $1 if $number->textContent =~ /^(?:(?:livre|book|tome)\s+)?(\d+)$/i;
+      }
+      next unless defined $rank && $rank > 0;
+      my ($extent) = $record->findnodes(q{./*[local-name()="datafield" and @tag="215"]/*[local-name()="subfield" and @code="a"]});
+      my $count = $extent && $extent->textContent =~ /^(\d+)\s*vol\./ ? $1 : 1;
+      my ($part) = $record->findnodes(q{./*[local-name()="datafield" and @tag="200"]/*[local-name()="subfield" and @code="h"]});
+      $count = $part->textContent if $part && $part->textContent =~ /^\d+$/ && $part->textContent > $count;
+      $volumes{$rank} = 0 + $count if !defined($volumes{$rank}) || $count > $volumes{$rank};
+    }
+    print encode_json(\%volumes), qq{\n};
   '
 }
 
@@ -161,9 +201,13 @@ case ${1:-} in
     [[ $id == ark:* ]] || id="ark:/12148/$id"
     bnf_request unimarcXchange "bib.persistentid all \"$id\"" | xml_meta "$selected_isbn"
     ;;
+  saga-volumes)
+    [[ -n ${2:-} && -n ${3:-} ]] || exit 2
+    bnf_request unimarcXchange "bib.anywhere all \"$2\" and bib.author all \"$3\"" 100 | xml_saga_volumes "$2" "${4:-}"
+    ;;
   isbn)
     [[ -n ${2:-} ]] || exit 2
     bnf_request unimarcXchange "ISBN adj \"$2\"" | xml_meta
     ;;
-  *) print -u2 'Usage : bnf.sh search <titre> | record <ark> | isbn <isbn>'; exit 2 ;;
+  *) print -u2 'Usage : bnf.sh search <titre> | record <ark> | isbn <isbn> | saga-volumes <saga> <auteur> [langue]'; exit 2 ;;
 esac

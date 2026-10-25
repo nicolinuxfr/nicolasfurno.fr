@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<numberOfRecords>5</numberOfRecords><records>
+<record><recordData>
+<record xmlns="info:lc/xmlns/marcxchange-v2" format="UNIMARC" id="ark:/12148/cb123456789">
+  <datafield tag="010"><subfield code="a">9780000000001</subfield><subfield code="b">vol. 1</subfield></datafield>
+  <datafield tag="010"><subfield code="a">9780000000002</subfield><subfield code="b">vol. 2</subfield></datafield>
+  <datafield tag="101"><subfield code="a">fre</subfield></datafield>
+  <datafield tag="200"><subfield code="a">Deuxième livre</subfield></datafield>
+  <datafield tag="215"><subfield code="a">2 vol. (400, 500 p.)</subfield></datafield>
+  <datafield tag="225"><subfield code="a">Les Épreuves</subfield><subfield code="v">livre 2</subfield></datafield>
+</record></recordData></record>
+<record><recordData>
+<record xmlns="info:lc/xmlns/marcxchange-v2" format="UNIMARC">
+  <datafield tag="101"><subfield code="a">fre</subfield></datafield>
+  <datafield tag="200"><subfield code="a">Premier livre</subfield></datafield>
+  <datafield tag="215"><subfield code="a">2 vol. (300, 350 p.)</subfield></datafield>
+  <datafield tag="225"><subfield code="a">Les Épreuves</subfield><subfield code="v">livre 1</subfield></datafield>
+</record></recordData></record>
+<record><recordData>
+<record xmlns="info:lc/xmlns/marcxchange-v2" format="UNIMARC">
+  <datafield tag="101"><subfield code="a">fre</subfield></datafield>
+  <datafield tag="200"><subfield code="a">Premier livre, réédition</subfield><subfield code="h">2</subfield></datafield>
+  <datafield tag="215"><subfield code="a">1 vol. (350 p.)</subfield></datafield>
+  <datafield tag="225"><subfield code="a">Les Épreuves</subfield><subfield code="v">livre 1</subfield></datafield>
+</record></recordData></record>
+<record><recordData>
+<record xmlns="info:lc/xmlns/marcxchange-v2" format="UNIMARC">
+  <datafield tag="101"><subfield code="a">fre</subfield></datafield>
+  <datafield tag="200"><subfield code="a">Troisième livre</subfield></datafield>
+  <datafield tag="215"><subfield code="a">1 vol. (300 p.)</subfield></datafield>
+  <datafield tag="225"><subfield code="a">Les Épreuves</subfield><subfield code="v">livre 3</subfield></datafield>
+</record></recordData></record>
+<record><recordData>
+<record xmlns="info:lc/xmlns/marcxchange-v2" format="UNIMARC">
+  <datafield tag="101"><subfield code="a">fre</subfield></datafield>
+  <datafield tag="215"><subfield code="a">9 vol.</subfield></datafield>
+  <datafield tag="225"><subfield code="a">Une autre saga</subfield><subfield code="v">livre 1</subfield></datafield>
+</record></recordData></record>
+</records></searchRetrieveResponse>

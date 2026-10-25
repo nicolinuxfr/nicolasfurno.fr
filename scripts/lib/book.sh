@@ -1,5 +1,19 @@
 #!/bin/zsh
 
+book_saga_weight() {
+  local meta=$1 series=$2 volumes=${3:-'{}'} rank
+  rank=$(saga_weight_from_text "$series")
+  [[ -n $rank ]] || return 0
+  print -r -- "$meta" | jq -r --argjson rank "$rank" --argjson volumes "$volumes" '
+    (.volumeNumber // ([try ((.displayTitle // .title // "")
+      | capture("(?:volume|vol\\.?|tome|partie)\\s*(?<part>[0-9]+)"; "i").part | tonumber) catch null][0])) as $part
+    | [range(1; $rank) | $volumes[tostring]] as $previous
+    | if all($previous[]; type == "number" and . > 0) then
+        (($previous | add // 0) + ($part // 1))
+      elif $part == null and (.volumeCount // 1) == 1 then $rank
+      else empty end'
+}
+
 # Résout uniquement la graphie d'un titre. La notice principale reste la source
 # bibliographique : une traduction ou une autre édition ne doit jamais la
 # remplacer silencieusement.

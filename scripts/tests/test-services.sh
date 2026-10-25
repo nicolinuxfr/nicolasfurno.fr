@@ -94,4 +94,15 @@ if print -r -- $'1\tPremière\n3\tTroisième' | "$scripts_dir/services/tmdb-tv.s
   exit 1
 fi
 
+# Notices regroupant plusieurs ISBN, rééditions et œuvres non découpées.
+/bin/mkdir -p "$temporary/bnf-saga"
+/bin/cp "$fixtures/bnf-saga-unimarcXchange.xml" "$temporary/bnf-saga/bnf-unimarcXchange.xml"
+parts=$(BNF_FIXTURE_DIR="$temporary/bnf-saga" "$scripts_dir/services/bnf.sh" saga-volumes 'Les Épreuves' 'Auteur Test' fre)
+print -r -- "$parts" | jq -e '. == {"1":2,"2":2,"3":1}' >/dev/null
+split_meta=$(BNF_FIXTURE_DIR="$temporary/bnf-saga" "$scripts_dir/services/bnf.sh" record 'fixture@9780000000002')
+print -r -- "$split_meta" | jq -e '.volumeNumber == 2 and .volumeCount == 2 and .title == "Deuxième livre, volume 2" and .pageCount == 500' >/dev/null
+source "$scripts_dir/lib/saga.sh"
+source "$scripts_dir/lib/book.sh"
+[[ $(book_saga_weight "$split_meta" 'Les Épreuves, livre 2' "$parts") == 4 ]]
+
 print 'Tests des services réussis.'

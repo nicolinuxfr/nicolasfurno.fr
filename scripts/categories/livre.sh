@@ -104,7 +104,7 @@ book_display_title() {
 }
 
 book_saga_frontmatter() {
-  local meta=$1 candidate=${2:-} series existing collection weight name
+  local meta=$1 candidate=${2:-} series existing collection weight name volumes='{}' rank author language
   series=$(print -r -- "$meta" | jq -r '(.series // [])[0] // empty')
   if [[ -z $series && -n $candidate ]]; then
     if print -r -- "$candidate" | jq -e --argjson primary "$meta" '
@@ -128,7 +128,13 @@ book_saga_frontmatter() {
       s/^The\s+//i;
     ')
   fi
-  weight=$(saga_weight_from_text "$series")
+  rank=$(saga_weight_from_text "$series")
+  if [[ -n $rank && $rank -gt 1 ]]; then
+    author=$(print -r -- "$meta" | jq -r '(.authors // [])[0] // empty')
+    language=$(print -r -- "$meta" | jq -r '.language // empty')
+    volumes=$("$services_dir/bnf.sh" saga-volumes "$name" "$author" "$language" 2>/dev/null || print '{}')
+  fi
+  weight=$(book_saga_weight "$meta" "$series" "$volumes")
   saga_frontmatter "$name" "$weight" true
 }
 
