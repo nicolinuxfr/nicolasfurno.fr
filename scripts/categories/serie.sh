@@ -50,7 +50,7 @@ series_generate() {
   local requested_name=''
   local skip_image=false minimum_width=${TMDB_MIN_POSTER_WIDTH:-1000}
   local whole=false season_start=0 season_end=0
-  local slug target stage created=false name image_basename title season_line title_json metadata_tmp
+  local slug target stage created=false name image_basename title season_line extra metadata_tmp
   local number season_file poster_path extension candidate width image_saved
   local -a season_files season_numbers poster_paths attempted_paths
 
@@ -146,19 +146,13 @@ series_generate() {
 
   /bin/mkdir -p -- "$target"
   created=true
-  title_json=$(print -rn -- "$title" | jq -Rs .)
   season_line=''
   if ! $whole; then
     (( season_start == season_end )) && season_line="saison: [$season_start]" || season_line="saison: [$season_start,$season_end]"
   fi
-  TITLE_JSON=$title_json ARTICLE_DATE="$(/bin/date -Iseconds)" TMDB_ID=$id SEASON_LINE=$season_line /usr/bin/perl -e '
-    print "---\n";
-    print "title: $ENV{TITLE_JSON}\n";
-    print "date: $ENV{ARTICLE_DATE}\n";
-    print "tmdb: $ENV{TMDB_ID}\n";
-    print "$ENV{SEASON_LINE}\n" if length $ENV{SEASON_LINE};
-    print "---\n\n";
-  ' > "$target/index.md"
+  extra="tmdb: $id"$'\n'
+  [[ -z $season_line ]] || extra+="$season_line"$'\n'
+  article_write "$target/index.md" "$title" "$extra"
   /bin/cp "$stage/meta.json" "$stage/seasons.json" "$target/"
   $whole && /bin/cp "$stage/cast.json" "$target/cast.json"
   for candidate in "$stage"/poster.*(N); do

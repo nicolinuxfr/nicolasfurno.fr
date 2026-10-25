@@ -129,16 +129,20 @@ article_create() {
   fi
   [[ ! -e $target ]] || article_die "Le dossier existe déjà mais ne contient pas d’article valide : $target"
   /bin/mkdir -p -- "$target"
-  local title_json
+  article_write "$target/index.md" "$title" "$extra"
+  print -r -- "$target/index.md"
+}
+
+article_write() {
+  local file=$1 title=$2 extra=${3:-} title_json
   title_json=$(article_title "$title" | jq -Rs .)
-  TITLE_JSON=$title_json EXTRA=$extra ARTICLE_DATE="$(/bin/date -Iseconds)" /usr/bin/perl -e '
+  TITLE_JSON=$title_json EXTRA=$extra ARTICLE_DATE="$(/bin/date -v0S -Iseconds)" /usr/bin/perl -e '
     print "---\n";
     print "title: $ENV{TITLE_JSON}\n";
     print "date: ", $ENV{ARTICLE_DATE}, "\n";
     print $ENV{EXTRA};
     print "---\n\n";
-  ' > "$target/index.md"
-  print -r -- "$target/index.md"
+  ' > "$file"
 }
 
 article_set_frontmatter() {
