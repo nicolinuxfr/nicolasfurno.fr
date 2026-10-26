@@ -196,6 +196,10 @@ openlibrary_candidate=''
 [[ $primary_source == openlibrary ]] || openlibrary_candidate=$(book_title_candidate openlibrary "$lookup")
 name=$(book_display_title "$meta" "$google_candidate" "$openlibrary_candidate")
 meta=$(print -r -- "$meta" | jq -cS --arg displayTitle "$name" '. + {displayTitle: $displayTitle}')
+# Remplacer l’année d’édition par celle de l’œuvre si elle est identifiée
+# sans ambiguïté. Sinon conserver l’année du catalogue, sans dialogue.
+original_date=$(print -r -- "$meta" | "$services_dir/openlibrary.sh" original-date 2>/dev/null || print '{}')
+meta=$(print -r -- "$meta" | jq -cS --argjson original "$original_date" '. + $original')
 author_names=()
 author_slugs=()
 country=''

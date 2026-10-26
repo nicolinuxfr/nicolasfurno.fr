@@ -169,6 +169,9 @@ prepare_item() {
           *) metadata=$("$script_dir/services/googlebooks.sh" record "$id" 2>/dev/null || true) ;;
         esac
         if [[ -n $metadata ]]; then
+          local original_date
+          original_date=$(print -r -- "$metadata" | "$script_dir/services/openlibrary.sh" original-date 2>/dev/null || print '{}')
+          metadata=$(print -r -- "$metadata" | jq -c --argjson original "$original_date" '. + $original')
           label=$(print -r -- "$metadata" | jq -r '.title + (if ((.authors // []) | length) > 0 then " — " + (.authors | join(", ")) else "" end)')
           details=$(print -r -- "$metadata" | jq -c '[
             {label:"Auteur",value:((.authors // []) | join(", "))},

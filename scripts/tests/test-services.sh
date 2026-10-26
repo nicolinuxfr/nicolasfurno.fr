@@ -21,6 +21,9 @@ export GOOGLEBOOKS_FIXTURE_DIR="$temporary/google"
 export WIKIDATA_FIXTURE_DIR="$temporary/wikidata"
 export HUGO_TMDB=test
 
+original_date=$(print -r -- '{"title":"Steve Jobs in Exile","authors":["Geoffrey Cain"],"publishedDate":"2026"}' | "$scripts_dir/services/openlibrary.sh" original-date)
+print -r -- "$original_date" | jq -e '.publishedDate == "2026"' >/dev/null
+
 # Les assertions portent sur le contrat normalisé de chaque service : nombre de
 # colonnes, types, identifiants et champs requis. Le contenu éditorial des
 # fixtures n’est volontairement pas testé.

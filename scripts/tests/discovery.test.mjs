@@ -13,6 +13,7 @@ test('chronologie des œuvres : sortie, première diffusion, année partielle et
   assert.equal(releaseDate({ section: 'serie', meta: { first_air_date: '2010-02-03', last_air_date: '2025-06-07' } }), '2010-02-03');
   assert.equal(releaseDate({ section: 'livre', meta: { publishedDate: '1999' } }), '1999-01-01');
   assert.equal(releaseDate({ section: 'livre', meta: { publishedDate: '1999-04' } }), '1999-04-01');
+  assert.equal(releaseDate({ section: 'livre', meta: { publishedDate: '2018' } }), '2018-01-01');
   assert.equal(releaseDate({ section: 'film', date: '2026-01-01' }), '9999-12-31');
 });
 

@@ -14,6 +14,16 @@ ol_request() {
 }
 
 case ${1:-} in
+  original-date)
+    # Le JSON de la notice passe sur stdin pour préserver titre et auteurs.
+    primary=$(/bin/cat)
+    query=$(print -r -- "$primary" | jq -r '[.originalTitle // .title, ((.authors // []) | join(" "))] | join(" ")')
+    response=$(ol_request openlibrary-search.json --connect-timeout 4 --max-time 12 --get 'https://openlibrary.org/search.json' \
+      --data-urlencode "q=$query" --data-urlencode 'limit=20' \
+      --data-urlencode 'fields=key,title,author_name,first_publish_year')
+    print -r -- "$response" | jq -c --argjson primary "$primary" '{primary: $primary, docs: (.docs // [])}' \
+      | /usr/bin/perl "$script_dir/../lib/book-original-date.pl"
+    ;;
   search)
     shift
     ol_request openlibrary-search.json --get 'https://openlibrary.org/search.json' \
@@ -46,5 +56,5 @@ case ${1:-} in
         series: (.series // [])
       } | with_entries(select(.value != "" and .value != 0 and .value != []))'
     ;;
-  *) print -u2 'Usage : openlibrary.sh search <requête> | record <ol:OL…W>'; exit 2 ;;
+  *) print -u2 'Usage : openlibrary.sh search <requête> | record <ol:OL…W> | original-date < notice.json'; exit 2 ;;
 esac
