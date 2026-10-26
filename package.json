@@ -9,7 +9,7 @@
     "test:steam": "node --test scripts/tests/steam-prices.test.mjs",
     "build:hugo": "npm run discover && npm run legacy-posters && hugo --minify --enableGitInfo",
     "build": "npm run build:hugo && npm run index",
-    "preview": "(test -x node_modules/.bin/pagefind || npm ci) && npm run discover && npm run legacy-posters && hugo && npm run index && hugo server",
+    "preview": "sh scripts/preview.sh",
     "index": "node scripts/index-search.mjs"
   },
   "devDependencies": {
