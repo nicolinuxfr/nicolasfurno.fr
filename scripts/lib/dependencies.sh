@@ -23,6 +23,7 @@ formula_for=(
   gum gum
   fzf fzf
   jq jq
+  magick imagemagick
   hugo hugo
   node node
   npm node
@@ -30,7 +31,7 @@ formula_for=(
 )
 typeset -a tools missing_system
 typeset -aU missing_formulae
-tools=(gum fzf jq hugo node npm npx)
+tools=(gum fzf jq magick hugo node npm npx)
 
 for tool in $tools; do
   [[ -n ${commands[$tool]:-} ]] || missing_formulae+=("$formula_for[$tool]")

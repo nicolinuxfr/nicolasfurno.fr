@@ -16,7 +16,8 @@ result_log=$(/usr/bin/mktemp "${TMPDIR:-/tmp}/nicolasfurno-result.XXXXXX")
 output_file=$(/usr/bin/mktemp "${TMPDIR:-/tmp}/nicolasfurno-output.XXXXXX")
 error_file=$(/usr/bin/mktemp "${TMPDIR:-/tmp}/nicolasfurno-error.XXXXXX")
 prepare_log=$(/usr/bin/mktemp "${TMPDIR:-/tmp}/nicolasfurno-prepare.XXXXXX")
-trap '/bin/rm -f -- "$request_file" "$result_log" "$output_file" "$error_file" "$prepare_log"' EXIT INT TERM
+warning_log=$(/usr/bin/mktemp "${TMPDIR:-/tmp}/nicolasfurno-warning.XXXXXX")
+trap '/bin/rm -f -- "$request_file" "$result_log" "$output_file" "$error_file" "$prepare_log" "$warning_log"' EXIT INT TERM
 /bin/cat > "$request_file"
 [[ -s $request_file ]] || print '{}' > "$request_file"
 
@@ -227,7 +228,7 @@ create_item() {
     runner=("$script_dir/categories/default.sh" "$category")
   fi
   if ARTICLE_ROOT="$repo_root" ARTICLE_NO_OPEN=true ARTICLE_RESULT_LOG="$result_log" \
-    ARTICLE_REQUEST_FILE="$request_file" GUM_BIN="$script_dir/lib/raycast-gum.sh" \
+    ARTICLE_REQUEST_FILE="$request_file" ARTICLE_WARNING_LOG="$warning_log" GUM_BIN="$script_dir/lib/raycast-gum.sh" \
     FZF_BIN="$script_dir/lib/raycast-fzf.sh" "${runner[@]}" >"$output_file" 2>&1; then
     :
   else
@@ -237,7 +238,7 @@ create_item() {
   fi
   if [[ -s $result_log ]]; then
     IFS=$'\t' read -r result_status article_path < "$result_log"
-    jq -cn --arg status "$result_status" --arg path "$article_path" --arg directory "${article_path:h}" '{status:$status,path:$path,directory:$directory}'
+    jq -cn --arg status "$result_status" --arg path "$article_path" --arg directory "${article_path:h}" --rawfile warning_text "$warning_log" '{status:$status,path:$path,directory:$directory,warnings:($warning_text|split("\n")|map(select(length>0)))}'
   else
     print -u2 'Le script n’a retourné aucun article.'
     return 1
@@ -264,7 +265,7 @@ case $operation in
   check)
     [[ -f "$repo_root/hugo.toml" ]] || failure invalid_root 'Le dossier ne contient pas hugo.toml.'
     missing=()
-    for tool in jq curl perl; do (( $+commands[$tool] )) || missing+=("$tool"); done
+    for tool in jq curl perl magick; do (( $+commands[$tool] )) || missing+=("$tool"); done
     (( ${#missing} == 0 )) || failure missing_dependency "Dépendances manquantes : ${(j:, :)missing}."
     success "$(jq -cn --arg root "$repo_root" '{root:$root}')"
     ;;

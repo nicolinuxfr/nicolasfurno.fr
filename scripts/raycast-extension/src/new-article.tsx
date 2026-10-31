@@ -5,6 +5,7 @@ import {
   Color,
   Detail,
   Form,
+  Grid,
   Icon,
   List,
   Toast,
@@ -15,7 +16,7 @@ import {
   useNavigation,
 } from "@raycast/api";
 import path from "node:path";
-import { useEffect, useMemo, useRef, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import { BackendError, runBackend } from "./backend";
 import { formatDisplayValue } from "./format";
 import {
@@ -39,6 +40,7 @@ type CreationResult = {
   status: "created" | "existing";
   path: string;
   directory: string;
+  warnings?: string[];
 };
 type CreationPayload = {
   category: string;
@@ -365,14 +367,24 @@ function InitialForm({ root, category }: { root: string; category: Category }) {
                 title: values.title,
                 files,
               });
-              push(
-                <CreateForm
-                  root={root}
-                  prepared={prepared}
-                  title={values.title}
-                  files={files}
-                />,
-              );
+              if (category.id === "photo") {
+                push(
+                  <PhotoHeaderGrid
+                    root={root}
+                    prepared={prepared}
+                    title={values.title}
+                    files={files}
+                  />,
+                );
+              } else {
+                push(
+                  <CreateForm
+                    root={root}
+                    prepared={prepared}
+                    title={values.title}
+                  />,
+                );
+              }
             }}
           />
         </ActionPanel>
@@ -398,12 +410,57 @@ function InitialForm({ root, category }: { root: string; category: Category }) {
   );
 }
 
+function PhotoHeaderGrid({
+  root,
+  prepared,
+  title,
+  files,
+}: {
+  root: string;
+  prepared: Prepared;
+  title: string;
+  files: string[];
+}) {
+  const photos = files.map((file) => ({ path: file, name: path.basename(file) }));
+
+  return (
+    <Grid columns={3} navigationTitle="Choisir l’image d’en-tête">
+      {photos.map((photo) => (
+        <Grid.Item
+          key={photo.path}
+          content={{ source: photo.path }}
+          title={photo.name}
+          quickLook={{ path: photo.path, name: photo.name }}
+          actions={
+            <ActionPanel>
+              <Action.Push
+                title="Choisir comme image d’en-tête"
+                target={
+                  <CreateForm
+                    root={root}
+                    prepared={prepared}
+                    title={title}
+                    files={files}
+                    header={photo.path}
+                  />
+                }
+              />
+              <Action.ToggleQuickLook title="Aperçu détaillé" />
+            </ActionPanel>
+          }
+        />
+      ))}
+    </Grid>
+  );
+}
+
 function CreateForm({
   root,
   prepared,
   query,
   title,
   files = [],
+  header,
   seasons = "all",
 }: {
   root: string;
@@ -411,14 +468,11 @@ function CreateForm({
   query?: string;
   title?: string;
   files?: string[];
+  header?: string;
   seasons?: string;
 }) {
   const { push } = useNavigation();
   const [slugError, setSlugError] = useState<string>();
-  const photoNames = useMemo(
-    () => files.map((file) => ({ path: file, name: path.basename(file) })),
-    [files],
-  );
   const create = async (values: {
     slug: string;
     hours?: string;
@@ -446,7 +500,7 @@ function CreateForm({
       hours: values.hours,
       seasons,
       files,
-      header: values.header,
+      header: header ?? values.header,
       openImageSearch: values.openImageSearch,
     };
     push(<CreationView root={root} payload={payload} />);
@@ -493,19 +547,10 @@ function CreateForm({
         <Form.TextField id="hours" title="Temps de jeu" placeholder="0" />
       ) : null}
       {prepared.category === "photo" ? (
-        <Form.Dropdown
-          id="header"
+        <Form.Description
           title="Image d’en-tête"
-          defaultValue={photoNames[0]?.name}
-        >
-          {photoNames.map((photo) => (
-            <Form.Dropdown.Item
-              key={photo.path}
-              value={photo.name}
-              title={photo.name}
-            />
-          ))}
-        </Form.Dropdown>
+          text={header ? `${path.parse(header).name}.jpg` : "Non sélectionnée"}
+        />
       ) : null}
     </Form>
   );
@@ -536,6 +581,7 @@ function CreationView({
               created.status === "created"
                 ? "Article créé"
                 : "Article déjà présent",
+            message: created.warnings?.join(" · "),
           });
         })
         .catch(async (reason) => {
@@ -590,9 +636,12 @@ Les métadonnées et les images sont en cours de récupération.`}
 
 function ResultView({ result }: { result: CreationResult }) {
   const created = result.status === "created";
+  const warningDetails = result.warnings?.length
+    ? `\n\n## À vérifier\n\n${result.warnings.map((warning) => `- ${warning}`).join("\n")}`
+    : "";
   return (
     <Detail
-      markdown={`# ${created ? "Article créé" : "Article déjà présent"}\n\n\`${result.path}\``}
+      markdown={`# ${created ? "Article créé" : "Article déjà présent"}\n\n\`${result.path}\`${warningDetails}`}
       metadata={
         <Detail.Metadata>
           <Detail.Metadata.Label
