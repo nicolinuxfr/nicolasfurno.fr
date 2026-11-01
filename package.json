@@ -7,7 +7,7 @@
     "legacy-posters": "node scripts/legacy-posters.mjs",
     "test:discovery": "node --test scripts/tests/discovery.test.mjs",
     "test:steam": "node --test scripts/tests/steam-prices.test.mjs",
-    "test:gallery": "node --test scripts/tests/photo-gallery-map.test.mjs",
+    "test:gallery": "node --test scripts/tests/photo-gallery-map.test.mjs scripts/tests/photo-maps.test.mjs",
     "build:hugo": "npm run discover && npm run legacy-posters && hugo --minify --enableGitInfo",
     "build": "npm run build:hugo && npm run index",
     "preview": "sh scripts/preview.sh",

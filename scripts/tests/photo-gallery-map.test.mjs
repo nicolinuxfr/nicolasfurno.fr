@@ -5,7 +5,7 @@ import vm from "node:vm";
 
 const script = readFileSync(new URL("../../themes/nicolasfurno/assets/js/photo-gallery-map.js", import.meta.url), "utf8");
 
-function setup({ mobile = false, state = "ready", unavailable = false, broken = false, preview = false,
+function setup({ mobile = false, state = "ready", unavailable = false, broken = false, preview = false, delayed = false,
   points = [{ lat: "48.1", long: "-3.9" }, { lat: "48.11", long: "-3.91" }, {}] } = {}) {
   const container = { hidden: true, clientWidth: mobile ? 288 : 500, dataset: { preview: String(preview) },
     querySelector: () => null,
@@ -46,14 +46,25 @@ function setup({ mobile = false, state = "ready", unavailable = false, broken = 
     Padding: class { constructor(top, right, bottom, left) { Object.assign(this, { top, right, bottom, left }); } },
     MarkerAnnotation: class { constructor(coordinate) { this.coordinate = coordinate; } },
   };
+  const browserWindow = { mapkit: delayed ? undefined : mapkit, scrollX: 0, scrollY: 0 };
+  let finishLoading;
+  let failLoading;
+  let loads = 0;
+  if (delayed) {
+    const pending = new Promise((resolve, reject) => { finishLoading = resolve; failLoading = reject; });
+    browserWindow.loadPhotoMapKit = () => { loads++; return pending; };
+  }
   let resize;
   vm.runInNewContext(script, {
-    document, window: { mapkit, scrollX: 0, scrollY: 0 },
+    document, window: browserWindow,
     matchMedia: (query) => query.includes("max-width") ? compact : reducedMotion,
     requestAnimationFrame: (callback) => callback(),
     ResizeObserver: class { constructor(callback) { resize = callback; } observe() {} },
   });
   return { container, lightbox, reducedMotion, compact, maps, markers, pageMap, stage,
+    get loads() { return loads; },
+    finishLoading() { browserWindow.mapkit = mapkit; finishLoading(mapkit); },
+    failLoading() { failLoading(new Error("Network unavailable")); },
     resize: () => resize(),
     state(value) {
       pageMap.dataset.mapkitState = value;
@@ -89,6 +100,41 @@ test("creates one map on demand and recenters on every selected photo", () => {
   assert.equal(view.container.hidden, false);
   view.lightbox.open = false;
   view.lightbox.dispatchEvent(new Event("close"));
+  assert.equal(view.container.hidden, true);
+});
+
+test("shares pending loading and opens the latest selected photo when the SDK becomes available", async () => {
+  const view = setup({ delayed: true });
+  view.show(0);
+  view.show(1);
+  view.resize();
+  assert.equal(view.loads, 1);
+  assert.equal(view.maps.length, 0);
+  view.finishLoading();
+  await new Promise(setImmediate);
+  assert.equal(view.maps.length, 1);
+  assert.equal(view.markers[0].coordinate.latitude, 48.11);
+});
+
+test("closing the gallery before SDK loading finishes does not create a background map", async () => {
+  const view = setup({ delayed: true });
+  view.show(0);
+  view.lightbox.open = false;
+  view.lightbox.dispatchEvent(new Event("close"));
+  view.finishLoading();
+  await new Promise(setImmediate);
+  assert.equal(view.maps.length, 0);
+  assert.equal(view.container.hidden, true);
+});
+
+test("SDK download errors keep the map hidden and do not retry on every photo change", async () => {
+  const view = setup({ delayed: true });
+  view.show(0);
+  view.failLoading();
+  await new Promise(setImmediate);
+  view.show(1);
+  assert.equal(view.loads, 1);
+  assert.equal(view.maps.length, 0);
   assert.equal(view.container.hidden, true);
 });
 
