@@ -8,12 +8,13 @@ const script = readFileSync(new URL("../../themes/nicolasfurno/assets/js/photo-g
 function setup({ mobile = false, state = "ready", unavailable = false, broken = false, preview = false,
   points = [{ lat: "48.1", long: "-3.9" }, { lat: "48.11", long: "-3.91" }, {}] } = {}) {
   const container = { hidden: true, clientWidth: mobile ? 288 : 500, dataset: { preview: String(preview) },
+    querySelector: () => null,
     getBoundingClientRect: () => ({ left: 940, top: 0 }) };
   const stage = { right: 1190, top: 44 };
   const lightbox = Object.assign(new EventTarget(), {
     open: false, querySelector: (selector) => selector === ".photo-lightbox-stage"
       ? { getBoundingClientRect: () => stage } : container,
-    getBoundingClientRect: () => ({ right: 1440, top: 0 }),
+    getBoundingClientRect: () => ({ left: 0, right: 1440, top: 0 }),
   });
   const pageMap = { dataset: { mapkitState: state } };
   const document = Object.assign(new EventTarget(), {
@@ -29,19 +30,17 @@ function setup({ mobile = false, state = "ready", unavailable = false, broken = 
     constructor(latitude, longitude) { Object.assign(this, { latitude, longitude }); }
   }
   class Map {
-    static MapTypes = { MutedStandard: "mutedStandard" };
-    static ColorSchemes = { Dark: "dark" };
     constructor(element, options) {
       if (broken) throw new Error("Map unavailable");
-      Object.assign(this, { element, options, pans: [], point: { x: 1320, y: 140 } });
+      Object.assign(this, { element, options, pans: [] });
       maps.push(this);
     }
     addAnnotation(marker) { markers.push(marker); }
     showItems(items, options) { this.region = { center: items[0].coordinate, span: options.minimumSpan }; }
-    convertCoordinateToPointOnPage() { return this.point; }
     setCenterAnimated(coordinate, animated) { this.pans.push({ coordinate, animated }); }
   }
   const mapkit = unavailable ? undefined : {
+    MapType: { MutedStandard: "mutedStandard" }, ColorScheme: { Dark: "dark" },
     Map, Coordinate, FeatureVisibility: { Hidden: "hidden" },
     CoordinateSpan: class { constructor(latitudeDelta, longitudeDelta) { Object.assign(this, { latitudeDelta, longitudeDelta }); } },
     Padding: class { constructor(top, right, bottom, left) { Object.assign(this, { top, right, bottom, left }); } },
@@ -69,7 +68,7 @@ function setup({ mobile = false, state = "ready", unavailable = false, broken = 
   };
 }
 
-test("creates one desktop map on demand and moves its only marker without panning unnecessarily", () => {
+test("creates one map on demand and recenters on every selected photo", () => {
   const view = setup();
   assert.equal(view.maps.length, 0);
   view.show(0);
@@ -82,7 +81,8 @@ test("creates one desktop map on demand and moves its only marker without pannin
   assert.equal(view.maps.length, 1);
   assert.equal(view.markers[0].coordinate.latitude, 48.11);
   assert.equal(view.markers[0].coordinate.longitude, -3.91);
-  assert.equal(view.maps[0].pans.length, 0);
+  assert.equal(view.maps[0].pans.length, 1);
+  assert.equal(view.maps[0].pans[0].coordinate.latitude, 48.11);
   view.show(2);
   assert.equal(view.container.hidden, true);
   view.show(0);
@@ -121,6 +121,36 @@ test("centers the active pin on compact screens after navigation and resizing", 
   assert.notEqual(view.maps[0].padding.top, view.maps[0].padding.bottom);
 });
 
+test("centers the pin within the map area left exposed by the photo", () => {
+  const view = setup({ mobile: true });
+  view.container.clientWidth = 461;
+  view.container.getBoundingClientRect = () => ({ left: 334, top: 0 });
+  view.stage.right = 524;
+  view.show(0);
+  const padding = view.maps[0].padding;
+  const pinCenter = 334 + (padding.left + 461 - padding.right) / 2;
+  assert.equal(pinCenter, (524 + 24 + 795 - 24) / 2);
+  view.stage.right = 600;
+  view.resize();
+  assert.ok(view.maps[0].padding.left > padding.left);
+});
+
+test("keeps the phone pin in the header above the photo, centered in the viewport", () => {
+  const view = setup({ mobile: true });
+  view.container.clientWidth = 470;
+  view.container.getBoundingClientRect = () => ({ left: -80, top: 0 });
+  view.stage.top = 160;
+  view.stage.right = 385;
+  view.show(0);
+  const padding = view.maps[0].padding;
+  const x = -80 + (padding.left + 470 - padding.right) / 2;
+  const y = (padding.top + 470 - padding.bottom) / 2;
+  assert.equal(x, 195);
+  assert.ok(y > 44 && y < view.stage.top - 24);
+  view.show(1);
+  assert.equal(view.maps[0].pans.at(-1).coordinate.latitude, 48.11);
+});
+
 test("waits for MapKit authorization and hides the map after asynchronous failure", () => {
   const view = setup({ state: "loading" });
   view.show(0);
@@ -144,10 +174,9 @@ test("the local preview keeps the grid and marker visible without authorized til
   assert.equal(view.container.hidden, false);
 });
 
-test("recenters only when needed and respects reduced motion", () => {
+test("recenters on desktop and respects reduced motion", () => {
   const view = setup();
   view.show(0);
-  view.maps[0].point = { x: 490, y: 510 };
   view.reducedMotion.matches = true;
   view.show(1);
   assert.equal(view.maps[0].pans.length, 1);
