@@ -17,7 +17,7 @@ import {
 } from "@raycast/api";
 import path from "node:path";
 import { useEffect, useRef, useState } from "react";
-import { BackendError, runBackend } from "./backend";
+import { BackendError, installDependencies, runBackend } from "./backend";
 import { formatDisplayValue } from "./format";
 import {
   normalizeSeasonSelection,
@@ -100,7 +100,36 @@ export default function Command() {
     return () => controller.abort();
   }, [projectRoot]);
 
-  if (error) return <ConfigurationError message={error} />;
+  if (error)
+    return (
+      <ConfigurationError
+        message={error}
+        onInstallDependencies={async () => {
+          const toast = await showToast({
+            style: Toast.Style.Animated,
+            title: "Installation des dépendances…",
+            message: "Homebrew et npm préparent l’environnement.",
+          });
+          try {
+            await installDependencies(projectRoot);
+            await runBackend(projectRoot, "check");
+            const loaded = await runBackend<Category[]>(
+              projectRoot,
+              "categories",
+            );
+            setCategories(loaded);
+            setError(undefined);
+            toast.style = Toast.Style.Success;
+            toast.title = "Dépendances installées";
+            toast.message = undefined;
+          } catch (reason) {
+            toast.style = Toast.Style.Failure;
+            toast.title = "Installation impossible";
+            toast.message = errorMessage(reason);
+          }
+        }}
+      />
+    );
   return (
     <List isLoading={loading} searchBarPlaceholder="Filtrer les catégories…">
       {categories.map((category) => (
@@ -132,12 +161,23 @@ export default function Command() {
   );
 }
 
-function ConfigurationError({ message }: { message: string }) {
+function ConfigurationError({
+  message,
+  onInstallDependencies,
+}: {
+  message: string;
+  onInstallDependencies: () => void;
+}) {
   return (
     <Detail
       markdown={`# Configuration requise\n\n${message}`}
       actions={
         <ActionPanel>
+          <Action
+            title="Installer les dépendances"
+            icon={Icon.Download}
+            onAction={onInstallDependencies}
+          />
           <Action
             title="Ouvrir les préférences"
             icon={Icon.Gear}

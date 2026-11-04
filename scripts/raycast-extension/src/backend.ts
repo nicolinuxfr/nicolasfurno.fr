@@ -110,3 +110,58 @@ export async function runBackend<T>(
     child.once("close", () => signal?.removeEventListener("abort", abort));
   });
 }
+
+export async function installDependencies(root: string): Promise<void> {
+  const projectRoot = normalizeProjectRoot(root);
+  await validateRoot(projectRoot);
+  const installer = path.join(
+    projectRoot,
+    "scripts",
+    "lib",
+    "dependencies.sh",
+  );
+  await access(installer, constants.X_OK).catch(() => {
+    throw new BackendError(
+      "Le script scripts/lib/dependencies.sh est absent ou non exécutable.",
+      "invalid_root",
+    );
+  });
+  const executablePath = [
+    "/opt/homebrew/bin",
+    "/usr/local/bin",
+    process.env.PATH,
+  ]
+    .filter(Boolean)
+    .join(":");
+  return new Promise<void>((resolve, reject) => {
+    execFile(
+      "/bin/zsh",
+      [installer],
+      {
+        cwd: projectRoot,
+        env: {
+          ...process.env,
+          ARTICLE_ROOT: projectRoot,
+          LANG: "C",
+          LC_ALL: "C",
+          PATH: executablePath,
+        },
+        maxBuffer: 20 * 1024 * 1024,
+      },
+      (error, stdout, stderr) => {
+        if (!error) return resolve();
+        const output = `${stderr}\n${stdout}`
+          .trim()
+          .split("\n")
+          .slice(-8)
+          .join("\n");
+        reject(
+          new BackendError(
+            output || "L’installation des dépendances a échoué.",
+            "installation_failed",
+          ),
+        );
+      },
+    );
+  });
+}
