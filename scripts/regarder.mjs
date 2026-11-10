@@ -53,7 +53,7 @@ function save(file, record) {
   renameSync(`${file}.tmp`, file);
 }
 
-export async function collect({ root, key, limit = 20, reserve = 150, articlePath = null,
+export async function collect({ root, key, limit = 20, reserve = 150, articlePath = null, existingOnly = false,
   fetchImpl = globalThis.fetch, now = Date.now(), log = console.log,
   quotaFile = join(root, '.cache/regarder-quota.json') }) {
   const works = new Map();
@@ -61,6 +61,7 @@ export async function collect({ root, key, limit = 20, reserve = 150, articlePat
     for (const folder of readdirSync(join(root, 'content', category), { withFileTypes: true })) {
       const path = join(root, 'content', category, folder.name, 'meta.json');
       if (!folder.isDirectory() || !existsSync(path)) continue;
+      if (existingOnly && !existsSync(join(root, 'content', category, folder.name, 'regarder.json'))) continue;
       const metadata = read(path);
       if (!Number.isSafeInteger(metadata.id) || metadata.id <= 0) continue;
       const id = `${type}/${metadata.id}`;
@@ -135,8 +136,8 @@ export async function collect({ root, key, limit = 20, reserve = 150, articlePat
 
 async function main() {
   const args = process.argv.slice(2);
-  if (args.some(arg => !/^--(?:limit|reserve)=\d+$/.test(arg) && !arg.startsWith('--article='))) {
-    throw new Error('Usage : node scripts/regarder.mjs [--limit=20] [--reserve=150] [--article=CHEMIN_DOSSIER]');
+  if (args.some(arg => arg !== '--existing-only' && !/^--(?:limit|reserve)=\d+$/.test(arg) && !arg.startsWith('--article='))) {
+    throw new Error('Usage : node scripts/regarder.mjs [--limit=20] [--reserve=150] [--article=CHEMIN_DOSSIER] [--existing-only]');
   }
   const argument = name => args.find(arg => arg.startsWith(`--${name}=`))?.slice(name.length + 3);
   const articlePath = argument('article') ? resolve(argument('article')) : null;
@@ -147,7 +148,7 @@ async function main() {
   let key = process.env.MOTN_API_KEY;
   if (!key && existsSync(join(root, '.envrc'))) key = readFileSync(join(root, '.envrc'), 'utf8').match(/^\s*(?:export\s+)?MOTN_API_KEY\s*=\s*["']?([^\s"']+)/m)?.[1];
   if (!key) throw new Error('Ajouter MOTN_API_KEY dans .envrc ou dans l’environnement.');
-  const result = await collect({ root, key, limit, reserve, articlePath });
+  const result = await collect({ root, key, limit, reserve, articlePath, existingOnly: args.includes('--existing-only') });
   if (process.env.GITHUB_STEP_SUMMARY) appendFileSync(process.env.GITHUB_STEP_SUMMARY,
     `Collecte Regarder : ${result.calls} appel(s). ${result.reason}.\n` +
     (result.quota ? `Quota : ${result.quota.used}/${result.quota.granted} utilisé ; remise à zéro ${result.quota.resetAt}.\n` : ''));

@@ -20,7 +20,19 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          fetch-depth: 0
+          fetch-depth: 1
+          sparse-checkout-cone-mode: false
+          sparse-checkout: |
+            /.github/
+            /scripts/
+            /functions/
+            /package.json
+            /content/film/*/index.md
+            /content/film/*/meta.json
+            /content/film/*/regarder.json
+            /content/serie/*/index.md
+            /content/serie/*/meta.json
+            /content/serie/*/regarder.json
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
@@ -33,12 +45,12 @@ jobs:
           path: .cache/regarder-quota.json
           key: regarder-quota-${{ github.run_id }}-${{ github.run_attempt }}
           restore-keys: regarder-quota-
-      - name: Collecter les œuvres récentes puis les anciennes
+      - name: Actualiser les fichiers existants de plus de 180 jours
         id: collect
         continue-on-error: true
         env:
           MOTN_API_KEY: ${{ secrets.MOTN_API_KEY }}
-        run: npm run regarder -- --limit=100 --reserve=150
+        run: npm run regarder -- --existing-only --limit=20 --reserve=150
       - name: Mémoriser le quota même après un arrêt
         if: always() && hashFiles('.cache/regarder-quota.json') != ''
         uses: actions/cache/save@v4

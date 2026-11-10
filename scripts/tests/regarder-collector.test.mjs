@@ -94,3 +94,17 @@ test('une erreur conserve les succès précédents et ne relance pas le fourniss
   assert.equal(calls, 2);
   assert.equal(existsSync(join(newest, 'regarder.json')), true);
 });
+
+test('le mode actualisation ignore les articles sans fichier, même les saisons de la même série', async t => {
+  const { article, run } = fixture(t);
+  const old = { version: 3, checkedAt: '2026-01-01T00:00:00Z' };
+  const existing = article('ancien', 1, '2020-01-01', { record: old });
+  const sibling = article('autre-saison', 1, '2024-01-01');
+  const missing = article('recent', 2, '2026-11-09');
+  const calls = [];
+  await run({ existingOnly: true, fetchImpl: async url => { const id = identity(url); calls.push(id); return reply(id, 1); } });
+  assert.deepEqual(calls, ['movie/1']);
+  assert.equal(JSON.parse(readFileSync(join(existing, 'regarder.json'))).checkedAt, new Date(now).toISOString());
+  assert.equal(existsSync(join(sibling, 'regarder.json')), false);
+  assert.equal(existsSync(join(missing, 'regarder.json')), false);
+});
