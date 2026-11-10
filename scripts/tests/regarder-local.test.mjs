@@ -20,6 +20,14 @@ test('respecte les saisons, les exclusions et le remplacement manuel vide', () =
   assert.deepEqual(selectServices({ ...record, override: { exclude: ['a'] } }, 'fr', [0]).map(s => s.id), ['b']);
   assert.deepEqual(selectServices({ ...record, override: { services: [] } }, 'fr'), []);
 });
+test('un lien corrigé ne crée pas de disponibilité et préserve les autres services', () => {
+  const record = { streamingOptions: { fr: [offer('hbo'), offer('other')], ca: [offer('other')] },
+    seasons: { 3: { fr: [offer('hbo'), offer('other')] } },
+    override: { links: { hbo: 'https://hbo.example/series?season=3' } } };
+  assert.deepEqual(selectServices(record, 'fr', [3]).map(s => s.link), ['https://hbo.example/series?season=3', 'https://other.example/title']);
+  assert.deepEqual(selectServices(record, 'ca').map(s => s.id), ['other']);
+  assert.deepEqual(selectServices(record, 'fr', [4]), []);
+});
 test('rejette achat, supplément et liens non HTTPS', () => {
   const result = compact({ streamingOptions: { fr: [offer('ok'), offer('bad', 'javascript:alert(1)'), { ...offer('buy'), type: 'buy' }, { ...offer('addon'), addon: {} }] } }, {});
   assert.deepEqual(selectServices(result, 'fr').map(s => s.id), ['ok']);

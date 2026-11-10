@@ -65,6 +65,7 @@ export function selectServices(record, country, seasons = []) {
   const override = record.override ?? {};
   if (Object.hasOwn(override, 'services')) result = override.services;
   const titleLink = netflixTitleForRecord(record);
-  return result.map(service => normalizeNetflixService(service, titleLink))
+  return result.map(service => ({ ...service, link: override.links?.[service.id] ?? service.link }))
+    .map(service => normalizeNetflixService(service, titleLink))
     .filter(s => s && !(override.exclude ?? []).includes(s.id) && /^https:\/\//.test(s.link));
 }
