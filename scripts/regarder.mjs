@@ -5,12 +5,13 @@ import { fileURLToPath } from 'node:url';
 const root = fileURLToPath(new URL('../', import.meta.url));
 const read = (file, fallback = {}) => existsSync(file) ? JSON.parse(readFileSync(file, 'utf8')) : fallback;
 
-import { services } from './lib/regarder.mjs';
+import { services, localizePermanentService } from './lib/regarder.mjs';
 export { services, selectServices } from './lib/regarder.mjs';
 
 // Chaque lien distinct est stocké une fois ; pays et saisons ne gardent que ses indices.
 export function packRecord(record) {
   if (!record.streamingOptions && record.version !== 3) return record;
+  record = { ...record, permanentServices: record.permanentServices?.map(service => localizePermanentService(service, 'fr')) };
   const offers = [];
   const indices = new Map();
   const permanent = new Set((record.permanentServices ?? []).map(offer => offer.id));
@@ -43,7 +44,7 @@ export function compact(data, metadata, now = new Date()) {
     version: 2,
     checkedAt: now.toISOString(),
     streamingOptions: data.streamingOptions,
-    permanentServices: services(Object.values(data.streamingOptions).flat()).filter(s => originals.includes(s.id)),
+    permanentServices: services([...(data.streamingOptions.fr ?? []), ...Object.values(data.streamingOptions).flat()]).filter(s => originals.includes(s.id)),
     seasons: Object.fromEntries((data.seasons ?? []).map(s => [s.title.replace(/^Season /, ''), s.streamingOptions ?? {}])),
   });
 }

@@ -10,6 +10,18 @@ export function services(options) {
   return [...found.values()];
 }
 
+export function localizePermanentService(service, country) {
+  if (!/^[a-z]{2}$/.test(country)) return service;
+  try {
+    const url = new URL(service.link);
+    if (url.hostname === 'tv.apple.com' && /^\/[a-z]{2}(?:-[a-z]{2})?\//i.test(url.pathname)) {
+      url.pathname = url.pathname.replace(/^\/[a-z]{2}(?:-[a-z]{2})?\//i, `/${country}/`);
+      return { ...service, link: url.href };
+    }
+  } catch { /* Le filtrage des liens reste effectué avant l'affichage. */ }
+  return service;
+}
+
 export function selectServices(record, country, seasons = []) {
   const resolve = options => record.version === 3
     ? (options ?? []).map(index => record.offers[index])
@@ -20,7 +32,8 @@ export function selectServices(record, country, seasons = []) {
     const lists = selected.map(s => resolve(record.seasons?.[s]?.[country]));
     result = (lists[0] ?? []).filter(s => lists.every(list => list.some(other => other.id === s.id)));
   }
-  result = [...new Map([...result, ...(record.permanentServices ?? [])].map(s => [s.id, s])).values()];
+  const permanent = (record.permanentServices ?? []).map(service => localizePermanentService(service, country));
+  result = [...new Map([...result, ...permanent].map(s => [s.id, s])).values()];
   const override = record.override ?? {};
   if (Object.hasOwn(override, 'services')) result = override.services;
   return result.filter(s => !(override.exclude ?? []).includes(s.id) && /^https:\/\//.test(s.link));

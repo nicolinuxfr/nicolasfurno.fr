@@ -33,3 +33,12 @@ test('une série originale ne garde que son lien permanent, sans variantes régi
   assert.deepEqual(selectServices(data, 'fr', [1]), data.permanentServices);
   assert.deepEqual(selectServices(data, 'ca', [2]), data.permanentServices);
 });
+
+test('le lien permanent Apple TV suit le pays du visiteur, pas le premier pays de l’API', () => {
+  const link = 'https://tv.apple.com/es/show/silo/umc.cmc.example';
+  const record = { version: 3, permanentServices: [{ id: 'apple', name: 'Apple TV', link }] };
+  assert.equal(selectServices(record, 'fr')[0].link, link.replace('/es/', '/fr/'));
+  assert.equal(selectServices(record, 'gb', [3])[0].link, link.replace('/es/', '/gb/'));
+  assert.equal(record.permanentServices[0].link, link);
+  assert.equal(selectServices({ ...record, override: { services: [{ id: 'apple', name: 'Apple TV', link }] } }, 'fr')[0].link, link);
+});
