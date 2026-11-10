@@ -5,13 +5,15 @@ import { fileURLToPath } from 'node:url';
 const root = fileURLToPath(new URL('../', import.meta.url));
 const read = (file, fallback = {}) => existsSync(file) ? JSON.parse(readFileSync(file, 'utf8')) : fallback;
 
-import { services, localizePermanentService } from './lib/regarder.mjs';
+import { services, localizePermanentService, netflixTitleForRecord, normalizeNetflixService } from './lib/regarder.mjs';
 export { services, selectServices } from './lib/regarder.mjs';
 
 // Chaque lien distinct est stocké une fois ; pays et saisons ne gardent que ses indices.
 export function packRecord(record) {
   if (!record.streamingOptions && record.version !== 3) return record;
-  record = { ...record, permanentServices: record.permanentServices?.map(service => localizePermanentService(service, 'fr')) };
+  const titleLink = netflixTitleForRecord(record);
+  const normalize = service => normalizeNetflixService(service, titleLink);
+  record = { ...record, permanentServices: record.permanentServices?.map(normalize).filter(Boolean).map(service => localizePermanentService(service, 'fr')) };
   const offers = [];
   const indices = new Map();
   const permanent = new Set((record.permanentServices ?? []).map(offer => offer.id));
@@ -19,7 +21,7 @@ export function packRecord(record) {
     ? (items ?? []).map(index => record.offers[index])
     : services(items);
   const packOptions = options => Object.fromEntries(Object.entries(options ?? {}).map(([country, items]) => [country,
-    resolve(items).filter(offer => !permanent.has(offer.id)).map(offer => {
+    resolve(items).map(normalize).filter(offer => offer && !permanent.has(offer.id)).map(offer => {
       const key = JSON.stringify(offer);
       if (!indices.has(key)) { indices.set(key, offers.length); offers.push(offer); }
       return indices.get(key);

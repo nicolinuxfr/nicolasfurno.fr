@@ -10,6 +10,34 @@ export function services(options) {
   return [...found.values()];
 }
 
+function netflixPath(link) {
+  try {
+    const url = new URL(link);
+    if (url.protocol === 'https:' && /^(www\.)?netflix\.com$/.test(url.hostname)) {
+      return url.pathname.match(/^\/(?:[a-z]{2}(?:-[a-z]{2})?\/)?(title|watch)\/(\d+)\/?$/i);
+    }
+  } catch { /* Lien invalide. */ }
+}
+
+export function netflixTitleForRecord(record) {
+  const candidates = [
+    ...(record.override?.services ?? []), ...(record.permanentServices ?? []), ...(record.offers ?? []),
+    ...(record.version === 3 ? [] : Object.values(record.streamingOptions ?? {}).flat().flatMap(item => services([item]))),
+  ];
+  for (const service of candidates) {
+    const path = netflixPath(service.link);
+    if (path?.[1].toLowerCase() === 'title') return `https://www.netflix.com/title/${path[2]}`;
+  }
+}
+
+export function normalizeNetflixService(service, titleLink) {
+  const path = netflixPath(service.link);
+  if (!path) return service;
+  if (path[1].toLowerCase() === 'title') return { ...service, link: `https://www.netflix.com/title/${path[2]}` };
+  // Un identifiant de lecture peut désigner un épisode : ne pas inventer sa fiche.
+  return titleLink ? { ...service, link: titleLink } : null;
+}
+
 export function localizePermanentService(service, country) {
   if (!/^[a-z]{2}$/.test(country)) return service;
   try {
@@ -36,5 +64,7 @@ export function selectServices(record, country, seasons = []) {
   result = [...new Map([...result, ...permanent].map(s => [s.id, s])).values()];
   const override = record.override ?? {};
   if (Object.hasOwn(override, 'services')) result = override.services;
-  return result.filter(s => !(override.exclude ?? []).includes(s.id) && /^https:\/\//.test(s.link));
+  const titleLink = netflixTitleForRecord(record);
+  return result.map(service => normalizeNetflixService(service, titleLink))
+    .filter(s => s && !(override.exclude ?? []).includes(s.id) && /^https:\/\//.test(s.link));
 }

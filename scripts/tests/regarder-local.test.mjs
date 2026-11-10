@@ -42,3 +42,13 @@ test('le lien permanent Apple TV suit le pays du visiteur, pas le premier pays d
   assert.equal(record.permanentServices[0].link, link);
   assert.equal(selectServices({ ...record, override: { services: [{ id: 'apple', name: 'Apple TV', link }] } }, 'fr')[0].link, link);
 });
+
+test('Netflix : les saisons renvoient à la fiche de la série, pas à celle de l’épisode', () => {
+  const data = compact({ streamingOptions: { fr: [offer('netflix', 'https://www.netflix.com/title/80021955')] }, seasons: [{ title: 'Season 6', streamingOptions: { fr: [offer('netflix', 'https://www.netflix.com/watch/81341715?trackId=123')] } }] }, {});
+  assert.equal(selectServices(data, 'fr', [6])[0].link, 'https://www.netflix.com/title/80021955');
+  assert.equal(data.offers.length, 1);
+  // Le Worker corrige aussi les fichiers déjà publiés dans l’ancien format.
+  const legacy = { version: 3, offers: [{ id: 'netflix', name: 'Netflix', link: 'https://www.netflix.com/title/80021955' }, { id: 'netflix', name: 'Netflix', link: 'https://www.netflix.com/watch/81341715' }], seasons: { 6: { fr: [1] } } };
+  assert.equal(selectServices(legacy, 'fr', [6])[0].link, 'https://www.netflix.com/title/80021955');
+  assert.deepEqual(selectServices({ version: 3, offers: [legacy.offers[1]], streamingOptions: { fr: [0] } }, 'fr'), []);
+});
