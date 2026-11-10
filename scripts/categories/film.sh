@@ -47,4 +47,5 @@ if [[ -n $poster ]]; then
   image="$(print -rn -- "$name" | "$lib_dir/slugify.pl" propose).${poster:e:l}"
   "$services_dir/tmdb-movie.sh" image "$poster" "$target/$image" || print -u2 'Avertissement : affiche TMDB indisponible.'
 fi
+node "$script_dir/../regarder.mjs" "--article=$target" >&2 || print -u2 'Avertissement : liens Regarder non actualisés.'
 article_open "$file"

@@ -161,6 +161,9 @@ series_generate() {
 
   /bin/rm -rf -- "$stage"
   trap - EXIT INT TERM
+  if [[ $output_root == $repo_root ]]; then
+    node "$script_dir/../regarder.mjs" "--article=$target" >&2 || print -u2 'Avertissement : liens Regarder non actualisés.'
+  fi
   print -r -- "$target/index.md"
 }
 

@@ -1,0 +1,74 @@
+name: Actualiser les liens Regarder
+
+on:
+  schedule:
+    - cron: '23 4 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: regarder-catalogue
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    if: github.repository == 'nicolinuxfr/nicolasfurno.fr' && github.ref == format('refs/heads/{0}', github.event.repository.default_branch)
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Vérifier la collecte et le Worker
+        id: tests
+        run: npm run test:regarder
+      - name: Restaurer le dernier quota connu
+        uses: actions/cache/restore@v4
+        with:
+          path: .cache/regarder-quota.json
+          key: regarder-quota-${{ github.run_id }}-${{ github.run_attempt }}
+          restore-keys: regarder-quota-
+      - name: Collecter les œuvres récentes puis les anciennes
+        id: collect
+        continue-on-error: true
+        env:
+          MOTN_API_KEY: ${{ secrets.MOTN_API_KEY }}
+        run: npm run regarder -- --limit=100 --reserve=150
+      - name: Mémoriser le quota même après un arrêt
+        if: always() && hashFiles('.cache/regarder-quota.json') != ''
+        uses: actions/cache/save@v4
+        with:
+          path: .cache/regarder-quota.json
+          key: regarder-quota-${{ github.run_id }}-${{ github.run_attempt }}
+      - name: Publier les données collectées
+        if: always() && steps.tests.outcome == 'success' && steps.collect.outcome != 'skipped'
+        run: |
+          git ls-files --modified --others --exclude-standard -z -- \
+            ':(glob)content/film/*/regarder.json' \
+            ':(glob)content/serie/*/regarder.json' | xargs -0 -r git add --
+          if git diff --cached --quiet; then
+            echo 'Aucune donnée à publier.'
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'Actualise les liens de streaming'
+          git pull --rebase origin "${GITHUB_REF_NAME}"
+          git push origin "HEAD:${GITHUB_REF_NAME}"
+      - name: Conserver les résultats si la publication échoue
+        if: failure()
+        uses: actions/upload-artifact@v4
+        with:
+          name: regarder-resultats
+          path: |
+            content/film/*/regarder.json
+            content/serie/*/regarder.json
+          retention-days: 7
+      - name: Signaler une erreur de collecte
+        if: steps.collect.outcome == 'failure'
+        run: exit 1

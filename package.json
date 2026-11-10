@@ -11,7 +11,9 @@
     "build:hugo": "npm run discover && npm run legacy-posters && hugo --minify --enableGitInfo",
     "build": "npm run build:hugo && npm run index",
     "preview": "sh scripts/preview.sh",
-    "index": "node scripts/index-search.mjs"
+    "index": "node scripts/index-search.mjs",
+    "regarder": "node scripts/regarder.mjs",
+    "test:regarder": "node --test scripts/tests/regarder*.test.mjs"
   },
   "devDependencies": {
     "pagefind": "1.5.2"
