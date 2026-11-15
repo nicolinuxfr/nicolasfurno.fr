@@ -11,6 +11,9 @@ trap '/bin/rm -rf -- "$project"' EXIT INT TERM
 /bin/cp -R "$scripts_dir/../data" "$project/data"
 /bin/ln -s "$scripts_dir/../themes/nicolasfurno" "$project/themes/nicolasfurno"
 /bin/cp "$test_dir"/fixtures/*.json "$project/fixtures/"
+jq '.aggregate_credits.cast[0].total_episode_count = 1 | .aggregate_credits.cast += [{id: 101, name: "Invité ponctuel", order: 1, total_episode_count: 0}]' \
+  "$project/fixtures/season-42-1.json" > "$project/fixtures/season-42-1.tmp"
+/bin/mv "$project/fixtures/season-42-1.tmp" "$project/fixtures/season-42-1.json"
 /usr/bin/sips -s format jpeg -z 1600 1600 "$scripts_dir/../themes/nicolasfurno/static/img/icon-512.png" \
   --out "$project/fixtures/image-poster.jpg" >/dev/null
 /usr/bin/sips -s format jpeg -z 1500 1000 "$scripts_dir/../themes/nicolasfurno/static/img/icon-512.png" \
@@ -33,7 +36,7 @@ jq -e '
   all(.[ ];
     (keys | sort) == ["aggregate_credits", "air_date", "episodes", "season_number"]
     and all(.episodes[]; (keys | sort) == ["runtime"])
-    and all(.aggregate_credits.cast[]; (keys | sort) == ["id", "name", "order"])
+    and all(.aggregate_credits.cast[]; (keys | sort) == ["id", "name", "order", "total_episode_count"])
   )
 ' "${whole:h}/seasons.json" >/dev/null
 ! /usr/bin/grep -q '^saison:' "$whole"
@@ -78,5 +81,6 @@ first_season_title=$("$scripts_dir/categories/serie.sh" title 'Série de test' '
 hugo_bin=${HUGO_BIN:-${commands[hugo]:-/opt/homebrew/bin/hugo}}
 "$hugo_bin" --source "$project" --destination "$project/public" --logLevel warn >/dev/null
 /usr/bin/grep -q '4 épisodes de 40 à 45' "$project/public/serie/serie-entiere-test/index.html"
+/usr/bin/grep -q '<span hidden>Actrice Test </span>' "$project/public/serie/serie-test/index.html"
 
 print 'Tests du générateur réussis.'

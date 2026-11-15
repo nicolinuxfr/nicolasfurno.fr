@@ -64,14 +64,28 @@ test('films et séries : une identité pour plusieurs rôles, saisons dédoublon
 });
 
 test('distribution : crédits de saison prioritaires, plafonds identiques aux fiches', () => {
-  const cast = Array.from({ length: 12 }, (_, i) => ({ id: i + 1, name: `Acteur ${i}`, order: i }));
+  const cast = Array.from({ length: 12 }, (_, i) => ({ id: i + 1, name: `Acteur ${i}`, order: 12 - i }));
   const films = [1, 2].map(i => ({ section: 'film', url: `/f${i}/`, cast: { cast } }));
   const series = [1, 2].map(i => ({ section: 'serie', url: `/s${i}/`, meta: { id: i }, hasSeasons: true, seasons: [{ aggregate_credits: { cast } }], cast: { cast: [{ id: 999, name: 'Hors saison' }] } }));
   const data = buildDiscovery([...films, ...series]);
   assert.equal(data.people['tmdb:8'].articles.length, 4);
-  assert.equal(data.people['tmdb:10'].articles.length, 2);
+  assert.equal(data.people['tmdb:10'].articles.length, 4);
   assert.equal(data.people['tmdb:11'], undefined);
   assert.equal(data.people['tmdb:999'], undefined);
+});
+
+test('distribution : rôles récurrents et saisons cumulées dans les profils', () => {
+  const cast = Array.from({ length: 10 }, (_, i) => ({ id: i + 1, name: `Acteur ${i}` }));
+  const recurring = { id: 20, name: 'Rôle récurrent', total_episode_count: 2 };
+  const cameo = { id: 21, name: 'Apparition', total_episode_count: 1 };
+  const series = [1, 2].map(i => ({ section: 'serie', url: `/recurring${i}/`, meta: { id: i }, hasSeasons: true,
+    seasons: [
+      { episodes: [{}, {}, {}, {}], aggregate_credits: { cast: [...cast, recurring, cameo] } },
+      { episodes: [{}, {}, {}, {}], aggregate_credits: { cast: [recurring] } }
+    ] }));
+  const data = buildDiscovery(series);
+  assert.equal(data.people['tmdb:20'].articles.length, 2);
+  assert.equal(data.people['tmdb:21'], undefined);
 });
 
 test('CSV Hugo : virgules, guillemets, retours ligne et CRLF', () => {

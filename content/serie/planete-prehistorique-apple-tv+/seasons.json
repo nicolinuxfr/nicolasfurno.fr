@@ -1,1 +1,1 @@
-[{"aggregate_credits":{"cast":[{"id":86543,"name":"David Attenborough","order":0}]},"air_date":"2022-05-23","episodes":[{"runtime":43},{"runtime":41},{"runtime":40},{"runtime":42},{"runtime":42}],"season_number":1}]
+[{"aggregate_credits":{"cast":[{"id":86543,"name":"David Attenborough","order":0,"total_episode_count":5}]},"air_date":"2022-05-23","episodes":[{"runtime":43},{"runtime":41},{"runtime":40},{"runtime":42},{"runtime":42}],"season_number":1}]

@@ -40,7 +40,7 @@ series_compact_seasons() {
         air_date,
         season_number,
         episodes: [.episodes[] | {runtime}],
-        aggregate_credits: {cast: [.aggregate_credits.cast[] | {id, name, order}]}
+        aggregate_credits: {cast: [.aggregate_credits.cast[] | {id, name, order, total_episode_count}]}
       })
   ' "$@"
 }

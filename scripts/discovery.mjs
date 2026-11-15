@@ -55,24 +55,31 @@ export function buildDiscovery(articles) {
     const credits = [];
     if (article.section === 'film') {
       credits.push(...(article.cast?.crew || []).filter(p => p.job === 'Director' && valid(p)).map(p => tmdb(p, 'director')));
-      credits.push(...(article.cast?.cast || []).slice(0, 8).filter(valid).map(p => tmdb(p, 'actor')));
+      credits.push(...(article.cast?.cast || []).slice(0, 10).filter(valid).map(p => tmdb(p, 'actor')));
     } else if (article.section === 'serie') {
       credits.push(...(article.meta?.networks || []).filter(valid).map(network => ({
         key: `network:${network.id}`, name: network.name, role: 'network',
         external: `https://www.themoviedb.org/network/${network.id}`, suffix: String(network.id)
       })));
       credits.push(...(article.meta?.created_by || []).filter(valid).map(p => tmdb(p, 'creator')));
-      // Match the actors actually displayed by the series template, including
-      // the selected seasons rather than the cast of the whole series.
-      const cast = article.seasons?.length && article.hasSeasons
+      // Match the series search index: displayed actors and recurring roles.
+      const selectedSeasons = article.seasons?.length && article.hasSeasons;
+      const cast = selectedSeasons
         ? article.seasons.flatMap(s => s.aggregate_credits?.cast || [])
         : article.cast?.cast || [];
+      const episodeCount = selectedSeasons
+        ? article.seasons.reduce((sum, season) => sum + (season.episodes?.length || 0), 0)
+        : Number(article.meta?.number_of_episodes) || 0;
+      const episodeCounts = new Map();
+      for (const person of cast) {
+        episodeCounts.set(person.id, (episodeCounts.get(person.id) || 0) + (Number(person.total_episode_count) || 0));
+      }
       const seen = new Set();
-      const actors = [...cast].sort((a, b) => (a.order || 0) - (b.order || 0)).filter(p => {
+      const actors = cast.filter(p => {
         if (!valid(p) || seen.has(p.id)) return false;
         seen.add(p.id); return true;
-      }).slice(0, 10);
-      credits.push(...actors.map(p => tmdb(p, 'actor')));
+      });
+      credits.push(...actors.filter((p, i) => i < 10 || (episodeCount > 0 && episodeCounts.get(p.id) * 2 >= episodeCount)).map(p => tmdb(p, 'actor')));
     } else if (article.section === 'livre') {
       for (const raw of (article.meta?.authors || []).filter(n => typeof n === 'string' && n.trim())) {
         const name = raw.normalize('NFKC').trim().replace(/\s+/gu, ' ');
