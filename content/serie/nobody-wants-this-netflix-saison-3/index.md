@@ -1,0 +1,10 @@
+---
+title: "*Nobody Wants This*, Netflix (saison 3)"
+date: 2026-11-18T22:24:00+01:00
+tmdb: 250923
+saison: [3]
+---
+
+J’en suis le premier surpris, mais quand la troisième saison de *Nobody Wants This* est apparue sur la page d’accueil de Netflix, je l’ai regardée sans trainer. Cette comédie romantique parfaitement banale n’était pas censée être dans mes cordes et pourtant, je la regarde [depuis le début](/serie/nobody-wants-this-netflix/). Si la présence au casting de Kristen Bell aide forcément, je ne vais le cacher, elle ne suffit probablement pas à expliquer le succès de la création d’Erin Foster. Petit à petit, les personnages s’éloignent des simples caricatures et on se prend au jeu de suivre leurs progrès, vers le judaïsme pour Joanne, vers une relation romantique pour Morgan et Sasha. Non pas que la série soit vraiment réaliste, ce serait difficile de le prétendre face à cet univers d’hyper riches habitants de Los Angeles. L’argent n’existe clairement pas dans ce monde où les disputes se concentrent sur le meilleur lieu pour organiser un mariage avec plusieurs centaines de personnages, mais au fond, cela fait partie des clichés du genre à admettre. À condition de ne pas trop réfléchir à tout cela, la troisième saison est aussi plaisante que les deux premières. Le couple principal évolue tranquillement vers le mariage, qui est au cœur de ces dix épisodes, et il arrive tout un tas d’aventures à l’entourage. Rien de novateur encore une fois, ce n’est pas ce que l’on attend sans doute de cette histoire, ce qui ne me gêne pas. C’est assez réconfortant au fond de continuer à croiser ces personnages que l’on connaît bien et de se laisser porter. De temps en temps, il ne faut pas se priver d’un petit plaisir coupable. 
+
+La fin de cette troisième saison est très bien trouvée et *Nobody Wants This* va avoir de quoi tenir au moins une de plus. Netflix a déjà renouvelé la série, alors je sais que je devrais avoir quelques épisodes supplémentaires dans un an. Vivement.
